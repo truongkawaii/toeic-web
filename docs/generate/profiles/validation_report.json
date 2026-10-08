@@ -1,0 +1,21 @@
+{
+  "profiles": 40,
+  "per_book": {
+    "ETS2023": 10,
+    "ETS2024": 10,
+    "ETS2026": 10,
+    "YBM2025": 10
+  },
+  "slots_per_profile": {
+    "part1": 6,
+    "part2": 25,
+    "part3": 13,
+    "part4": 10
+  },
+  "total_question_positions": 4000,
+  "schema_checks": "passed",
+  "unresolved_answer_positions": 0,
+  "complete_profiles": 37,
+  "profiles_with_missing_data": 3,
+  "source_phrase_matches_outside_vocabulary": 0
+}

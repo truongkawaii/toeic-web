@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "part": 3,
+    "title": "Unit 1 – Office Life – Part 3 (sample)",
+    "topic": "rescheduling a client meeting",
+    "target_level": "550-750",
+    "start_number": 32,
+    "notes_vi": "Hội thoại mẫu 2 người, có 1 câu hỏi hàm ý."
+  },
+  "directions": {
+    "speaker": "NARRATOR",
+    "text": "Part 3. Directions: You will hear some conversations between two or more people. You will be asked to answer three questions about what the speakers say in each conversation. Select the best response to each question and mark the letter A, B, C, or D on your answer sheet. The conversations will not be printed in your test book and will be spoken only one time.",
+    "pause_after": 2.0,
+    "dictation": false
+  },
+  "items": [
+    {
+      "id": "p3_32_34",
+      "numbers": [32, 33, 34],
+      "speakers": { "W": "UK_F", "M": "CA_M" },
+      "photo_brief": null,
+      "graphic": null,
+      "segments": [
+        { "id": "s1", "speaker": "NARRATOR", "text": "Questions 32 through 34 refer to the following conversation.", "pause_after": 1.0, "dictation": false },
+        { "id": "s2", "speaker": "W", "turn": 1, "text": "Hi Daniel, do you have a minute?", "dictation_text": "Hi Daniel, do you have a minute?", "pause_after": 0.3, "dictation": true, "focus": "nối âm: do you" },
+        { "id": "s3", "speaker": "W", "turn": 1, "text": "The client from Harlow Logistics just called about tomorrow's meeting.", "dictation_text": "The client from Harlow Logistics just called about tomorrow's meeting.", "pause_after": 0.5, "dictation": true, "emotion": "concerned" },
+        { "id": "s4", "speaker": "M", "turn": 2, "text": "Oh, is there a problem?", "dictation_text": "Oh, is there a problem?", "pause_after": 0.5, "dictation": true, "pitch": "+3Hz", "emotion": "surprised" },
+        { "id": "s5", "speaker": "W", "turn": 3, "text": "Their flight was canceled, so they can't get here until Thursday afternoon.", "dictation_text": "Their flight was canceled, so they can't get here until Thursday afternoon.", "pause_after": 0.3, "dictation": true, "focus": "can't vs can" },
+        { "id": "s6", "speaker": "W", "turn": 3, "text": "They're asking if we can move it to Friday morning.", "dictation_text": "They're asking if we can move it to Friday morning.", "pause_after": 0.5, "dictation": true },
+        { "id": "s7", "speaker": "M", "turn": 4, "text": "Friday morning? The sales team has its training session then.", "dictation_text": "Friday morning? The sales team has its training session then.", "pause_after": 0.5, "dictation": true },
+        { "id": "s8", "speaker": "W", "turn": 5, "text": "Right, but the session only needs the junior staff.", "dictation_text": "Right, but the session only needs the junior staff.", "pause_after": 0.3, "dictation": true },
+        { "id": "s9", "speaker": "W", "turn": 5, "text": "You and I could still meet the client in the small conference room.", "dictation_text": "You and I could still meet the client in the small conference room.", "pause_after": 0.5, "dictation": true },
+        { "id": "s10", "speaker": "M", "turn": 6, "text": "That works.", "dictation_text": "That works.", "pause_after": 0.3, "dictation": true },
+        { "id": "s11", "speaker": "M", "turn": 6, "text": "I'll book the room and send them an updated invitation.", "dictation_text": "I'll book the room and send them an updated invitation.", "pause_after": 1.5, "dictation": true, "focus": "send them → nuốt âm th" }
+      ],
+      "questions": [
+        {
+          "number": 32,
+          "segment": { "id": "q32", "speaker": "NARRATOR", "text": "Number thirty-two. Why does the client want to change the meeting?", "dictation_text": "Why does the client want to change the meeting?", "pause_after": 8.0, "dictation": true },
+          "printed_question": "Why does the client want to change the meeting?",
+          "options": { "A": "A room is unavailable.", "B": "A trip has been disrupted.", "C": "A contract needs revision.", "D": "A staff member is sick." },
+          "answer": "B",
+          "explanation_vi": "\"Their flight was canceled\" được paraphrase thành \"A trip has been disrupted\". A dùng lại ý conference room nhưng sai."
+        },
+        {
+          "number": 33,
+          "segment": { "id": "q33", "speaker": "NARRATOR", "text": "Number thirty-three. What does the woman imply when she says, Right, but the session only needs the junior staff?", "dictation_text": "What does the woman imply when she says, Right, but the session only needs the junior staff?", "pause_after": 8.0, "dictation": true },
+          "printed_question": "What does the woman imply when she says, \"Right, but the session only needs the junior staff\"?",
+          "options": { "A": "The training should be canceled.", "B": "She will lead the session herself.", "C": "The speakers are free to attend the meeting.", "D": "More junior staff should be hired." },
+          "answer": "C",
+          "explanation_vi": "Người nữ ngụ ý hai người không phải dự training nên vẫn gặp khách được. B, D dùng lại từ session, junior staff."
+        },
+        {
+          "number": 34,
+          "segment": { "id": "q34", "speaker": "NARRATOR", "text": "Number thirty-four. What will the man do next?", "dictation_text": "What will the man do next?", "pause_after": 8.0, "dictation": true },
+          "printed_question": "What will the man do next?",
+          "options": { "A": "Call the airline", "B": "Reserve a meeting space", "C": "Prepare training materials", "D": "Pick up the client" },
+          "answer": "B",
+          "explanation_vi": "\"I'll book the room\" = Reserve a meeting space."
+        }
+      ]
+    }
+  ]
+}

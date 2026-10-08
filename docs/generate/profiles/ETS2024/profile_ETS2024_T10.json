@@ -1,0 +1,667 @@
+{
+  "profile_id": "ETS2024_T10",
+  "target_test_id": "YTS2024_T10",
+  "part1": [
+    {
+      "number": 1,
+      "missing": true
+    },
+    {
+      "number": 2,
+      "missing": true
+    },
+    {
+      "number": 3,
+      "missing": true
+    },
+    {
+      "number": 4,
+      "missing": true
+    },
+    {
+      "number": 5,
+      "missing": true
+    },
+    {
+      "number": 6,
+      "missing": true
+    }
+  ],
+  "part2": [
+    {
+      "number": 7,
+      "question_type": "statement",
+      "missing": true
+    },
+    {
+      "number": 8,
+      "question_type": "statement",
+      "missing": true
+    },
+    {
+      "number": 9,
+      "question_type": "statement",
+      "missing": true
+    },
+    {
+      "number": 10,
+      "question_type": "statement",
+      "missing": true
+    },
+    {
+      "number": 11,
+      "question_type": "statement",
+      "missing": true
+    },
+    {
+      "number": 12,
+      "question_type": "statement",
+      "missing": true
+    },
+    {
+      "number": 13,
+      "question_type": "statement",
+      "missing": true
+    },
+    {
+      "number": 14,
+      "question_type": "statement",
+      "missing": true
+    },
+    {
+      "number": 15,
+      "question_type": "statement",
+      "missing": true
+    },
+    {
+      "number": 16,
+      "question_type": "statement",
+      "missing": true
+    },
+    {
+      "number": 17,
+      "question_type": "statement",
+      "missing": true
+    },
+    {
+      "number": 18,
+      "question_type": "statement",
+      "missing": true
+    },
+    {
+      "number": 19,
+      "question_type": "statement",
+      "missing": true
+    },
+    {
+      "number": 20,
+      "question_type": "statement",
+      "missing": true
+    },
+    {
+      "number": 21,
+      "question_type": "statement",
+      "missing": true
+    },
+    {
+      "number": 22,
+      "question_type": "statement",
+      "missing": true
+    },
+    {
+      "number": 23,
+      "question_type": "statement",
+      "missing": true
+    },
+    {
+      "number": 24,
+      "question_type": "statement",
+      "missing": true
+    },
+    {
+      "number": 25,
+      "question_type": "statement",
+      "missing": true
+    },
+    {
+      "number": 26,
+      "question_type": "statement",
+      "missing": true
+    },
+    {
+      "number": 27,
+      "question_type": "statement",
+      "missing": true
+    },
+    {
+      "number": 28,
+      "question_type": "statement",
+      "missing": true
+    },
+    {
+      "number": 29,
+      "question_type": "statement",
+      "missing": true
+    },
+    {
+      "number": 30,
+      "question_type": "statement",
+      "missing": true
+    },
+    {
+      "number": 31,
+      "question_type": "statement",
+      "missing": true
+    }
+  ],
+  "part3": [
+    {
+      "numbers": [
+        32,
+        33,
+        34
+      ],
+      "missing": true
+    },
+    {
+      "numbers": [
+        35,
+        36,
+        37
+      ],
+      "missing": true
+    },
+    {
+      "numbers": [
+        38,
+        39,
+        40
+      ],
+      "missing": true
+    },
+    {
+      "numbers": [
+        41,
+        42,
+        43
+      ],
+      "missing": true
+    },
+    {
+      "numbers": [
+        44,
+        45,
+        46
+      ],
+      "missing": true
+    },
+    {
+      "numbers": [
+        47,
+        48,
+        49
+      ],
+      "missing": true
+    },
+    {
+      "numbers": [
+        50,
+        51,
+        52
+      ],
+      "missing": true
+    },
+    {
+      "numbers": [
+        53,
+        54,
+        55
+      ],
+      "missing": true
+    },
+    {
+      "numbers": [
+        56,
+        57,
+        58
+      ],
+      "missing": true
+    },
+    {
+      "numbers": [
+        59,
+        60,
+        61
+      ],
+      "missing": true
+    },
+    {
+      "numbers": [
+        62,
+        63,
+        64
+      ],
+      "missing": true
+    },
+    {
+      "numbers": [
+        65,
+        66,
+        67
+      ],
+      "missing": true
+    },
+    {
+      "numbers": [
+        68,
+        69,
+        70
+      ],
+      "missing": true
+    }
+  ],
+  "part4": [
+    {
+      "numbers": [
+        71,
+        72,
+        73
+      ],
+      "missing": true
+    },
+    {
+      "numbers": [
+        74,
+        75,
+        76
+      ],
+      "missing": true
+    },
+    {
+      "numbers": [
+        77,
+        78,
+        79
+      ],
+      "missing": true
+    },
+    {
+      "numbers": [
+        80,
+        81,
+        82
+      ],
+      "missing": true
+    },
+    {
+      "numbers": [
+        83,
+        84,
+        85
+      ],
+      "missing": true
+    },
+    {
+      "numbers": [
+        86,
+        87,
+        88
+      ],
+      "missing": true
+    },
+    {
+      "numbers": [
+        89,
+        90,
+        91
+      ],
+      "missing": true
+    },
+    {
+      "numbers": [
+        92,
+        93,
+        94
+      ],
+      "missing": true
+    },
+    {
+      "numbers": [
+        95,
+        96,
+        97
+      ],
+      "missing": true
+    },
+    {
+      "numbers": [
+        98,
+        99,
+        100
+      ],
+      "missing": true
+    }
+  ],
+  "vocab": {
+    "test_top_words": [
+      "work",
+      "listener",
+      "event",
+      "business",
+      "company",
+      "conference",
+      "meeting",
+      "schedule",
+      "facility",
+      "lane",
+      "product",
+      "area",
+      "discuss",
+      "request",
+      "sales",
+      "book",
+      "training",
+      "location",
+      "discount",
+      "parking",
+      "task",
+      "office",
+      "store",
+      "customer",
+      "plan",
+      "employee",
+      "offer",
+      "client",
+      "equipment",
+      "staff",
+      "tour",
+      "space",
+      "purchase",
+      "contact",
+      "special",
+      "restaurant",
+      "local",
+      "factory",
+      "colleague",
+      "photograph",
+      "volunteer",
+      "order",
+      "service",
+      "show",
+      "information",
+      "sign",
+      "receive",
+      "design",
+      "park",
+      "review",
+      "ticket",
+      "center",
+      "item",
+      "budget",
+      "contract",
+      "computer",
+      "worker",
+      "attend",
+      "travel",
+      "pay",
+      "delay",
+      "industry",
+      "interview",
+      "safety",
+      "workshop",
+      "policy",
+      "sport",
+      "print",
+      "material",
+      "copy",
+      "seat",
+      "sample",
+      "menu",
+      "trade",
+      "inventory",
+      "reserve",
+      "logo",
+      "supervisor",
+      "driver",
+      "membership",
+      "article",
+      "appliance",
+      "invitation",
+      "contest",
+      "interior",
+      "paperwork",
+      "badge",
+      "attendees",
+      "refreshment",
+      "rental",
+      "backpack",
+      "assign",
+      "caterer",
+      "mechanic",
+      "relocation",
+      "room",
+      "help",
+      "send",
+      "update",
+      "open",
+      "repair",
+      "city",
+      "report",
+      "price",
+      "delivery",
+      "manager",
+      "arrive",
+      "phone",
+      "construction",
+      "food",
+      "car",
+      "news",
+      "increase",
+      "supplies",
+      "award",
+      "hire",
+      "process",
+      "lunch",
+      "system",
+      "desk",
+      "garden",
+      "window",
+      "advertising",
+      "light",
+      "table",
+      "form",
+      "station",
+      "community",
+      "marketing",
+      "public",
+      "run",
+      "furniture",
+      "museum",
+      "replace",
+      "flight",
+      "guest",
+      "address",
+      "document",
+      "fill",
+      "hiring",
+      "technology",
+      "bank",
+      "drive",
+      "road",
+      "security",
+      "survey",
+      "gift",
+      "return",
+      "account",
+      "festival"
+    ],
+    "first_appearance_words": [
+      "programmer",
+      "vacuum",
+      "unfamiliar",
+      "bound",
+      "recycle"
+    ],
+    "collocations": [
+      "trade show",
+      "business hours",
+      "parking space",
+      "take place",
+      "social media",
+      "taking place",
+      "press conference",
+      "mobile phone",
+      "community center",
+      "grocery store",
+      "right away",
+      "city center",
+      "client meeting",
+      "company picnic",
+      "hair salon",
+      "sign a contract",
+      "appliance store",
+      "customer feedback",
+      "customer reviews",
+      "staff members",
+      "hours of operation",
+      "enter a contest",
+      "explain a delay",
+      "safety inspector",
+      "sales figures",
+      "check a schedule",
+      "security guard",
+      "sports competition",
+      "company logo",
+      "complete a survey",
+      "employment agency",
+      "interior decorator",
+      "interior design",
+      "loading dock",
+      "sports event",
+      "tour guides",
+      "travel arrangements",
+      "catering service",
+      "computer programmer",
+      "dental office"
+    ],
+    "band_ratio": {
+      "core": 0.906205,
+      "common": 0.088023,
+      "book_specific": 0.005772
+    },
+    "part_words": {
+      "1": [],
+      "2": [],
+      "3": [
+        "conference",
+        "event",
+        "lane",
+        "book",
+        "request",
+        "area",
+        "business",
+        "colleague",
+        "company",
+        "facility",
+        "factory",
+        "location",
+        "meeting",
+        "offer",
+        "parking",
+        "product",
+        "sales",
+        "space",
+        "task",
+        "training",
+        "work",
+        "assign",
+        "attend",
+        "caterer",
+        "center",
+        "client",
+        "contact",
+        "copy",
+        "customer",
+        "delay"
+      ],
+      "4": [
+        "listener",
+        "work",
+        "business",
+        "company",
+        "event",
+        "purchase",
+        "schedule",
+        "staff",
+        "article",
+        "backpack",
+        "discount",
+        "discuss",
+        "equipment",
+        "facility",
+        "industry",
+        "information",
+        "meeting",
+        "park",
+        "photograph",
+        "policy",
+        "receive",
+        "refreshment",
+        "restaurant",
+        "review",
+        "sample",
+        "sign",
+        "special",
+        "store",
+        "workshop",
+        "access"
+      ]
+    }
+  },
+  "avoid_situations": {
+    "part1": [
+      "missing",
+      "missing",
+      "missing",
+      "missing",
+      "missing",
+      "missing"
+    ],
+    "part3": [
+      "missing",
+      "missing",
+      "missing",
+      "missing",
+      "missing",
+      "missing",
+      "missing",
+      "missing",
+      "missing",
+      "missing",
+      "missing",
+      "missing",
+      "missing"
+    ],
+    "part4": [
+      "missing",
+      "missing",
+      "missing",
+      "missing",
+      "missing",
+      "missing",
+      "missing",
+      "missing",
+      "missing",
+      "missing"
+    ]
+  },
+  "summary": {
+    "graphic_categories": [],
+    "implied_meaning_count": {
+      "part3": 0,
+      "part4": 0
+    },
+    "three_speaker_count": 0,
+    "indirect_share_part2": null
+  }
+}

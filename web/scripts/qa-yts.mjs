@@ -1,0 +1,108 @@
+// Optional local UI smoke check: npm install --no-save --package-lock=false playwright
+// YTS_BASE_URL=http://localhost:3001 node scripts/qa-yts.mjs
+import { chromium } from 'playwright';
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import assert from 'node:assert/strict';
+if(process.argv[2]==='dictation'){await import('./qa-dictation.mjs');process.exit(0);}
+if(process.argv[2]==='listening'){await import('./qa-listening.mjs');process.exit(0);}
+const year=Number(process.argv[2] ?? 2026);
+const dataDir=year===2024?'yts2024':'yts';
+const collection=`yts-${year}`;
+const base=process.env.YTS_BASE_URL || 'http://localhost:3000';
+const browser=await chromium.launch({channel:'chrome',headless:true});
+const context=await browser.newContext({viewport:{width:1440,height:1000}});
+const page=await context.newPage();
+const errors=[];
+page.on('pageerror',error=>errors.push(error.message));
+const evidence=path.resolve(year===2024?'../docs/qa-yts2024':'../docs/qa-yts'); await fs.mkdir(evidence,{recursive:true});
+const noOverflow=async()=>assert(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth),'page horizontal overflow');
+const test1=JSON.parse(await fs.readFile(`src/data/${dataDir}/yts${year}-t1.json`,'utf8'));
+try {
+ await page.goto(`${base}/tests?set=${collection}`);
+ await page.getByRole('heading',{name:`YTS ${year} — 10 đề Listening + Reading`}).waitFor();
+ assert.equal(await page.getByRole('heading',{name:/^Test \d+$/}).count(),10);
+ await page.getByRole('button',{name:'Từ vựng và paraphrase Test 1',exact:true}).click();
+ await page.getByText(year===2024?'That works for me':'Leave it with me',{exact:false}).first().waitFor();
+ await page.getByRole('button',{name:'Đóng',exact:true}).click();
+ await page.getByRole('button',{name:'Luyện tập',exact:true}).first().click();
+ await page.getByRole('radio',{name:'Reading',exact:true}).click();
+ await page.getByRole('checkbox',{name:'Part 5 · 30'}).click();
+ await page.getByRole('checkbox',{name:'Part 6 · 16'}).click();
+ await page.getByRole('button',{name:'Bắt đầu luyện',exact:true}).click();
+ await page.waitForURL(/\/exam\//);
+ const first=test1.questions.find(q=>q.number===147);
+ await page.getByRole('radiogroup',{name:'Lựa chọn câu 147'}).getByRole('radio').first().waitFor();
+ await noOverflow();
+ const type=await page.locator('.reading-document').evaluate(el=>getComputedStyle(el).fontFamily);
+ assert(type.includes('Georgia'));
+ await page.getByRole('radiogroup',{name:'Lựa chọn câu 147'}).getByRole('radio',{name:first.options.find(o=>o.key===first.answer).text,exact:false}).click();
+ await page.getByText('Chính xác!',{exact:true}).waitFor();
+ await page.keyboard.press(first.answer==='A'?'B':'A');
+ assert.equal(await page.getByRole('radiogroup',{name:'Lựa chọn câu 147'}).getByRole('radio',{checked:true}).count(),1);
+ await page.screenshot({path:path.join(evidence,'desktop-reading.png'),animations:'disabled'});
+ await page.reload();
+ await page.getByText('Chính xác!',{exact:true}).waitFor();
+ await page.getByRole('button',{name:'Bảng câu',exact:true}).click();
+ await page.getByRole('button',{name:'Câu 188, chưa làm',exact:true}).click();
+ await page.locator('button[aria-current="step"]').filter({hasText:'188'}).waitFor();
+ await page.getByRole('table').waitFor();
+ const group=test1.groups.find(g=>g.from<=188 && g.to>=188);
+ const directions=`Questions ${group.from}-${group.to} refer to the following ${group.kind}.`;
+ assert.equal((await page.locator('.reading-caption').innerText()).trim(),directions);
+ assert.equal((await page.locator('.reading-question-directions').innerText()).trim(),directions);
+ assert.equal(await page.locator('.reading-document-section').count(),group.documents.length);
+ assert(await page.locator('.reading-document-section').evaluateAll(els=>els.every(el=>parseFloat(getComputedStyle(el).borderTopWidth)>0)),'each document has a visible frame');
+
+ await page.locator('.reading-question-active').filter({hasText:year===2024?'remains payable':'revised booking total'}).waitFor();
+ await page.screenshot({path:path.join(evidence,'desktop-multiple-documents.png'),animations:'disabled'});
+ await page.getByRole('combobox',{name:'Cỡ chữ bài đọc'}).selectOption('21');
+ await page.getByRole('combobox',{name:'Kiểu chữ bài đọc'}).selectOption('sans');
+ await page.reload();
+ await page.getByRole('combobox',{name:'Cỡ chữ bài đọc'}).waitFor();
+ assert.equal(await page.getByRole('combobox',{name:'Cỡ chữ bài đọc'}).inputValue(),'21');
+ assert.equal(await page.getByRole('combobox',{name:'Kiểu chữ bài đọc'}).inputValue(),'sans');
+ await page.getByRole('combobox',{name:'Kiểu chữ bài đọc'}).selectOption('serif');
+ await page.setViewportSize({width:390,height:844});
+ await page.getByRole('tab',{name:'Đoạn văn',exact:true}).click();
+ await page.getByRole('tab',{name:'Đoạn văn',exact:true,selected:true}).waitFor();
+ await noOverflow();
+ await page.screenshot({path:path.join(evidence,'mobile-reading.png'),animations:'disabled'});
+ await page.getByRole('tab',{name:'Câu hỏi',exact:true}).click();
+ await page.getByRole('button',{name:'Danh sách câu hỏi',exact:true}).click();
+ await page.getByRole('dialog').getByRole('button',{name:'Kết thúc',exact:true}).click();
+ await page.getByRole('dialog').getByRole('button',{name:'Xem kết quả',exact:true}).click();
+ await page.waitForURL(/\/result/);
+ await page.getByRole('heading',{name:'Xem lại đáp án',exact:true}).waitFor();
+ await noOverflow();
+ await page.setViewportSize({width:1440,height:1000});
+ await page.screenshot({path:path.join(evidence,'result.png'),fullPage:false,animations:'disabled'});
+ // Full exam: all 100 questions, persisted answer, submit and by-Part result.
+ await page.goto(`${base}/tests?set=${collection}`);
+ await page.getByRole('button',{name:'Thi thử',exact:true}).nth(1).click();
+ await page.getByRole('radio',{name:'Reading',exact:true}).click();
+ await page.getByRole('button',{name:'Bắt đầu thi',exact:true}).click();
+ await page.waitForURL(/\/exam\//);
+ const test2=JSON.parse(await fs.readFile(`src/data/${dataDir}/yts${year}-t2.json`,'utf8'));
+ const question=test2.questions.find(q=>q.number===101);
+ await page.getByRole('radiogroup',{name:'Lựa chọn câu 101'}).getByRole('radio',{name:question.options.find(o=>o.key===question.answer).text,exact:false}).click();
+ assert.equal(await page.getByText('Chính xác!',{exact:true}).count(),0);
+ await page.reload();
+ await page.getByRole('radiogroup',{name:'Lựa chọn câu 101'}).getByRole('radio',{checked:true}).waitFor();
+ await page.getByRole('button',{name:'Nộp bài',exact:true}).first().click();
+ await page.getByRole('dialog').getByRole('button',{name:'Nộp bài',exact:true}).click();
+ await page.waitForURL(/\/result/);
+ await page.getByText('1/100',{exact:true}).waitFor();
+ await page.getByRole('heading',{name:'Part 5',exact:true}).waitFor();
+ await page.getByRole('heading',{name:'Part 6',exact:true}).waitFor();
+ await page.getByRole('heading',{name:'Part 7',exact:true}).waitFor();
+ // Reading hub opens a real Part-only session.
+ await page.goto(`${base}/reading?mode=part6&set=${collection}`);
+ await page.getByRole('heading',{name:/^Test \d+$/}).first().waitFor();
+ assert.equal(await page.getByRole('heading',{name:/^Test \d+$/}).count(),10);
+ await page.getByRole('button',{name:'Luyện tập',exact:true}).last().click();
+ await page.waitForURL(/\/exam\//);
+ await page.getByText('Luyện Part 6 · 0/16 câu',{exact:true}).waitFor();
+ assert.equal(errors.length,0,errors.join('\n'));
+ console.log(`PASS YTS ${year}: 10-test catalog, notebook, Part 7 practice, answer persistence, font persistence, desktop/mobile layout, full exam grading and Reading Part 6 entry. Screenshots: ${evidence}`);
+} finally { await browser.close(); }

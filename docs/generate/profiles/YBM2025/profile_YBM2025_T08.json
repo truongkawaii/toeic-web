@@ -1,0 +1,1327 @@
+{
+  "profile_id": "YBM2025_T08",
+  "target_test_id": "YTS2025_T08",
+  "part1": [
+    {
+      "number": 1,
+      "photo_category": "one_person",
+      "setting_family": "shop_market",
+      "answer_focus": "action",
+      "correct_grammar": "present_progressive",
+      "distractor_mechanisms": [
+        "wrong_action"
+      ]
+    },
+    {
+      "number": 2,
+      "photo_category": "two_people",
+      "setting_family": "shop_market",
+      "answer_focus": "action",
+      "correct_grammar": "passive_being",
+      "distractor_mechanisms": [
+        "wrong_action"
+      ]
+    },
+    {
+      "number": 3,
+      "photo_category": "two_people",
+      "setting_family": "street_outdoor",
+      "answer_focus": "action",
+      "correct_grammar": "present_progressive",
+      "distractor_mechanisms": [
+        "wrong_action"
+      ]
+    },
+    {
+      "number": 4,
+      "photo_category": "two_people",
+      "setting_family": "office",
+      "answer_focus": "object_location",
+      "correct_grammar": "present_perfect_passive",
+      "distractor_mechanisms": [
+        "wrong_action",
+        "being_passive_no_agent"
+      ]
+    },
+    {
+      "number": 5,
+      "photo_category": "two_people",
+      "setting_family": "restaurant_cafe",
+      "answer_focus": "action",
+      "correct_grammar": "present_progressive",
+      "distractor_mechanisms": [
+        "wrong_action",
+        "being_passive_no_agent"
+      ]
+    },
+    {
+      "number": 6,
+      "photo_category": "no_people",
+      "setting_family": "workshop",
+      "answer_focus": "object_state",
+      "correct_grammar": "present_perfect_passive",
+      "distractor_mechanisms": [
+        "wrong_state",
+        "wrong_object",
+        "wrong_location"
+      ]
+    }
+  ],
+  "part2": [
+    {
+      "number": 7,
+      "question_type": "when",
+      "answer_style": "direct",
+      "indirect_strategy": null,
+      "distractor_mechanisms": [
+        "wrong_question_type"
+      ]
+    },
+    {
+      "number": 8,
+      "question_type": "request",
+      "answer_style": "direct",
+      "indirect_strategy": null,
+      "distractor_mechanisms": [
+        "wrong_question_type"
+      ]
+    },
+    {
+      "number": 9,
+      "question_type": "what",
+      "answer_style": "indirect",
+      "indirect_strategy": "dont_know_redirect",
+      "distractor_mechanisms": [
+        "wrong_question_type",
+        "yes_no_to_wh"
+      ]
+    },
+    {
+      "number": 10,
+      "question_type": "why",
+      "answer_style": "direct",
+      "indirect_strategy": null,
+      "distractor_mechanisms": [
+        "wrong_question_type"
+      ]
+    },
+    {
+      "number": 11,
+      "question_type": "tag",
+      "answer_style": "direct",
+      "indirect_strategy": null,
+      "distractor_mechanisms": [
+        "wrong_question_type"
+      ]
+    },
+    {
+      "number": 12,
+      "question_type": "where",
+      "answer_style": "direct",
+      "indirect_strategy": null,
+      "distractor_mechanisms": [
+        "wrong_question_type"
+      ]
+    },
+    {
+      "number": 13,
+      "question_type": "how",
+      "answer_style": "indirect",
+      "indirect_strategy": "dont_know_redirect",
+      "distractor_mechanisms": [
+        "wrong_question_type",
+        "yes_no_to_wh"
+      ]
+    },
+    {
+      "number": 14,
+      "question_type": "choice",
+      "answer_style": "indirect",
+      "indirect_strategy": "alternative",
+      "distractor_mechanisms": [
+        "wrong_question_type"
+      ]
+    },
+    {
+      "number": 15,
+      "question_type": "tag",
+      "answer_style": "direct",
+      "indirect_strategy": null,
+      "distractor_mechanisms": [
+        "wrong_question_type"
+      ]
+    },
+    {
+      "number": 16,
+      "question_type": "negative",
+      "answer_style": "direct",
+      "indirect_strategy": null,
+      "distractor_mechanisms": [
+        "wrong_question_type"
+      ]
+    },
+    {
+      "number": 17,
+      "question_type": "who",
+      "answer_style": "indirect",
+      "indirect_strategy": "other",
+      "distractor_mechanisms": [
+        "wrong_question_type"
+      ]
+    },
+    {
+      "number": 18,
+      "question_type": "suggestion",
+      "answer_style": "indirect",
+      "indirect_strategy": "other",
+      "distractor_mechanisms": [
+        "wrong_question_type"
+      ]
+    },
+    {
+      "number": 19,
+      "question_type": "how",
+      "answer_style": "indirect",
+      "indirect_strategy": "other",
+      "distractor_mechanisms": [
+        "wrong_question_type"
+      ]
+    },
+    {
+      "number": 20,
+      "question_type": "choice",
+      "answer_style": "indirect",
+      "indirect_strategy": "reason_given",
+      "distractor_mechanisms": [
+        "wrong_question_type"
+      ]
+    },
+    {
+      "number": 21,
+      "question_type": "who",
+      "answer_style": "indirect",
+      "indirect_strategy": "other",
+      "distractor_mechanisms": [
+        "wrong_question_type",
+        "yes_no_to_wh"
+      ]
+    },
+    {
+      "number": 22,
+      "question_type": "request",
+      "answer_style": "direct",
+      "indirect_strategy": null,
+      "distractor_mechanisms": [
+        "wrong_question_type"
+      ]
+    },
+    {
+      "number": 23,
+      "question_type": "what",
+      "answer_style": "direct",
+      "indirect_strategy": null,
+      "distractor_mechanisms": [
+        "wrong_question_type"
+      ]
+    },
+    {
+      "number": 24,
+      "question_type": "tag",
+      "answer_style": "indirect",
+      "indirect_strategy": "other",
+      "distractor_mechanisms": [
+        "wrong_question_type"
+      ]
+    },
+    {
+      "number": 25,
+      "question_type": "when",
+      "answer_style": "indirect",
+      "indirect_strategy": "dont_know_redirect",
+      "distractor_mechanisms": [
+        "wrong_question_type",
+        "yes_no_to_wh"
+      ]
+    },
+    {
+      "number": 26,
+      "question_type": "statement",
+      "answer_style": "indirect",
+      "indirect_strategy": "reason_given",
+      "distractor_mechanisms": [
+        "repeated_word",
+        "wrong_question_type"
+      ]
+    },
+    {
+      "number": 27,
+      "question_type": "suggestion",
+      "answer_style": "indirect",
+      "indirect_strategy": "counter_question",
+      "distractor_mechanisms": [
+        "wrong_question_type"
+      ]
+    },
+    {
+      "number": 28,
+      "question_type": "yes_no",
+      "answer_style": "direct",
+      "indirect_strategy": null,
+      "distractor_mechanisms": [
+        "wrong_question_type"
+      ]
+    },
+    {
+      "number": 29,
+      "question_type": "choice",
+      "answer_style": "indirect",
+      "indirect_strategy": "alternative",
+      "distractor_mechanisms": [
+        "wrong_question_type"
+      ]
+    },
+    {
+      "number": 30,
+      "question_type": "statement",
+      "answer_style": "indirect",
+      "indirect_strategy": "reason_given",
+      "distractor_mechanisms": [
+        "wrong_question_type"
+      ]
+    },
+    {
+      "number": 31,
+      "question_type": "why",
+      "answer_style": "direct",
+      "indirect_strategy": null,
+      "distractor_mechanisms": [
+        "wrong_question_type",
+        "yes_no_to_wh"
+      ]
+    }
+  ],
+  "part3": [
+    {
+      "numbers": [
+        32,
+        33,
+        34
+      ],
+      "topic_family": "manufacturing",
+      "speakers": 2,
+      "relationship": "coworkers",
+      "arc": "growth → need → analysis",
+      "question_types": [
+        "purpose_topic",
+        "purpose_topic",
+        "suggestion"
+      ],
+      "answer_positions": [
+        "beginning",
+        "middle",
+        "end"
+      ],
+      "special": null,
+      "paraphrase_techniques": [
+        "summary"
+      ],
+      "length": "medium"
+    },
+    {
+      "numbers": [
+        35,
+        36,
+        37
+      ],
+      "topic_family": "dining",
+      "speakers": 2,
+      "relationship": "coworkers",
+      "arc": "shortage → reason → alternative",
+      "question_types": [
+        "problem",
+        "speaker_identity",
+        "next_action"
+      ],
+      "answer_positions": [
+        "beginning",
+        "beginning",
+        "end"
+      ],
+      "special": null,
+      "paraphrase_techniques": [],
+      "length": "short"
+    },
+    {
+      "numbers": [
+        38,
+        39,
+        40
+      ],
+      "topic_family": "retail_shopping",
+      "speakers": 2,
+      "relationship": "customer_clerk",
+      "arc": "need → features → alternative",
+      "question_types": [
+        "speaker_identity",
+        "detail",
+        "suggestion"
+      ],
+      "answer_positions": [
+        "beginning",
+        "middle",
+        "end"
+      ],
+      "special": null,
+      "paraphrase_techniques": [
+        "synonym"
+      ],
+      "length": "short"
+    },
+    {
+      "numbers": [
+        41,
+        42,
+        43
+      ],
+      "topic_family": "travel_transport",
+      "speakers": 3,
+      "relationship": "other",
+      "arc": "confusion → guidance → notification",
+      "question_types": [
+        "location",
+        "offer",
+        "request"
+      ],
+      "answer_positions": [
+        "beginning",
+        "beginning",
+        "end"
+      ],
+      "special": null,
+      "paraphrase_techniques": [
+        "word_form_change"
+      ],
+      "length": "short"
+    },
+    {
+      "numbers": [
+        44,
+        45,
+        46
+      ],
+      "topic_family": "education_training",
+      "speakers": 2,
+      "relationship": "coworkers",
+      "arc": "feedback → task → referral",
+      "question_types": [
+        "detail",
+        "purpose_topic",
+        "implied_meaning"
+      ],
+      "answer_positions": [
+        "beginning",
+        "beginning",
+        "end"
+      ],
+      "special": {
+        "type": "implied_meaning",
+        "function": "emphasis"
+      },
+      "paraphrase_techniques": [
+        "summary"
+      ],
+      "length": "medium"
+    },
+    {
+      "numbers": [
+        47,
+        48,
+        49
+      ],
+      "topic_family": "sales_marketing",
+      "speakers": 2,
+      "relationship": "client_vendor",
+      "arc": "question → explanation → referral",
+      "question_types": [
+        "detail",
+        "detail",
+        "offer"
+      ],
+      "answer_positions": [
+        "beginning",
+        "middle",
+        "end"
+      ],
+      "special": null,
+      "paraphrase_techniques": [
+        "word_form_change"
+      ],
+      "length": "medium"
+    },
+    {
+      "numbers": [
+        50,
+        51,
+        52
+      ],
+      "topic_family": "education_training",
+      "speakers": 2,
+      "relationship": "coworkers",
+      "arc": "news → benefit → concern",
+      "question_types": [
+        "implied_meaning",
+        "location",
+        "problem"
+      ],
+      "answer_positions": [
+        "beginning",
+        "beginning",
+        "middle"
+      ],
+      "special": {
+        "type": "implied_meaning",
+        "function": "emphasis"
+      },
+      "paraphrase_techniques": [],
+      "length": "short"
+    },
+    {
+      "numbers": [
+        53,
+        54,
+        55
+      ],
+      "topic_family": "manufacturing",
+      "speakers": 3,
+      "relationship": "manager_staff",
+      "arc": "review → maintenance → comparison",
+      "question_types": [
+        "detail",
+        "purpose_topic",
+        "next_action"
+      ],
+      "answer_positions": [
+        "beginning",
+        "beginning",
+        "end"
+      ],
+      "special": null,
+      "paraphrase_techniques": [
+        "summary"
+      ],
+      "length": "medium"
+    },
+    {
+      "numbers": [
+        56,
+        57,
+        58
+      ],
+      "topic_family": "retail_shopping",
+      "speakers": 2,
+      "relationship": "client_vendor",
+      "arc": "arrangement → process → requirement",
+      "question_types": [
+        "purpose_topic",
+        "request",
+        "detail"
+      ],
+      "answer_positions": [
+        "beginning",
+        "beginning",
+        "end"
+      ],
+      "special": null,
+      "paraphrase_techniques": [
+        "summary"
+      ],
+      "length": "short"
+    },
+    {
+      "numbers": [
+        59,
+        60,
+        61
+      ],
+      "topic_family": "events",
+      "speakers": 2,
+      "relationship": "customer_clerk",
+      "arc": "problem → instruction → purpose",
+      "question_types": [
+        "purpose_topic",
+        "detail",
+        "speaker_identity"
+      ],
+      "answer_positions": [
+        "beginning",
+        "middle",
+        "end"
+      ],
+      "special": null,
+      "paraphrase_techniques": [
+        "synonym",
+        "summary"
+      ],
+      "length": "medium"
+    },
+    {
+      "numbers": [
+        62,
+        63,
+        64
+      ],
+      "topic_family": "customer_service",
+      "speakers": 2,
+      "relationship": "client_vendor",
+      "arc": "need → options → arrangement",
+      "question_types": [
+        "detail",
+        "graphic",
+        "request"
+      ],
+      "answer_positions": [
+        "beginning",
+        "middle",
+        "end"
+      ],
+      "special": {
+        "type": "graphic",
+        "category": "picture_grid",
+        "layout": "Labeled visual alternatives arranged in a grid",
+        "link": "Spoken selection or conditions determine a listed charge"
+      },
+      "paraphrase_techniques": [],
+      "length": "short"
+    },
+    {
+      "numbers": [
+        65,
+        66,
+        67
+      ],
+      "topic_family": "retail_shopping",
+      "speakers": 2,
+      "relationship": "manager_staff",
+      "arc": "thanks → tasks → sequence",
+      "question_types": [
+        "request",
+        "graphic",
+        "suggestion"
+      ],
+      "answer_positions": [
+        "beginning",
+        "middle",
+        "end"
+      ],
+      "special": {
+        "type": "graphic",
+        "category": "notice",
+        "layout": "Heading followed by labeled information or instructions",
+        "link": "Spoken process clues identify the corresponding graphic entry"
+      },
+      "paraphrase_techniques": [
+        "word_form_change"
+      ],
+      "length": "medium"
+    },
+    {
+      "numbers": [
+        68,
+        69,
+        70
+      ],
+      "topic_family": "hotel",
+      "speakers": 2,
+      "relationship": "caller_receptionist",
+      "arc": "request → message → arrangement",
+      "question_types": [
+        "reason",
+        "detail",
+        "graphic"
+      ],
+      "answer_positions": [
+        "beginning",
+        "middle",
+        "end"
+      ],
+      "special": {
+        "type": "graphic",
+        "category": "table",
+        "layout": "Labeled rows with corresponding attributes in columns",
+        "link": "Spoken location clues identify a labeled graphic position"
+      },
+      "paraphrase_techniques": [],
+      "length": "short"
+    }
+  ],
+  "part4": [
+    {
+      "numbers": [
+        71,
+        72,
+        73
+      ],
+      "topic_family": "media_broadcast",
+      "talk_type": "introduction_speech",
+      "structure": "thanks → book → reading",
+      "question_types": [
+        "speaker_identity",
+        "detail",
+        "next_action"
+      ],
+      "answer_positions": [
+        "beginning",
+        "middle",
+        "end"
+      ],
+      "special": null,
+      "paraphrase_techniques": [],
+      "length": "short"
+    },
+    {
+      "numbers": [
+        74,
+        75,
+        76
+      ],
+      "topic_family": "logistics_shipping",
+      "talk_type": "meeting_excerpt",
+      "structure": "issue → change → reassurance",
+      "question_types": [
+        "location",
+        "problem",
+        "detail"
+      ],
+      "answer_positions": [
+        "beginning",
+        "middle",
+        "end"
+      ],
+      "special": null,
+      "paraphrase_techniques": [
+        "word_form_change"
+      ],
+      "length": "short"
+    },
+    {
+      "numbers": [
+        77,
+        78,
+        79
+      ],
+      "topic_family": "real_estate",
+      "talk_type": "news_report",
+      "structure": "proposal → review → concern",
+      "question_types": [
+        "detail",
+        "detail",
+        "problem"
+      ],
+      "answer_positions": [
+        "beginning",
+        "middle",
+        "end"
+      ],
+      "special": null,
+      "paraphrase_techniques": [
+        "word_form_change"
+      ],
+      "length": "short"
+    },
+    {
+      "numbers": [
+        80,
+        81,
+        82
+      ],
+      "topic_family": "finance",
+      "talk_type": "meeting_excerpt",
+      "structure": "meeting → request → template",
+      "question_types": [
+        "purpose_topic",
+        "detail",
+        "next_action"
+      ],
+      "answer_positions": [
+        "beginning",
+        "beginning",
+        "end"
+      ],
+      "special": null,
+      "paraphrase_techniques": [
+        "summary"
+      ],
+      "length": "short"
+    },
+    {
+      "numbers": [
+        83,
+        84,
+        85
+      ],
+      "topic_family": "hr_hiring",
+      "talk_type": "advertisement",
+      "structure": "opening → jobs → event",
+      "question_types": [
+        "purpose_topic",
+        "implied_meaning",
+        "detail"
+      ],
+      "answer_positions": [
+        "beginning",
+        "middle",
+        "end"
+      ],
+      "special": {
+        "type": "implied_meaning",
+        "function": "reassurance"
+      },
+      "paraphrase_techniques": [
+        "summary",
+        "synonym"
+      ],
+      "length": "short"
+    },
+    {
+      "numbers": [
+        86,
+        87,
+        88
+      ],
+      "topic_family": "office",
+      "talk_type": "meeting_excerpt",
+      "structure": "growth → problem → revision",
+      "question_types": [
+        "problem",
+        "reason",
+        "implied_meaning"
+      ],
+      "answer_positions": [
+        "beginning",
+        "beginning",
+        "end"
+      ],
+      "special": {
+        "type": "implied_meaning",
+        "function": "agreement"
+      },
+      "paraphrase_techniques": [
+        "synonym"
+      ],
+      "length": "medium"
+    },
+    {
+      "numbers": [
+        89,
+        90,
+        91
+      ],
+      "topic_family": "media_broadcast",
+      "talk_type": "broadcast",
+      "structure": "topic → business → invitation",
+      "question_types": [
+        "speaker_identity",
+        "speaker_identity",
+        "detail"
+      ],
+      "answer_positions": [
+        "beginning",
+        "beginning",
+        "end"
+      ],
+      "special": null,
+      "paraphrase_techniques": [],
+      "length": "medium"
+    },
+    {
+      "numbers": [
+        92,
+        93,
+        94
+      ],
+      "topic_family": "events",
+      "talk_type": "meeting_excerpt",
+      "structure": "schedule → tasks → instruction",
+      "question_types": [
+        "detail",
+        "implied_meaning",
+        "request"
+      ],
+      "answer_positions": [
+        "beginning",
+        "middle",
+        "end"
+      ],
+      "special": {
+        "type": "implied_meaning",
+        "function": "emphasis"
+      },
+      "paraphrase_techniques": [],
+      "length": "short"
+    },
+    {
+      "numbers": [
+        95,
+        96,
+        97
+      ],
+      "topic_family": "events",
+      "talk_type": "instructions",
+      "structure": "thanks → registration → rules",
+      "question_types": [
+        "detail",
+        "request",
+        "graphic"
+      ],
+      "answer_positions": [
+        "beginning",
+        "beginning",
+        "middle"
+      ],
+      "special": {
+        "type": "graphic",
+        "category": "notice",
+        "layout": "Heading followed by labeled information or instructions",
+        "link": "Spoken identifying clues select the matching graphic entry"
+      },
+      "paraphrase_techniques": [],
+      "length": "medium"
+    },
+    {
+      "numbers": [
+        98,
+        99,
+        100
+      ],
+      "topic_family": "education_training",
+      "talk_type": "telephone_message",
+      "structure": "invitation → preference → question",
+      "question_types": [
+        "graphic",
+        "purpose_topic",
+        "next_action"
+      ],
+      "answer_positions": [
+        "beginning",
+        "middle",
+        "end"
+      ],
+      "special": {
+        "type": "graphic",
+        "category": "weekly_calendar",
+        "layout": "Scheduled activities associated with calendar entries",
+        "link": "Spoken activity clues identify its scheduled graphic entry"
+      },
+      "paraphrase_techniques": [
+        "word_form_change",
+        "synonym",
+        "summary"
+      ],
+      "length": "short"
+    }
+  ],
+  "vocab": {
+    "test_top_words": [
+      "work",
+      "business",
+      "call",
+      "site",
+      "task",
+      "listener",
+      "customer",
+      "event",
+      "job",
+      "class",
+      "service",
+      "information",
+      "web",
+      "meeting",
+      "plan",
+      "schedule",
+      "employee",
+      "send",
+      "book",
+      "space",
+      "floor",
+      "form",
+      "office",
+      "help",
+      "park",
+      "program",
+      "visit",
+      "buy",
+      "hotel",
+      "local",
+      "home",
+      "dinner",
+      "expense",
+      "market",
+      "registration",
+      "company",
+      "show",
+      "project",
+      "building",
+      "conference",
+      "staff",
+      "discuss",
+      "request",
+      "tour",
+      "item",
+      "list",
+      "budget",
+      "e-mail",
+      "worker",
+      "attend",
+      "water",
+      "window",
+      "learn",
+      "community",
+      "material",
+      "address",
+      "meal",
+      "town",
+      "message",
+      "briefcase",
+      "store",
+      "product",
+      "room",
+      "offer",
+      "equipment",
+      "open",
+      "move",
+      "report",
+      "center",
+      "welcome",
+      "parking",
+      "street",
+      "software",
+      "meet",
+      "special",
+      "plant",
+      "opening",
+      "pay",
+      "hire",
+      "post",
+      "industry",
+      "interview",
+      "desk",
+      "box",
+      "bus",
+      "display",
+      "guest",
+      "drive",
+      "road",
+      "submit",
+      "file",
+      "maintenance",
+      "estate",
+      "proposal",
+      "write",
+      "apartment",
+      "organize",
+      "photo",
+      "music",
+      "board",
+      "annual",
+      "app",
+      "corner",
+      "shoe",
+      "practice",
+      "reading",
+      "laptop",
+      "propose",
+      "booth",
+      "part",
+      "organizer",
+      "complex",
+      "order",
+      "area",
+      "update",
+      "sign",
+      "team",
+      "design",
+      "repair",
+      "sales",
+      "training",
+      "online",
+      "location",
+      "department",
+      "phone",
+      "construction",
+      "train",
+      "video",
+      "food",
+      "shop",
+      "contact",
+      "increase",
+      "supplies",
+      "hold",
+      "machine",
+      "process",
+      "stop",
+      "break",
+      "policy",
+      "light",
+      "firm",
+      "research",
+      "table",
+      "run",
+      "application",
+      "charge",
+      "presentation",
+      "colleague",
+      "payment",
+      "photograph"
+    ],
+    "first_appearance_words": [
+      "cat",
+      "template",
+      "bake-off",
+      "citizen",
+      "contestant",
+      "year-round",
+      "transaction",
+      "compliance",
+      "cross",
+      "recover",
+      "relatively",
+      "serious",
+      "alteration",
+      "barrier",
+      "custom-made",
+      "disposal",
+      "inaccurate",
+      "stove",
+      "submission",
+      "veterinary"
+    ],
+    "collocations": [
+      "web site",
+      "take place",
+      "community center",
+      "good morning",
+      "social media",
+      "customer service",
+      "potted plants",
+      "left open",
+      "apartment complex",
+      "bulletin board",
+      "local businesses",
+      "market research",
+      "concert hall",
+      "construction site",
+      "light fixture",
+      "medical records",
+      "gardening tools",
+      "glass door",
+      "good condition",
+      "remote work",
+      "savings account",
+      "late to work",
+      "personal training",
+      "walking past",
+      "real estate",
+      "trade show",
+      "good idea",
+      "mobile phone",
+      "phone call",
+      "train station",
+      "credit card",
+      "floor plan",
+      "print shop",
+      "medical clinic",
+      "manufacturing plant",
+      "job interview",
+      "local news",
+      "bus stop",
+      "office space",
+      "shopping mall"
+    ],
+    "band_ratio": {
+      "core": 0.88094,
+      "common": 0.106247,
+      "book_specific": 0.012814
+    },
+    "part_words": {
+      "1": [
+        "wall",
+        "assemble",
+        "assist",
+        "basket",
+        "bench",
+        "bicycle",
+        "board",
+        "bowl",
+        "bulletin",
+        "cart",
+        "chain",
+        "construction",
+        "container",
+        "cook",
+        "cord",
+        "counter",
+        "desk",
+        "door",
+        "elevator",
+        "employee",
+        "fabric",
+        "fixture",
+        "floral",
+        "food",
+        "garden",
+        "guest",
+        "hold",
+        "hotel",
+        "intersection",
+        "kitchen"
+      ],
+      "2": [
+        "book",
+        "event",
+        "form",
+        "hallway",
+        "job",
+        "market",
+        "program",
+        "table",
+        "access",
+        "account",
+        "advertisement",
+        "airport",
+        "amount",
+        "annual",
+        "app",
+        "attend",
+        "attendance",
+        "bonus",
+        "brand",
+        "breakfast",
+        "brochure",
+        "budget",
+        "buy",
+        "calendar",
+        "certificate",
+        "competition",
+        "concert",
+        "conference",
+        "contractor",
+        "cooler"
+      ],
+      "3": [
+        "work",
+        "task",
+        "customer",
+        "business",
+        "call",
+        "service",
+        "floor",
+        "site",
+        "briefcase",
+        "buy",
+        "hotel",
+        "job",
+        "meal",
+        "tour",
+        "web",
+        "address",
+        "booth",
+        "bus",
+        "dinner",
+        "discuss",
+        "display",
+        "drive",
+        "estate",
+        "information",
+        "laptop",
+        "list",
+        "market",
+        "material",
+        "part",
+        "photo"
+      ],
+      "4": [
+        "listener",
+        "class",
+        "business",
+        "event",
+        "call",
+        "local",
+        "plan",
+        "registration",
+        "work",
+        "building",
+        "community",
+        "meeting",
+        "park",
+        "send",
+        "site",
+        "town",
+        "apartment",
+        "center",
+        "company",
+        "complex",
+        "corner",
+        "form",
+        "help",
+        "information",
+        "job",
+        "office",
+        "propose",
+        "road",
+        "schedule",
+        "space"
+      ]
+    }
+  },
+  "avoid_situations": {
+    "part1": [
+      "shopper reaching for packaged item",
+      "florists arranging bouquets",
+      "cyclists crossing shopping street",
+      "people handling large radiator",
+      "chefs preparing food in kitchen",
+      "hanging tools in workshop"
+    ],
+    "part3": [
+      "custom shoe demand production delegation",
+      "passenger pasta meal shortage",
+      "briefcase laptop protection purchase",
+      "travelers locating correct bus stop",
+      "seminar report preparation assistance",
+      "farmers market booth sign investment",
+      "driving school multilingual instruction expansion",
+      "fabric machine lubrication blade inspection",
+      "home antique appraisal documentation",
+      "historic estate tour website booking failure",
+      "actress headshot photography package booking",
+      "holiday store merchandise setup",
+      "hotel guest business dinner notification"
+    ],
+    "part4": [
+      "author writing advice book reading",
+      "municipal rubbish collection bin transition",
+      "apartment complex obstructing residential views",
+      "annual budget board meeting preparation",
+      "indoor water park recruitment fair",
+      "expanding workforce office space shortage",
+      "local animal themed business broadcast",
+      "fundraising dinner auction volunteer assignments",
+      "cake competition volunteer registration guidance",
+      "friends selecting Italian cooking classes"
+    ]
+  },
+  "summary": {
+    "graphic_categories": [
+      "picture_grid",
+      "notice",
+      "table",
+      "weekly_calendar"
+    ],
+    "implied_meaning_count": {
+      "part3": 2,
+      "part4": 3
+    },
+    "three_speaker_count": 2,
+    "indirect_share_part2": 0.56
+  }
+}

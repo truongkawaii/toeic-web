@@ -1,0 +1,764 @@
+[
+  {
+    "profile_id": "ETS2023_T01",
+    "source": "ets 2023/listening/Test1/2023_TEST_1_Data.json",
+    "profile": "docs/generate/profiles/ETS2023/profile_ETS2023_T01.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2023_T02",
+    "source": "ets 2023/listening/Test2/2023_Test2002_Data.json",
+    "profile": "docs/generate/profiles/ETS2023/profile_ETS2023_T02.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2023_T03",
+    "source": "ets 2023/listening/Test3/2023_Test2003_Data.json",
+    "profile": "docs/generate/profiles/ETS2023/profile_ETS2023_T03.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2023_T04",
+    "source": "ets 2023/listening/Test4/2023_Test2004_Data.json",
+    "profile": "docs/generate/profiles/ETS2023/profile_ETS2023_T04.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2023_T05",
+    "source": "ets 2023/listening/Test5/2023_Test2005_Data.json",
+    "profile": "docs/generate/profiles/ETS2023/profile_ETS2023_T05.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2023_T06",
+    "source": "ets 2023/listening/Test6/2023_Test2006_Data.json",
+    "profile": "docs/generate/profiles/ETS2023/profile_ETS2023_T06.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2023_T07",
+    "source": "ets 2023/listening/Test7/2023_Test2007_Data.json",
+    "profile": "docs/generate/profiles/ETS2023/profile_ETS2023_T07.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2023_T08",
+    "source": "ets 2023/listening/Test8/2023_Test2008_Data.json",
+    "profile": "docs/generate/profiles/ETS2023/profile_ETS2023_T08.json",
+    "missing": [
+      {
+        "part": 1,
+        "numbers": [
+          5
+        ],
+        "reason": "unreadable_photo"
+      },
+      {
+        "part": 3,
+        "numbers": [
+          65,
+          66,
+          67
+        ],
+        "reason": "unreadable_graphic"
+      },
+      {
+        "part": 3,
+        "numbers": [
+          68,
+          69,
+          70
+        ],
+        "reason": "unreadable_graphic"
+      }
+    ],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2023_T09",
+    "source": "ets 2023/listening/Test9/2023_Test2009_Data.json",
+    "profile": "docs/generate/profiles/ETS2023/profile_ETS2023_T09.json",
+    "missing": [
+      {
+        "part": 1,
+        "numbers": [
+          3
+        ],
+        "reason": "unreadable_photo"
+      },
+      {
+        "part": 1,
+        "numbers": [
+          4
+        ],
+        "reason": "unreadable_photo"
+      },
+      {
+        "part": 1,
+        "numbers": [
+          5
+        ],
+        "reason": "unreadable_photo"
+      },
+      {
+        "part": 3,
+        "numbers": [
+          65,
+          66,
+          67
+        ],
+        "reason": "unreadable_graphic"
+      }
+    ],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2023_T10",
+    "source": "ets 2023/listening/Test10/2023_Test2010_Data.json",
+    "profile": "docs/generate/profiles/ETS2023/profile_ETS2023_T10.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2024_T01",
+    "source": "ets 2024/listening/2024_Test_01_Full_Package/2024_Test_01_Data.json",
+    "profile": "docs/generate/profiles/ETS2024/profile_ETS2024_T01.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2024_T02",
+    "source": "ets 2024/listening/2024_Test_02_Full_Package/2024_Test_02_Data.json",
+    "profile": "docs/generate/profiles/ETS2024/profile_ETS2024_T02.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2024_T03",
+    "source": "ets 2024/listening/2024_Test_03_Full_Package/2024_Test_03_Data.json",
+    "profile": "docs/generate/profiles/ETS2024/profile_ETS2024_T03.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2024_T04",
+    "source": "ets 2024/listening/2024_Test_04_Full_Package/2024_Test_04_Data.json",
+    "profile": "docs/generate/profiles/ETS2024/profile_ETS2024_T04.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2024_T05",
+    "source": "ets 2024/listening/2024_Test_05_Full_Package/2024_Test_05_Data.json",
+    "profile": "docs/generate/profiles/ETS2024/profile_ETS2024_T05.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2024_T06",
+    "source": "ets 2024/listening/2024_Test_06_Full_Package/2024_Test_06_Data.json",
+    "profile": "docs/generate/profiles/ETS2024/profile_ETS2024_T06.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2024_T07",
+    "source": "ets 2024/listening/2024_Test_07_Full_Package/2024_Test_07_Data.json",
+    "profile": "docs/generate/profiles/ETS2024/profile_ETS2024_T07.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2024_T08",
+    "source": "ets 2024/listening/2024_Test_08_Full_Package/2024_Test_08_Data.json",
+    "profile": "docs/generate/profiles/ETS2024/profile_ETS2024_T08.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2024_T09",
+    "source": "ets 2024/listening/2024_Test_09_Full_Package/2024_Test_09_Data.json",
+    "profile": "docs/generate/profiles/ETS2024/profile_ETS2024_T09.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2024_T10",
+    "source": "ets 2024/listening/2024_Test_10_Full_Package/2024_Test_10_Data.json",
+    "profile": "docs/generate/profiles/ETS2024/profile_ETS2024_T10.json",
+    "missing": [
+      {
+        "part": 1,
+        "numbers": [
+          1
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 1,
+        "numbers": [
+          2
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 1,
+        "numbers": [
+          3
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 1,
+        "numbers": [
+          4
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 1,
+        "numbers": [
+          5
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 1,
+        "numbers": [
+          6
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 2,
+        "numbers": [
+          7
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 2,
+        "numbers": [
+          8
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 2,
+        "numbers": [
+          9
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 2,
+        "numbers": [
+          10
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 2,
+        "numbers": [
+          11
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 2,
+        "numbers": [
+          12
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 2,
+        "numbers": [
+          13
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 2,
+        "numbers": [
+          14
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 2,
+        "numbers": [
+          15
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 2,
+        "numbers": [
+          16
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 2,
+        "numbers": [
+          17
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 2,
+        "numbers": [
+          18
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 2,
+        "numbers": [
+          19
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 2,
+        "numbers": [
+          20
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 2,
+        "numbers": [
+          21
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 2,
+        "numbers": [
+          22
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 2,
+        "numbers": [
+          23
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 2,
+        "numbers": [
+          24
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 2,
+        "numbers": [
+          25
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 2,
+        "numbers": [
+          26
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 2,
+        "numbers": [
+          27
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 2,
+        "numbers": [
+          28
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 2,
+        "numbers": [
+          29
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 2,
+        "numbers": [
+          30
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 2,
+        "numbers": [
+          31
+        ],
+        "reason": "missing_answer_key"
+      },
+      {
+        "part": 3,
+        "numbers": [
+          32,
+          33,
+          34
+        ],
+        "reason": "missing_script"
+      },
+      {
+        "part": 3,
+        "numbers": [
+          35,
+          36,
+          37
+        ],
+        "reason": "missing_script"
+      },
+      {
+        "part": 3,
+        "numbers": [
+          38,
+          39,
+          40
+        ],
+        "reason": "missing_script"
+      },
+      {
+        "part": 3,
+        "numbers": [
+          41,
+          42,
+          43
+        ],
+        "reason": "missing_script"
+      },
+      {
+        "part": 3,
+        "numbers": [
+          44,
+          45,
+          46
+        ],
+        "reason": "missing_script"
+      },
+      {
+        "part": 3,
+        "numbers": [
+          47,
+          48,
+          49
+        ],
+        "reason": "missing_script"
+      },
+      {
+        "part": 3,
+        "numbers": [
+          50,
+          51,
+          52
+        ],
+        "reason": "missing_script"
+      },
+      {
+        "part": 3,
+        "numbers": [
+          53,
+          54,
+          55
+        ],
+        "reason": "missing_script"
+      },
+      {
+        "part": 3,
+        "numbers": [
+          56,
+          57,
+          58
+        ],
+        "reason": "missing_script"
+      },
+      {
+        "part": 3,
+        "numbers": [
+          59,
+          60,
+          61
+        ],
+        "reason": "missing_script"
+      },
+      {
+        "part": 3,
+        "numbers": [
+          62,
+          63,
+          64
+        ],
+        "reason": "missing_script"
+      },
+      {
+        "part": 3,
+        "numbers": [
+          65,
+          66,
+          67
+        ],
+        "reason": "missing_script"
+      },
+      {
+        "part": 3,
+        "numbers": [
+          68,
+          69,
+          70
+        ],
+        "reason": "missing_script"
+      },
+      {
+        "part": 4,
+        "numbers": [
+          71,
+          72,
+          73
+        ],
+        "reason": "missing_script"
+      },
+      {
+        "part": 4,
+        "numbers": [
+          74,
+          75,
+          76
+        ],
+        "reason": "missing_script"
+      },
+      {
+        "part": 4,
+        "numbers": [
+          77,
+          78,
+          79
+        ],
+        "reason": "missing_script"
+      },
+      {
+        "part": 4,
+        "numbers": [
+          80,
+          81,
+          82
+        ],
+        "reason": "missing_script"
+      },
+      {
+        "part": 4,
+        "numbers": [
+          83,
+          84,
+          85
+        ],
+        "reason": "missing_script"
+      },
+      {
+        "part": 4,
+        "numbers": [
+          86,
+          87,
+          88
+        ],
+        "reason": "missing_script"
+      },
+      {
+        "part": 4,
+        "numbers": [
+          89,
+          90,
+          91
+        ],
+        "reason": "missing_script"
+      },
+      {
+        "part": 4,
+        "numbers": [
+          92,
+          93,
+          94
+        ],
+        "reason": "missing_script"
+      },
+      {
+        "part": 4,
+        "numbers": [
+          95,
+          96,
+          97
+        ],
+        "reason": "missing_script"
+      },
+      {
+        "part": 4,
+        "numbers": [
+          98,
+          99,
+          100
+        ],
+        "reason": "missing_script"
+      }
+    ],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "YBM2025_T01",
+    "source": "YBM 2025/listening/ybm-202520audio20image20updated_test-1_Full_Package/ybm-202520audio20image20updated_test-1_Data.json",
+    "profile": "docs/generate/profiles/YBM2025/profile_YBM2025_T01.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "YBM2025_T02",
+    "source": "YBM 2025/listening/ybm-202520audio20image20updated_test-2_Full_Package/ybm-202520audio20image20updated_test-2_Data.json",
+    "profile": "docs/generate/profiles/YBM2025/profile_YBM2025_T02.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "YBM2025_T03",
+    "source": "YBM 2025/listening/ybm-202520audio20image20updated_test-3_Full_Package/ybm-202520audio20image20updated_test-3_Data.json",
+    "profile": "docs/generate/profiles/YBM2025/profile_YBM2025_T03.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "YBM2025_T04",
+    "source": "YBM 2025/listening/ybm-202520audio20image20updated_test-4_Full_Package/ybm-202520audio20image20updated_test-4_Data.json",
+    "profile": "docs/generate/profiles/YBM2025/profile_YBM2025_T04.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "YBM2025_T05",
+    "source": "YBM 2025/listening/ybm-202520audio20image20updated_test-5_Full_Package/ybm-202520audio20image20updated_test-5_Data.json",
+    "profile": "docs/generate/profiles/YBM2025/profile_YBM2025_T05.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "YBM2025_T06",
+    "source": "YBM 2025/listening/ybm-202520audio20image20updated_test-6_Full_Package/ybm-202520audio20image20updated_test-6_Data.json",
+    "profile": "docs/generate/profiles/YBM2025/profile_YBM2025_T06.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "YBM2025_T07",
+    "source": "YBM 2025/listening/ybm-202520audio20image20updated_test-7_Full_Package/ybm-202520audio20image20updated_test-7_Data.json",
+    "profile": "docs/generate/profiles/YBM2025/profile_YBM2025_T07.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "YBM2025_T08",
+    "source": "YBM 2025/listening/ybm-202520audio20image20updated_test-8_Full_Package/ybm-202520audio20image20updated_test-8_Data.json",
+    "profile": "docs/generate/profiles/YBM2025/profile_YBM2025_T08.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "YBM2025_T09",
+    "source": "YBM 2025/listening/ybm-202520audio20image20updated_test-9_Full_Package/ybm-202520audio20image20updated_test-9_Data.json",
+    "profile": "docs/generate/profiles/YBM2025/profile_YBM2025_T09.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "YBM2025_T10",
+    "source": "YBM 2025/listening/ybm-202520audio20image20updated_test-10_Full_Package/ybm-202520audio20image20updated_test-10_Data.json",
+    "profile": "docs/generate/profiles/YBM2025/profile_YBM2025_T10.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2026_T01",
+    "source": "ets 2026/listening/Listen-ets-2026-t1/TOEIC_Listening_Data.json",
+    "profile": "docs/generate/profiles/ETS2026/profile_ETS2026_T01.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2026_T02",
+    "source": "ets 2026/listening/Listen-ets-2026-t2/TOEIC_Listening_Data.json",
+    "profile": "docs/generate/profiles/ETS2026/profile_ETS2026_T02.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2026_T03",
+    "source": "ets 2026/listening/2026_t3_Full_Package/2026_t3_Data.json",
+    "profile": "docs/generate/profiles/ETS2026/profile_ETS2026_T03.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2026_T04",
+    "source": "ets 2026/listening/2026_t4_Full_Package/2026_t4_Data.json",
+    "profile": "docs/generate/profiles/ETS2026/profile_ETS2026_T04.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2026_T05",
+    "source": "ets 2026/listening/2026_t5_Full_Package/2026_t5_Data.json",
+    "profile": "docs/generate/profiles/ETS2026/profile_ETS2026_T05.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2026_T06",
+    "source": "ets 2026/listening/2026_t6_Full_Package/2026_t6_Data.json",
+    "profile": "docs/generate/profiles/ETS2026/profile_ETS2026_T06.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2026_T07",
+    "source": "ets 2026/listening/2026_t7_Full_Package/2026_t7_Data.json",
+    "profile": "docs/generate/profiles/ETS2026/profile_ETS2026_T07.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2026_T08",
+    "source": "ets 2026/listening/2026_t8_Full_Package/2026_t8_Data.json",
+    "profile": "docs/generate/profiles/ETS2026/profile_ETS2026_T08.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2026_T09",
+    "source": "ets 2026/listening/2026_t9_Full_Package/2026_t9_Data.json",
+    "profile": "docs/generate/profiles/ETS2026/profile_ETS2026_T09.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  },
+  {
+    "profile_id": "ETS2026_T10",
+    "source": "ets 2026/listening/2026_t10_Full_Package/2026_t10_Data.json",
+    "profile": "docs/generate/profiles/ETS2026/profile_ETS2026_T10.json",
+    "missing": [],
+    "unresolved_answer_positions": []
+  }
+]

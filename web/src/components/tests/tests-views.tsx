@@ -153,6 +153,7 @@ function TestCard({
       ) : (
         <p className="mt-3 text-[15px] text-muted">Chưa luyện tập</p>
       )}
+      {test.readingIssue && <p className="mt-2 text-sm text-warning-ink">Reading đang chờ sửa dữ liệu nguồn bị trùng câu; hiện có Listening.</p>}
       {test.incomplete && !test.missingAudio && <p className="mt-2 text-xs text-muted">Đề nguồn thiếu {100 - test.questions} câu — đã bỏ qua khi chấm.</p>}
       <div className="mt-auto grid grid-cols-2 gap-2 pt-5">
         {active ? (
@@ -277,7 +278,7 @@ function PrepareForm({ state, onClose }: { state: { test: MockTest; mode: "exam"
           </div>
         </fieldset>
       )}
-      {!!test.missingAudio && <p className="rounded-xl bg-warning-soft p-3 text-sm text-warning-ink">Thiếu audio câu 20–22 trong dữ liệu nguồn. Thi thử chỉ mở cho Reading; Listening vẫn có thể luyện tập.</p>}
+      {!!test.missingAudio && <p className="rounded-xl bg-warning-soft p-3 text-sm text-warning-ink">Thiếu audio {test.missingAudio} câu trong dữ liệu nguồn. Thi thử chỉ mở cho Reading; Listening vẫn có thể luyện tập.</p>}
       {!!test.missingPhotos && parts.includes(1) && <p className="rounded-xl border border-[#fcdcab] bg-warning-soft px-3.5 py-3 text-sm text-warning-ink">6 ảnh Part 1 đang được bổ sung. Audio đã có; các câu mô tả tranh cần ảnh để làm đầy đủ. Bạn có thể chọn Reading hoặc luyện Part 2–4 trước.</p>}
       {exam && hasListening && scope !== "reading" && <p className="text-sm leading-relaxed text-ink-soft">Nhấn Play trong phòng thi để bắt đầu đồng hồ Listening. Mỗi câu/nhóm câu có audio ngắn riêng. {hasReading && scope === "full" && "Hoàn tất Listening, chọn Chuyển sang Reading để bắt đầu 75 phút riêng."} Tạm dừng hoặc rời trang không dừng đồng hồ.</p>}
       {exam && test.playable && (

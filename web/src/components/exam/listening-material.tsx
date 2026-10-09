@@ -13,7 +13,7 @@ export function ListeningMaterial({ group, reveal = false, play = true, testId, 
     <p className="text-xs font-bold uppercase tracking-wider text-primary">{group.from===group.to ? `Question ${group.from}` : `Questions ${group.from}–${group.to}`}</p>
     {play && !item.audio && <p className="rounded-xl bg-warning-soft p-3 text-sm text-warning-ink">Audio nhóm câu này chưa có trong dữ liệu nguồn.</p>}
     {play && !!item.audio && <AudioPlayer src={item.audio} title={group.part<=2 ? `Audio câu ${group.from}` : `Audio câu ${group.from}–${group.to}`} persistKey={persistKey} onPlay={onPlay} practice={practice} />}
-    {item.image && <Image src={item.image} alt={`Photograph for question ${group.from}`} width={900} height={600} unoptimized className="max-h-[480px] w-full rounded-xl border border-line object-contain" />}
+    {item.image && <Image src={item.image} alt={`${group.part === 1 ? "Photograph" : "Graphic"} for question ${group.from}`} width={900} height={600} unoptimized className="max-h-[480px] w-full rounded-xl border border-line object-contain" />}
     {item.imagePending && <div className="grid min-h-52 place-content-center gap-3 rounded-xl border border-dashed border-line bg-canvas p-5 text-center">
       <ImageOff className="mx-auto size-8 text-muted" /><p className="font-semibold text-ink">Ảnh câu {group.from} đang được bổ sung</p>
       <p className="max-w-xs text-sm leading-relaxed text-muted">Audio đã sẵn sàng. Câu mô tả tranh này cần có ảnh để làm bài đầy đủ.</p>
@@ -31,7 +31,7 @@ export function ListeningMaterial({ group, reveal = false, play = true, testId, 
         const match=line.match(/^([A-Z]+):\s*(.*)$/);
         return <p key={i}>{match ? <><span className="font-semibold text-primary">{item.speakers[match[1]] || match[1]}: </span>{match[2]}</> : line}</p>;
       })}</div>
-      {testId && <Link href={`/listening/${testId}/dictation?part=${group.part}`} className="mt-4 inline-block text-sm font-semibold text-primary hover:underline">Luyện nghe chép từng câu →</Link>}
+      {testId?.startsWith("ybm2025-") && <Link href={`/listening/${testId}/dictation?part=${group.part}`} className="mt-4 inline-block text-sm font-semibold text-primary hover:underline">Luyện nghe chép từng câu →</Link>}
     </section>}
   </div>;
 }

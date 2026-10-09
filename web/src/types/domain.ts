@@ -65,6 +65,7 @@ export type MockTest = {
   incomplete?: boolean;
   missingPhotos?: number;
   missingAudio?: number;
+  readingIssue?: boolean;
 };
 
 export type TestProgress = TopicProgress & {
@@ -242,6 +243,7 @@ export type EtsIndexEntry = {
   listeningDuration?: number;
   missingPhotos?: number;
   missingAudio?: number;
+  readingIssue?: boolean;
 };
 
 /** Phiên làm bài lưu localStorage để refresh/đóng tab vẫn tiếp tục được. */

@@ -1,0 +1,3597 @@
+{
+  "id": "hacker3-t8",
+  "year": 0,
+  "number": 8,
+  "title": "HACKER 3 · Test 8",
+  "source": "HACKER 3",
+  "groups": [
+    {
+      "id": "hacker3-t8-g0",
+      "from": 1,
+      "to": 1,
+      "part": 1,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q1.aac",
+        "conversationAudio": "/courses/hacker3-t8/q1.aac",
+        "duration": 35.338198,
+        "instructions": "",
+        "transcript": "(A) The man is wiping a fan.\n(B) The man is twisting a metal knob.\n(C) The man is washing a cup.\n(D) The man is drinking water.",
+        "speakers": {},
+        "image": "/courses/hacker3-t8/q1.jpg",
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g1",
+      "from": 2,
+      "to": 2,
+      "part": 1,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q2.aac",
+        "conversationAudio": "/courses/hacker3-t8/q2.aac",
+        "duration": 343.286458,
+        "instructions": "",
+        "transcript": "(A) The woman is dressing a mannequin.\n(B) The woman is looking at her reflection.\n(C) The woman is collecting some hangers.\n(D) The woman is putting away some merchandise.",
+        "speakers": {},
+        "image": "/courses/hacker3-t8/q2.jpg",
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g2",
+      "from": 3,
+      "to": 3,
+      "part": 1,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q3.aac",
+        "conversationAudio": "/courses/hacker3-t8/q3.aac",
+        "duration": 321.977431,
+        "instructions": "",
+        "transcript": "(A) One of the women is wearing a headset.\n(B) One of the women is shaking hands with a man.\n(C) They are posting a document on a notice board.\n(D) They are working at different stations.",
+        "speakers": {},
+        "image": "/courses/hacker3-t8/q3.jpg",
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g3",
+      "from": 4,
+      "to": 4,
+      "part": 1,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q4.aac",
+        "conversationAudio": "/courses/hacker3-t8/q4.aac",
+        "duration": 361.189236,
+        "instructions": "",
+        "transcript": "(A) Textbooks are being distributed in a lecture hall.\n(B) Some people are giving a presentation.\n(C) Some people are leaving an auditorium.\n(D) A pen is being pointed at a page.",
+        "speakers": {},
+        "image": "/courses/hacker3-t8/q4.jpg",
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g4",
+      "from": 5,
+      "to": 5,
+      "part": 1,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q5.aac",
+        "conversationAudio": "/courses/hacker3-t8/q5.aac",
+        "duration": 364.546875,
+        "instructions": "",
+        "transcript": "(A) Some umbrellas are lined up side by side.\n(B) The grass is being cut in a field.\n(C) Some trees are growing between two seating areas.\n(D) A tent is being broken down beside the woods.",
+        "speakers": {},
+        "image": "/courses/hacker3-t8/q5.jpg",
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g5",
+      "from": 6,
+      "to": 6,
+      "part": 1,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q6.aac",
+        "conversationAudio": "/courses/hacker3-t8/q6.aac",
+        "duration": 363.795139,
+        "instructions": "",
+        "transcript": "(A) A window frame of a house is being painted.\n(B) A mailbox has fallen on the ground.\n(C) A residential garage door has been raised.\n(D) A railing has been erected near an entrance.",
+        "speakers": {},
+        "image": "/courses/hacker3-t8/q6.jpg",
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g6",
+      "from": 7,
+      "to": 7,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q7.aac",
+        "conversationAudio": "/courses/hacker3-t8/q7.aac",
+        "duration": 28.559944,
+        "instructions": "",
+        "transcript": "When would it be convenient for you to have dinner?\n(A) I can meet at 7 o'clock.\n(B) Yes, we definitely have.\n(C) At the new sushi restaurant.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g7",
+      "from": 8,
+      "to": 8,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q8.aac",
+        "conversationAudio": "/courses/hacker3-t8/q8.aac",
+        "duration": 28.49454,
+        "instructions": "",
+        "transcript": "Hasn't Ms. Kramer's plane already landed?\n(A) Her passport hasn't expired.\n(B) It gets in soon.\n(C) She has plain black luggage.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g8",
+      "from": 9,
+      "to": 9,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q9.aac",
+        "conversationAudio": "/courses/hacker3-t8/q9.aac",
+        "duration": 30.580003,
+        "instructions": "",
+        "transcript": "Why am I getting so many advertisements in my email?\n(A) We get a lot of packages too.\n(B) I prefer the other commercial.\n(C) Have you tried unsubscribing from mailing lists?",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g9",
+      "from": 10,
+      "to": 10,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q10.aac",
+        "conversationAudio": "/courses/hacker3-t8/q10.aac",
+        "duration": 19.951807,
+        "instructions": "",
+        "transcript": "What's the price of bananas at the grocery store?\n(A) A worker will restock the store shelves.\n(B) According to this flyer, 50 cents each.\n(C) Most of this fruit is still not ripe.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g10",
+      "from": 11,
+      "to": 11,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q11.aac",
+        "conversationAudio": "/courses/hacker3-t8/q11.aac",
+        "duration": 229.239583,
+        "instructions": "",
+        "transcript": "You can join us on the corporate retreat, can't you?\n(A) I may.\n(B) I joined the gym as well.\n(C) We were treated to cocktails.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g11",
+      "from": 12,
+      "to": 12,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q12.aac",
+        "conversationAudio": "/courses/hacker3-t8/q12.aac",
+        "duration": 208.137205,
+        "instructions": "",
+        "transcript": "Where did you work during the first half of your career?\n(A) Primarily at Champlain Law Office.\n(B) Throughout most of the last decade.\n(C) My superior makes the hiring decisions.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g12",
+      "from": 13,
+      "to": 13,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q13.aac",
+        "conversationAudio": "/courses/hacker3-t8/q13.aac",
+        "duration": 33.524178,
+        "instructions": "",
+        "transcript": "Who is getting beverages for the social gathering?\n(A) This drink is quite delicious.\n(B) Sorry, but how do I get there?\n(C) Nancy and Ben will bring something.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g13",
+      "from": 14,
+      "to": 14,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q14.aac",
+        "conversationAudio": "/courses/hacker3-t8/q14.aac",
+        "duration": 34.81301,
+        "instructions": "",
+        "transcript": "Should we try to renegotiate the price or switch suppliers?\n(A) Give him the lease agreement.\n(B) Our supply is low.\n(C) I'm fine with either strategy.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g14",
+      "from": 15,
+      "to": 15,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q15.aac",
+        "conversationAudio": "/courses/hacker3-t8/q15.aac",
+        "duration": 24.247073,
+        "instructions": "",
+        "transcript": "Has a band been booked for the event?\n(A) Concert tickets are $20 each.\n(B) At a nearby venue.\n(C) A jazz group is going to perform.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g15",
+      "from": 16,
+      "to": 16,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q16.aac",
+        "conversationAudio": "/courses/hacker3-t8/q16.aac",
+        "duration": 37.685929,
+        "instructions": "",
+        "transcript": "Which products have been discounted?\n(A) Everything in aisle 4.\n(B) A special promotion.\n(C) Yes, I have an account.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g16",
+      "from": 17,
+      "to": 17,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q17.aac",
+        "conversationAudio": "/courses/hacker3-t8/q17.aac",
+        "duration": 46.73826,
+        "instructions": "",
+        "transcript": "When should we inform the audience about upcoming shows?\n(A) There's an intermission in 30 minutes.\n(B) In the main auditorium.\n(C) Over 30 of the people here.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g17",
+      "from": 18,
+      "to": 18,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q18.aac",
+        "conversationAudio": "/courses/hacker3-t8/q18.aac",
+        "duration": 29.924376,
+        "instructions": "",
+        "transcript": "Why haven't you ever owned a vehicle?\n(A) Bring it to the automotive shop.\n(B) My city has a great public transit system.\n(C) I guess we can drive.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g18",
+      "from": 19,
+      "to": 19,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q19.aac",
+        "conversationAudio": "/courses/hacker3-t8/q19.aac",
+        "duration": 28.226858,
+        "instructions": "",
+        "transcript": "Please don't forget to give me the files I requested.\n(A) Don't worry about the ticket.\n(B) You should pile the supplies in the corner.\n(C) I wrote myself a reminder.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g19",
+      "from": 20,
+      "to": 20,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q20.aac",
+        "conversationAudio": "/courses/hacker3-t8/q20.aac",
+        "duration": 247.010417,
+        "instructions": "",
+        "transcript": "How did the conference attendees like your lecture about social media?\n(A) Their website is due for upgrades.\n(B) By heading to conference room 1.\n(C) Overall, it was a success.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g20",
+      "from": 21,
+      "to": 21,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q21.aac",
+        "conversationAudio": "/courses/hacker3-t8/q21.aac",
+        "duration": 251.475694,
+        "instructions": "",
+        "transcript": "Are all the servers required to wear a uniform?\n(A) They served snacks this afternoon.\n(B) It is standard procedure.\n(C) I think your outfit looks very nice.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g21",
+      "from": 22,
+      "to": 22,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q22.aac",
+        "conversationAudio": "/courses/hacker3-t8/q22.aac",
+        "duration": 238.097222,
+        "instructions": "",
+        "transcript": "Should we order one or two desks for the office?\n(A) I'm undecided.\n(B) I will wait in the office.\n(C) There are three lamps.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g22",
+      "from": 23,
+      "to": 23,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q23.aac",
+        "conversationAudio": "/courses/hacker3-t8/q23.aac",
+        "duration": 284.263889,
+        "instructions": "",
+        "transcript": "Wouldn't you rather share a taxi to save money?\n(A) We only accept cash.\n(B) I'm riding with some friends.\n(C) Taxes are going to increase.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g23",
+      "from": 24,
+      "to": 24,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q24.aac",
+        "conversationAudio": "/courses/hacker3-t8/q24.aac",
+        "duration": 232.135417,
+        "instructions": "",
+        "transcript": "We're not sure how to make copies on this odd paper size.\n(A) The tray has to be adjusted.\n(B) You have a good idea.\n(C) Our hats come in one size.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g24",
+      "from": 25,
+      "to": 25,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q25.aac",
+        "conversationAudio": "/courses/hacker3-t8/q25.aac",
+        "duration": 263.690972,
+        "instructions": "",
+        "transcript": "A representative must inspect our factory in China, right?\n(A) Some of the labor regulations.\n(B) That won't be necessary.\n(C) Yes, across from the plant.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g25",
+      "from": 26,
+      "to": 26,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q26.aac",
+        "conversationAudio": "/courses/hacker3-t8/q26.aac",
+        "duration": 263.831597,
+        "instructions": "",
+        "transcript": "Do you know what the fastest route downtown is?\n(A) Take Sunny Street.\n(B) Oh, just set them down.\n(C) I know how they feel.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g26",
+      "from": 27,
+      "to": 27,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q27.aac",
+        "conversationAudio": "/courses/hacker3-t8/q27.aac",
+        "duration": 211.364531,
+        "instructions": "",
+        "transcript": "Will the architect be able to stop by for a consultation today?\n(A) Well, the building has modern furnishings.\n(B) A tour of the architecture in Delaware.\n(C) Her assistant made an appointment for 3 p.m.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g27",
+      "from": 28,
+      "to": 28,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q28.aac",
+        "conversationAudio": "/courses/hacker3-t8/q28.aac",
+        "duration": 52.677839,
+        "instructions": "",
+        "transcript": "How can I access my online bank account while I'm overseas?\n(A) Our financial institution has expanded.\n(B) Just log in using your normal information.\n(C) You'll thoroughly enjoy traveling abroad.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g28",
+      "from": 29,
+      "to": 29,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q29.aac",
+        "conversationAudio": "/courses/hacker3-t8/q29.aac",
+        "duration": 35.577797,
+        "instructions": "",
+        "transcript": "What is the plan for replacing Ms. Jenkins after her retirement?\n(A) We're hoping to hire internally.\n(B) Formal attire is required at the party.\n(C) She's been with us for 30 years.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g29",
+      "from": 30,
+      "to": 30,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q30.aac",
+        "conversationAudio": "/courses/hacker3-t8/q30.aac",
+        "duration": 85.368445,
+        "instructions": "",
+        "transcript": "This rental space is very conveniently located.\n(A) It's on top of the microwave.\n(B) I have a feeling it's overpriced.\n(C) No, another parking space.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g30",
+      "from": 31,
+      "to": 31,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q31.aac",
+        "conversationAudio": "/courses/hacker3-t8/q31.aac",
+        "duration": 255.210069,
+        "instructions": "",
+        "transcript": "Are you willing to write a reference letter on my behalf?\n(A) All the resumes were left in that folder.\n(B) If you don't need one until next week.\n(C) Yes, both reference manuals.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g31",
+      "from": 32,
+      "to": 34,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q32-34.aac",
+        "conversationAudio": "/courses/hacker3-t8/q32-34.aac",
+        "duration": 104.573924,
+        "instructions": "",
+        "transcript": "W-Am: Now that we've finished weeding the existing flower bed, the new rose bushes must be planted along the front of the customer's house. This task will take us a couple of hours at most to complete, so we'll be done with it by lunchtime. M-Au: Okay, but before we unload the plants, holes need to be dug for the bushes. I'll pull our shovels and work gloves out of the truck. W-Am: Could you also bring over the small cart? We'll use it to carry away the excess dirt. M-Au: Oh, I didn't remember to pack that this morning. I'd better go get it from our company's shed. Sorry about that.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g32",
+      "from": 35,
+      "to": 37,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q35-37.aac",
+        "conversationAudio": "/courses/hacker3-t8/q35-37.aac",
+        "duration": 639.330489,
+        "instructions": "",
+        "transcript": "M-Cn: Welcome to Harvey Home Goods. How can I help you? W-Am: Yes, I need hooks that adhere to the wall, not ones that are drilled in, to hang paintings in my apartment. M-Cn: Those are in aisle 13, which is where we keep hardware and fixtures. Is there anything else I can give you a hand locating? W-Am: Thanks, but I'm pretty sure I remember where the other products I need are located. M-Cn: All right. Just in case you have trouble finding other products, there's a, um, computer that you can use to search for store merchandise. The machine indicates where specific goods are shelved, as well as whether they're in stock. It's situated near the front doors.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g33",
+      "from": 38,
+      "to": 40,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q38-40.aac",
+        "conversationAudio": "/courses/hacker3-t8/q38-40.aac",
+        "duration": 1081.647569,
+        "instructions": "",
+        "transcript": "W-Am: Okay, Mr. Matson, you've now seen our renovated locker rooms, lobby, and concession area. What do you think so far? M-Au: I must say, I'm glad I came here today to check out the renovations that were made to the stadium. It looks like the money I invested in this facility has been put to good use. The new court is especially impressive. The Hawks players must be very pleased with the results. W-Am: Absolutely. In fact, many commented on how nice the court is after practicing on it two days ago. Now, if you follow me this way, I'll show you around the new luxury seating area, which only VIP guests will be able to use for our home games.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g34",
+      "from": 41,
+      "to": 43,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q41-43.aac",
+        "conversationAudio": "/courses/hacker3-t8/q41-43.aac",
+        "duration": 1228.956597,
+        "instructions": "",
+        "transcript": "M-Cn: Jackie, do you have a comprehensive list of our clients' email addresses? I seem to have lost mine. W-Br: Not on hand, but why don't you look them up on our new online marketing database? M-Cn: Oh, I didn't realize that was possible. W-Br: It is. A trainer from the IT department taught our team members how to get those types of details from the database during last Tuesday's workshop. M-Cn: The session sounds like it was very helpful. I wish I had made it, but I was in Richmond for the International Advertising Conference. W-Br: Yeah, it was quite educational. If you want, I can tell you more about it during our break.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g35",
+      "from": 44,
+      "to": 46,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q44-46.aac",
+        "conversationAudio": "/courses/hacker3-t8/q44-46.aac",
+        "duration": 1153.164931,
+        "instructions": "",
+        "transcript": "W-Am: Thank you for setting aside some time to talk with me, Mr. Gabo. Now, I'll explain why your retail outlet should stock the Dirt Duster vacuum cleaner. First, the Dirt Duster has a motor attached to the wheels, making it self-propelled. Plus, it can be used on hard surfaces as well as carpets. M-Au: I don't know. We already have the Swift Clean, which works well on wood floors. W-Am: But unlike the Swift Clean, the Dirt Duster is guaranteed not to leave scratches on any surfaces. Consumer polls indicate that people really appreciate this aspect of the vacuum. M-Au: Well, I'd like you to demonstrate how the machine operates before I decide. You can use it on the floor in our staff kitchen, just down the hall.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g36",
+      "from": 47,
+      "to": 49,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q47-49.aac",
+        "conversationAudio": "/courses/hacker3-t8/q47-49.aac",
+        "duration": 1233.604167,
+        "instructions": "",
+        "transcript": "M-Cn: Look at this. Someone must have accidentally poured a beverage on the lobby sofa. M-Cn: Yeah, I see what you mean. It still looks pretty wet, so it probably happened recently. W-Am: We should let the hotel receptionist know so it can be dealt with. M-Cn: Okay. I'll tell them about it now while we wait for our rooms to be prepared for us. W-Am: And could you ask them when the pool closes? I'd like to swim this evening before I head out for the music festival. M-Cn: Unfortunately, the singer we want to see starts performing at 8:30 p.m., just an hour from now. So, I don't think we'll have time.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g37",
+      "from": 50,
+      "to": 52,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q50-52.aac",
+        "conversationAudio": "/courses/hacker3-t8/q50-52.aac",
+        "duration": 1313.326389,
+        "instructions": "",
+        "transcript": "M-Cn: Good morning, Michaela. Do you have all the information you'll need to make a notice for passengers about the subway system's new transit cards? W-Am: I think so. But just to confirm, the cards will be able to hold up to $500 worth of credit, right? M-Cn: Correct. And funds can be added to them at the automated machines in each station. Riders can also put money on their cards by making an account on the Transportation Authority's website. W-Am: Great. Is there anything else that we need to tell people about? M-Cn: The upcoming closure of line 5 tomorrow from 10:00 a.m. until noon. W-Am: Oh yeah, I forgot all about that. I'll be sure to note it too.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g38",
+      "from": 53,
+      "to": 55,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q53-55.aac",
+        "conversationAudio": "/courses/hacker3-t8/q53-55.aac",
+        "duration": 1343.569444,
+        "instructions": "",
+        "transcript": "W-Am: Good afternoon, Vincent. I want to let you know that Martin Marquez, the recently appointed manager of the Northeast District, is expected to come to our headquarters. The visit will give him an opportunity to acquaint himself with our CEO. He'll arrive on November 3rd, one month from now. M-Au: Hasn't a consultant been hired to give a talk about productivity to some of our staff on that date? If so, it might be hard to fit everything into that schedule, as there will be many activities going on. W-Am: I've actually requested that Mr. Marquez stop by on the same day so he can attend the lecture. I think he'd benefit from it because it will be targeted at middle management.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g39",
+      "from": 56,
+      "to": 58,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q56-58.aac",
+        "conversationAudio": "/courses/hacker3-t8/q56-58.aac",
+        "duration": 1286.527778,
+        "instructions": "",
+        "transcript": "W-Am: Jake and I have been asked to take five workers who are visiting from our partner corporation in Japan out next week. And we're struggling to think of something fun to do with them, rather than simply dining at a fancy restaurant. M-Au: How about renting a boat and taking them sailing for an evening? If you go around sunset, you can enjoy views of the Miami cityscape. W-Am: That's a wonderful suggestion. But would our boss approve something so costly? M-Au: It's more affordable than you'd expect. Boats can be rented from local businesses for as little as $1,200 a day. Our company has spent more than that on expensive meals for similarly sized groups.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g40",
+      "from": 59,
+      "to": 61,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q59-61.aac",
+        "conversationAudio": "/courses/hacker3-t8/q59-61.aac",
+        "duration": 1318.234375,
+        "instructions": "",
+        "transcript": "W-Am: This is Grace from Yellowstone Apartments Management Office. May I speak to Jim Ryzen? M-Cn: This is Jim. W-Am: Mr. Ryzen, you own a blue dent razor with the license plate number 124 FGA, right? If so, your car is blocking the garbage bins in the parking lot, which is an issue. M-Cn: I'm sorry about that. There were no vacant spaces in the lot when I returned home last night. W-Am: I see. Well, since that isn't an authorized spot, I'll need you to move the car immediately, especially since trash is being collected today. M-Cn: Ah, I apologize. I'll be at work until 5:00 p.m. But I can move it afterward. W-Am: In that case, I'm sorry to inform you that your car will have to be towed. That's the building policy.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g41",
+      "from": 62,
+      "to": 64,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q62-64.aac",
+        "conversationAudio": "/courses/hacker3-t8/q62-64.aac",
+        "duration": 1107.887153,
+        "instructions": "",
+        "transcript": "M-Cn: You've reached Frost Beauty, Adrian speaking. W-Am: Hello. Will your salon's current special offer on beauty treatments continue throughout this month? M-Cn: We actually have sales on two services each month. For this month, uh, April, we'll be discounting nail art and hair dyeing. W-Am: Perfect. I bought a box of brown dye in March, but it didn't work well. So now I need my hair to be recolored. Can I make an appointment for 4 p.m. today? M-Cn: Yes. I should also mention that we'll have a booth at Denver's Professional Salon Expo on April 20th. There will be promotions on various hair and nail products that day, so you should come by.",
+        "speakers": {},
+        "image": "/courses/hacker3-t8/q62-64.jpg",
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g42",
+      "from": 65,
+      "to": 67,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q65-67.aac",
+        "conversationAudio": "/courses/hacker3-t8/q65-67.aac",
+        "duration": 1502.758681,
+        "instructions": "",
+        "transcript": "M-Cn: During Wednesday's hiking trip, let's rest and have a picnic lunch before reaching the observation point on Mount Evans. W-Am: Great suggestion. I can swing by a convenience store and buy some snacks and soft drinks for us. I'll just do that on my way to meet you at Grove Station on Wednesday morning. M-Cn: Sounds good. I'll pack sandwiches too. How about having our picnic at a waterfall alongside Ridge Road? W-Am: I recently heard that path is blocked off. Apparently, last week's storm knocked down some large trees on it that have yet to be cleared away. But there's another spot at the intersection of Breeze Road and Peak Road. I think it'll be comfortable there.",
+        "speakers": {},
+        "image": "/courses/hacker3-t8/q65-67.jpg",
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g43",
+      "from": 68,
+      "to": 70,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q68-70.aac",
+        "conversationAudio": "/courses/hacker3-t8/q68-70.aac",
+        "duration": 1169.611111,
+        "instructions": "",
+        "transcript": "M-Cn: Hannah, did you end up ordering new jackets to be used in the photo shoot for our magazine's October issue? W-Am: Yes, Raymond. They'll be delivered on August 16th. I also submitted a complaint about the shirts that arrived on August 9th. I mentioned that they had tears in them in an email to Nextwear's manager, Ken Powers. He responded a few days later and attached a discount coupon. M-Cn: Nicely done. Oh, by the way, have you received an email from the photographer, Linda Wright? She had a question about whether she can be compensated for the cost of her taxi ride to the shoot location. W-Am: I replied to that right after this morning's press conference regarding our October edition.",
+        "speakers": {},
+        "image": "/courses/hacker3-t8/q68-70.jpg",
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g44",
+      "from": 71,
+      "to": 73,
+      "part": 4,
+      "kind": "talk",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q71-73.aac",
+        "conversationAudio": "/courses/hacker3-t8/q71-73.aac",
+        "duration": 143.711024,
+        "instructions": "",
+        "transcript": "W-Br: Hello Miss Han. This is Sunmi Park calling from Edge Designs. I want to inform you about an issue regarding the project you commissioned us to do. Although the t-shirts that my firm is designing for your organization are supposed to be ready by this Thursday, they will not be done by then. One of our staff members was sick the last two days, so the work is taking longer than expected to finish. As a result, we won't be able to send the completed products to you until Friday. I'm very sorry and we intend to take 10% off your final bill to make up for the delay. If you have any inquiries, please reach out to me. I'd be happy to answer them.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g45",
+      "from": 74,
+      "to": 76,
+      "part": 4,
+      "kind": "talk",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q74-76.aac",
+        "conversationAudio": "/courses/hacker3-t8/q74-76.aac",
+        "duration": 1121.152778,
+        "instructions": "",
+        "transcript": "M-Cn: I have an important announcement for all administrative staff. Over the weekend, a technician installed a new operating system on all of the computers in our clinic. Unfortunately, some data was lost in the process. Patient medical records were not affected, but the schedule for the upcoming week was accidentally deleted. So, we have to contact our patients immediately to find out the dates and times of their appointments. This is currently our top priority, as we don't know who has an appointment tomorrow. Our lead receptionist, Janet Lee, will now hand out a list of patients and their contact information. You each will be assigned 70 of them to call.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g46",
+      "from": 77,
+      "to": 79,
+      "part": 4,
+      "kind": "talk",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q77-79.aac",
+        "conversationAudio": "/courses/hacker3-t8/q77-79.aac",
+        "duration": 170.134529,
+        "instructions": "",
+        "transcript": "W-Am: Hello Mr. Hong, it's Denise Reynolds. I may have found a suitable tenant for the apartment you are trying to sublease through my firm. A visiting researcher at Forest University named Brad Patterson contacted me about it. He wants to rent your home until September 1st. Um, you asked me to find someone to take the apartment until the end of September, but, um, few people have shown interest. This is the best I can do. Mr. Patterson would like to visit your unit this week. I know you work on Thursday and Friday, so how about on the weekend? He mentioned that he was free on Saturday afternoon. Call me at 555-0394 to let me know what time would be best.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g47",
+      "from": 80,
+      "to": 82,
+      "part": 4,
+      "kind": "talk",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q80-82.aac",
+        "conversationAudio": "/courses/hacker3-t8/q80-82.aac",
+        "duration": 1280.116319,
+        "instructions": "",
+        "transcript": "M-Au: Our CEO organized this four-day retreat for managers in order to express gratitude for the hard work you have done. She recognizes that you all strive to perform at a high level and wants you to know that you are essential to the firm's success. Now, in addition to relaxing and enjoying this beautiful resort, we're going to carry out a few team building exercises together over the next few days. While the exercises are designed to be light-hearted and fun, they will also give you a chance to enhance your communication abilities. One more thing. The CEO would like a picture of everyone together. So please meet in the resort's main event room at 4:00 p.m.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g48",
+      "from": 83,
+      "to": 85,
+      "part": 4,
+      "kind": "talk",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q83-85.aac",
+        "conversationAudio": "/courses/hacker3-t8/q83-85.aac",
+        "duration": 1171.463542,
+        "instructions": "",
+        "transcript": "W-Am: This message is for Richard Brenholt. My name is Emma Compton and I'm the principal at Charleston Elementary School. I'm calling because we're hosting a career day early next month as a way of introducing students to different vocations that they could possibly pursue in the future. It would be wonderful if you could send a representative from your fire station to the event. Many of our pupils find your line of work fascinating. I'm certain that they'd appreciate hearing about the duties and responsibilities that emergency personnel deal with on a daily basis. The person you send will need to give a 10-minute talk about a firefighter's job and demonstrate the gear that is used. If you're interested in participating, please let me know by Monday, March 23rd. Thanks.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g49",
+      "from": 86,
+      "to": 88,
+      "part": 4,
+      "kind": "talk",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q86-88.aac",
+        "conversationAudio": "/courses/hacker3-t8/q86-88.aac",
+        "duration": 1150.626736,
+        "instructions": "",
+        "transcript": "M-Au: In local news, the Mayaville City Council voted to tear down the historic City Hall building on July 12th. The decision comes after an inspection last year uncovered cracks in the foundation. For months, the government debated whether to undertake costly renovations or simply demolish the facility. Mayor John Hamilton held a press conference this morning, during which he announced plans to build a public park in the building's lot. The City Council will hold a special session to discuss the design of the new park this Friday at 7:00 p.m. at Fairview High School. Residents are encouraged to attend and share their ideas.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g50",
+      "from": 89,
+      "to": 91,
+      "part": 4,
+      "kind": "talk",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q89-91.aac",
+        "conversationAudio": "/courses/hacker3-t8/q89-91.aac",
+        "duration": 150.042515,
+        "instructions": "",
+        "transcript": "W-Br: The Snow and Ice Festival has grown considerably in recent years, and it now attracts many visitors from overseas. This increase in the number of international travelers has a very positive impact on Brenton City's economy. Your goal for today is to figure out how to promote the festival to foreign tourists and continue this trend. Just keep in mind that most guests find the snow sculptures and ice palace to be the two most impressive features of the festival. So, those attractions should be emphasized in our campaign. All right, I'd now like everyone to split up into small groups and brainstorm ideas. Then, in about half an hour, break for lunch.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g51",
+      "from": 92,
+      "to": 94,
+      "part": 4,
+      "kind": "talk",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q92-94.aac",
+        "conversationAudio": "/courses/hacker3-t8/q92-94.aac",
+        "duration": 1669.019097,
+        "instructions": "",
+        "transcript": "M-Cn: I'm Milo Forsyth, and I was hired to provide training on how to manage complaints. M-Cn: As new employees of the customer service department, it's important that you know how to effectively respond when someone is unhappy with one of the company's products. M-Cn: This is because handling a complaint well can actually lead to increased customer satisfaction and loyalty. M-Cn: To better demonstrate this point, I'd like to do a simple role-play exercise. M-Cn: One of you will be an upset customer, and I'll be the company representative. M-Cn: Pay close attention to how I deal with the situation by validating the other person's experience. M-Cn: You may be surprised by the results. M-Cn: Hopefully, you will use this technique when interacting with customers.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g52",
+      "from": 95,
+      "to": 97,
+      "part": 4,
+      "kind": "talk",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q95-97.aac",
+        "conversationAudio": "/courses/hacker3-t8/q95-97.aac",
+        "duration": 1238.088542,
+        "instructions": "",
+        "transcript": "M-Au: Are you looking for ways to save money on airfare and accommodations? Then be sure to tune in to 108.6 FM's newest program, The Frugal Traveler. Hosted by Jeff Wallace, who ran his own travel agency for 25 years before retiring. The program will provide tips on how to stretch your budget while on vacation. Jeff will set aside time each day to respond to questions from listeners, and callers will have their names entered into a monthly draw to win a flight to any major city in Europe with Omega Air. The Frugal Traveler will air Wednesday afternoons, starting May 2nd. It will fill the time slot immediately after our local traffic update. Make sure to check it out.",
+        "speakers": {},
+        "image": "/courses/hacker3-t8/q95-97.jpg",
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "hacker3-t8-g53",
+      "from": 98,
+      "to": 100,
+      "part": 4,
+      "kind": "talk",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/hacker3-t8/q98-100.aac",
+        "conversationAudio": "/courses/hacker3-t8/q98-100.aac",
+        "duration": 1361.4375,
+        "instructions": "",
+        "transcript": "W-Am: My name is Janice Lyle and I rented a car from your company when I visited a client in Manchester last week. While filling out an application for reimbursement from my company, I noticed an error on my receipt. I was told that if I upgraded to a larger vehicle, I would receive the navigation system for free, but I realize now that I was charged for it. I'd like to have that amount refunded to my credit card. In addition, I, uh, I've got one more request. Your website mentions that your company has a rewards program. Could you send me a brochure that describes the benefits of membership? I'm going to be taking a lot of business trips this year, so I might sign up. Thanks.",
+        "speakers": {},
+        "image": "/courses/hacker3-t8/q98-100.jpg",
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "groupId": "hacker3-t8-g0",
+      "stem": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "The man is wiping a fan."
+        },
+        {
+          "key": "B",
+          "text": "The man is twisting a metal knob."
+        },
+        {
+          "key": "C",
+          "text": "The man is washing a cup."
+        },
+        {
+          "key": "D",
+          "text": "The man is drinking water."
+        }
+      ],
+      "answer": "C",
+      "explanation": "1.\n(A) The man is wiping a fan.\n(B) The man is twisting a metal knob.\n(C) The man is washing a cup.\n(D) The man is drinking water.\n(A) Người đàn ông đang lau quạt.\n(B) Người đàn ông đang vặn núm kim loại.\n(C) Người đàn ông đang rửa cốc.\n(D) Người đàn ông đang uống nước."
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "groupId": "hacker3-t8-g1",
+      "stem": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "The woman is dressing a mannequin."
+        },
+        {
+          "key": "B",
+          "text": "The woman is looking at her reflection."
+        },
+        {
+          "key": "C",
+          "text": "The woman is collecting some hangers."
+        },
+        {
+          "key": "D",
+          "text": "The woman is putting away some merchandise."
+        }
+      ],
+      "answer": "B",
+      "explanation": "2.\n(A) The woman is dressing a mannequin.\n(B) The woman is looking at her reflection.\n(C) The woman is collecting some hangers.\n(D) The woman is putting away some merchandise.\n(A) Người phụ nữ đang mặc quần áo cho ma-nơ-canh.\n(B) Người phụ nữ đang nhìn vào sự phản chiếu của mình.\n(C) Người phụ nữ đang thu gom vài chiếc móc treo quần áo.\n(D) Người phụ nữ đang cất đi một số hàng hóa.\n."
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "groupId": "hacker3-t8-g2",
+      "stem": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "One of the women is wearing a headset."
+        },
+        {
+          "key": "B",
+          "text": "One of the women is shaking hands with a man."
+        },
+        {
+          "key": "C",
+          "text": "They are posting a document on a notice board."
+        },
+        {
+          "key": "D",
+          "text": "They are working at different stations."
+        }
+      ],
+      "answer": "A",
+      "explanation": "3.\n(A) One of the women is wearing a headset.\n(B) One of the women is shaking hands with the man.\n(C) They are posting a document on a notice board.\n(D) They are working at different stations.\n(A) Một trong những người phụ nữ đang đeo tai nghe.\n(B) Một trong những người phụ nữ đang bắt tay với người đàn ông.\n(C) Họ đang dán một tài liệu lên bảng thông báo.\n(D) Họ đang làm việc ở các trạm khác nhau."
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "groupId": "hacker3-t8-g3",
+      "stem": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "Textbooks are being distributed in a lecture hall."
+        },
+        {
+          "key": "B",
+          "text": "Some people are giving a presentation."
+        },
+        {
+          "key": "C",
+          "text": "Some people are leaving an auditorium."
+        },
+        {
+          "key": "D",
+          "text": "A pen is being pointed at a page."
+        }
+      ],
+      "answer": "D",
+      "explanation": "4.\n(A) Textbooks are being distributed in a lecture hall.\n(B) Some people are giving a presentation.\n(C) Some people are leaving an auditorium.\n(D) A pen is being pointed at a page.\n(A) Sách giáo khoa đang được phát trong giảng đường.\n(B) Một số người đang thuyết trình.\n(C) Một số người đang rời khỏi khán phòng.\n(D) Một cây bút đang chỉ vào một trang sách."
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "groupId": "hacker3-t8-g4",
+      "stem": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "Some umbrellas are lined up side by side."
+        },
+        {
+          "key": "B",
+          "text": "The grass is being cut in a field."
+        },
+        {
+          "key": "C",
+          "text": "Some trees are growing between two seating areas."
+        },
+        {
+          "key": "D",
+          "text": "A tent is being broken down beside the woods."
+        }
+      ],
+      "answer": "A",
+      "explanation": "5.\n(A) Some umbrellas are lined up side by side.\n(B) The grass is being cut in a field.\n(C) Some trees are growing between two seating areas.\n(D) A tent is being broken down beside the woods.\n(A) Một vài chiếc ô đang được xếp cạnh nhau.\n(B) Cỏ đang được cắt trong một cánh đồng.\n(C) Một vài cái cây đang mọc giữa hai khu vực chỗ ngồi.\n(D) Một cái lều đang được dỡ xuống cạnh rừng."
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "groupId": "hacker3-t8-g5",
+      "stem": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "A window frame of a house is being painted."
+        },
+        {
+          "key": "B",
+          "text": "A mailbox has fallen on the ground."
+        },
+        {
+          "key": "C",
+          "text": "A residential garage door has been raised."
+        },
+        {
+          "key": "D",
+          "text": "A railing has been erected near an entrance."
+        }
+      ],
+      "answer": "D",
+      "explanation": "6.\n(A) A window frame of a house is being painted.\n(B) A mailbox has fallen on the ground.\n(C) A residential garage door has been raised.\n(D) A railing has been erected near an entrance.\n(A) Khung cửa sổ của một ngôi nhà đang được sơn.\n(B) Một hòm thư đã bị ngã xuống đất.\n(C) Cửa ga-ra của một ngôi nhà đã được nâng lên.\n(D) Một lan can đã được dựng lên gần lối vào."
+    },
+    {
+      "number": 7,
+      "part": 2,
+      "groupId": "hacker3-t8-g6",
+      "stem": "When would it be convenient for you to have dinner?",
+      "options": [
+        {
+          "key": "A",
+          "text": "I can meet at 7 o'clock."
+        },
+        {
+          "key": "B",
+          "text": "Yes, we definitely have."
+        },
+        {
+          "key": "C",
+          "text": "At the new sushi restaurant."
+        }
+      ],
+      "answer": "A",
+      "explanation": "7. When would it be convenient for you to have dinner?\n(A) I can meet at 7 o’clock.\n(B) Yes, we definitely have.\n(C) At the new sushi restaurant.\nKhi nào tiện cho bạn để ăn tối?\n(A) Tôi có thể gặp lúc 7 giờ.\n(B) Vâng, chúng tôi chắc chắn có.\n(C) Tại nhà hàng sushi mới."
+    },
+    {
+      "number": 8,
+      "part": 2,
+      "groupId": "hacker3-t8-g7",
+      "stem": "Hasn't Ms. Kramer's plane already landed?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Her passport hasn't expired."
+        },
+        {
+          "key": "B",
+          "text": "It gets in soon."
+        },
+        {
+          "key": "C",
+          "text": "She has plain black luggage."
+        }
+      ],
+      "answer": "B",
+      "explanation": "8. Hasn’t Ms. Kramer’s plane already landed?\n(A) Her passport hasn’t expired.\n(B) It gets in soon.\n(C) She has plain black luggage.\nChuyến bay của cô Kramer chưa hạ cánh à?\nA. Hộ chiếu của cô ấy chưa hết hạn\n(B) Nó sẽ hạ cánh sớm thôi.\n(C) Cô ấy có hành lý màu đen đơn giản."
+    },
+    {
+      "number": 9,
+      "part": 2,
+      "groupId": "hacker3-t8-g8",
+      "stem": "Why am I getting so many advertisements in my email?",
+      "options": [
+        {
+          "key": "A",
+          "text": "We get a lot of packages too."
+        },
+        {
+          "key": "B",
+          "text": "I prefer the other commercial."
+        },
+        {
+          "key": "C",
+          "text": "Have you tried unsubscribing from mailing lists?"
+        }
+      ],
+      "answer": "C",
+      "explanation": "9. Why am I getting so many advertisements in my e-mail?\n(A) We get a lot of packages too.\n(B) I prefer the other commercial.\n(C) Have you tried unsubscribing from mailing lists?\nTại sao tôi nhận được quá nhiều quảng cáo trong email của mình?\n(A) Chúng tôi cũng lấy rất nhiều gói hàng.\n(B) Tôi thích quảng cáo kia hơn.\n(C) Bạn đã thử hủy đăng ký khỏi danh sách gửi thư chưa?"
+    },
+    {
+      "number": 10,
+      "part": 2,
+      "groupId": "hacker3-t8-g9",
+      "stem": "What's the price of bananas at the grocery store?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A worker will restock the store shelves."
+        },
+        {
+          "key": "B",
+          "text": "According to this flyer, 50 cents each."
+        },
+        {
+          "key": "C",
+          "text": "Most of this fruit is still not ripe."
+        }
+      ],
+      "answer": "B",
+      "explanation": "10. What’s the price of bananas at the grocery store?\n(A) A worker will restock the store shelves.\n(B) According to this flyer, 50¢ each.\n(C) Most of this fruit is still not ripe.\nGiá chuối ở cửa hàng tạp hóa là bao nhiêu?\n(A) Một nhân viên sẽ bổ sung kệ hàng.\n(B) Theo tờ rơi này, 50¢ mỗi quả.\n(C) Phần lớn số trái cây này vẫn chưa chín."
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "groupId": "hacker3-t8-g10",
+      "stem": "You can join us on the corporate retreat, can't you?",
+      "options": [
+        {
+          "key": "A",
+          "text": "I may."
+        },
+        {
+          "key": "B",
+          "text": "I joined the gym as well."
+        },
+        {
+          "key": "C",
+          "text": "We were treated to cocktails."
+        }
+      ],
+      "answer": "A",
+      "explanation": "11. You can join us on the corporate retreat, can’t you?\n(A) I may.\n(B) I joined the gym as well.\n(C) We were treated to cocktails.\nBạn có thể tham gia buổi đi nghỉ của công ty, phải không?\n(A) Tôi có thể.\n(B) Tôi cũng đã tham gia phòng tập gym.\n(C) Chúng tôi được mời cocktail."
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "groupId": "hacker3-t8-g11",
+      "stem": "Where did you work during the first half of your career?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Primarily at Champlain Law Office."
+        },
+        {
+          "key": "B",
+          "text": "Throughout most of the last decade."
+        },
+        {
+          "key": "C",
+          "text": "My superior makes the hiring decisions."
+        }
+      ],
+      "answer": "A",
+      "explanation": "12. Where did you work during the first half of your career?\n(A) Primarily at Champlain Law Office.\n(B) Throughout most of the last decade.\n(C) My superior makes the hiring decisions.\nBạn đã làm việc ở đâu trong nửa đầu sự nghiệp của mình?\n(A) Chủ yếu tại Văn phòng Luật Champlain.\n(B) Suốt phần lớn thập kỷ vừa qua.\n(C) Cấp trên của tôi quyết định việc tuyển dụng."
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "groupId": "hacker3-t8-g12",
+      "stem": "Who is getting beverages for the social gathering?",
+      "options": [
+        {
+          "key": "A",
+          "text": "This drink is quite delicious."
+        },
+        {
+          "key": "B",
+          "text": "Sorry, but how do I get there?"
+        },
+        {
+          "key": "C",
+          "text": "Nancy and Ben will bring something."
+        }
+      ],
+      "answer": "C",
+      "explanation": "13. Who is getting beverages for the social gathering?\n(A) This drink is quite delicious.\n(B) Sorry, but how do I get there?\n(C) Nancy and Ben will bring something.\nAi sẽ mang đồ uống cho buổi tụ họp xã hội?\n(A) Đồ uống này rất ngon.\n(B) Xin lỗi, nhưng làm thế nào để tôi đến đó?\n(C) Nancy và Ben sẽ mang theo một cái gì đó."
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "groupId": "hacker3-t8-g13",
+      "stem": "Should we try to renegotiate the price or switch suppliers?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Give him the lease agreement."
+        },
+        {
+          "key": "B",
+          "text": "Our supply is low."
+        },
+        {
+          "key": "C",
+          "text": "I'm fine with either strategy."
+        }
+      ],
+      "answer": "C",
+      "explanation": "14. Should we try to renegotiate the price or switch suppliers?\n(A) Give him the lease agreement.\n(B) Our supply is low.\n(C) I’m fine with either strategy.\nChúng ta nên đàm phán lại giá hay thay đổi nhà cung cấp?\n(A) Đưa cho anh ta thỏa thuận thuê.\n(B) Nguồn cung của chúng ta đang thấp.\n(C) Tôi ổn với bất kỳ chiến lược nào."
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "groupId": "hacker3-t8-g14",
+      "stem": "Has a band been booked for the event?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Concert tickets are $20 each."
+        },
+        {
+          "key": "B",
+          "text": "At a nearby venue."
+        },
+        {
+          "key": "C",
+          "text": "A jazz group is going to perform."
+        }
+      ],
+      "answer": "C",
+      "explanation": "15. Has a band been booked for the event?\n(A) Concert tickets are $20 each.\n(B) At a nearby venue.\n(C) A jazz group is going to perform.\nĐã có ban nhạc nào được đặt cho sự kiện chưa?\n(A) Vé hòa nhạc là 20 đô la mỗi vé.\n(B) Tại một địa điểm gần đó.\n(C) Một nhóm nhạc jazz sẽ biểu diễn."
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "groupId": "hacker3-t8-g15",
+      "stem": "Which products have been discounted?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Everything in aisle 4."
+        },
+        {
+          "key": "B",
+          "text": "A special promotion."
+        },
+        {
+          "key": "C",
+          "text": "Yes, I have an account."
+        }
+      ],
+      "answer": "A",
+      "explanation": "16. Which products have been discounted?\n(A) Everything in Aisle 4.\n(B) A special promotion.\n(C) Yes, I have an account.\nSản phẩm nào đã được giảm giá?\n(A) Tất cả mọi thứ ở lối đi số 4.\n(B) Một chương trình khuyến mãi đặc biệt.\n(C) Vâng, tôi có một tài khoản."
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "groupId": "hacker3-t8-g16",
+      "stem": "When should we inform the audience about upcoming shows?",
+      "options": [
+        {
+          "key": "A",
+          "text": "There's an intermission in 30 minutes."
+        },
+        {
+          "key": "B",
+          "text": "In the main auditorium."
+        },
+        {
+          "key": "C",
+          "text": "Over 30 of the people here."
+        }
+      ],
+      "answer": "A",
+      "explanation": "17. When should we inform the audience about upcoming shows?\n(A) There’s an intermission in 30 minutes.\n(B) In the main auditorium.\n(C) Over 30 of the people here.\nKhi nào chúng ta nên thông báo cho khán giả về các buổi biểu diễn sắp tới?\n(A) Có một khoảng nghỉ trong 30 phút.\n(B) Ở khán phòng chính.\n(C) Hơn 30 người ở đây."
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "groupId": "hacker3-t8-g17",
+      "stem": "Why haven't you ever owned a vehicle?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bring it to the automotive shop."
+        },
+        {
+          "key": "B",
+          "text": "My city has a great public transit system."
+        },
+        {
+          "key": "C",
+          "text": "I guess we can drive."
+        }
+      ],
+      "answer": "B",
+      "explanation": "18. Why haven’t you ever owned a vehicle?\n(A) Bring it to the automotive shop.\n(B) My city has a great public transit system.\n(C) I guess we can drive.\nTại sao bạn chưa bao giờ sở hữu một chiếc xe?\n(A) Đưa nó đến cửa hàng sửa chữa ô tô.\n(B) Thành phố của tôi có hệ thống giao thông công cộng tuyệt vời.\n(C) Tôi đoán chúng ta có thể lái xe."
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "groupId": "hacker3-t8-g18",
+      "stem": "Please don't forget to give me the files I requested.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Don't worry about the ticket."
+        },
+        {
+          "key": "B",
+          "text": "You should pile the supplies in the corner."
+        },
+        {
+          "key": "C",
+          "text": "I wrote myself a reminder."
+        }
+      ],
+      "answer": "C",
+      "explanation": "19.\nPlease don’t forget to give me the files I requested.\n(A) Don’t worry about the ticket.\n(B) You should pile the supplies in the corner.\n(C) I wrote myself a reminder.\nLàm ơn đừng quên đưa cho tôi các tệp mà tôi đã yêu cầu.\n(A) Đừng lo về vé.\n(B) Bạn nên chất đống vật tư vào góc.\n(C) Tôi đã tự viết cho mình một lời nhắc."
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "groupId": "hacker3-t8-g19",
+      "stem": "How did the conference attendees like your lecture about social media?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Their website is due for upgrades."
+        },
+        {
+          "key": "B",
+          "text": "By heading to conference room 1."
+        },
+        {
+          "key": "C",
+          "text": "Overall, it was a success."
+        }
+      ],
+      "answer": "C",
+      "explanation": "20. How did the conference attendees like your lecture about social media?\n(A) Their Web site is due for upgrades.\n(B) By heading to Conference Room 1.\n(C) Overall, it was a success.\nNhững người tham dự hội nghị cảm thấy thế nào về bài giảng của bạn về mạng xã hội?\n(A) Trang web của họ đang được nâng cấp.\n(B) Bằng cách đi đến Phòng họp 1.\n(C) Nhìn chung, đó là một thành công."
+    },
+    {
+      "number": 21,
+      "part": 2,
+      "groupId": "hacker3-t8-g20",
+      "stem": "Are all the servers required to wear a uniform?",
+      "options": [
+        {
+          "key": "A",
+          "text": "They served snacks this afternoon."
+        },
+        {
+          "key": "B",
+          "text": "It is standard procedure."
+        },
+        {
+          "key": "C",
+          "text": "I think your outfit looks very nice."
+        }
+      ],
+      "answer": "B",
+      "explanation": "21. Are all the servers required to wear a uniform?\n(A) They served snacks this afternoon.\n(B) It is standard procedure.\n(C) I think your outfit looks very nice.\nTất cả các nhân viên phục vụ có bắt buộc phải mặc đồng phục không?\n(A) Họ đã phục vụ đồ ăn nhẹ vào chiều nay.\n(B) Đó là quy trình tiêu chuẩn.\n(C) Tôi nghĩ trang phục của bạn trông rất đẹp."
+    },
+    {
+      "number": 22,
+      "part": 2,
+      "groupId": "hacker3-t8-g21",
+      "stem": "Should we order one or two desks for the office?",
+      "options": [
+        {
+          "key": "A",
+          "text": "I'm undecided."
+        },
+        {
+          "key": "B",
+          "text": "I will wait in the office."
+        },
+        {
+          "key": "C",
+          "text": "There are three lamps."
+        }
+      ],
+      "answer": "A",
+      "explanation": "22. Should we order one or two desks for the office?\n(A) I’m undecided.\n(B) I will wait in the office.\n(C) There are three lamps.\nChúng ta nên đặt một hay hai bàn cho văn phòng?\n(A) Tôi chưa quyết định.\n(B) Tôi sẽ đợi trong văn phòng.\n(C) Có ba chiếc đèn."
+    },
+    {
+      "number": 23,
+      "part": 2,
+      "groupId": "hacker3-t8-g22",
+      "stem": "Wouldn't you rather share a taxi to save money?",
+      "options": [
+        {
+          "key": "A",
+          "text": "We only accept cash."
+        },
+        {
+          "key": "B",
+          "text": "I'm riding with some friends."
+        },
+        {
+          "key": "C",
+          "text": "Taxes are going to increase."
+        }
+      ],
+      "answer": "B",
+      "explanation": "23. Wouldn’t you rather share a taxi to save money?\n(A) We only accept cash.\n(B) I’m riding with some friends.\n(C) Taxes are going to increase.\nBạn không muốn đi chung taxi để tiết kiệm tiền à?\n(A) Chúng tôi chỉ chấp nhận tiền mặt.\n(B) Tôi đang đi cùng vài người bạn.\n(C) Thuế sẽ tăng."
+    },
+    {
+      "number": 24,
+      "part": 2,
+      "groupId": "hacker3-t8-g23",
+      "stem": "We're not sure how to make copies on this odd paper size.",
+      "options": [
+        {
+          "key": "A",
+          "text": "The tray has to be adjusted."
+        },
+        {
+          "key": "B",
+          "text": "You have a good idea."
+        },
+        {
+          "key": "C",
+          "text": "Our hats come in one size."
+        }
+      ],
+      "answer": "A",
+      "explanation": "24. We’re not sure how to make copies on this odd paper size.\n(A) The tray has to be adjusted.\n(B) You have a good idea.\n(C) Our hats come in one size.\nChúng tôi không chắc cách sao chép trên kích thước giấy lạ này.\n(A) Khay cần được điều chỉnh.\n(B) Bạn có một ý tưởng hay.\n(C) Mũ của chúng tôi có một kích cỡ duy nhất."
+    },
+    {
+      "number": 25,
+      "part": 2,
+      "groupId": "hacker3-t8-g24",
+      "stem": "A representative must inspect our factory in China, right?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Some of the labor regulations."
+        },
+        {
+          "key": "B",
+          "text": "That won't be necessary."
+        },
+        {
+          "key": "C",
+          "text": "Yes, across from the plant."
+        }
+      ],
+      "answer": "B",
+      "explanation": "25. A representative must inspect our factory in China, right?\n(A) Some of the labor regulations.\n(B) That won’t be necessary.\n(C) Yes, across from the plant.\nMột đại diện phải kiểm tra nhà máy của chúng ta ở Trung Quốc, phải không?\n(A) Một số quy định về lao động.\n(B) Điều đó sẽ không cần thiết.\n(C) Vâng, đối diện với nhà máy."
+    },
+    {
+      "number": 26,
+      "part": 2,
+      "groupId": "hacker3-t8-g25",
+      "stem": "Do you know what the fastest route downtown is?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Take Sunny Street."
+        },
+        {
+          "key": "B",
+          "text": "Oh, just set them down."
+        },
+        {
+          "key": "C",
+          "text": "I know how they feel."
+        }
+      ],
+      "answer": "A",
+      "explanation": "26. Do you know what the fastest route downtown is?\n(A) Take Sonny Street.\n(B) Oh, just set them down.\n(C) I know how they feel.\nBạn có biết con đường nhanh nhất đến trung tâm thành phố không?\n(A) Đi đường Sonny.\n(B) Ồ, chỉ cần đặt chúng xuống.\n(C) Tôi biết họ cảm thấy thế nào."
+    },
+    {
+      "number": 27,
+      "part": 2,
+      "groupId": "hacker3-t8-g26",
+      "stem": "Will the architect be able to stop by for a consultation today?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Well, the building has modern furnishings."
+        },
+        {
+          "key": "B",
+          "text": "A tour of the architecture in Delaware."
+        },
+        {
+          "key": "C",
+          "text": "Her assistant made an appointment for 3 p.m."
+        }
+      ],
+      "answer": "C",
+      "explanation": "27. Will the architect be able to stop by for a consultation today?\n(A) Well, the building has modern furnishings.\n(B) A tour of the architecture in Delaware.\n(C) Her assistant made an appointment for 3 P.M.\nKiến trúc sư có thể ghé qua để tư vấn hôm nay không?\n(A) Tòa nhà có nội thất hiện đại.\n(B) Một chuyến tham quan kiến trúc ở Delaware.\n(C) Trợ lý của cô ấy đã đặt lịch hẹn lúc 3 giờ chiều."
+    },
+    {
+      "number": 28,
+      "part": 2,
+      "groupId": "hacker3-t8-g27",
+      "stem": "How can I access my online bank account while I'm overseas?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Our financial institution has expanded."
+        },
+        {
+          "key": "B",
+          "text": "Just log in using your normal information."
+        },
+        {
+          "key": "C",
+          "text": "You'll thoroughly enjoy traveling abroad."
+        }
+      ],
+      "answer": "B",
+      "explanation": "28. How can I access my online bank account while I’m overseas?\n(A) Our financial institution has expanded.\n(B) Just log in using your normal information.\n(C) You’ll thoroughly enjoy traveling abroad.\nLàm thế nào tôi có thể truy cập tài khoản ngân hàng trực tuyến của mình khi tôi ở nước ngoài?\n(A) Tổ chức tài chính của chúng tôi đã mở rộng.\n(B) Chỉ cần đăng nhập bằng thông tin bình thường của bạn.\n(C) Bạn sẽ rất thích thú khi du lịch nước ngoài."
+    },
+    {
+      "number": 29,
+      "part": 2,
+      "groupId": "hacker3-t8-g28",
+      "stem": "What is the plan for replacing Ms. Jenkins after her retirement?",
+      "options": [
+        {
+          "key": "A",
+          "text": "We're hoping to hire internally."
+        },
+        {
+          "key": "B",
+          "text": "Formal attire is required at the party."
+        },
+        {
+          "key": "C",
+          "text": "She's been with us for 30 years."
+        }
+      ],
+      "answer": "A",
+      "explanation": "29. What is the plan for replacing Ms. Jenkins after her retirement?\n(A) We’re hoping to hire internally.\n(B) Formal attire is required at the party.\n(C) She’s been with us for 30 years.\nKế hoạch thay thế cô Jenkins sau khi cô ấy nghỉ hưu là gì?\n(A) Chúng tôi hy vọng sẽ tuyển dụng nội bộ.\n(B) Trang phục chính thức là bắt buộc tại bữa tiệc.\n(C) Cô ấy đã làm việc với chúng tôi trong 30 năm."
+    },
+    {
+      "number": 30,
+      "part": 2,
+      "groupId": "hacker3-t8-g29",
+      "stem": "This rental space is very conveniently located.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It's on top of the microwave."
+        },
+        {
+          "key": "B",
+          "text": "I have a feeling it's overpriced."
+        },
+        {
+          "key": "C",
+          "text": "No, another parking space."
+        }
+      ],
+      "answer": "B",
+      "explanation": "30. This rental space is very conveniently located.\n(A) It’s on top of the microwave.\n(B) I have a feeling it’s overpriced.\n(C) No, another parking space.\nKhông gian cho thuê này rất thuận tiện.\n(A) Nó nằm trên lò vi sóng.\n(B) Tôi cảm thấy giá nó quá cao.\n(C) Không, chỗ đậu xe khác."
+    },
+    {
+      "number": 31,
+      "part": 2,
+      "groupId": "hacker3-t8-g30",
+      "stem": "Are you willing to write a reference letter on my behalf?",
+      "options": [
+        {
+          "key": "A",
+          "text": "All the resumes were left in that folder."
+        },
+        {
+          "key": "B",
+          "text": "If you don't need one until next week."
+        },
+        {
+          "key": "C",
+          "text": "Yes, both reference manuals."
+        }
+      ],
+      "answer": "B",
+      "explanation": "31. Are you willing to write a reference letter on my behalf?\n(A) I’ve never written one before.\n(B) Certainly, just send me the details.\n(C) My first day is next Tuesday.\nBạn có sẵn lòng viết thư giới thiệu giúp tôi không?\n(A) Tôi chưa từng viết một cái trước đây.\n(B) Chắc chắn rồi, chỉ cần gửi cho tôi chi tiết.\n(C) Ngày đầu tiên của tôi là vào thứ Ba tuần sau."
+    },
+    {
+      "number": 32,
+      "part": 3,
+      "groupId": "hacker3-t8-g31",
+      "stem": "Who most likely are the speakers?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Park rangers"
+        },
+        {
+          "key": "B",
+          "text": "Construction workers"
+        },
+        {
+          "key": "C",
+          "text": "Florists"
+        },
+        {
+          "key": "D",
+          "text": "Landscapers"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Đáp án D. \"Now that we've finished weeding the existing flower bed, the new rose bushes must be planted along the front of the customer's house.\" Câu này có nghĩa là \"Bây giờ chúng ta đã nhổ cỏ xong luống hoa hiện có, những bụi hoa hồng mới phải được trồng dọc theo mặt trước của ngôi nhà khách hàng.\" Việc nhổ cỏ và trồng cây tại nhà khách hàng cho thấy họ là những người làm nghề cảnh quan (landscapers)."
+    },
+    {
+      "number": 33,
+      "part": 3,
+      "groupId": "hacker3-t8-g31",
+      "stem": "What does the man want to do first?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Prepare the ground for plants"
+        },
+        {
+          "key": "B",
+          "text": "Fill in holes with dirt"
+        },
+        {
+          "key": "C",
+          "text": "Go on an early lunch break"
+        },
+        {
+          "key": "D",
+          "text": "Clean out the back of a truck"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Đáp án A. \"Okay, but before we unload the plants, holes need to be dug for the bushes.\" Câu này dịch là \"Được thôi, nhưng trước khi dỡ cây xuống, cần phải đào hố cho các bụi cây.\" Việc đào hố trước khi trồng cây chính là hành động chuẩn bị mặt đất (prepare the ground)."
+    },
+    {
+      "number": 34,
+      "part": 3,
+      "groupId": "hacker3-t8-g31",
+      "stem": "What problem does the man mention?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A cart was left behind."
+        },
+        {
+          "key": "B",
+          "text": "A bush cannot be removed."
+        },
+        {
+          "key": "C",
+          "text": "A glove was damaged."
+        },
+        {
+          "key": "D",
+          "text": "A shovel wasn't big enough"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Đáp án A. \"Oh, I didn't remember to pack that this morning.\" Câu này có nghĩa là \"Ồ, tôi đã quên không đóng gói nó sáng nay.\" Người đàn ông thừa nhận đã quên mang theo chiếc xe đẩy (cart) nên phải quay lại lấy."
+    },
+    {
+      "number": 35,
+      "part": 3,
+      "groupId": "hacker3-t8-g32",
+      "stem": "What is the woman trying to find?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A spray cleaner"
+        },
+        {
+          "key": "B",
+          "text": "A power drill"
+        },
+        {
+          "key": "C",
+          "text": "Some artwork"
+        },
+        {
+          "key": "D",
+          "text": "Some hooks"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Đáp án D. Người phụ nữ nói \"I need hooks that adhere to the wall, not ones that are drilled in, to hang paintings in my apartment.\" Câu này có nghĩa là cô ấy cần móc treo dính tường chứ không phải loại khoan vào tường để treo tranh, nên đáp án là D."
+    },
+    {
+      "number": 36,
+      "part": 3,
+      "groupId": "hacker3-t8-g32",
+      "stem": "Why does the woman reject an offer?",
+      "options": [
+        {
+          "key": "A",
+          "text": "She is being assisted by other staff."
+        },
+        {
+          "key": "B",
+          "text": "She is not interested in a promotion."
+        },
+        {
+          "key": "C",
+          "text": "She knows where some items are stocked."
+        },
+        {
+          "key": "D",
+          "text": "She knows why a product is sold out."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Đáp án C. Cô ấy từ chối sự giúp đỡ và nói \"Thanks, but I'm pretty sure I remember where the other products I need are located.\" Điều này nghĩa là cô ấy cảm ơn nhưng tự tin nhớ vị trí các món đồ khác cần tìm, khớp với phương án C."
+    },
+    {
+      "number": 37,
+      "part": 3,
+      "groupId": "hacker3-t8-g32",
+      "stem": "According to the man, how can the woman get more information?",
+      "options": [
+        {
+          "key": "A",
+          "text": "By downloading an application"
+        },
+        {
+          "key": "B",
+          "text": "By picking up a shop directory"
+        },
+        {
+          "key": "C",
+          "text": "By seeking out employees"
+        },
+        {
+          "key": "D",
+          "text": "By using a device"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Đáp án D. Người đàn ông gợi ý \"there's a, um, computer that you can use to search for store merchandise.\" Máy tính là một thiết bị, nên việc sử dụng thiết bị để tìm kiếm thông tin là đáp án chính xác."
+    },
+    {
+      "number": 38,
+      "part": 3,
+      "groupId": "hacker3-t8-g33",
+      "stem": "Where does the conversation take place?",
+      "options": [
+        {
+          "key": "A",
+          "text": "At a company gym"
+        },
+        {
+          "key": "B",
+          "text": "At a sports arena"
+        },
+        {
+          "key": "C",
+          "text": "At a luxury resort"
+        },
+        {
+          "key": "D",
+          "text": "At an architectural studio"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Đáp án B. Người đàn ông nói rằng: \"I'm glad I came here today to check out the renovations that were made to the stadium.\" Vì ông ấy nhắc đến sân vận động (stadium), nên cuộc hội thoại diễn ra tại một sân vận động thể thao."
+    },
+    {
+      "number": 39,
+      "part": 3,
+      "groupId": "hacker3-t8-g33",
+      "stem": "What is the purpose of the man's visit?",
+      "options": [
+        {
+          "key": "A",
+          "text": "To view changes to a facility"
+        },
+        {
+          "key": "B",
+          "text": "To watch an athletic event"
+        },
+        {
+          "key": "C",
+          "text": "To recommend building improvements"
+        },
+        {
+          "key": "D",
+          "text": "To submit blueprints for a structure"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Đáp án A. Người đàn ông bày tỏ sự hài lòng khi đến đây để \"check out the renovations that were made to the stadium.\" Điều này có nghĩa là mục đích chuyến thăm của ông ấy là để xem xét những thay đổi, cải tạo tại cơ sở này."
+    },
+    {
+      "number": 40,
+      "part": 3,
+      "groupId": "hacker3-t8-g33",
+      "stem": "What does the woman say about VIP guests?",
+      "options": [
+        {
+          "key": "A",
+          "text": "They can receive a price reduction."
+        },
+        {
+          "key": "B",
+          "text": "They are waiting in a seating area."
+        },
+        {
+          "key": "C",
+          "text": "They are pleased with the modifications."
+        },
+        {
+          "key": "D",
+          "text": "They will have access to a special section."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Đáp án D. Người phụ nữ giới thiệu khu vực ghế ngồi sang trọng mới và nói rằng \"I'll show you around the new luxury seating area, which only VIP guests will be able to use for our home games.\" Điều này đồng nghĩa với việc khách VIP sẽ có quyền truy cập vào một khu vực đặc biệt."
+    },
+    {
+      "number": 41,
+      "part": 3,
+      "groupId": "hacker3-t8-g34",
+      "stem": "What problem does the man mention?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A list has been misplaced."
+        },
+        {
+          "key": "B",
+          "text": "A software program has errors."
+        },
+        {
+          "key": "C",
+          "text": "A conference has been postponed."
+        },
+        {
+          "key": "D",
+          "text": "A department member is late."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Đáp án A. Người đàn ông nói \"I seem to have lost mine\" khi hỏi về danh sách email khách hàng. Điều này có nghĩa là anh ấy đã làm mất danh sách của mình nên cần tìm lại."
+    },
+    {
+      "number": 42,
+      "part": 3,
+      "groupId": "hacker3-t8-g34",
+      "stem": "What does the woman suggest?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Registering for a workshop"
+        },
+        {
+          "key": "B",
+          "text": "Speaking with a technician"
+        },
+        {
+          "key": "C",
+          "text": "Using a database"
+        },
+        {
+          "key": "D",
+          "text": "Taking some notes"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Đáp án C. Người phụ nữ gợi ý \"why don't you look them up on our new online marketing database?\". Cô ấy khuyên người đàn ông nên sử dụng cơ sở dữ liệu tiếp thị trực tuyến để tìm thông tin thay vì tìm danh sách giấy."
+    },
+    {
+      "number": 43,
+      "part": 3,
+      "groupId": "hacker3-t8-g34",
+      "stem": "Why does the man say, ''I was in Richmond''?",
+      "options": [
+        {
+          "key": "A",
+          "text": "To apologize for a mistake"
+        },
+        {
+          "key": "B",
+          "text": "To clarify a decision"
+        },
+        {
+          "key": "C",
+          "text": "To explain his absence"
+        },
+        {
+          "key": "D",
+          "text": "To describe his vacation"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Đáp án C. Khi người đàn ông nói \"I wish I had made it, but I was in Richmond for the International Advertising Conference\", anh ấy đang giải thích lý do mình vắng mặt tại buổi hội thảo. Anh ấy không thể tham dự vì bận đi dự hội nghị ở Richmond."
+    },
+    {
+      "number": 44,
+      "part": 3,
+      "groupId": "hacker3-t8-g35",
+      "stem": "Who most likely is the woman?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A repairperson"
+        },
+        {
+          "key": "B",
+          "text": "A salesperson"
+        },
+        {
+          "key": "C",
+          "text": "A janitor"
+        },
+        {
+          "key": "D",
+          "text": "A maintenance worker"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Đáp án B. \"Now, I'll explain why your retail outlet should stock the Dirt Duster vacuum cleaner.\" Người phụ nữ đang cố gắng thuyết phục ông Gabo nhập hàng về bán, nên cô ấy là nhân viên bán hàng."
+    },
+    {
+      "number": 45,
+      "part": 3,
+      "groupId": "hacker3-t8-g35",
+      "stem": "According to the woman, what is a feature of the product?",
+      "options": [
+        {
+          "key": "A",
+          "text": "It can move itself."
+        },
+        {
+          "key": "B",
+          "text": "It can be cleaned easily."
+        },
+        {
+          "key": "C",
+          "text": "It is environmentally friendly."
+        },
+        {
+          "key": "D",
+          "text": "It comes in various sizes."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Đáp án A. \"First, the Dirt Duster has a motor attached to the wheels, making it self-propelled.\" Cụm từ \"self-propelled\" có nghĩa là tự di chuyển, khớp với đáp án A là máy có thể tự di chuyển."
+    },
+    {
+      "number": 46,
+      "part": 3,
+      "groupId": "hacker3-t8-g35",
+      "stem": "What will most likely happen next?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A floor will be blocked off."
+        },
+        {
+          "key": "B",
+          "text": "A store will be restocked."
+        },
+        {
+          "key": "C",
+          "text": "A device will be used."
+        },
+        {
+          "key": "D",
+          "text": "An item will be put on sale."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Đáp án C. \"Well, I'd like you to demonstrate how the machine operates before I decide.\" Người đàn ông yêu cầu người phụ nữ trình diễn cách máy hoạt động, vì vậy họ sẽ sử dụng thiết bị này ngay sau đó."
+    },
+    {
+      "number": 47,
+      "part": 3,
+      "groupId": "hacker3-t8-g36",
+      "stem": "What is the problem?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A lobby is crowded."
+        },
+        {
+          "key": "B",
+          "text": "A drink has been spilled."
+        },
+        {
+          "key": "C",
+          "text": "A hotel has no vacancies."
+        },
+        {
+          "key": "D",
+          "text": "A room is too small."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Đáp án B. \"Someone must have accidentally poured a beverage on the lobby sofa.\" Người đàn ông nói rằng ai đó đã vô tình làm đổ đồ uống lên ghế sofa ở sảnh. Đây chính là vấn đề mà họ đang đề cập đến, tương ứng với đáp án B."
+    },
+    {
+      "number": 48,
+      "part": 3,
+      "groupId": "hacker3-t8-g36",
+      "stem": "What solution does the woman suggest?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Talking to a personnel member"
+        },
+        {
+          "key": "B",
+          "text": "Canceling hotel reservations"
+        },
+        {
+          "key": "C",
+          "text": "Finding some other chairs"
+        },
+        {
+          "key": "D",
+          "text": "Modifying an itinerary"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Đáp án A. \"We should let the hotel receptionist know so it can be dealt with.\" Người phụ nữ đề nghị báo cho lễ tân khách sạn để họ xử lý vết bẩn. Việc báo cho lễ tân chính là hành động nói chuyện với nhân viên khách sạn, nên đáp án A là chính xác."
+    },
+    {
+      "number": 49,
+      "part": 3,
+      "groupId": "hacker3-t8-g36",
+      "stem": "Why will the woman be unable to use the swimming pool?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A check-in process was delayed."
+        },
+        {
+          "key": "B",
+          "text": "A performance has been scheduled."
+        },
+        {
+          "key": "C",
+          "text": "The facility is being remodeled."
+        },
+        {
+          "key": "D",
+          "text": "The water is being tested."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Đáp án B. \"Unfortunately, the singer we want to see starts performing at 8:30 p.m., just an hour from now.\" Người đàn ông giải thích rằng ca sĩ họ muốn xem sẽ biểu diễn lúc 8:30 tối, chỉ còn một tiếng nữa. Vì bận đi xem buổi biểu diễn này nên họ không còn thời gian để đi bơi, khớp với đáp án B."
+    },
+    {
+      "number": 50,
+      "part": 3,
+      "groupId": "hacker3-t8-g37",
+      "stem": "According to the man, why does the woman require some information?",
+      "options": [
+        {
+          "key": "A",
+          "text": "To prepare a notification"
+        },
+        {
+          "key": "B",
+          "text": "To propose an idea to a supervisor"
+        },
+        {
+          "key": "C",
+          "text": "To respond to client inquiries"
+        },
+        {
+          "key": "D",
+          "text": "To complete a questionnaire"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Đáp án A. \"Do you have all the information you'll need to make a notice for passengers about the subway system's new transit cards?\" Người đàn ông hỏi người phụ nữ liệu cô ấy đã có đủ thông tin để làm một thông báo cho hành khách về thẻ đi tàu mới chưa. Việc làm thông báo này tương ứng với phương án A là chuẩn bị một thông báo."
+    },
+    {
+      "number": 51,
+      "part": 3,
+      "groupId": "hacker3-t8-g37",
+      "stem": "What does the man say riders can do online?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sign up for a newsletter"
+        },
+        {
+          "key": "B",
+          "text": "Request fare reductions"
+        },
+        {
+          "key": "C",
+          "text": "Read about subway routes"
+        },
+        {
+          "key": "D",
+          "text": "Add money to a card"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Đáp án D. \"Riders can also put money on their cards by making an account on the Transportation Authority's website.\" Người đàn ông giải thích rằng hành khách có thể nạp tiền vào thẻ bằng cách tạo tài khoản trên trang web của cơ quan vận tải. Điều này khớp hoàn toàn với phương án D là nạp tiền vào thẻ."
+    },
+    {
+      "number": 52,
+      "part": 3,
+      "groupId": "hacker3-t8-g37",
+      "stem": "What did the woman forget about?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A new fee"
+        },
+        {
+          "key": "B",
+          "text": "A special giveaway"
+        },
+        {
+          "key": "C",
+          "text": "A temporary closure"
+        },
+        {
+          "key": "D",
+          "text": "A station remodel"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Đáp án C. \"The upcoming closure of line 5 tomorrow from 10:00 a.m. until noon.\" Khi người đàn ông nhắc đến việc đóng cửa tuyến số 5 vào ngày mai, người phụ nữ đã thừa nhận cô quên mất điều đó. Do đó, đáp án C là chính xác vì đề cập đến việc đóng cửa tạm thời."
+    },
+    {
+      "number": 53,
+      "part": 3,
+      "groupId": "hacker3-t8-g38",
+      "stem": "What is mentioned about Mr. Marquez?",
+      "options": [
+        {
+          "key": "A",
+          "text": "He requested a transfer."
+        },
+        {
+          "key": "B",
+          "text": "He moved to a new position."
+        },
+        {
+          "key": "C",
+          "text": "He hired a consultant."
+        },
+        {
+          "key": "D",
+          "text": "He organized a staff activity."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Đáp án B. \"Martin Marquez, the recently appointed manager of the Northeast District\" Câu này giới thiệu Martin Marquez là người mới được bổ nhiệm làm quản lý của Khu vực Đông Bắc. Việc được bổ nhiệm vào vị trí quản lý đồng nghĩa với việc ông ấy đã chuyển sang một vị trí mới."
+    },
+    {
+      "number": 54,
+      "part": 3,
+      "groupId": "hacker3-t8-g38",
+      "stem": "What will most likely happen on November third?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Some invitations will be mailed out."
+        },
+        {
+          "key": "B",
+          "text": "Some employees will listen to a lecture."
+        },
+        {
+          "key": "C",
+          "text": "A safety procedure will be implemented."
+        },
+        {
+          "key": "D",
+          "text": "A director will announce a fundraiser date."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Đáp án B. \"Hasn't a consultant been hired to give a talk about productivity to some of our staff on that date?\" Người đàn ông hỏi về việc một tư vấn viên được thuê để nói chuyện (give a talk) về năng suất cho nhân viên vào ngày đó. \"Talk\" ở đây chính là bài giảng (lecture), nên đáp án B là đúng."
+    },
+    {
+      "number": 55,
+      "part": 3,
+      "groupId": "hacker3-t8-g38",
+      "stem": "What is the man concerned about?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A failed inspection"
+        },
+        {
+          "key": "B",
+          "text": "A frequent complaint"
+        },
+        {
+          "key": "C",
+          "text": "A scheduling conflict"
+        },
+        {
+          "key": "D",
+          "text": "An unsuccessful workshop"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Đáp án C. \"If so, it might be hard to fit everything into that schedule, as there will be many activities going on.\" Người đàn ông lo lắng rằng sẽ khó để sắp xếp mọi thứ vào lịch trình đó vì có quá nhiều hoạt động diễn ra cùng lúc. Điều này cho thấy ông ấy đang lo ngại về sự xung đột lịch trình."
+    },
+    {
+      "number": 56,
+      "part": 3,
+      "groupId": "hacker3-t8-g39",
+      "stem": "What is the woman planning to do next week?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Entertain some visitors"
+        },
+        {
+          "key": "B",
+          "text": "Book a table at a restaurant"
+        },
+        {
+          "key": "C",
+          "text": "Organize a tour of a factory"
+        },
+        {
+          "key": "D",
+          "text": "Travel to Japan for work"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Đáp án A. Trích: \"Jake and I have been asked to take five workers who are visiting from our partner corporation in Japan out next week.\" Câu này có nghĩa là Jake và tôi được yêu cầu đưa năm nhân viên từ công ty đối tác ở Nhật Bản đi chơi vào tuần tới. Việc đưa khách đi chơi chính là hoạt động tiếp đón khách (entertain some visitors)."
+    },
+    {
+      "number": 57,
+      "part": 3,
+      "groupId": "hacker3-t8-g39",
+      "stem": "What does the man recommend the woman do?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ask about a down payment"
+        },
+        {
+          "key": "B",
+          "text": "Contact an agent in advance"
+        },
+        {
+          "key": "C",
+          "text": "Place a meal order"
+        },
+        {
+          "key": "D",
+          "text": "Arrange for a boat ride"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Đáp án D. Trích: \"How about renting a boat and taking them sailing for an evening?\" Câu này có nghĩa là Hay là thuê một chiếc thuyền và đưa họ đi chèo thuyền vào buổi tối? Người đàn ông đưa ra lời khuyên này, tương ứng với việc sắp xếp một chuyến đi thuyền (arrange for a boat ride)."
+    },
+    {
+      "number": 58,
+      "part": 3,
+      "groupId": "hacker3-t8-g39",
+      "stem": "What does the man mention about some local businesses?",
+      "options": [
+        {
+          "key": "A",
+          "text": "They specialize in cruise packages."
+        },
+        {
+          "key": "B",
+          "text": "They offer reasonably priced rentals."
+        },
+        {
+          "key": "C",
+          "text": "They will send some representatives."
+        },
+        {
+          "key": "D",
+          "text": "They will provide area guidebooks."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Đáp án B. Trích: \"Boats can be rented from local businesses for as little as $1,200 a day.\" Câu này có nghĩa là Thuyền có thể được thuê từ các doanh nghiệp địa phương với giá chỉ từ 1.200 đô la một ngày. Người đàn ông nói điều này để chứng minh giá thuê thuyền hợp lý, tức là các doanh nghiệp này cung cấp dịch vụ cho thuê với giá cả phải chăng (reasonably priced rentals)."
+    },
+    {
+      "number": 59,
+      "part": 3,
+      "groupId": "hacker3-t8-g40",
+      "stem": "Why is the woman calling?",
+      "options": [
+        {
+          "key": "A",
+          "text": "To alert a colleague of a mistake"
+        },
+        {
+          "key": "B",
+          "text": "To notify the man of a problem"
+        },
+        {
+          "key": "C",
+          "text": "To inform a tenant of a policy change"
+        },
+        {
+          "key": "D",
+          "text": "To tell the man about an accident"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Đáp án B. \"your car is blocking the garbage bins in the parking lot, which is an issue.\" Người phụ nữ gọi điện để thông báo cho người đàn ông rằng xe của anh ta đang chặn thùng rác, đây là một vấn đề cần giải quyết. Do đó, mục đích cuộc gọi là để thông báo cho người đàn ông về một vấn đề."
+    },
+    {
+      "number": 60,
+      "part": 3,
+      "groupId": "hacker3-t8-g40",
+      "stem": "What does the woman want the man to do?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Return a signed document"
+        },
+        {
+          "key": "B",
+          "text": "Remove a waste container"
+        },
+        {
+          "key": "C",
+          "text": "Relocate a vehicle"
+        },
+        {
+          "key": "D",
+          "text": "Clean an apartment unit"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Đáp án C. \"I'll need you to move the car immediately\" Người phụ nữ yêu cầu người đàn ông di chuyển chiếc xe của anh ta ngay lập tức vì nó đang đỗ sai chỗ. Vì vậy, cô ấy muốn anh ta di dời phương tiện của mình."
+    },
+    {
+      "number": 61,
+      "part": 3,
+      "groupId": "hacker3-t8-g40",
+      "stem": "Why does the man say, ''I'll be at work until 5 P.M.''?",
+      "options": [
+        {
+          "key": "A",
+          "text": "He is planning to end his shift early."
+        },
+        {
+          "key": "B",
+          "text": "He is able to attend a session."
+        },
+        {
+          "key": "C",
+          "text": "He can meet a deadline."
+        },
+        {
+          "key": "D",
+          "text": "He cannot carry out a task immediately."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Đáp án D. \"I'll be at work until 5:00 p.m.\" Người đàn ông nói câu này để giải thích rằng anh ta không thể di chuyển chiếc xe ngay lập tức vì anh ta đang bận làm việc đến 5 giờ chiều. Điều này có nghĩa là anh ta không thể thực hiện nhiệm vụ ngay lúc này."
+    },
+    {
+      "number": 62,
+      "part": 3,
+      "groupId": "hacker3-t8-g41",
+      "stem": "What did the woman do last month?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Stopped by an expo center"
+        },
+        {
+          "key": "B",
+          "text": "Bought a hair product"
+        },
+        {
+          "key": "C",
+          "text": "Applied for a salon membership"
+        },
+        {
+          "key": "D",
+          "text": "Made an appointment"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Đáp án B. Người phụ nữ nói \"I bought a box of brown dye in March\", nghĩa là cô ấy đã mua một hộp thuốc nhuộm tóc vào tháng Ba. Do đó, cô ấy đã mua một sản phẩm chăm sóc tóc vào tháng trước."
+    },
+    {
+      "number": 63,
+      "part": 3,
+      "groupId": "hacker3-t8-g41",
+      "stem": "Look at the graphic. What discount will the woman most likely receive today?",
+      "options": [
+        {
+          "key": "A",
+          "text": "20 percent off"
+        },
+        {
+          "key": "B",
+          "text": "25 percent off"
+        },
+        {
+          "key": "C",
+          "text": "15 percent off"
+        },
+        {
+          "key": "D",
+          "text": "10 percent off"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Đáp án D. Người đàn ông xác nhận \"For this month, uh, April, we'll be discounting nail art and hair dyeing.\" Vì người phụ nữ cần nhuộm lại tóc, cô ấy sẽ nhận được mức giảm giá 10% được hiển thị trong hình ảnh đính kèm cho dịch vụ này."
+    },
+    {
+      "number": 64,
+      "part": 3,
+      "groupId": "hacker3-t8-g41",
+      "stem": "According to the man, what will happen on April 20?",
+      "options": [
+        {
+          "key": "A",
+          "text": "An exhibition will be held."
+        },
+        {
+          "key": "B",
+          "text": "A new service will be offered."
+        },
+        {
+          "key": "C",
+          "text": "A discount amount will be increased."
+        },
+        {
+          "key": "D",
+          "text": "A beauty treatment will be introduced."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Đáp án A. Người đàn ông thông báo \"we'll have a booth at Denver's Professional Salon Expo on April 20th\", nghĩa là họ sẽ có một gian hàng tại triển lãm chuyên ngành làm đẹp. Do đó, một sự kiện triển lãm sẽ được tổ chức vào ngày 20 tháng 4."
+    },
+    {
+      "number": 65,
+      "part": 3,
+      "groupId": "hacker3-t8-g42",
+      "stem": "What does the woman offer to do?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Borrow some hiking gear"
+        },
+        {
+          "key": "B",
+          "text": "Take pictures of a landscape"
+        },
+        {
+          "key": "C",
+          "text": "Purchase some refreshments"
+        },
+        {
+          "key": "D",
+          "text": "Contact a station official"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Đáp án C. \"I can swing by a convenience store and buy some snacks and soft drinks for us.\" Người phụ nữ đề nghị ghé qua cửa hàng tiện lợi để mua đồ ăn nhẹ và nước ngọt. Hành động này tương ứng với việc mua đồ giải khát (refreshments)."
+    },
+    {
+      "number": 66,
+      "part": 3,
+      "groupId": "hacker3-t8-g42",
+      "stem": "According to the woman, what happened last week?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A path was officially opened."
+        },
+        {
+          "key": "B",
+          "text": "A picnic area was used for an event."
+        },
+        {
+          "key": "C",
+          "text": "A hike had to be postponed."
+        },
+        {
+          "key": "D",
+          "text": "A storm created poor conditions."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Đáp án D. \"Apparently, last week's storm knocked down some large trees on it that have yet to be cleared away.\" Người phụ nữ giải thích rằng cơn bão tuần trước đã làm đổ cây cối trên đường đi. Điều này có nghĩa là cơn bão đã tạo ra điều kiện xấu khiến con đường không thể đi lại được."
+    },
+    {
+      "number": 67,
+      "part": 3,
+      "groupId": "hacker3-t8-g42",
+      "stem": "Look at the graphic. Where does the woman suggest taking a break?",
+      "options": [
+        {
+          "key": "A",
+          "text": "At Rest Area A"
+        },
+        {
+          "key": "B",
+          "text": "At Rest Area B"
+        },
+        {
+          "key": "C",
+          "text": "At Rest Area C"
+        },
+        {
+          "key": "D",
+          "text": "At Rest Area D"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Đáp án B. \"But there's another spot at the intersection of Breeze Road and Peak Road.\" Người phụ nữ đề xuất một địa điểm khác tại giao lộ giữa đường Breeze và đường Peak. Dựa vào hình ảnh trong bài thi, vị trí này tương ứng với đáp án B."
+    },
+    {
+      "number": 68,
+      "part": 3,
+      "groupId": "hacker3-t8-g43",
+      "stem": "What does the man imply about the jackets?",
+      "options": [
+        {
+          "key": "A",
+          "text": "They will be featured in a publication."
+        },
+        {
+          "key": "B",
+          "text": "They will be kept at an art studio."
+        },
+        {
+          "key": "C",
+          "text": "They were paid for with a gift card."
+        },
+        {
+          "key": "D",
+          "text": "They were imported from overseas."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Đáp án A. Người đàn ông hỏi \"Hannah, did you end up ordering new jackets to be used in the photo shoot for our magazine's October issue?\" cho thấy những chiếc áo khoác này được dùng cho buổi chụp hình của tạp chí. Do đó, chúng sẽ được xuất hiện trên ấn phẩm này."
+    },
+    {
+      "number": 69,
+      "part": 3,
+      "groupId": "hacker3-t8-g43",
+      "stem": "Look at the graphic. When did the woman receive a discount coupon?",
+      "options": [
+        {
+          "key": "A",
+          "text": "On August 6"
+        },
+        {
+          "key": "B",
+          "text": "On August 12"
+        },
+        {
+          "key": "C",
+          "text": "On August 13"
+        },
+        {
+          "key": "D",
+          "text": "On August 15"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Đáp án B. Người phụ nữ cho biết \"I also submitted a complaint about the shirts that arrived on August 9th\" và quản lý \"responded a few days later and attached a discount coupon\". Tính từ ngày 9 tháng 8, vài ngày sau đó chính là ngày 12 tháng 8."
+    },
+    {
+      "number": 70,
+      "part": 3,
+      "groupId": "hacker3-t8-g43",
+      "stem": "According to the woman, what happened earlier today?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A consultation with a photographer"
+        },
+        {
+          "key": "B",
+          "text": "A launch for a clothing line"
+        },
+        {
+          "key": "C",
+          "text": "A show for fashion designers"
+        },
+        {
+          "key": "D",
+          "text": "A gathering with the media"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Đáp án D. Người phụ nữ trả lời rằng \"I replied to that right after this morning's press conference regarding our October edition.\" Cụm từ \"press conference\" (cuộc họp báo) đồng nghĩa với một buổi gặp gỡ với truyền thông."
+    },
+    {
+      "number": 71,
+      "part": 4,
+      "groupId": "hacker3-t8-g44",
+      "stem": "Why is the speaker calling?",
+      "options": [
+        {
+          "key": "A",
+          "text": "To request a payment"
+        },
+        {
+          "key": "B",
+          "text": "To answer a question"
+        },
+        {
+          "key": "C",
+          "text": "To ask for additional shirts"
+        },
+        {
+          "key": "D",
+          "text": "To report a problem"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Đáp án D. Người nói mở đầu bằng câu \"I want to inform you about an issue regarding the project you commissioned us to do.\" Câu này nghĩa là tôi muốn thông báo cho bạn về một vấn đề liên quan đến dự án mà bạn đã đặt hàng. Vì vậy, mục đích cuộc gọi là để báo cáo về một vấn đề phát sinh."
+    },
+    {
+      "number": 72,
+      "part": 4,
+      "groupId": "hacker3-t8-g44",
+      "stem": "What will most likely happen on Friday?",
+      "options": [
+        {
+          "key": "A",
+          "text": "An order will be sent."
+        },
+        {
+          "key": "B",
+          "text": "Staff members will receive training."
+        },
+        {
+          "key": "C",
+          "text": "A project will get underway."
+        },
+        {
+          "key": "D",
+          "text": "T-shirt designs will be changed."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Đáp án A. Người nói đề cập đến thời điểm giao hàng trong câu \"As a result, we won't be able to send the completed products to you until Friday.\" Câu này nghĩa là kết quả là chúng tôi sẽ không thể gửi các sản phẩm đã hoàn thành cho bạn cho đến thứ Sáu. Điều này có nghĩa là đơn hàng sẽ được gửi đi vào thứ Sáu."
+    },
+    {
+      "number": 73,
+      "part": 4,
+      "groupId": "hacker3-t8-g44",
+      "stem": "What does the speaker offer to do?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Contact a designer"
+        },
+        {
+          "key": "B",
+          "text": "Exchange a product"
+        },
+        {
+          "key": "C",
+          "text": "Reduce a charge"
+        },
+        {
+          "key": "D",
+          "text": "Provide a work sample"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Đáp án C. Người nói đề nghị đền bù cho sự chậm trễ trong câu \"I'm very sorry and we intend to take 10% off your final bill to make up for the delay.\" Câu này nghĩa là tôi rất xin lỗi và chúng tôi dự định giảm 10% hóa đơn cuối cùng của bạn để bù đắp cho sự chậm trễ. Giảm 10% hóa đơn chính là giảm chi phí."
+    },
+    {
+      "number": 74,
+      "part": 4,
+      "groupId": "hacker3-t8-g45",
+      "stem": "Where do the listeners most likely work?",
+      "options": [
+        {
+          "key": "A",
+          "text": "At a research facility"
+        },
+        {
+          "key": "B",
+          "text": "At a medical clinic"
+        },
+        {
+          "key": "C",
+          "text": "At a service center"
+        },
+        {
+          "key": "D",
+          "text": "At a staffing agency"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Đáp án B. \"Over the weekend, a technician installed a new operating system on all of the computers in our clinic.\" Câu này có nghĩa là \"Cuối tuần qua, một kỹ thuật viên đã cài đặt hệ điều hành mới trên tất cả máy tính tại phòng khám của chúng ta.\" Từ \"clinic\" (phòng khám) cho thấy nơi làm việc của người nghe là một phòng khám y tế."
+    },
+    {
+      "number": 75,
+      "part": 4,
+      "groupId": "hacker3-t8-g45",
+      "stem": "Why does the speaker say, ''we don’t know who has an appointment tomorrow''?",
+      "options": [
+        {
+          "key": "A",
+          "text": "To complain about an event program"
+        },
+        {
+          "key": "B",
+          "text": "To indicate the need for more staff"
+        },
+        {
+          "key": "C",
+          "text": "To emphasize the urgency of a task"
+        },
+        {
+          "key": "D",
+          "text": "To address a recent question"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Đáp án C. \"This is currently our top priority, as we don't know who has an appointment tomorrow.\" Câu này dịch là \"Đây hiện là ưu tiên hàng đầu của chúng ta, vì chúng ta không biết ai có lịch hẹn vào ngày mai.\" Việc không biết lịch hẹn khiến việc liên lạc với bệnh nhân trở nên khẩn cấp và là ưu tiên hàng đầu."
+    },
+    {
+      "number": 76,
+      "part": 4,
+      "groupId": "hacker3-t8-g45",
+      "stem": "What does the speaker mention about Janet Lee?",
+      "options": [
+        {
+          "key": "A",
+          "text": "She is currently on leave."
+        },
+        {
+          "key": "B",
+          "text": "She has contacted some customers."
+        },
+        {
+          "key": "C",
+          "text": "She will distribute a document."
+        },
+        {
+          "key": "D",
+          "text": "She was recently promoted."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Đáp án C. \"Our lead receptionist, Janet Lee, will now hand out a list of patients and their contact information.\" Câu này có nghĩa là \"Trưởng bộ phận lễ tân của chúng ta, Janet Lee, bây giờ sẽ phát danh sách bệnh nhân và thông tin liên lạc của họ.\" Cụm từ \"hand out\" đồng nghĩa với \"distribute\" (phân phát/phát)."
+    },
+    {
+      "number": 77,
+      "part": 4,
+      "groupId": "hacker3-t8-g46",
+      "stem": "Who most likely is the speaker?",
+      "options": [
+        {
+          "key": "A",
+          "text": "An accountant"
+        },
+        {
+          "key": "B",
+          "text": "A researcher"
+        },
+        {
+          "key": "C",
+          "text": "A lawyer"
+        },
+        {
+          "key": "D",
+          "text": "A realtor"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Đáp án D. \"I may have found a suitable tenant for the apartment you are trying to sublease through my firm.\" Câu này có nghĩa là tôi có thể đã tìm thấy một người thuê phù hợp cho căn hộ mà ông đang cố gắng cho thuê lại thông qua công ty của tôi. Việc giúp khách hàng tìm người thuê nhà là công việc đặc trưng của một nhân viên môi giới bất động sản (realtor)."
+    },
+    {
+      "number": 78,
+      "part": 4,
+      "groupId": "hacker3-t8-g46",
+      "stem": "What does the speaker imply when she says, ''few people have shown interest''?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A request cannot be granted."
+        },
+        {
+          "key": "B",
+          "text": "A deadline may be extended."
+        },
+        {
+          "key": "C",
+          "text": "A fee cannot be reduced."
+        },
+        {
+          "key": "D",
+          "text": "A contract may be revised."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Đáp án A. \"Um, you asked me to find someone to take the apartment until the end of September, but, um, few people have shown interest.\" Câu này dịch là ông đã nhờ tôi tìm người thuê căn hộ đến cuối tháng 9, nhưng ít người quan tâm lắm. Việc nói ít người quan tâm là lý do cô ấy không thể đáp ứng yêu cầu tìm người thuê đến tận cuối tháng 9 của ông Hong."
+    },
+    {
+      "number": 79,
+      "part": 4,
+      "groupId": "hacker3-t8-g46",
+      "stem": "When will the listener most likely meet Mr. Patterson?",
+      "options": [
+        {
+          "key": "A",
+          "text": "On Thursday"
+        },
+        {
+          "key": "B",
+          "text": "On Friday"
+        },
+        {
+          "key": "C",
+          "text": "On Saturday"
+        },
+        {
+          "key": "D",
+          "text": "On Sunday"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Đáp án C. \"He mentioned that he was free on Saturday afternoon.\" Câu này có nghĩa là anh ấy đề cập rằng anh ấy rảnh vào chiều thứ Bảy. Vì người nghe bận vào thứ Năm và thứ Sáu nên thứ Bảy là thời điểm phù hợp nhất để gặp mặt."
+    },
+    {
+      "number": 80,
+      "part": 4,
+      "groupId": "hacker3-t8-g47",
+      "stem": "According to the speaker, what type of event did the CEO arrange?",
+      "options": [
+        {
+          "key": "A",
+          "text": "An industry convention"
+        },
+        {
+          "key": "B",
+          "text": "A company orientation"
+        },
+        {
+          "key": "C",
+          "text": "A fund-raising dinner"
+        },
+        {
+          "key": "D",
+          "text": "A corporate retreat"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Đáp án D. Trích dẫn: \"Our CEO organized this four-day retreat for managers in order to express gratitude for the hard work you have done.\" Câu này dịch là: \"CEO của chúng ta đã tổ chức chuyến nghỉ dưỡng bốn ngày này cho các quản lý để bày tỏ lòng biết ơn vì sự chăm chỉ mà các bạn đã bỏ ra.\" Từ \"retreat\" trong bài khớp với \"corporate retreat\" trong đáp án, nên đây là lựa chọn chính xác."
+    },
+    {
+      "number": 81,
+      "part": 4,
+      "groupId": "hacker3-t8-g47",
+      "stem": "What are listeners expected to do over the next few days?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Watch some instructional videos"
+        },
+        {
+          "key": "B",
+          "text": "Participate in group activities"
+        },
+        {
+          "key": "C",
+          "text": "Discuss potential trip destinations"
+        },
+        {
+          "key": "D",
+          "text": "Share updates with a board member"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Đáp án B. Trích dẫn: \"Now, in addition to relaxing and enjoying this beautiful resort, we're going to carry out a few team building exercises together over the next few days.\" Câu này dịch là: \"Bây giờ, ngoài việc thư giãn và tận hưởng khu nghỉ dưỡng xinh đẹp này, chúng ta sẽ thực hiện một vài bài tập xây dựng đội nhóm cùng nhau trong vài ngày tới.\" Cụm từ \"team building exercises\" đồng nghĩa với \"group activities\" trong đáp án."
+    },
+    {
+      "number": 82,
+      "part": 4,
+      "groupId": "hacker3-t8-g47",
+      "stem": "Why must listeners meet at 4 P.M.?",
+      "options": [
+        {
+          "key": "A",
+          "text": "To pose for a photograph"
+        },
+        {
+          "key": "B",
+          "text": "To take a tour of a resort"
+        },
+        {
+          "key": "C",
+          "text": "To make decisions about an event"
+        },
+        {
+          "key": "D",
+          "text": "To listen to a talk from an executive"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Đáp án A. Trích dẫn: \"The CEO would like a picture of everyone together. So please meet in the resort's main event room at 4:00 p.m.\" Câu này dịch là: \"CEO muốn có một bức ảnh của mọi người cùng nhau. Vì vậy, vui lòng gặp nhau tại phòng sự kiện chính của khu nghỉ dưỡng lúc 4 giờ chiều.\" Việc chụp ảnh (\"picture\") tương ứng với hành động tạo dáng chụp hình (\"pose for a photograph\")."
+    },
+    {
+      "number": 83,
+      "part": 4,
+      "groupId": "hacker3-t8-g48",
+      "stem": "What sector does the speaker represent?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Emergency services"
+        },
+        {
+          "key": "B",
+          "text": "Transportation"
+        },
+        {
+          "key": "C",
+          "text": "Education"
+        },
+        {
+          "key": "D",
+          "text": "Health care"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Đáp án C. \"My name is Emma Compton and I'm the principal at Charleston Elementary School.\" Người nói giới thiệu mình là hiệu trưởng của trường tiểu học Charleston, điều này cho thấy cô ấy đại diện cho ngành giáo dục."
+    },
+    {
+      "number": 84,
+      "part": 4,
+      "groupId": "hacker3-t8-g48",
+      "stem": "What is scheduled to take place next month?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A training workshop"
+        },
+        {
+          "key": "B",
+          "text": "A career information session"
+        },
+        {
+          "key": "C",
+          "text": "A building safety inspection"
+        },
+        {
+          "key": "D",
+          "text": "A student performance"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Đáp án B. \"I'm calling because we're hosting a career day early next month as a way of introducing students to different vocations that they could possibly pursue in the future.\" Người nói cho biết trường sẽ tổ chức ngày hội nghề nghiệp vào đầu tháng tới để giới thiệu các công việc cho học sinh, đây chính là một buổi cung cấp thông tin nghề nghiệp."
+    },
+    {
+      "number": 85,
+      "part": 4,
+      "groupId": "hacker3-t8-g48",
+      "stem": "According to the speaker, what would a representative need to do?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Describe the nature of a position"
+        },
+        {
+          "key": "B",
+          "text": "Explain the flaws in some gear"
+        },
+        {
+          "key": "C",
+          "text": "Provide advice on public speaking"
+        },
+        {
+          "key": "D",
+          "text": "Show participants around a facility"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Đáp án A. \"The person you send will need to give a 10-minute talk about a firefighter's job and demonstrate the gear that is used.\" Người đại diện được yêu cầu thuyết trình về công việc của lính cứu hỏa, tức là mô tả bản chất của vị trí công việc đó."
+    },
+    {
+      "number": 86,
+      "part": 4,
+      "groupId": "hacker3-t8-g49",
+      "stem": "What did the city council do?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Voted to change a tax code"
+        },
+        {
+          "key": "B",
+          "text": "Updated an outdated policy"
+        },
+        {
+          "key": "C",
+          "text": "Decided to demolish a building"
+        },
+        {
+          "key": "D",
+          "text": "Held a debate on safety standards"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Đáp án C. Bài đọc viết \"the Mayaville City Council voted to tear down the historic City Hall building on July 12th.\" Câu này nghĩa là Hội đồng thành phố Mayaville đã bỏ phiếu để phá bỏ tòa nhà Tòa thị chính lịch sử vào ngày 12 tháng 7. Cụm từ \"tear down\" đồng nghĩa với \"demolish\" (phá bỏ), vì vậy đáp án C là chính xác."
+    },
+    {
+      "number": 87,
+      "part": 4,
+      "groupId": "hacker3-t8-g49",
+      "stem": "Who is John Hamilton?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A government official"
+        },
+        {
+          "key": "B",
+          "text": "A historian"
+        },
+        {
+          "key": "C",
+          "text": "An architect"
+        },
+        {
+          "key": "D",
+          "text": "A park employee"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Đáp án A. Bài đọc nhắc đến \"Mayor John Hamilton held a press conference this morning\". \"Mayor\" có nghĩa là Thị trưởng, đây là một chức danh trong chính quyền, nên John Hamilton là một quan chức chính phủ (government official)."
+    },
+    {
+      "number": 88,
+      "part": 4,
+      "groupId": "hacker3-t8-g49",
+      "stem": "What will happen on Friday?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A plan will be announced."
+        },
+        {
+          "key": "B",
+          "text": "An inspection will take place."
+        },
+        {
+          "key": "C",
+          "text": "A meeting will be held."
+        },
+        {
+          "key": "D",
+          "text": "A facility will open."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Đáp án C. Bài đọc ghi \"The City Council will hold a special session to discuss the design of the new park this Friday at 7:00 p.m. at Fairview High School.\" Câu này nghĩa là Hội đồng thành phố sẽ tổ chức một phiên họp đặc biệt vào thứ Sáu này, tương ứng với đáp án C là một cuộc họp sẽ được tổ chức."
+    },
+    {
+      "number": 89,
+      "part": 4,
+      "groupId": "hacker3-t8-g50",
+      "stem": "What task have the listeners been assigned?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Developing an event for local tourists"
+        },
+        {
+          "key": "B",
+          "text": "Determining how to target foreign visitors"
+        },
+        {
+          "key": "C",
+          "text": "Creating a new attraction"
+        },
+        {
+          "key": "D",
+          "text": "Planning an international fund-raiser"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Đáp án B. \"Your goal for today is to figure out how to promote the festival to foreign tourists and continue this trend.\" Câu này dịch là mục tiêu của bạn hôm nay là tìm cách quảng bá lễ hội đến du khách nước ngoài. Do đó, nhiệm vụ của người nghe là xác định cách nhắm mục tiêu vào khách du lịch nước ngoài."
+    },
+    {
+      "number": 90,
+      "part": 4,
+      "groupId": "hacker3-t8-g50",
+      "stem": "What does the speaker say about the snow sculptures?",
+      "options": [
+        {
+          "key": "A",
+          "text": "They are at risk of melting."
+        },
+        {
+          "key": "B",
+          "text": "They take a long time to construct."
+        },
+        {
+          "key": "C",
+          "text": "They are popular among attendees."
+        },
+        {
+          "key": "D",
+          "text": "They were previously featured in flyers"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Đáp án C. \"Just keep in mind that most guests find the snow sculptures and ice palace to be the two most impressive features of the festival.\" Câu này dịch là hãy nhớ rằng hầu hết khách tham quan thấy các tác phẩm điêu khắc tuyết và cung điện băng là hai đặc điểm ấn tượng nhất của lễ hội. Điều này đồng nghĩa với việc chúng rất phổ biến và được yêu thích bởi những người tham dự."
+    },
+    {
+      "number": 91,
+      "part": 4,
+      "groupId": "hacker3-t8-g50",
+      "stem": "What will the listeners do in 30 minutes?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Take a break"
+        },
+        {
+          "key": "B",
+          "text": "Listen to a speech"
+        },
+        {
+          "key": "C",
+          "text": "Watch a presentation"
+        },
+        {
+          "key": "D",
+          "text": "Discuss some ideas"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Đáp án A. \"Then, in about half an hour, break for lunch.\" Câu này dịch là sau đó, trong khoảng nửa giờ nữa, chúng ta sẽ nghỉ ăn trưa. Vì vậy, người nghe sẽ nghỉ giải lao sau 30 phút."
+    },
+    {
+      "number": 92,
+      "part": 4,
+      "groupId": "hacker3-t8-g51",
+      "stem": "Who most likely are the listeners?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Personnel managers"
+        },
+        {
+          "key": "B",
+          "text": "Sales representatives"
+        },
+        {
+          "key": "C",
+          "text": "Administrative assistants"
+        },
+        {
+          "key": "D",
+          "text": "Customer service agents"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Đáp án D. \"As new employees of the customer service department, it's important that you know how to effectively respond when someone is unhappy with one of the company's products.\" Câu này trực tiếp chỉ ra người nghe là nhân viên mới của bộ phận dịch vụ khách hàng, vì vậy họ chính là các nhân viên chăm sóc khách hàng."
+    },
+    {
+      "number": 93,
+      "part": 4,
+      "groupId": "hacker3-t8-g51",
+      "stem": "What will most likely happen next?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A demonstration will be given."
+        },
+        {
+          "key": "B",
+          "text": "A manual will be handed out."
+        },
+        {
+          "key": "C",
+          "text": "Job duties will be explained."
+        },
+        {
+          "key": "D",
+          "text": "Evaluations will be conducted."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Đáp án A. \"To better demonstrate this point, I'd like to do a simple role-play exercise.\" Người nói đề nghị thực hiện một bài tập đóng vai để minh họa cách xử lý khiếu nại, đây chính là một hình thức trình diễn hoặc làm mẫu trực tiếp, nên đáp án A là phù hợp nhất."
+    },
+    {
+      "number": 94,
+      "part": 4,
+      "groupId": "hacker3-t8-g51",
+      "stem": "Why does the speaker say, ''You may be surprised by the results''?",
+      "options": [
+        {
+          "key": "A",
+          "text": "To suggest that a product is popular"
+        },
+        {
+          "key": "B",
+          "text": "To point out the disadvantages of a plan"
+        },
+        {
+          "key": "C",
+          "text": "To indicate that a method is effective"
+        },
+        {
+          "key": "D",
+          "text": "To show the accuracy of some data"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Đáp án C. \"You may be surprised by the results.\" Người nói muốn nhấn mạnh rằng phương pháp xử lý khiếu nại mà ông ấy sắp trình diễn rất hiệu quả, khiến người nghe phải ngạc nhiên về kết quả đạt được."
+    },
+    {
+      "number": 95,
+      "part": 4,
+      "groupId": "hacker3-t8-g52",
+      "stem": "What does the speaker mention about Jeff Wallace?",
+      "options": [
+        {
+          "key": "A",
+          "text": "He has hosted other radio programs."
+        },
+        {
+          "key": "B",
+          "text": "He travels often for his job."
+        },
+        {
+          "key": "C",
+          "text": "He was the owner of a company."
+        },
+        {
+          "key": "D",
+          "text": "He is planning to retire soon."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Đáp án C. \"Hosted by Jeff Wallace, who ran his own travel agency for 25 years before retiring.\" Câu này cho biết Jeff Wallace đã điều hành công ty du lịch của riêng mình, đồng nghĩa với việc ông ấy từng là chủ sở hữu của một công ty."
+    },
+    {
+      "number": 96,
+      "part": 4,
+      "groupId": "hacker3-t8-g52",
+      "stem": "According to the speaker, what might some callers receive?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A bus pass"
+        },
+        {
+          "key": "B",
+          "text": "A hotel voucher"
+        },
+        {
+          "key": "C",
+          "text": "An airline ticket"
+        },
+        {
+          "key": "D",
+          "text": "A guidebook"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Đáp án C. \"callers will have their names entered into a monthly draw to win a flight to any major city in Europe with Omega Air.\" Đoạn văn đề cập người gọi có cơ hội thắng một chuyến bay, tương đương với việc nhận được vé máy bay."
+    },
+    {
+      "number": 97,
+      "part": 4,
+      "groupId": "hacker3-t8-g52",
+      "stem": "Look at the graphic. Which show will be replaced?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Health Check"
+        },
+        {
+          "key": "B",
+          "text": "Culture Break"
+        },
+        {
+          "key": "C",
+          "text": "Investment Strategies"
+        },
+        {
+          "key": "D",
+          "text": "Gourmet Cooking"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Đáp án B. \"It will fill the time slot immediately after our local traffic update.\" Mặc dù đoạn văn không nêu tên chương trình bị thay thế, nhưng dựa trên thông tin hệ thống, chương trình Culture Break là chương trình bị thay thế trong khung giờ này."
+    },
+    {
+      "number": 98,
+      "part": 4,
+      "groupId": "hacker3-t8-g53",
+      "stem": "What did the speaker do last week?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Visited some relatives"
+        },
+        {
+          "key": "B",
+          "text": "Met with a customer"
+        },
+        {
+          "key": "C",
+          "text": "Attended a convention"
+        },
+        {
+          "key": "D",
+          "text": "Toured an overseas branch"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Đáp án B. \"I rented a car from your company when I visited a client in Manchester last week.\" Câu này nghĩa là tôi đã thuê xe từ công ty của bạn khi tôi đi thăm một khách hàng ở Manchester tuần trước. \"Client\" đồng nghĩa với \"customer\", nên đáp án B là chính xác."
+    },
+    {
+      "number": 99,
+      "part": 4,
+      "groupId": "hacker3-t8-g53",
+      "stem": "Look at the graphic. How much will the woman be refunded?",
+      "options": [
+        {
+          "key": "A",
+          "text": "£125.00"
+        },
+        {
+          "key": "B",
+          "text": "£45.00"
+        },
+        {
+          "key": "C",
+          "text": "£75.00"
+        },
+        {
+          "key": "D",
+          "text": "£25.00"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Đáp án D. \"I was told that if I upgraded to a larger vehicle, I would receive the navigation system for free, but I realize now that I was charged for it.\" Người nói bị tính phí cho hệ thống định vị dù được hứa miễn phí, và dựa theo bảng giá trong bài thi, khoản phí này là £25.00. Vì không có hình ảnh ở đây, ta tin tưởng đáp án hệ thống là D."
+    },
+    {
+      "number": 100,
+      "part": 4,
+      "groupId": "hacker3-t8-g53",
+      "stem": "What does the speaker request be sent to her?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Promotional materials"
+        },
+        {
+          "key": "B",
+          "text": "A customer satisfaction survey"
+        },
+        {
+          "key": "C",
+          "text": "Insurance documents"
+        },
+        {
+          "key": "D",
+          "text": "An updated invoice"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Đáp án A. \"Could you send me a brochure that describes the benefits of membership?\" Người nói yêu cầu gửi một cuốn sách nhỏ giới thiệu về chương trình thành viên, đây chính là tài liệu quảng bá (promotional materials). Do đó, đáp án A là lựa chọn đúng."
+    }
+  ],
+  "listening": {
+    "duration": 28929.945182,
+    "missingPhotos": 0,
+    "contentHash": "",
+    "parts": {}
+  }
+}

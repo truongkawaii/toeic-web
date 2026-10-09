@@ -1,0 +1,3597 @@
+{
+  "id": "ets2022-t2",
+  "year": 2022,
+  "number": 2,
+  "title": "ETS 2022 · Test 2",
+  "source": "ETS 2022",
+  "groups": [
+    {
+      "id": "ets2022-t2-g0",
+      "from": 1,
+      "to": 1,
+      "part": 1,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q1.aac",
+        "conversationAudio": "/courses/ets2022-t2/q1.aac",
+        "duration": 25.425035,
+        "instructions": "",
+        "transcript": "(A) He's folding some clothes.\n(B) He's looking into a laundry cart.\n(C) He's removing some clothes from hangers.\n(D) He's standing in front of a washing machine.",
+        "speakers": {},
+        "image": "/courses/ets2022-t2/q1.png",
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g1",
+      "from": 2,
+      "to": 2,
+      "part": 1,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q2.aac",
+        "conversationAudio": "/courses/ets2022-t2/q2.aac",
+        "duration": 25.344958,
+        "instructions": "",
+        "transcript": "(A) The man is leaning against a doorway.\n(B) The man is opening up a package.\n(C) One of the women is plugging in a printer.\n(D) One of the women is wearing glasses.",
+        "speakers": {},
+        "image": "/courses/ets2022-t2/q2.png",
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g2",
+      "from": 3,
+      "to": 3,
+      "part": 1,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q3.aac",
+        "conversationAudio": "/courses/ets2022-t2/q3.aac",
+        "duration": 25.398878,
+        "instructions": "",
+        "transcript": "(A) She is attaching price tags to some merchandise.\n(B) She is piling up some boxes.\n(C) She is holding up some fruit.\n(D) She is throwing away a plastic bag.",
+        "speakers": {},
+        "image": "/courses/ets2022-t2/q3.png",
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g3",
+      "from": 4,
+      "to": 4,
+      "part": 1,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q4.aac",
+        "conversationAudio": "/courses/ets2022-t2/q4.aac",
+        "duration": 27.366023,
+        "instructions": "",
+        "transcript": "(A) A jacket has been placed on the ground.\n(B) A man is watering some flowers.\n(C) A garden has been planted outside of a building.\n(D) A man is putting some tools in a toolbox.",
+        "speakers": {},
+        "image": "/courses/ets2022-t2/q4.png",
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g4",
+      "from": 5,
+      "to": 5,
+      "part": 1,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q5.aac",
+        "conversationAudio": "/courses/ets2022-t2/q5.aac",
+        "duration": 28.27428,
+        "instructions": "",
+        "transcript": "(A) Some chairs are stacked in the corner.\n(B) Some light fixtures are mounted on the walls.\n(C) Some tables are covered with tablecloths.\n(D) Some furniture is on display in a window.",
+        "speakers": {},
+        "image": "/courses/ets2022-t2/q5.png",
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g5",
+      "from": 6,
+      "to": 6,
+      "part": 1,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q6.aac",
+        "conversationAudio": "/courses/ets2022-t2/q6.aac",
+        "duration": 30.975377,
+        "instructions": "",
+        "transcript": "(A) One of the employees is walking with an empty tray.\n(B) One of the employees is taping signs to a board.\n(C) One of the employees is carrying a pair of scissors.\n(D) One of the employees is hanging an apron on a hook.",
+        "speakers": {},
+        "image": "/courses/ets2022-t2/q6.png",
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g6",
+      "from": 7,
+      "to": 7,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q7.aac",
+        "conversationAudio": "/courses/ets2022-t2/q7.aac",
+        "duration": 18.586963,
+        "instructions": "",
+        "transcript": "Who should write the press release?\n(A) George can take care of that.\n(B) Press the red button.\n(C) At the corner newsstand.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g7",
+      "from": 8,
+      "to": 8,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q8.aac",
+        "conversationAudio": "/courses/ets2022-t2/q8.aac",
+        "duration": 19.238026,
+        "instructions": "",
+        "transcript": "Where is the company's headquarters?\n(A) Before we went to work.\n(B) His name is Mr. Lee.\n(C) In Berlin, Germany.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g8",
+      "from": 9,
+      "to": 9,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q9.aac",
+        "conversationAudio": "/courses/ets2022-t2/q9.aac",
+        "duration": 19.206282,
+        "instructions": "",
+        "transcript": "Why are you visiting the clients tomorrow?\n(A) After two o'clock.\n(B) I need to renew their contract.\n(C) The Dubai airport.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g9",
+      "from": 10,
+      "to": 10,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q10.aac",
+        "conversationAudio": "/courses/ets2022-t2/q10.aac",
+        "duration": 20.995105,
+        "instructions": "",
+        "transcript": "Does Dr. Allen work at the hospital or at a private practice?\n(A) At the hospital, I think.\n(B) We'll need to practice that.\n(C) An annual exam.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g10",
+      "from": 11,
+      "to": 11,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q11.aac",
+        "conversationAudio": "/courses/ets2022-t2/q11.aac",
+        "duration": 21.328501,
+        "instructions": "",
+        "transcript": "What's the best way for us to get to the conference center?\n(A) I haven't heard from her, either.\n(B) It was a great presentation.\n(C) Let's take a look at the train schedule.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g11",
+      "from": 12,
+      "to": 12,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q12.aac",
+        "conversationAudio": "/courses/ets2022-t2/q12.aac",
+        "duration": 18.576825,
+        "instructions": "",
+        "transcript": "When will the forklift be repaired?\n(A) A fork and a knife, please.\n(B) Probably next week.\n(C) Several pairs.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g12",
+      "from": 13,
+      "to": 13,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q13.aac",
+        "conversationAudio": "/courses/ets2022-t2/q13.aac",
+        "duration": 20.237698,
+        "instructions": "",
+        "transcript": "Would you like me to send you an appointment reminder?\n(A) Yes, I'd appreciate that.\n(B) The apartment downstairs.\n(C) Do you accept credit cards?",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g13",
+      "from": 14,
+      "to": 14,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q14.aac",
+        "conversationAudio": "/courses/ets2022-t2/q14.aac",
+        "duration": 20.019236,
+        "instructions": "",
+        "transcript": "Did you remember to book a photographer for today's museum opening?\n(A) Oh, have you read it too?\n(B) I'd like to have it framed.\n(C) She should have been here by now.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g14",
+      "from": 15,
+      "to": 15,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q15.aac",
+        "conversationAudio": "/courses/ets2022-t2/q15.aac",
+        "duration": 21.296837,
+        "instructions": "",
+        "transcript": "Why is my computer so slow today?\n(A) The printer is down that hall.\n(B) Because some updates are being installed.\n(C) Next year's computer seminar.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g15",
+      "from": 16,
+      "to": 16,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q16.aac",
+        "conversationAudio": "/courses/ets2022-t2/q16.aac",
+        "duration": 21.296837,
+        "instructions": "",
+        "transcript": "Who's going to stock these shelves?\n(A) The overnight workers will do it.\n(B) No, I haven't gone yet.\n(C) To make room for more items.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g16",
+      "from": 17,
+      "to": 17,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q17.aac",
+        "conversationAudio": "/courses/ets2022-t2/q17.aac",
+        "duration": 20.147233,
+        "instructions": "",
+        "transcript": "How many bottles can these machines produce each hour?\n(A) Mainly soft drinks and juices.\n(B) I just started working here.\n(C) It stays fresh for a long time.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g17",
+      "from": 18,
+      "to": 18,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q18.aac",
+        "conversationAudio": "/courses/ets2022-t2/q18.aac",
+        "duration": 22.024873,
+        "instructions": "",
+        "transcript": "Aren't these hiking boots supposed to be discounted?\n(A) Oh yes, sorry about that.\n(B) Let's pose for a picture.\n(C) No, we haven't met yet.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g18",
+      "from": 19,
+      "to": 19,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q19.aac",
+        "conversationAudio": "/courses/ets2022-t2/q19.aac",
+        "duration": 21.050188,
+        "instructions": "",
+        "transcript": "Do we have enough time to finish this report?\n(A) She borrowed your newspaper.\n(B) I'll reschedule my next appointment.\n(C) It's a beautiful trail.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g19",
+      "from": 20,
+      "to": 20,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q20.aac",
+        "conversationAudio": "/courses/ets2022-t2/q20.aac",
+        "duration": 24.049936,
+        "instructions": "",
+        "transcript": "When do you usually start packing for a trip?\n(A) A round-trip ticket.\n(B) About two days in advance.\n(C) They delivered the package.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g20",
+      "from": 21,
+      "to": 21,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q21.aac",
+        "conversationAudio": "/courses/ets2022-t2/q21.aac",
+        "duration": 21.02461,
+        "instructions": "",
+        "transcript": "I'm going to take a walk at lunchtime.\n(A) Oh, I'll be visiting clients then.\n(B) He took the survey.\n(C) A copy of the lunch menu.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g21",
+      "from": 22,
+      "to": 22,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q22.aac",
+        "conversationAudio": "/courses/ets2022-t2/q22.aac",
+        "duration": 22.595912,
+        "instructions": "",
+        "transcript": "Can you make sure we have a sign-up sheet available?\n(A) I just turned up the heat.\n(B) Sign here, please.\n(C) Sure, no problem.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g22",
+      "from": 23,
+      "to": 23,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q23.aac",
+        "conversationAudio": "/courses/ets2022-t2/q23.aac",
+        "duration": 21.604422,
+        "instructions": "",
+        "transcript": "They're going to give each of us copies of the press release, aren't they?\n(A) No, I don't drink coffee.\n(B) I can unlock that for you later.\n(C) I'd better remind them about that.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g23",
+      "from": 24,
+      "to": 24,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q24.aac",
+        "conversationAudio": "/courses/ets2022-t2/q24.aac",
+        "duration": 24.09699,
+        "instructions": "",
+        "transcript": "What do most people do for a living around here?\n(A) About 40 kilometers away.\n(B) They work at the car manufacturing plant.\n(C) Yes, the living room furniture's new.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g24",
+      "from": 25,
+      "to": 25,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q25.aac",
+        "conversationAudio": "/courses/ets2022-t2/q25.aac",
+        "duration": 22.95515,
+        "instructions": "",
+        "transcript": "How do you add toner to the printer?\n(A) No, it's not made of stone.\n(B) Because we ran out.\n(C) The instructions are on the box.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g25",
+      "from": 26,
+      "to": 26,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q26.aac",
+        "conversationAudio": "/courses/ets2022-t2/q26.aac",
+        "duration": 19.687924,
+        "instructions": "",
+        "transcript": "Can you send me a link to that company's Web site?\n(A) Our e-mail's not working right now.\n(B) Express delivery, please.\n(C) Sure, I'll drive you to the job site.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g26",
+      "from": 27,
+      "to": 27,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q27.aac",
+        "conversationAudio": "/courses/ets2022-t2/q27.aac",
+        "duration": 24.038622,
+        "instructions": "",
+        "transcript": "Isn't the air conditioner set to turn off at night?\n(A) No, we always keep it on.\n(B) He's going to be late today.\n(C) Hair products are in aisle four.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g27",
+      "from": 28,
+      "to": 28,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q28.aac",
+        "conversationAudio": "/courses/ets2022-t2/q28.aac",
+        "duration": 20.689625,
+        "instructions": "",
+        "transcript": "Oh, there's no clock in this room.\n(A) A six-week training program.\n(B) It's about two-thirty.\n(C) They took an early flight.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g28",
+      "from": 29,
+      "to": 29,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q29.aac",
+        "conversationAudio": "/courses/ets2022-t2/q29.aac",
+        "duration": 21.370905,
+        "instructions": "",
+        "transcript": "Where can I go to have my car engine checked?\n(A) No, I don't need one—thanks, though.\n(B) The mechanic around the corner.\n(C) In April of every year.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g29",
+      "from": 30,
+      "to": 30,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q30.aac",
+        "conversationAudio": "/courses/ets2022-t2/q30.aac",
+        "duration": 20.749589,
+        "instructions": "",
+        "transcript": "To get into the building, do I use an ID badge or a passcode?\n(A) A building next door.\n(B) Enter three-four-three on the keypad.\n(C) The exit is down the hall.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g30",
+      "from": 31,
+      "to": 31,
+      "part": 2,
+      "kind": "question",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q31.aac",
+        "conversationAudio": "/courses/ets2022-t2/q31.aac",
+        "duration": 25.890552,
+        "instructions": "",
+        "transcript": "The order can still be changed, right?\n(A) That process is very complicated.\n(B) I still remember that day, too.\n(C) Yes, he does.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g31",
+      "from": 32,
+      "to": 34,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q32-34.aac",
+        "conversationAudio": "/courses/ets2022-t2/q32-34.aac",
+        "duration": 74.592831,
+        "instructions": "",
+        "transcript": "M-Au: Hi, Anusha. This afternoon I'll be meeting with our financial consultant, Ms. Jefferson, for the last time. Since she's retiring next week, I wanted to get her some flowers. Do you know a good florist? W-Br: The place I like best is called Greenwood Flower Shop. It's located just inside the train station, on the right-hand side. M-Au: Thanks. I just need to finalize this budget proposal, and then I'll head over to the station.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g32",
+      "from": 35,
+      "to": 37,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q35-37.aac",
+        "conversationAudio": "/courses/ets2022-t2/q35-37.aac",
+        "duration": 72.713462,
+        "instructions": "",
+        "transcript": "M-Au: Ms. Weber, I've just booked the accommodations for your trip to Melbourne next week. I found you a hotel within a mile of the conference center. W-Am: That's great! Thank you for arranging that. M-Au: No problem. And remember to keep your receipts—you'll need them to get reimbursed. W-Am: OK, I'll do that. Oh, and does the hotel have a restaurant on-site? I'll be working in the hotel a lot, so it'd be convenient if I could eat there.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g33",
+      "from": 38,
+      "to": 40,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q38-40.aac",
+        "conversationAudio": "/courses/ets2022-t2/q38-40.aac",
+        "duration": 74.186098,
+        "instructions": "",
+        "transcript": "W-Br: Antonio, I'd like your input about how we can make our spring athletic clothing line more original. M-Cn: How about designing some geometric patterns that we can have printed onto our fabric? That would set our clothing apart from other brands that use muted, solid colors. W-Br: I like that idea, but I'm worried it would add a step or two to our production schedule. We have several hard deadlines coming up soon. Let's try designing one patterned fabric for this season's line. If everything goes smoothly, we can do more next season.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g34",
+      "from": 41,
+      "to": 43,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q41-43.aac",
+        "conversationAudio": "/courses/ets2022-t2/q41-43.aac",
+        "duration": 73.441175,
+        "instructions": "",
+        "transcript": "W-Br: Hi Yoon-Ho. Do you have a minute? Anita and I need your assistance with our e-mails. M-Au: Sure. How can I help? W-Br: The system seems to be running very slow. We've been experiencing long delays in receiving e-mails, right Anita? W-Am: Yes. Since we have deadlines that are very time sensitive, can you look into this right away? M-Au: You know, several people have already called us at the IT Department about it this morning—it's our top priority now. W-Am: Thanks. We're on our way to catch a flight now, but could you please call us when it's all taken care of?",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g35",
+      "from": 44,
+      "to": 46,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q44-46.aac",
+        "conversationAudio": "/courses/ets2022-t2/q44-46.aac",
+        "duration": 77.5796,
+        "instructions": "",
+        "transcript": "W-Br: Paniz Outdoor Tours. Can I help you? M-Cn: I'm from Alderman Associates, and I'm calling to book a cycling tour of the city for my colleagues and me. There are eight of us, and we'd like to go next Thursday. W-Br: I'm sorry—we'll be closed next Thursday. We're replacing all of our bikes, and it'll take a few days to get them ready to ride. M-Cn: Oh, we work nearby, so we could go another time. W-Br: Great. So, what about the following Monday—June third? M-Cn: That works. We have a membership with you already, so you should have all of our information on file. W-Br: In that case, just tell me your membership number, and I'll make the reservation.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g36",
+      "from": 47,
+      "to": 49,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q47-49.aac",
+        "conversationAudio": "/courses/ets2022-t2/q47-49.aac",
+        "duration": 73.525534,
+        "instructions": "",
+        "transcript": "M-Cn: Ms. Khan, this is James Wilson, one of the freelance photographers for your magazine. I'm calling about the September issue. W-Am: Right. I know we're using some of your photos for the special spread about homes in San Francisco. M-Cn: Yes. But I have a few more shots I took this weekend when there was a beautiful sunset. Would you be interested in looking at those? W-Am: The issue is already being printed. M-Cn: Oh, I see. Sorry to bother you, then. W-Am: Actually, I'm glad you called. We're opening a position for assistant photo editor, and I wonder if you can come in for an interview. I think you'd be great for the job.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g37",
+      "from": 50,
+      "to": 52,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q50-52.aac",
+        "conversationAudio": "/courses/ets2022-t2/q50-52.aac",
+        "duration": 85.67097,
+        "instructions": "",
+        "transcript": "M-Au: Emiko and Susan—could you give me an update on the negotiations with the city to purchase insurance through our company? W-Am: Well, the city officials expressed interest in buying insurance for all of their emergency vehicles, including ambulances, through us. I sent them a quote, but unfortunately I'm still waiting to hear back. W-Br: I've been working on the account with the city parks department, and I have the same problem. They haven't committed yet, either. M-Au: Hmm, we could offer them a reduced first-year rate. That might motivate them to make a final decision quickly.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g38",
+      "from": 53,
+      "to": 55,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q53-55.aac",
+        "conversationAudio": "/courses/ets2022-t2/q53-55.aac",
+        "duration": 77.401941,
+        "instructions": "",
+        "transcript": "M-Cn: Ms. Moreau, thank you for volunteering to participate in this product testing session. W-Am: It sounds interesting. So I'll be testing out some new designs for drinking mugs? M-Cn: Exactly. We want to test if our mugs are easier to drink from than traditional mugs. Before we begin, could you please sign this agreement form? It states that we can use your comments in our marketing campaign. W-Am: Sure. But I have one question... Do you have different beverages available? I don't drink coffee. M-Cn: Oh, definitely—you'll have several to choose from. OK, now let's go join the other participants. Please follow me to Room B.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g39",
+      "from": 56,
+      "to": 58,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q56-58.aac",
+        "conversationAudio": "/courses/ets2022-t2/q56-58.aac",
+        "duration": 93.305583,
+        "instructions": "",
+        "transcript": "M-Cn: Hi Irina, are you all finished styling your client's hair? W-Br: Yes, I cut and blow dried it. She's all set. Now I'm going to sweep the floor and wash some towels. M-Cn: Thanks. I wanted to mention something... It seems we're all using too much electricity every month. I'd like us all to start thinking of ways to reduce that expense. W-Br: Oh? I didn't realize that was an issue. M-Cn: Well, the other salons I own spend about half of what this location does every month. W-Br: Hmm... they don't have as many clients, though. M-Cn: True, but I still think we all need to make changes nonetheless. We'll discuss it further at the employee meeting later today.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g40",
+      "from": 59,
+      "to": 61,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q59-61.aac",
+        "conversationAudio": "/courses/ets2022-t2/q59-61.aac",
+        "duration": 81.353685,
+        "instructions": "",
+        "transcript": "W-Am: Thanks for meeting with me today, Diego. Our firm's been contracted by a ferry company to design a hydrogen-powered boat. They're hoping to cut down on their carbon emissions with a boat that runs on clean energy. M-Cn: Hmm. A hydrogen power source is going to need a lot of space. Since ferries usually transport cars, I'm concerned about where we'd place the hydrogen source. W-Am: Actually this ferry would give tours. So it won't be carrying vehicles, just passengers. M-Cn: Then maybe we could store the hydrogen on the deck? W-Am: Possibly. Could you research that before we meet with the ferry company? M-Cn: Absolutely.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g41",
+      "from": 62,
+      "to": 64,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q62-64.aac",
+        "conversationAudio": "/courses/ets2022-t2/q62-64.aac",
+        "duration": 82.88369,
+        "instructions": "",
+        "transcript": "M-Au: Dolores, thanks again for offering to drive to the technology seminar. I'm not very familiar with the city of Hartsville. W-Am: It's no problem. I grew up in downtown Hartsville, remember? I know the area well. M-Au: Oh—that's right. Does it take long to get to the conference center from here? I know it's on Carter Lane. W-Am: Well, usually not—but the traffic report earlier said that the exit to Carter Lane is closed for repairs. We'll have to take exit eight. It'll take us about twenty minutes longer to get there. M-Au: Well, in that case, I'd better call our coworkers and ask them to save us some seats. W-Am: Good idea.",
+        "speakers": {},
+        "image": "/courses/ets2022-t2/q62-64.png",
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g42",
+      "from": 65,
+      "to": 67,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q65-67.aac",
+        "conversationAudio": "/courses/ets2022-t2/q65-67.aac",
+        "duration": 97.896484,
+        "instructions": "",
+        "transcript": "W-Br: Good work helping the office go paperless, Kentaro. You've scanned and shredded everything that had any personal student data, correct? M-Au: Yes, so now we can get rid of the rest of these old documents—class schedules, information sheets to parents—all of it can be recycled. The bins are out back, right? W-Br: That's right, behind the gym. But don't try to carry all these boxes; they're too heavy. I brought a cart over from the maintenance closet for you to use.",
+        "speakers": {},
+        "image": "/courses/ets2022-t2/q65-67.png",
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g43",
+      "from": 68,
+      "to": 70,
+      "part": 3,
+      "kind": "conversation",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q68-70.aac",
+        "conversationAudio": "/courses/ets2022-t2/q68-70.aac",
+        "duration": 92.974249,
+        "instructions": "",
+        "transcript": "W-Am: Riccardo, could you take a look at this invitation? It's a draft I put together for our upcoming fund-raiser. Your feedback would be helpful. M-Au: Sure. Hmm... It looks good, but we should have the live music start at the same time as dinner. Otherwise, there'll be very little time for the band to perform. W-Am: You're right. Anything else? M-Au: Let's add a line at the bottom with the name of our organization, since we're sponsoring the event. W-Am: OK, that's an easy addition.",
+        "speakers": {},
+        "image": "/courses/ets2022-t2/q68-70.png",
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g44",
+      "from": 71,
+      "to": 73,
+      "part": 4,
+      "kind": "talk",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q71-73.aac",
+        "conversationAudio": "/courses/ets2022-t2/q71-73.aac",
+        "duration": 70.278194,
+        "instructions": "",
+        "transcript": "M-Cn: You're listening to radio station WKXL. Turning to local business updates, Monday marked the grand opening of Starbright Corporation's new factory. Starbright Corporation is a leading manufacturer of boots, athletic shoes, and sandals. So far, the new factory has created 800 jobs in our community, with positions ranging from assembly line workers to department managers. To hear more about the company, please visit our radio station's Web site, where my video interview with Starbright's president has been posted.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g45",
+      "from": 74,
+      "to": 76,
+      "part": 4,
+      "kind": "talk",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q74-76.aac",
+        "conversationAudio": "/courses/ets2022-t2/q74-76.aac",
+        "duration": 78.890559,
+        "instructions": "",
+        "transcript": "W-Br: Thank you all for coming to this celebration. I know I speak for everyone here at the newspaper when I say that I'm sad to see Mustafa Perez retire next week. For the past 30 years, he's been the photographer we've all relied on to capture photos that illustrate our news articles. To honor his career, I've made a slideshow of some of the most impressive photos that Mustafa has taken. Please look at the screen at the front of the room.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g46",
+      "from": 77,
+      "to": 79,
+      "part": 4,
+      "kind": "talk",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q77-79.aac",
+        "conversationAudio": "/courses/ets2022-t2/q77-79.aac",
+        "duration": 76.897094,
+        "instructions": "",
+        "transcript": "M-Au: The last point on our agenda is about maintaining a safe environment while making the medications we sell here at Tamarah Pharmaceuticals. If you're working in any of the laboratories, please make sure to turn on the room's exhaust fan. It's especially important to keep the area well ventilated when working with some of the chemicals we use in our medications. We'd like to maintain our excellent safety record, so thank you in advance. The safety procedure handbook is on our internal company Web site if you need more information.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g47",
+      "from": 80,
+      "to": 82,
+      "part": 4,
+      "kind": "talk",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q80-82.aac",
+        "conversationAudio": "/courses/ets2022-t2/q80-82.aac",
+        "duration": 79.728609,
+        "instructions": "",
+        "transcript": "W-Br: Hi, Aisha. I'm here at the park for the farmers' market—I just set out the blueberries and strawberries that I'll be selling this morning. Everything's ready to go... Though I did accidentally forget to bring the tent that we use to shade the fruit. I know you're concerned about the fruit sitting out in the sun, but it's supposed to be cloudy all day. Anyways, the real reason I called was to remind you to register us for the annual farmers' association competition. I think we have a pretty good chance of winning the award for our strawberries.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g48",
+      "from": 83,
+      "to": 85,
+      "part": 4,
+      "kind": "talk",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q83-85.aac",
+        "conversationAudio": "/courses/ets2022-t2/q83-85.aac",
+        "duration": 82.921376,
+        "instructions": "",
+        "transcript": "M-Au: Attention, Home Furniture factory employees. The software program we use to clock in and out isn't working. This means you cannot enter your hours electronically. Instead, when your shift's over, please write your start and end time on the form that's on the receptionist's desk. The form already includes your name and the machine you operate. I know this is a hassle, but it's only temporary—the time-reporting software will be working when you get to the factory tomorrow morning.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g49",
+      "from": 86,
+      "to": 88,
+      "part": 4,
+      "kind": "talk",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q86-88.aac",
+        "conversationAudio": "/courses/ets2022-t2/q86-88.aac",
+        "duration": 86.565821,
+        "instructions": "",
+        "transcript": "W-Am: The final item on our agenda is the annual community health fair. As in previous years, our clinic will have a booth at the fair, where one of our nurses will be available to answer questions and give presentations about maintaining a healthy lifestyle. In the past, Mary Jenkins has always managed our booth, but, as you may know, Ms. Jenkins has retired. I want to tell you that working at the fair is a great way to give back to the community, so feel free to get in touch with me. OK, let's end there. As promised, I brought in soup and sandwiches for everyone—the food's in the break room.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g50",
+      "from": 89,
+      "to": 91,
+      "part": 4,
+      "kind": "talk",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q89-91.aac",
+        "conversationAudio": "/courses/ets2022-t2/q89-91.aac",
+        "duration": 81.799536,
+        "instructions": "",
+        "transcript": "M-Au: Good morning, Martina. I'm calling about our biggest client, NVC Industries. A couple things... First, thank you for sending me your slides for the advertising pitch you'll be delivering to them at the meeting on Friday. I know you expressed some hesitation about your particular approach... you have concerns that it might be a bit too bold. Well, always remember that the advertising business is very competitive. Second, Isabel can make some recommendations about what to do while you're in Barcelona for the meeting with NVC Industries. Make sure you see her before you travel there.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g51",
+      "from": 92,
+      "to": 94,
+      "part": 4,
+      "kind": "talk",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q92-94.aac",
+        "conversationAudio": "/courses/ets2022-t2/q92-94.aac",
+        "duration": 90.421747,
+        "instructions": "",
+        "transcript": "M-Cn: Hi, everyone. Now, our goal has been to encourage our customers to try out the line of health drinks and energy bars we've recently started stocking at our store locations. And to do this, we've been sending out weekly newsletters by e-mail to our customers. Unfortunately, our analytics show that only ten percent of those e-mails are even opened. So, I'd like to try another strategy. I'd like to put together a team to create some videos about our groceries, and we can pick a few to post to our Web site. Maybe some with testimonials from satisfied customers? Anyway, please send me an e-mail if you're interested in helping with this project.",
+        "speakers": {},
+        "image": null,
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g52",
+      "from": 95,
+      "to": 97,
+      "part": 4,
+      "kind": "talk",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q95-97.aac",
+        "conversationAudio": "/courses/ets2022-t2/q95-97.aac",
+        "duration": 97.33926,
+        "instructions": "",
+        "transcript": "W-Am: Hello, Mr. Harris. This is Nadia calling. I've been getting the paperwork ready for the vehicle you're purchasing from us. When you come over to the dealership to pick up your car, you'll need to pay several fees. Please remember that the one hundred dollar fee must be paid in cash. The other fees can be paid with your credit card. The car title will take a few days to process, and then will be mailed to your home address. And don't forget to take advantage of our free monthly car wash—just use the service code provided on your contract.",
+        "speakers": {},
+        "image": "/courses/ets2022-t2/q95-97.png",
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    },
+    {
+      "id": "ets2022-t2-g53",
+      "from": 98,
+      "to": 100,
+      "part": 4,
+      "kind": "talk",
+      "passage": "",
+      "listening": {
+        "audio": "/courses/ets2022-t2/q98-100.aac",
+        "conversationAudio": "/courses/ets2022-t2/q98-100.aac",
+        "duration": 105.42252,
+        "instructions": "",
+        "transcript": "M-Cn: At this staff meeting, I'd like to talk about some changes we'll be implementing here at Helgen's Music Shop. First, to attract more customers, we're going to host a small talent contest in September. I've recruited several local musicians to be the judges. Second, take a look at this chart from our annual sales report. Now, I'm not worried about the drums. But look at this instrument—we only sell twenty of them per year. That isn't very many, and they take a lot of time and effort to maintain. So, after careful consideration, I've decided we're going to stop selling them.",
+        "speakers": {},
+        "image": "/courses/ets2022-t2/q98-100.png",
+        "imagePending": false,
+        "graphic": null,
+        "clips": []
+      }
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "groupId": "ets2022-t2-g0",
+      "stem": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "He's folding some clothes."
+        },
+        {
+          "key": "B",
+          "text": "He's looking into a laundry cart."
+        },
+        {
+          "key": "C",
+          "text": "He's removing some clothes from hangers."
+        },
+        {
+          "key": "D",
+          "text": "He's standing in front of a washing machine."
+        }
+      ],
+      "answer": "B",
+      "explanation": null
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "groupId": "ets2022-t2-g1",
+      "stem": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "The man is leaning against a doorway."
+        },
+        {
+          "key": "B",
+          "text": "The man is opening up a package."
+        },
+        {
+          "key": "C",
+          "text": "One of the women is plugging in a printer."
+        },
+        {
+          "key": "D",
+          "text": "One of the women is wearing glasses."
+        }
+      ],
+      "answer": "D",
+      "explanation": null
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "groupId": "ets2022-t2-g2",
+      "stem": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "She is attaching price tags to some merchandise."
+        },
+        {
+          "key": "B",
+          "text": "She is piling up some boxes."
+        },
+        {
+          "key": "C",
+          "text": "She is holding up some fruit."
+        },
+        {
+          "key": "D",
+          "text": "She is throwing away a plastic bag."
+        }
+      ],
+      "answer": "C",
+      "explanation": null
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "groupId": "ets2022-t2-g3",
+      "stem": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "A jacket has been placed on the ground."
+        },
+        {
+          "key": "B",
+          "text": "A man is watering some flowers."
+        },
+        {
+          "key": "C",
+          "text": "A garden has been planted outside of a building."
+        },
+        {
+          "key": "D",
+          "text": "A man is putting some tools in a toolbox."
+        }
+      ],
+      "answer": "C",
+      "explanation": null
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "groupId": "ets2022-t2-g4",
+      "stem": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "Some chairs are stacked in the corner."
+        },
+        {
+          "key": "B",
+          "text": "Some light fixtures are mounted on the walls."
+        },
+        {
+          "key": "C",
+          "text": "Some tables are covered with tablecloths."
+        },
+        {
+          "key": "D",
+          "text": "Some furniture is on display in a window."
+        }
+      ],
+      "answer": "B",
+      "explanation": null
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "groupId": "ets2022-t2-g5",
+      "stem": "",
+      "options": [
+        {
+          "key": "A",
+          "text": "One of the employees is walking with an empty tray."
+        },
+        {
+          "key": "B",
+          "text": "One of the employees is taping signs to a board."
+        },
+        {
+          "key": "C",
+          "text": "One of the employees is carrying a pair of scissors."
+        },
+        {
+          "key": "D",
+          "text": "One of the employees is hanging an apron on a hook."
+        }
+      ],
+      "answer": "A",
+      "explanation": null
+    },
+    {
+      "number": 7,
+      "part": 2,
+      "groupId": "ets2022-t2-g6",
+      "stem": "Who should write the press release?",
+      "options": [
+        {
+          "key": "A",
+          "text": "George can take care of that."
+        },
+        {
+          "key": "B",
+          "text": "Press the red button."
+        },
+        {
+          "key": "C",
+          "text": "At the corner newsstand."
+        }
+      ],
+      "answer": "A",
+      "explanation": null
+    },
+    {
+      "number": 8,
+      "part": 2,
+      "groupId": "ets2022-t2-g7",
+      "stem": "Where is the company's headquarters?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Before we went to work."
+        },
+        {
+          "key": "B",
+          "text": "His name is Mr. Lee."
+        },
+        {
+          "key": "C",
+          "text": "In Berlin, Germany."
+        }
+      ],
+      "answer": "C",
+      "explanation": null
+    },
+    {
+      "number": 9,
+      "part": 2,
+      "groupId": "ets2022-t2-g8",
+      "stem": "Why are you visiting the clients tomorrow?",
+      "options": [
+        {
+          "key": "A",
+          "text": "After two o'clock."
+        },
+        {
+          "key": "B",
+          "text": "I need to renew their contract."
+        },
+        {
+          "key": "C",
+          "text": "The Dubai airport."
+        }
+      ],
+      "answer": "B",
+      "explanation": null
+    },
+    {
+      "number": 10,
+      "part": 2,
+      "groupId": "ets2022-t2-g9",
+      "stem": "Does Dr. Allen work at the hospital or at a private practice?",
+      "options": [
+        {
+          "key": "A",
+          "text": "At the hospital, I think."
+        },
+        {
+          "key": "B",
+          "text": "We'll need to practice that."
+        },
+        {
+          "key": "C",
+          "text": "An annual exam."
+        }
+      ],
+      "answer": "A",
+      "explanation": null
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "groupId": "ets2022-t2-g10",
+      "stem": "What's the best way for us to get to the conference center?",
+      "options": [
+        {
+          "key": "A",
+          "text": "I haven't heard from her, either."
+        },
+        {
+          "key": "B",
+          "text": "It was a great presentation."
+        },
+        {
+          "key": "C",
+          "text": "Let's take a look at the train schedule."
+        }
+      ],
+      "answer": "C",
+      "explanation": null
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "groupId": "ets2022-t2-g11",
+      "stem": "When will the forklift be repaired?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A fork and a knife, please."
+        },
+        {
+          "key": "B",
+          "text": "Probably next week."
+        },
+        {
+          "key": "C",
+          "text": "Several pairs."
+        }
+      ],
+      "answer": "B",
+      "explanation": null
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "groupId": "ets2022-t2-g12",
+      "stem": "Would you like me to send you an appointment reminder?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Yes, I'd appreciate that."
+        },
+        {
+          "key": "B",
+          "text": "The apartment downstairs."
+        },
+        {
+          "key": "C",
+          "text": "Do you accept credit cards?"
+        }
+      ],
+      "answer": "A",
+      "explanation": null
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "groupId": "ets2022-t2-g13",
+      "stem": "Did you remember to book a photographer for today's museum opening?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Oh, have you read it too?"
+        },
+        {
+          "key": "B",
+          "text": "I'd like to have it framed."
+        },
+        {
+          "key": "C",
+          "text": "She should have been here by now."
+        }
+      ],
+      "answer": "C",
+      "explanation": null
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "groupId": "ets2022-t2-g14",
+      "stem": "Why is my computer so slow today?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The printer is down that hall."
+        },
+        {
+          "key": "B",
+          "text": "Because some updates are being installed."
+        },
+        {
+          "key": "C",
+          "text": "Next year's computer seminar."
+        }
+      ],
+      "answer": "B",
+      "explanation": null
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "groupId": "ets2022-t2-g15",
+      "stem": "Who's going to stock these shelves?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The overnight workers will do it."
+        },
+        {
+          "key": "B",
+          "text": "No, I haven't gone yet."
+        },
+        {
+          "key": "C",
+          "text": "To make room for more items."
+        }
+      ],
+      "answer": "A",
+      "explanation": null
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "groupId": "ets2022-t2-g16",
+      "stem": "How many bottles can these machines produce each hour?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mainly soft drinks and juices."
+        },
+        {
+          "key": "B",
+          "text": "I just started working here."
+        },
+        {
+          "key": "C",
+          "text": "It stays fresh for a long time."
+        }
+      ],
+      "answer": "B",
+      "explanation": null
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "groupId": "ets2022-t2-g17",
+      "stem": "Aren't these hiking boots supposed to be discounted?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Oh yes, sorry about that."
+        },
+        {
+          "key": "B",
+          "text": "Let's pose for a picture."
+        },
+        {
+          "key": "C",
+          "text": "No, we haven't met yet."
+        }
+      ],
+      "answer": "A",
+      "explanation": null
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "groupId": "ets2022-t2-g18",
+      "stem": "Do we have enough time to finish this report?",
+      "options": [
+        {
+          "key": "A",
+          "text": "She borrowed your newspaper."
+        },
+        {
+          "key": "B",
+          "text": "I'll reschedule my next appointment."
+        },
+        {
+          "key": "C",
+          "text": "It's a beautiful trail."
+        }
+      ],
+      "answer": "B",
+      "explanation": null
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "groupId": "ets2022-t2-g19",
+      "stem": "When do you usually start packing for a trip?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A round-trip ticket."
+        },
+        {
+          "key": "B",
+          "text": "About two days in advance."
+        },
+        {
+          "key": "C",
+          "text": "They delivered the package."
+        }
+      ],
+      "answer": "B",
+      "explanation": null
+    },
+    {
+      "number": 21,
+      "part": 2,
+      "groupId": "ets2022-t2-g20",
+      "stem": "I'm going to take a walk at lunchtime.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Oh, I'll be visiting clients then."
+        },
+        {
+          "key": "B",
+          "text": "He took the survey."
+        },
+        {
+          "key": "C",
+          "text": "A copy of the lunch menu."
+        }
+      ],
+      "answer": "A",
+      "explanation": null
+    },
+    {
+      "number": 22,
+      "part": 2,
+      "groupId": "ets2022-t2-g21",
+      "stem": "Can you make sure we have a sign-up sheet available?",
+      "options": [
+        {
+          "key": "A",
+          "text": "I just turned up the heat."
+        },
+        {
+          "key": "B",
+          "text": "Sign here, please."
+        },
+        {
+          "key": "C",
+          "text": "Sure, no problem."
+        }
+      ],
+      "answer": "C",
+      "explanation": null
+    },
+    {
+      "number": 23,
+      "part": 2,
+      "groupId": "ets2022-t2-g22",
+      "stem": "They're going to give each of us copies of the press release, aren't they?",
+      "options": [
+        {
+          "key": "A",
+          "text": "No, I don't drink coffee."
+        },
+        {
+          "key": "B",
+          "text": "I can unlock that for you later."
+        },
+        {
+          "key": "C",
+          "text": "I'd better remind them about that."
+        }
+      ],
+      "answer": "C",
+      "explanation": null
+    },
+    {
+      "number": 24,
+      "part": 2,
+      "groupId": "ets2022-t2-g23",
+      "stem": "What do most people do for a living around here?",
+      "options": [
+        {
+          "key": "A",
+          "text": "About 40 kilometers away."
+        },
+        {
+          "key": "B",
+          "text": "They work at the car manufacturing plant."
+        },
+        {
+          "key": "C",
+          "text": "Yes, the living room furniture's new."
+        }
+      ],
+      "answer": "B",
+      "explanation": null
+    },
+    {
+      "number": 25,
+      "part": 2,
+      "groupId": "ets2022-t2-g24",
+      "stem": "How do you add toner to the printer?",
+      "options": [
+        {
+          "key": "A",
+          "text": "No, it's not made of stone."
+        },
+        {
+          "key": "B",
+          "text": "Because we ran out."
+        },
+        {
+          "key": "C",
+          "text": "The instructions are on the box."
+        }
+      ],
+      "answer": "C",
+      "explanation": null
+    },
+    {
+      "number": 26,
+      "part": 2,
+      "groupId": "ets2022-t2-g25",
+      "stem": "Can you send me a link to that company's Web site?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Our e-mail's not working right now."
+        },
+        {
+          "key": "B",
+          "text": "Express delivery, please."
+        },
+        {
+          "key": "C",
+          "text": "Sure, I'll drive you to the job site."
+        }
+      ],
+      "answer": "A",
+      "explanation": null
+    },
+    {
+      "number": 27,
+      "part": 2,
+      "groupId": "ets2022-t2-g26",
+      "stem": "Isn't the air conditioner set to turn off at night?",
+      "options": [
+        {
+          "key": "A",
+          "text": "No, we always keep it on."
+        },
+        {
+          "key": "B",
+          "text": "He's going to be late today."
+        },
+        {
+          "key": "C",
+          "text": "Hair products are in aisle four."
+        }
+      ],
+      "answer": "A",
+      "explanation": null
+    },
+    {
+      "number": 28,
+      "part": 2,
+      "groupId": "ets2022-t2-g27",
+      "stem": "Oh, there's no clock in this room.",
+      "options": [
+        {
+          "key": "A",
+          "text": "A six-week training program."
+        },
+        {
+          "key": "B",
+          "text": "It's about two-thirty."
+        },
+        {
+          "key": "C",
+          "text": "They took an early flight."
+        }
+      ],
+      "answer": "B",
+      "explanation": null
+    },
+    {
+      "number": 29,
+      "part": 2,
+      "groupId": "ets2022-t2-g28",
+      "stem": "Where can I go to have my car engine checked?",
+      "options": [
+        {
+          "key": "A",
+          "text": "No, I don't need one—thanks, though."
+        },
+        {
+          "key": "B",
+          "text": "The mechanic around the corner."
+        },
+        {
+          "key": "C",
+          "text": "In April of every year."
+        }
+      ],
+      "answer": "B",
+      "explanation": null
+    },
+    {
+      "number": 30,
+      "part": 2,
+      "groupId": "ets2022-t2-g29",
+      "stem": "To get into the building, do I use an ID badge or a passcode?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A building next door."
+        },
+        {
+          "key": "B",
+          "text": "Enter three-four-three on the keypad."
+        },
+        {
+          "key": "C",
+          "text": "The exit is down the hall."
+        }
+      ],
+      "answer": "B",
+      "explanation": null
+    },
+    {
+      "number": 31,
+      "part": 2,
+      "groupId": "ets2022-t2-g30",
+      "stem": "The order can still be changed, right?",
+      "options": [
+        {
+          "key": "A",
+          "text": "That process is very complicated."
+        },
+        {
+          "key": "B",
+          "text": "I still remember that day, too."
+        },
+        {
+          "key": "C",
+          "text": "Yes, he does."
+        }
+      ],
+      "answer": "A",
+      "explanation": null
+    },
+    {
+      "number": 32,
+      "part": 3,
+      "groupId": "ets2022-t2-g31",
+      "stem": "Why does the man want to buy Ms. Jefferson some flowers?",
+      "options": [
+        {
+          "key": "A",
+          "text": "She was promoted."
+        },
+        {
+          "key": "B",
+          "text": "She won an award."
+        },
+        {
+          "key": "C",
+          "text": "She is moving."
+        },
+        {
+          "key": "D",
+          "text": "She is retiring."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Paraphrase:\nshe's retiring next week (cô ấy sẽ nghỉ hưu tuần tới) = She is retiring. (cô ấy đang nghỉ hưu)"
+    },
+    {
+      "number": 33,
+      "part": 3,
+      "groupId": "ets2022-t2-g31",
+      "stem": "According to the woman, where is Greenwood Flower Shop?",
+      "options": [
+        {
+          "key": "A",
+          "text": "In a shopping mall"
+        },
+        {
+          "key": "B",
+          "text": "In a train station"
+        },
+        {
+          "key": "C",
+          "text": "Next to a café"
+        },
+        {
+          "key": "D",
+          "text": "Across from the library"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paraphrase:\nin a train station (ở bên trong ga tàu) = Just inside the train station (ngay bên trong ga tàu)"
+    },
+    {
+      "number": 34,
+      "part": 3,
+      "groupId": "ets2022-t2-g31",
+      "stem": "What does the man say he will do before he leaves the office?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Fill out a time sheet"
+        },
+        {
+          "key": "B",
+          "text": "Send an e-mail"
+        },
+        {
+          "key": "C",
+          "text": "Finish a budget proposal"
+        },
+        {
+          "key": "D",
+          "text": "Arrange a meeting"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Paraphrase:\nfinalize this budget proposal (hoàn thiện dự toán ngân sách này) = Finish a budget proposal (hoàn thành dự toán ngân sách)"
+    },
+    {
+      "number": 35,
+      "part": 3,
+      "groupId": "ets2022-t2-g32",
+      "stem": "What did the man just do?",
+      "options": [
+        {
+          "key": "A",
+          "text": "He upgraded a flight."
+        },
+        {
+          "key": "B",
+          "text": "He arranged for a rental car."
+        },
+        {
+          "key": "C",
+          "text": "He prepared some presentation slides."
+        },
+        {
+          "key": "D",
+          "text": "He made a hotel reservation."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Paraphrase:\nbooked the accommodations (đặt chỗ ở) = made a hotel reservation (đặt phòng khách sạn)"
+    },
+    {
+      "number": 36,
+      "part": 3,
+      "groupId": "ets2022-t2-g32",
+      "stem": "What does the man remind the woman to do?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Save her receipts"
+        },
+        {
+          "key": "B",
+          "text": "Bring her ID badge"
+        },
+        {
+          "key": "C",
+          "text": "Sign a form"
+        },
+        {
+          "key": "D",
+          "text": "Arrive early"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Paraphrase:\nkeep your receipts (giữ lại hoá đơn) = Save her receipts (lưu hoá đơn của cô ấy)"
+    },
+    {
+      "number": 37,
+      "part": 3,
+      "groupId": "ets2022-t2-g32",
+      "stem": "What does the woman ask the man about?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A bank"
+        },
+        {
+          "key": "B",
+          "text": "A post office"
+        },
+        {
+          "key": "C",
+          "text": "A restaurant"
+        },
+        {
+          "key": "D",
+          "text": "A conference center"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Paraphrase:\nrestaurant on-site (nhà hàng tại chỗ) = A restaurant (một nhà hàng)"
+    },
+    {
+      "number": 38,
+      "part": 3,
+      "groupId": "ets2022-t2-g33",
+      "stem": "What industry do the speakers most likely work in?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Television"
+        },
+        {
+          "key": "B",
+          "text": "Fashion"
+        },
+        {
+          "key": "C",
+          "text": "Home furnishings"
+        },
+        {
+          "key": "D",
+          "text": "Advertising"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paraphrase:\nathletic clothing line (dòng quần áo thể thao) = Fashion industry (ngành thời trang)"
+    },
+    {
+      "number": 39,
+      "part": 3,
+      "groupId": "ets2022-t2-g33",
+      "stem": "What does the man suggest doing?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Providing tours of a facility"
+        },
+        {
+          "key": "B",
+          "text": "Opening a branch office"
+        },
+        {
+          "key": "C",
+          "text": "Designing special fabric"
+        },
+        {
+          "key": "D",
+          "text": "Installing brighter lights"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Paraphrase:\ndesigning some geometric patterns (thiết kế hoa văn hình học) = Designing special fabric (thiết kế vải đặc biệt)"
+    },
+    {
+      "number": 40,
+      "part": 3,
+      "groupId": "ets2022-t2-g33",
+      "stem": "What is the woman concerned about?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A plan would be time-consuming."
+        },
+        {
+          "key": "B",
+          "text": "A color is too bright."
+        },
+        {
+          "key": "C",
+          "text": "Some sales figures have declined."
+        },
+        {
+          "key": "D",
+          "text": "Some supplies will be expensive."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Paraphrase:\nadd a step or two to our production schedule (thêm bước vào lịch trình sản xuất) = A plan would be time-consuming. (một kế hoạch sẽ tốn thời gian)"
+    },
+    {
+      "number": 41,
+      "part": 3,
+      "groupId": "ets2022-t2-g34",
+      "stem": "What problem is being discussed?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A company manual contains some errors."
+        },
+        {
+          "key": "B",
+          "text": "A shipment was not delivered on time."
+        },
+        {
+          "key": "C",
+          "text": "Some materials are missing from a cabinet."
+        },
+        {
+          "key": "D",
+          "text": "An e-mail system is not functioning properly."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Paraphrase:\nlong delays in receiving e-mails (sự chậm trễ trong việc nhận email) = An e-mail system is not functioning properly. (hệ thống email không hoạt động bình thường)"
+    },
+    {
+      "number": 42,
+      "part": 3,
+      "groupId": "ets2022-t2-g34",
+      "stem": "Who most likely is the man?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A computer technician"
+        },
+        {
+          "key": "B",
+          "text": "A security guard"
+        },
+        {
+          "key": "C",
+          "text": "A warehouse manager"
+        },
+        {
+          "key": "D",
+          "text": "A sales representative"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Paraphrase:\nIT Department (Phòng CNTT) = computer technician (kỹ thuật viên máy tính)"
+    },
+    {
+      "number": 43,
+      "part": 3,
+      "groupId": "ets2022-t2-g34",
+      "stem": "What are the women most likely planning to do next?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sign a contract"
+        },
+        {
+          "key": "B",
+          "text": "Attend a training"
+        },
+        {
+          "key": "C",
+          "text": "Go to the airport"
+        },
+        {
+          "key": "D",
+          "text": "Revise a presentation"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Paraphrase:\ncatch a flight (bắt chuyến bay) = Go to the airport (đi sân bay)"
+    },
+    {
+      "number": 44,
+      "part": 3,
+      "groupId": "ets2022-t2-g35",
+      "stem": "Where does the woman work?",
+      "options": [
+        {
+          "key": "A",
+          "text": "At an amusement park"
+        },
+        {
+          "key": "B",
+          "text": "At a fitness center"
+        },
+        {
+          "key": "C",
+          "text": "At a bicycle-tour company"
+        },
+        {
+          "key": "D",
+          "text": "At an automobile dealership"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Paraphrase:\nPaniz Outdoor Tours (công ty du lịch ngoài trời Paniz) = At a bicycle-tour company (tại công ty du lịch bằng xe đạp)"
+    },
+    {
+      "number": 45,
+      "part": 3,
+      "groupId": "ets2022-t2-g35",
+      "stem": "Why is the man unable to make a reservation for next Thursday?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A calendar is fully booked."
+        },
+        {
+          "key": "B",
+          "text": "An employee is on vacation."
+        },
+        {
+          "key": "C",
+          "text": "Some roads will be closed."
+        },
+        {
+          "key": "D",
+          "text": "Some equipment will be replaced."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Paraphrase:\nreplacing all of our bikes (thay thế tất cả xe đạp của chúng tôi) = Some equipment will be replaced (sẽ thay thế một số thiết bị)"
+    },
+    {
+      "number": 46,
+      "part": 3,
+      "groupId": "ets2022-t2-g35",
+      "stem": "What will the man most likely do next?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Pick up a brochure"
+        },
+        {
+          "key": "B",
+          "text": "Make a down payment"
+        },
+        {
+          "key": "C",
+          "text": "Provide a membership number"
+        },
+        {
+          "key": "D",
+          "text": "Write a customer review"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Paraphrase:\ntell me your membership number (cho tôi biết số thành viên của bạn) = Provide a membership number (cung cấp số thành viên)"
+    },
+    {
+      "number": 47,
+      "part": 3,
+      "groupId": "ets2022-t2-g36",
+      "stem": "Who is the man?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A news reporter"
+        },
+        {
+          "key": "B",
+          "text": "A photographer"
+        },
+        {
+          "key": "C",
+          "text": "A fashion designer"
+        },
+        {
+          "key": "D",
+          "text": "A translator"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paraphrase:\nfreelance photographers (nhiếp ảnh gia độc lập) = A photographer (một nhiếp ảnh gia)"
+    },
+    {
+      "number": 48,
+      "part": 3,
+      "groupId": "ets2022-t2-g36",
+      "stem": "Why does the woman say, \"The issue is already being printed\"?",
+      "options": [
+        {
+          "key": "A",
+          "text": "To apologize for an error"
+        },
+        {
+          "key": "B",
+          "text": "To provide reassurance"
+        },
+        {
+          "key": "C",
+          "text": "To indicate a schedule change"
+        },
+        {
+          "key": "D",
+          "text": "To decline an offer"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Paraphrase:\nThe issue is already being printed (số phát hành đã được in rồi) = To decline an offer (từ chối một đề nghị)"
+    },
+    {
+      "number": 49,
+      "part": 3,
+      "groupId": "ets2022-t2-g36",
+      "stem": "What does the woman ask the man to do?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Come in for an interview"
+        },
+        {
+          "key": "B",
+          "text": "Appear in a feature story"
+        },
+        {
+          "key": "C",
+          "text": "Travel for an assignment"
+        },
+        {
+          "key": "D",
+          "text": "Post some information online"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Paraphrase:\ncome in for an interview (đến để phỏng vấn) = Come in for an interview (đến để phỏng vấn)"
+    },
+    {
+      "number": 50,
+      "part": 3,
+      "groupId": "ets2022-t2-g37",
+      "stem": "What kind of business do the speakers most likely work for?",
+      "options": [
+        {
+          "key": "A",
+          "text": "An automobile manufacturer"
+        },
+        {
+          "key": "B",
+          "text": "An insurance company"
+        },
+        {
+          "key": "C",
+          "text": "A county hospital"
+        },
+        {
+          "key": "D",
+          "text": "A construction firm"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paraphrase:\nbuying insurance (mua bảo hiểm) = An insurance company (công ty bảo hiểm)"
+    },
+    {
+      "number": 51,
+      "part": 3,
+      "groupId": "ets2022-t2-g37",
+      "stem": "What problem do the women mention?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A building site did not pass an inspection."
+        },
+        {
+          "key": "B",
+          "text": "A vehicle needs to be repaired."
+        },
+        {
+          "key": "C",
+          "text": "Potential clients have not made a decision."
+        },
+        {
+          "key": "D",
+          "text": "Some vendors are making late deliveries."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Paraphrase:\nhaven't committed yet (chưa cam kết) = Potential clients have not made a decision. (các khách hàng tiềm năng chưa đưa ra quyết định)"
+    },
+    {
+      "number": 52,
+      "part": 3,
+      "groupId": "ets2022-t2-g37",
+      "stem": "What does the man recommend?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Offering a discount"
+        },
+        {
+          "key": "B",
+          "text": "Changing suppliers"
+        },
+        {
+          "key": "C",
+          "text": "Forming a committee"
+        },
+        {
+          "key": "D",
+          "text": "Closing a branch"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Paraphrase:\nreduced first-year rate (tỷ lệ năm đầu tiên giảm) = Offering a discount (cung cấp chiết khấu)"
+    },
+    {
+      "number": 53,
+      "part": 3,
+      "groupId": "ets2022-t2-g38",
+      "stem": "What has the woman volunteered to do?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Try out some new products"
+        },
+        {
+          "key": "B",
+          "text": "Purchase beverages for a luncheon"
+        },
+        {
+          "key": "C",
+          "text": "Lead a workshop session"
+        },
+        {
+          "key": "D",
+          "text": "Organize a hiring event"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Paraphrase:\nvolunteering to participate in this product testing session (tình nguyện tham gia phiên kiểm tra sản phẩm này) = Try out some new products (thử một số sản phẩm mới)"
+    },
+    {
+      "number": 54,
+      "part": 3,
+      "groupId": "ets2022-t2-g38",
+      "stem": "What does the man ask the woman to sign?",
+      "options": [
+        {
+          "key": "A",
+          "text": "An employee contract"
+        },
+        {
+          "key": "B",
+          "text": "An attendance sheet"
+        },
+        {
+          "key": "C",
+          "text": "A participant agreement"
+        },
+        {
+          "key": "D",
+          "text": "A service estimate"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Paraphrase:\nagreement form (mẫu thỏa thuận) = A participant agreement (thỏa thuận người tham gia)"
+    },
+    {
+      "number": 55,
+      "part": 3,
+      "groupId": "ets2022-t2-g38",
+      "stem": "What will the woman most likely do next?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Set up her computer"
+        },
+        {
+          "key": "B",
+          "text": "Go to another room"
+        },
+        {
+          "key": "C",
+          "text": "Have some lunch"
+        },
+        {
+          "key": "D",
+          "text": "Make a phone call"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paraphrase:\nfollow me to Room B (theo tôi đến Phòng B) = Go to another room (đi đến phòng khác)"
+    },
+    {
+      "number": 56,
+      "part": 3,
+      "groupId": "ets2022-t2-g39",
+      "stem": "Where most likely are the speakers?",
+      "options": [
+        {
+          "key": "A",
+          "text": "At a hair salon"
+        },
+        {
+          "key": "B",
+          "text": "At a catering hall"
+        },
+        {
+          "key": "C",
+          "text": "At a laundry service"
+        },
+        {
+          "key": "D",
+          "text": "At an energy company"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Paraphrase:\nstyling client's hair (tạo kiểu tóc cho khách hàng) = At a hair salon (tại một cửa hàng tóc)"
+    },
+    {
+      "number": 57,
+      "part": 3,
+      "groupId": "ets2022-t2-g39",
+      "stem": "Why does the woman say, \"they don't have as many clients, though\"?",
+      "options": [
+        {
+          "key": "A",
+          "text": "To express pride in her company's growth"
+        },
+        {
+          "key": "B",
+          "text": "To explain why an expense is so high"
+        },
+        {
+          "key": "C",
+          "text": "To suggest that a strategy should continue"
+        },
+        {
+          "key": "D",
+          "text": "To question the accuracy of a client list"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paraphrase:\nthey don't have as many clients (họ không có nhiều khách hàng như vậy) = To explain why this location has higher expenses (để giải thích tại sao vị trí này lại có chi phí cao hơn)"
+    },
+    {
+      "number": 58,
+      "part": 3,
+      "groupId": "ets2022-t2-g39",
+      "stem": "What will happen later today?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Some supplies will be delivered."
+        },
+        {
+          "key": "B",
+          "text": "An inspection will be conducted."
+        },
+        {
+          "key": "C",
+          "text": "An employee meeting will be held."
+        },
+        {
+          "key": "D",
+          "text": "An expense report will be submitted."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Paraphrase:\nemployee meeting later today (cuộc họp nhân viên sẽ diễn ra hôm nay) = An employee meeting will be held (sẽ có cuộc họp nhân viên)"
+    },
+    {
+      "number": 59,
+      "part": 3,
+      "groupId": "ets2022-t2-g40",
+      "stem": "Which industry do the speakers most likely work in?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tourism"
+        },
+        {
+          "key": "B",
+          "text": "Agriculture"
+        },
+        {
+          "key": "C",
+          "text": "Education"
+        },
+        {
+          "key": "D",
+          "text": "Engineering"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Paraphrase:\ndesign a hydrogen-powered boat (thiết kế một chiếc thuyền chạy bằng hydro) = Engineering (kỹ thuật)"
+    },
+    {
+      "number": 60,
+      "part": 3,
+      "groupId": "ets2022-t2-g40",
+      "stem": "What does the man say he is concerned about?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Expenses"
+        },
+        {
+          "key": "B",
+          "text": "Safety"
+        },
+        {
+          "key": "C",
+          "text": "Competition"
+        },
+        {
+          "key": "D",
+          "text": "Space"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Paraphrase:\nI'm concerned about where we'd place the hydrogen source (tôi lo lắng về nơi sẽ đặt nguồn hydro) = Space (không gian)"
+    },
+    {
+      "number": 61,
+      "part": 3,
+      "groupId": "ets2022-t2-g40",
+      "stem": "What does the man agree to do?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Apply for some funding"
+        },
+        {
+          "key": "B",
+          "text": "Do some research"
+        },
+        {
+          "key": "C",
+          "text": "Organize a business trip"
+        },
+        {
+          "key": "D",
+          "text": "Assemble a work crew"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paraphrase:\nresearch (nghiên cứu) = Do some research (thực hiện một số nghiên cứu)"
+    },
+    {
+      "number": 62,
+      "part": 3,
+      "groupId": "ets2022-t2-g41",
+      "stem": "What does the woman remind the man about?",
+      "options": [
+        {
+          "key": "A",
+          "text": "She used to live in the area."
+        },
+        {
+          "key": "B",
+          "text": "She needs to stop at a store."
+        },
+        {
+          "key": "C",
+          "text": "She attended a seminar last year."
+        },
+        {
+          "key": "D",
+          "text": "She has just bought a new car."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Paraphrase:\nI grew up in downtown Hartsville (tôi lớn lên ở trung tâm Hartsville) = She used to live in the area (cô ấy từng sống ở khu vực)"
+    },
+    {
+      "number": 63,
+      "part": 3,
+      "groupId": "ets2022-t2-g41",
+      "stem": "Look at the graphic. Which exit will the speakers take?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Maple Road"
+        },
+        {
+          "key": "B",
+          "text": "Carter Lane"
+        },
+        {
+          "key": "C",
+          "text": "Berk Street"
+        },
+        {
+          "key": "D",
+          "text": "High Road"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Paraphrase:\ntake exit eight (lấy lối thoát tám) = Berk Street (Đường Berk)"
+    },
+    {
+      "number": 64,
+      "part": 3,
+      "groupId": "ets2022-t2-g41",
+      "stem": "What will the man ask his coworkers to do?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cancel a reservation"
+        },
+        {
+          "key": "B",
+          "text": "Save some seats"
+        },
+        {
+          "key": "C",
+          "text": "Sign in at an event"
+        },
+        {
+          "key": "D",
+          "text": "Print some materials"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paraphrase:\nsave us some seats (lưu một số ghế cho chúng tôi) = Save some seats (lưu một số ghế)"
+    },
+    {
+      "number": 65,
+      "part": 3,
+      "groupId": "ets2022-t2-g42",
+      "stem": "Where does the conversation most likely take place?",
+      "options": [
+        {
+          "key": "A",
+          "text": "At a hotel"
+        },
+        {
+          "key": "B",
+          "text": "At an accounting firm"
+        },
+        {
+          "key": "C",
+          "text": "At a doctor's office"
+        },
+        {
+          "key": "D",
+          "text": "At a school"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Paraphrase:\npersonal student data (dữ liệu học sinh cá nhân) = At a school (tại một trường học)"
+    },
+    {
+      "number": 66,
+      "part": 3,
+      "groupId": "ets2022-t2-g42",
+      "stem": "Look at the graphic. Which bin will the man use?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bin 1"
+        },
+        {
+          "key": "B",
+          "text": "Bin 2"
+        },
+        {
+          "key": "C",
+          "text": "Bin 3"
+        },
+        {
+          "key": "D",
+          "text": "Bin 4"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Paraphrase:\nrecycled (tái chế) = Bin 3 (Thùng 3)"
+    },
+    {
+      "number": 67,
+      "part": 3,
+      "groupId": "ets2022-t2-g42",
+      "stem": "What does the woman suggest?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Using a cart"
+        },
+        {
+          "key": "B",
+          "text": "Waiting for a confirmation"
+        },
+        {
+          "key": "C",
+          "text": "Giving an assignment to a colleague"
+        },
+        {
+          "key": "D",
+          "text": "Rescheduling an appointment with a client"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Paraphrase:\nI brought a cart over (tôi đã mang một chiếc xe) = Using a cart (sử dụng chiếc xe)"
+    },
+    {
+      "number": 68,
+      "part": 3,
+      "groupId": "ets2022-t2-g43",
+      "stem": "What type of event are the speakers organizing?",
+      "options": [
+        {
+          "key": "A",
+          "text": "An award ceremony"
+        },
+        {
+          "key": "B",
+          "text": "A grand-opening celebration"
+        },
+        {
+          "key": "C",
+          "text": "A foreign official's reception"
+        },
+        {
+          "key": "D",
+          "text": "A fund-raiser"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Paraphrase:\nfund-raiser (sự kiện gây quỹ) = A fund-raiser (một sự kiện gây quỹ)"
+    },
+    {
+      "number": 69,
+      "part": 3,
+      "groupId": "ets2022-t2-g43",
+      "stem": "Look at the graphic. What time does the man think the music should begin?",
+      "options": [
+        {
+          "key": "A",
+          "text": "At 5:00 P.M."
+        },
+        {
+          "key": "B",
+          "text": "At 6:00 P.M."
+        },
+        {
+          "key": "C",
+          "text": "At 7:00 P.M."
+        },
+        {
+          "key": "D",
+          "text": "At 8:00 P.M."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paraphrase:\nthe same time as dinner (cùng lúc với bữa tối) = At 6:00 P.M. (lúc 6:00 chiều)"
+    },
+    {
+      "number": 70,
+      "part": 3,
+      "groupId": "ets2022-t2-g43",
+      "stem": "What information does the man suggest adding to the invitation?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The name of a sponsor"
+        },
+        {
+          "key": "B",
+          "text": "The location of a concert hall"
+        },
+        {
+          "key": "C",
+          "text": "A Web site address"
+        },
+        {
+          "key": "D",
+          "text": "A list of performers"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Paraphrase:\nthe name of our organization (tên của tổ chức của chúng tôi) = The name of a sponsor (tên nhà tài trợ)"
+    },
+    {
+      "number": 71,
+      "part": 4,
+      "groupId": "ets2022-t2-g44",
+      "stem": "What did Starbright Corporation recently do?",
+      "options": [
+        {
+          "key": "A",
+          "text": "It changed its company logo."
+        },
+        {
+          "key": "B",
+          "text": "It opened a new factory."
+        },
+        {
+          "key": "C",
+          "text": "It conducted a financial audit."
+        },
+        {
+          "key": "D",
+          "text": "It upgraded a product line."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paraphrase:\ngrand opening of a new factory (khai trương nhà máy mới) = It opened a new factory (Nó đã mở một nhà máy mới)"
+    },
+    {
+      "number": 72,
+      "part": 4,
+      "groupId": "ets2022-t2-g44",
+      "stem": "What type of product does Starbright Corporation make?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Footwear"
+        },
+        {
+          "key": "B",
+          "text": "Cosmetics"
+        },
+        {
+          "key": "C",
+          "text": "Housewares"
+        },
+        {
+          "key": "D",
+          "text": "Electronics"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Paraphrase:\nboots, athletic shoes, and sandals (ủng, giày thể thao và dép) = Footwear (giày dép)"
+    },
+    {
+      "number": 73,
+      "part": 4,
+      "groupId": "ets2022-t2-g44",
+      "stem": "What is available online?",
+      "options": [
+        {
+          "key": "A",
+          "text": "An application"
+        },
+        {
+          "key": "B",
+          "text": "A schedule"
+        },
+        {
+          "key": "C",
+          "text": "A video interview"
+        },
+        {
+          "key": "D",
+          "text": "A virtual tour"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Paraphrase:\nmy video interview has been posted on the Web site (cuộc phỏng vấn video của tôi đã được đăng tải trên trang web) = A video interview is available (Một cuộc phỏng vấn video có sẵn)"
+    },
+    {
+      "number": 74,
+      "part": 4,
+      "groupId": "ets2022-t2-g45",
+      "stem": "What event is taking place?",
+      "options": [
+        {
+          "key": "A",
+          "text": "An orientation session"
+        },
+        {
+          "key": "B",
+          "text": "A gallery opening"
+        },
+        {
+          "key": "C",
+          "text": "An awards ceremony"
+        },
+        {
+          "key": "D",
+          "text": "A retirement party"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Paraphrase:\ncelebration for Mustafa Perez's retirement (bữa tiệc kỉ niệm cho sự về hưu của Mustafa Perez) = a retirement party (một bữa tiệc chia tay)"
+    },
+    {
+      "number": 75,
+      "part": 4,
+      "groupId": "ets2022-t2-g45",
+      "stem": "What type of business does Mustafa Perez work for?",
+      "options": [
+        {
+          "key": "A",
+          "text": "An advertising agency"
+        },
+        {
+          "key": "B",
+          "text": "An art gallery"
+        },
+        {
+          "key": "C",
+          "text": "A newspaper publisher"
+        },
+        {
+          "key": "D",
+          "text": "A camera shop"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Paraphrase:\nhere at the newspaper (ở đây tại nhà báo) = A newspaper publisher (một nhà xuất bản báo chí)"
+    },
+    {
+      "number": 76,
+      "part": 4,
+      "groupId": "ets2022-t2-g45",
+      "stem": "What has the speaker created for the event?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A slideshow"
+        },
+        {
+          "key": "B",
+          "text": "A T-shirt design"
+        },
+        {
+          "key": "C",
+          "text": "A Web site"
+        },
+        {
+          "key": "D",
+          "text": "A brochure"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Paraphrase:\na slideshow of impressive photos (trình chiếu với những bức ảnh ấn tượng) = A slideshow (Một trình chiếu)"
+    },
+    {
+      "number": 77,
+      "part": 4,
+      "groupId": "ets2022-t2-g46",
+      "stem": "What does the speaker's company produce?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Medications"
+        },
+        {
+          "key": "B",
+          "text": "Textbooks"
+        },
+        {
+          "key": "C",
+          "text": "Exercise clothing"
+        },
+        {
+          "key": "D",
+          "text": "Construction materials"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Paraphrase:\nmaking the medications we sell (sản xuất các loại thuốc chúng tôi bán) = Medications (Các loại thuốc)"
+    },
+    {
+      "number": 78,
+      "part": 4,
+      "groupId": "ets2022-t2-g46",
+      "stem": "What are the listeners reminded to do?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Recruit some staff"
+        },
+        {
+          "key": "B",
+          "text": "Enter some data"
+        },
+        {
+          "key": "C",
+          "text": "Attend some training sessions"
+        },
+        {
+          "key": "D",
+          "text": "Turn on a fan"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Paraphrase:\nturn on the room's exhaust fan (bật quạt thải khí của phòng) = Turn on a fan (Bật quạt)"
+    },
+    {
+      "number": 79,
+      "part": 4,
+      "groupId": "ets2022-t2-g46",
+      "stem": "What can be found online?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A product database"
+        },
+        {
+          "key": "B",
+          "text": "An employee directory"
+        },
+        {
+          "key": "C",
+          "text": "A handbook"
+        },
+        {
+          "key": "D",
+          "text": "A contract"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Paraphrase:\nhandbook is on our internal company Web site (sổ tay nằm trên trang web công ty nội bộ) = A handbook can be found online (Một sổ tay có thể được tìm thấy trực tuyến)"
+    },
+    {
+      "number": 80,
+      "part": 4,
+      "groupId": "ets2022-t2-g47",
+      "stem": "What will the speaker do at a park?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Watch a performance"
+        },
+        {
+          "key": "B",
+          "text": "Sell fruit"
+        },
+        {
+          "key": "C",
+          "text": "Plant trees"
+        },
+        {
+          "key": "D",
+          "text": "Take photographs"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paraphrase:\nblueberries and strawberries (việt quất và dâu tây) = Sell fruit (Bán trái cây)"
+    },
+    {
+      "number": 81,
+      "part": 4,
+      "groupId": "ets2022-t2-g47",
+      "stem": "Why does the speaker say, \"but it's supposed to be cloudy all day\"?",
+      "options": [
+        {
+          "key": "A",
+          "text": "To ask for help"
+        },
+        {
+          "key": "B",
+          "text": "To express frustration"
+        },
+        {
+          "key": "C",
+          "text": "To reject the listener's suggestion"
+        },
+        {
+          "key": "D",
+          "text": "To reassure the listener"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Tại sao người nói nói \"nhưng dự kiến hôm nay sẽ có mây\"?\nA. Để xin giúp đỡ\nB. Để bày tỏ sự bực bội\nC. Để bác bỏ đề xuất của người nghe\nD. Để trấn an người nghe"
+    },
+    {
+      "number": 82,
+      "part": 4,
+      "groupId": "ets2022-t2-g47",
+      "stem": "What does the speaker remind the listener to do?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Register for a competition"
+        },
+        {
+          "key": "B",
+          "text": "Purchase some supplies"
+        },
+        {
+          "key": "C",
+          "text": "Prepare a shipment"
+        },
+        {
+          "key": "D",
+          "text": "Speak to a customer"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Paraphrase:\nregister us for the annual farmers' association competition (đăng ký cho cuộc thi hội nông dân hàng năm) = Register for a competition (Đăng ký cho một cuộc thi)"
+    },
+    {
+      "number": 83,
+      "part": 4,
+      "groupId": "ets2022-t2-g48",
+      "stem": "Where is the announcement being made?",
+      "options": [
+        {
+          "key": "A",
+          "text": "At a technology firm"
+        },
+        {
+          "key": "B",
+          "text": "At a repair shop"
+        },
+        {
+          "key": "C",
+          "text": "At a factory"
+        },
+        {
+          "key": "D",
+          "text": "At a law office"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Paraphrase:\nHome Furniture factory (nhà máy Home Furniture) = At a factory (Tại một nhà máy)"
+    },
+    {
+      "number": 84,
+      "part": 4,
+      "groupId": "ets2022-t2-g48",
+      "stem": "Where should the listeners go at the end of their shifts?",
+      "options": [
+        {
+          "key": "A",
+          "text": "To the company cafeteria"
+        },
+        {
+          "key": "B",
+          "text": "To the receptionist's desk"
+        },
+        {
+          "key": "C",
+          "text": "To the locker room"
+        },
+        {
+          "key": "D",
+          "text": "To the parking area"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paraphrase:\non the receptionist's desk (trên bàn của nhân viên lễ tân) = To the receptionist's desk (Đến bàn của nhân viên lễ tân)"
+    },
+    {
+      "number": 85,
+      "part": 4,
+      "groupId": "ets2022-t2-g48",
+      "stem": "What will happen tomorrow?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Some office furniture will be delivered."
+        },
+        {
+          "key": "B",
+          "text": "New board members will be elected."
+        },
+        {
+          "key": "C",
+          "text": "A city official will conduct an inspection."
+        },
+        {
+          "key": "D",
+          "text": "Some time-reporting software will be fixed."
+        }
+      ],
+      "answer": "D",
+      "explanation": "Paraphrase:\ntime-reporting software will be working (phần mềm báo cáo thời gian sẽ hoạt động) = Some time-reporting software will be fixed (Một số phần mềm báo cáo thời gian sẽ được sửa chữa)"
+    },
+    {
+      "number": 86,
+      "part": 4,
+      "groupId": "ets2022-t2-g49",
+      "stem": "Where do the listeners work?",
+      "options": [
+        {
+          "key": "A",
+          "text": "At an employment agency"
+        },
+        {
+          "key": "B",
+          "text": "At a sports arena"
+        },
+        {
+          "key": "C",
+          "text": "At a conference center"
+        },
+        {
+          "key": "D",
+          "text": "At a medical clinic"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Paraphrase:\nour clinic (phòng khám của chúng tôi) = At a medical clinic (Tại một phòng khám)"
+    },
+    {
+      "number": 87,
+      "part": 4,
+      "groupId": "ets2022-t2-g49",
+      "stem": "What does the speaker imply when she says, \"Ms. Jenkins has retired\"?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A role needs to be filled."
+        },
+        {
+          "key": "B",
+          "text": "An e-mail will not be answered."
+        },
+        {
+          "key": "C",
+          "text": "A marketing strategy should be revised."
+        },
+        {
+          "key": "D",
+          "text": "A process will be less efficient."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Paraphrase:\nMs. Jenkins managed the booth but has retired (Ms. Jenkins quản lý gian hàng nhưng đã về hưu) = A role needs to be filled (Cần tìm người để lấp chỗ trống)"
+    },
+    {
+      "number": 88,
+      "part": 4,
+      "groupId": "ets2022-t2-g49",
+      "stem": "What will the listeners most likely do next?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Check a schedule"
+        },
+        {
+          "key": "B",
+          "text": "Complete a registration form"
+        },
+        {
+          "key": "C",
+          "text": "Eat a meal"
+        },
+        {
+          "key": "D",
+          "text": "Brainstorm some ideas"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Paraphrase:\nsoup and sandwiches (xúp và bánh mì) = Eat a meal (Ăn bữa cơm)"
+    },
+    {
+      "number": 89,
+      "part": 4,
+      "groupId": "ets2022-t2-g50",
+      "stem": "What is scheduled for Friday?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A job fair"
+        },
+        {
+          "key": "B",
+          "text": "A wellness workshop"
+        },
+        {
+          "key": "C",
+          "text": "A client meeting"
+        },
+        {
+          "key": "D",
+          "text": "An employee luncheon"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Paraphrase:\nmeeting on Friday (cuộc họp vào thứ Sáu) = A client meeting (Một cuộc họp với khách hàng)"
+    },
+    {
+      "number": 90,
+      "part": 4,
+      "groupId": "ets2022-t2-g50",
+      "stem": "Why does the speaker say, \"the advertising business is very competitive\"?",
+      "options": [
+        {
+          "key": "A",
+          "text": "To explain a decision to retire"
+        },
+        {
+          "key": "B",
+          "text": "To justify an employee's promotion"
+        },
+        {
+          "key": "C",
+          "text": "To question the listener's abilities"
+        },
+        {
+          "key": "D",
+          "text": "To express confidence in an approach"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Tại sao người nói nói \"ngành quảng cáo rất cạnh tranh\"?\nA. Để giải thích quyết định về hưu\nB. Để biện minh cho sự thăng chức của nhân viên\nC. Để đặt câu hỏi khả năng của người nghe\nD. Để bày tỏ sự tự tin vào cách tiếp cận"
+    },
+    {
+      "number": 91,
+      "part": 4,
+      "groupId": "ets2022-t2-g50",
+      "stem": "What does the speaker say about Isabel?",
+      "options": [
+        {
+          "key": "A",
+          "text": "She has recently joined the company."
+        },
+        {
+          "key": "B",
+          "text": "She can recommend some activities."
+        },
+        {
+          "key": "C",
+          "text": "She will approve expense reports."
+        },
+        {
+          "key": "D",
+          "text": "She used to work on the NVC Industries account."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paraphrase:\nrecommendations about what to do (đề xuất về những việc cần làm) = She can recommend some activities (Cô ấy có thể đề xuất một số hoạt động)"
+    },
+    {
+      "number": 92,
+      "part": 4,
+      "groupId": "ets2022-t2-g51",
+      "stem": "What type of business does the speaker most likely work for?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A television studio"
+        },
+        {
+          "key": "B",
+          "text": "A hardware store"
+        },
+        {
+          "key": "C",
+          "text": "A publishing company"
+        },
+        {
+          "key": "D",
+          "text": "A grocery store"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Paraphrase:\ngroceries (hàng tạp hóa) and store locations (cửa hàng) = a grocery store (một cửa hàng tạp hóa)"
+    },
+    {
+      "number": 93,
+      "part": 4,
+      "groupId": "ets2022-t2-g51",
+      "stem": "What is the speaker concerned about?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A business has lost customers."
+        },
+        {
+          "key": "B",
+          "text": "An advertising plan has not been effective."
+        },
+        {
+          "key": "C",
+          "text": "A stockroom is overcrowded."
+        },
+        {
+          "key": "D",
+          "text": "A Web site is not working."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paraphrase:\nonly ten percent of emails are opened (chỉ 10% email được mở) = An advertising plan has not been effective (Một kế hoạch quảng cáo không hiệu quả)"
+    },
+    {
+      "number": 94,
+      "part": 4,
+      "groupId": "ets2022-t2-g51",
+      "stem": "What does the speaker plan to do?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Transfer to another location"
+        },
+        {
+          "key": "B",
+          "text": "Offer discounts online"
+        },
+        {
+          "key": "C",
+          "text": "Hire more employees"
+        },
+        {
+          "key": "D",
+          "text": "Add videos to a Web site"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Paraphrase:\nvideos (video) and post to Web site (đăng trên trang web) = add videos to a Web site (thêm video vào trang web)"
+    },
+    {
+      "number": 95,
+      "part": 4,
+      "groupId": "ets2022-t2-g52",
+      "stem": "Who most likely is the speaker?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A car salesperson"
+        },
+        {
+          "key": "B",
+          "text": "An auto mechanic"
+        },
+        {
+          "key": "C",
+          "text": "A car rental agent"
+        },
+        {
+          "key": "D",
+          "text": "A vehicle inspector"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Paraphrase:\npurchasing from us (mua từ chúng tôi) = A car salesperson (Một người bán xe hơi)"
+    },
+    {
+      "number": 96,
+      "part": 4,
+      "groupId": "ets2022-t2-g52",
+      "stem": "Look at the graphic. Which fee must be paid in cash?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Filing"
+        },
+        {
+          "key": "B",
+          "text": "Contract processing"
+        },
+        {
+          "key": "C",
+          "text": "Vehicle title"
+        },
+        {
+          "key": "D",
+          "text": "Vehicle registration"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Paraphrase:\none hundred dollar fee must be paid in cash (khoản phí 100 đô la phải được trả bằng tiền mặt) = Vehicle registration (Đăng ký xe)"
+    },
+    {
+      "number": 97,
+      "part": 4,
+      "groupId": "ets2022-t2-g52",
+      "stem": "What service does the speaker remind the listener about?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Shuttle service"
+        },
+        {
+          "key": "B",
+          "text": "Maintenance reminders"
+        },
+        {
+          "key": "C",
+          "text": "Free car washes"
+        },
+        {
+          "key": "D",
+          "text": "Replacement keys"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Paraphrase:\nfree monthly car wash (rửa xe miễn phí hàng tháng) = Free car washes (Rửa xe miễn phí)"
+    },
+    {
+      "number": 98,
+      "part": 4,
+      "groupId": "ets2022-t2-g53",
+      "stem": "Who most likely is the speaker?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A jazz singer"
+        },
+        {
+          "key": "B",
+          "text": "A music teacher"
+        },
+        {
+          "key": "C",
+          "text": "A shop manager"
+        },
+        {
+          "key": "D",
+          "text": "A radio host"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Paraphrase:\ntalking at a staff meeting about changes at Helgen's Music Shop (nói tại cuộc họp nhân sự về những thay đổi tại cửa hàng nhạc) = A shop manager (Một quản lý cửa hàng)"
+    },
+    {
+      "number": 99,
+      "part": 4,
+      "groupId": "ets2022-t2-g53",
+      "stem": "What event will take place in September?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A music festival"
+        },
+        {
+          "key": "B",
+          "text": "A press conference"
+        },
+        {
+          "key": "C",
+          "text": "A charity dinner"
+        },
+        {
+          "key": "D",
+          "text": "A talent contest"
+        }
+      ],
+      "answer": "D",
+      "explanation": "Paraphrase:\ntalent contest in September (cuộc thi tài năng vào tháng Chín) = A talent contest (Một cuộc thi tài năng)"
+    },
+    {
+      "number": 100,
+      "part": 4,
+      "groupId": "ets2022-t2-g53",
+      "stem": "Look at the graphic. Which type of instrument does the speaker focus on?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Keyboards"
+        },
+        {
+          "key": "B",
+          "text": "Pianos"
+        },
+        {
+          "key": "C",
+          "text": "Drums"
+        },
+        {
+          "key": "D",
+          "text": "Guitars"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paraphrase:\nthis instrument (nhạc cụ này) with low sales (bán ít) = pianos (đàn piano)"
+    }
+  ],
+  "listening": {
+    "duration": 2603.33341,
+    "missingPhotos": 0,
+    "contentHash": "",
+    "parts": {}
+  }
+}

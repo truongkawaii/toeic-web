@@ -3,8 +3,8 @@ import { ETS_INDEX, READING_LOADERS } from '@/lib/ets';
 import { MOCK_TESTS, READING_COLLECTIONS, TEST_COLLECTIONS } from '@/lib/mock/fixtures';
 
 describe('available reading catalog', () => {
-  it('offers ten complete YBM Reading papers', async () => {
-    expect(ETS_INDEX).toHaveLength(10);
+  it('offers all unambiguous Reading papers across seven collections', async () => {
+    expect(ETS_INDEX).toHaveLength(67);
     expect(READING_LOADERS['ybm2025-t10']).toBeTypeOf('function');
     for (const entry of ETS_INDEX) {
       const test = await READING_LOADERS[entry.id]();

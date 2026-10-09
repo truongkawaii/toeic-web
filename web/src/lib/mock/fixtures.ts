@@ -1,3 +1,4 @@
+import COURSE_INDEX_JSON from '@/data/courses/index.json';
 import YBM_INDEX_JSON from "@/data/ybm/index.json";
 import type {
   EtsIndexEntry,
@@ -162,7 +163,17 @@ export const seedTopicProgress = (): Record<string, TopicProgress> => ({
   gerund: { done: 1, correct: 1, wrong: 0 },
 });
 
+export const EXAM_COLLECTIONS: Collection[] = [
+  { id: 'ets-2026', label: 'ETS 2026' },
+  { id: 'ets-2024', label: 'ETS 2024' },
+  { id: 'ets-2023', label: 'ETS 2023' },
+  { id: 'ets-2022', label: 'ETS 2022' },
+  { id: 'hacker-2', label: 'HACKER 2' },
+  { id: 'hacker-3', label: 'HACKER 3' },
+];
+
 export const READING_COLLECTIONS: Collection[] = [
+  ...EXAM_COLLECTIONS,
   { id: "ybm-2025", label: "YBM 2025" },
 ];
 
@@ -171,12 +182,13 @@ export const READING_PART_QUESTIONS: Record<5 | 6 | 7, number> = { 5: 30, 6: 16,
 /* ------------------------------- Tests ------------------------------------ */
 
 export const TEST_COLLECTIONS: Collection[] = [
+  ...EXAM_COLLECTIONS,
   { id: "ybm-2025", label: "YBM 2025" },
   { id: "crack-1", label: "Crack TOEIC Vol 1" },
   { id: "crack-2", label: "Crack TOEIC Vol 2" },
 ];
 
-const ETS_TESTS: MockTest[] = (YBM_INDEX_JSON as EtsIndexEntry[]).map((t) => ({
+const ETS_TESTS: MockTest[] = ([...YBM_INDEX_JSON, ...COURSE_INDEX_JSON] as EtsIndexEntry[]).map((t) => ({
   id: t.id,
   collectionId: t.collectionId ?? `ets-${t.year}`,
   testNo: t.number,
@@ -188,6 +200,7 @@ const ETS_TESTS: MockTest[] = (YBM_INDEX_JSON as EtsIndexEntry[]).map((t) => ({
   partCounts: Object.fromEntries(Object.entries(t.parts).map(([part, count]) => [Number(part), count])),
   missingPhotos: t.missingPhotos,
   missingAudio: t.missingAudio,
+  readingIssue: t.readingIssue,
   incomplete: !t.complete,
 }));
 

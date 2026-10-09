@@ -5,9 +5,9 @@ import { describe, expect, it } from 'vitest';
 import { EXAM_INDEX, EXAM_LOADERS, gradeSession } from '@/lib/ets';
 import type { ExamSession } from '@/types/domain';
 
-describe('YBM 2025 catalog', () => {
-  it('loads ten papers, source media, and grades each available question', async () => {
-    expect(EXAM_INDEX).toHaveLength(10);
+describe('TOEIC course catalog', () => {
+  it('loads all papers, decodes media, and grades each available question', async () => {
+    expect(EXAM_INDEX).toHaveLength(70);
     const asset = (url: string) => path.join(process.cwd(), 'public', decodeURIComponent(url));
     for (const entry of EXAM_INDEX) {
       const test = await EXAM_LOADERS[entry.id]();
@@ -29,5 +29,5 @@ describe('YBM 2025 catalog', () => {
     }
     expect(EXAM_INDEX.find(t=>t.number===10)?.hasReading).toBe(true);
     expect(EXAM_INDEX.find(t=>t.number===6)?.missingAudio).toBe(0);
-  }, 180000);
+  }, 600000);
 });

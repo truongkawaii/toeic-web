@@ -20,6 +20,8 @@ Thi toàn bài, thi riêng Listening hay luyện từng Part đều phát audio 
 
 Chạy `npm run build:ybm` để chuyển dữ liệu nguồn trong `public/YBM 2025/` sang `src/data/ybm/` và tạo audio ngắn sạch trong `public/ybm2025/`. Cần `ffprobe`. Script giữ nguyên file nguồn, trích các khung AAC, ưu tiên file audio bổ sung trên đĩa khi metadata cũ báo thiếu. Không ghép audio toàn bài.
 
-Danh mục hiện dùng dữ liệu YBM có sẵn trong repository. Các danh mục YTS/ETS trước đây chưa có module dữ liệu trong checkout này.
+Đã bổ sung ETS 2026/2024/2023/2022 và HACKER 2/3 vào thư viện đề, Listening và Reading. Chạy `npm run build:courses` để tái tạo; có thể truyền đường dẫn chứa folder nguồn sau `--`. Course mới chỉ triển khai làm đề nghe/đọc.
+
+Xem [ghi chú folder và dữ liệu còn thiếu](docs/course-folder-audit.md). Ba test Reading bị xung đột nguồn đang được giữ lại để sửa; test thiếu audio chỉ mở luyện tập Listening và thi Reading.
 
 Kiểm tra bằng `npm test`, `npm run lint` và `npm run build`.

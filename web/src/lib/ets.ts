@@ -1,17 +1,21 @@
 import { useCallback, useEffect, useState } from "react";
 import YBM_INDEX_JSON from "@/data/ybm/index.json";
+import COURSE_INDEX_JSON from '@/data/courses/index.json';
+import { COURSE_LOADERS } from '@/data/courses/loaders';
 import { YBM_LOADERS } from "@/data/ybm/loaders";
 import { toISODate } from "@/lib/mock/fixtures";
 import type { Attempt, EtsIndexEntry, EtsQuestion, EtsTest, ExamSession } from "@/types/domain";
 
+const ALL_INDEX = [...YBM_INDEX_JSON, ...COURSE_INDEX_JSON];
+
 /** Danh mục các bộ đề có dữ liệu trong dự án. */
-export const ETS_INDEX = YBM_INDEX_JSON.filter(t => t.hasReading) as EtsIndexEntry[];
-export const LISTENING_EXAM_INDEX = YBM_INDEX_JSON as EtsIndexEntry[];
-export const EXAM_INDEX = YBM_INDEX_JSON as EtsIndexEntry[];
-export const EXAM_LOADERS = YBM_LOADERS;
+export const ETS_INDEX = ALL_INDEX.filter(t => t.hasReading) as EtsIndexEntry[];
+export const LISTENING_EXAM_INDEX = ALL_INDEX as EtsIndexEntry[];
+export const EXAM_INDEX = ALL_INDEX as EtsIndexEntry[];
+export const EXAM_LOADERS = { ...YBM_LOADERS, ...COURSE_LOADERS };
 export const READING_LOADERS: Record<string, () => Promise<EtsTest>> = Object.fromEntries(
   ETS_INDEX.map(entry => [entry.id, async () => {
-    const test = await YBM_LOADERS[entry.id]();
+    const test = await EXAM_LOADERS[entry.id]();
     return { ...test, groups: test.groups.filter(g => g.part >= 5), questions: test.questions.filter(q => q.part >= 5), listening: undefined };
   }]),
 );

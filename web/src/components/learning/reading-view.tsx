@@ -33,7 +33,7 @@ export function ReadingView() {
       <PageHero
         eyebrow="Luyện đọc TOEIC"
         title={["Chinh phục", "TOEIC Reading", "từ dễ đến khó"]}
-        description="Luyện Part 5–7 với 10 test YBM 2025, đáp án, giải thích và giao diện đọc như tài liệu."
+        description="Luyện Part 5–7 với các bộ ETS, YBM và HACKER, đáp án, giải thích và giao diện đọc như tài liệu."
         icon={BookOpenText}
       />
       <SegTabs label="Chế độ luyện đọc" items={MODES} value={mode} onChange={(v) => setMode(v, { group: null, set: null })} />

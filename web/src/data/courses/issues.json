@@ -1,0 +1,84 @@
+[
+  {
+    "id": "ets2024-t3",
+    "issue": "Missing audio",
+    "questions": 3
+  },
+  {
+    "id": "ets2024-t5",
+    "issue": "Missing audio",
+    "questions": 1
+  },
+  {
+    "id": "ets2024-t8",
+    "issue": "Missing audio",
+    "questions": 6
+  },
+  {
+    "id": "ets2024-t9",
+    "issue": "Missing audio",
+    "questions": 6
+  },
+  {
+    "id": "ets2024-t10",
+    "issue": "Missing audio",
+    "questions": 3
+  },
+  {
+    "id": "ets2023-t1",
+    "issue": "Missing audio",
+    "questions": 6
+  },
+  {
+    "id": "ets2023-t3",
+    "issue": "Missing audio",
+    "questions": 9
+  },
+  {
+    "id": "ets2023-t4",
+    "issue": "Missing audio",
+    "questions": 6
+  },
+  {
+    "id": "ets2023-t5",
+    "issue": "Missing audio",
+    "questions": 4
+  },
+  {
+    "id": "ets2023-t7",
+    "issue": "Missing audio",
+    "questions": 3
+  },
+  {
+    "id": "ets2023-t9",
+    "issue": "Missing audio",
+    "questions": 9
+  },
+  {
+    "id": "ets2023-t10",
+    "issue": "Missing audio",
+    "questions": 9
+  },
+  {
+    "id": "ets2022-t2",
+    "issue": "Conflicting Reading groups; Reading withheld pending source correction."
+  },
+  {
+    "id": "ets2022-t5",
+    "issue": "Missing audio",
+    "questions": 1
+  },
+  {
+    "id": "hacker2-t1",
+    "issue": "Conflicting Reading groups; Reading withheld pending source correction."
+  },
+  {
+    "id": "hacker3-t7",
+    "issue": "Missing audio",
+    "questions": 3
+  },
+  {
+    "id": "hacker3-t8",
+    "issue": "Conflicting Reading groups; Reading withheld pending source correction."
+  }
+]

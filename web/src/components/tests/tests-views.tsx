@@ -55,7 +55,7 @@ const wrongNumbersOf = (p?: TestProgress) =>
 
 export function TestsLibraryView() {
   const { testProgress, sessions, hydrated } = useDemoStore();
-  const [col, setCol] = useQueryParam("set", "yts-2026", TEST_COLLECTIONS.map((c) => c.id));
+  const [col, setCol] = useQueryParam("set", "ybm-2025", TEST_COLLECTIONS.map((c) => c.id));
   const chips = TEST_COLLECTIONS.map((c) => ({ ...c, count: MOCK_TESTS.filter((t) => t.collectionId === c.id).length }));
   const tests = useMemo(() => MOCK_TESTS.filter((t) => t.collectionId === col), [col]);
   const [prepare, setPrepare] = useState<{ test: MockTest; mode: "exam" | "practice" } | null>(null);
@@ -66,6 +66,7 @@ export function TestsLibraryView() {
     <div className="space-y-6">
       <ChipGroup label="Bộ đề" items={chips} value={col} onChange={(v) => setCol(v)} />
       {col.startsWith("yts-") && <div className="rounded-2xl border border-hero-line bg-primary-tint px-5 py-4"><h2 className="font-semibold text-ink">YTS {col.slice(4)} — 10 đề {tests[0]?.parts?.includes(5) ? "Listening + Reading" : "Listening"}</h2><p className="mt-1 text-sm leading-relaxed text-ink-soft">{tests[0]?.parts?.includes(5) ? "200 câu mỗi đề · Part 1–7. Chọn thi riêng Listening, Reading hoặc toàn bài." : "100 câu mỗi đề · Part 1–4 · Audio đầy đủ cho cả 10 test."} Có chấm bài, giải thích tiếng Việt và nghe chép từng câu.</p></div>}
+      {col === "ybm-2025" && <div className="rounded-2xl border border-hero-line bg-primary-tint px-5 py-4"><h2 className="font-semibold text-ink">YBM 2025 · 10 đề Listening + Reading</h2><p className="mt-1 text-sm leading-relaxed text-ink-soft">Cả 10 test có đủ 200 câu Part 1–7. Thi toàn bài hoặc từng kỹ năng, phát audio ngắn theo câu/nhóm câu.</p></div>}
       {!playable && (
         <p className="flex items-start gap-2.5 rounded-2xl border border-[#fcdcab] bg-warning-soft px-4 py-3 text-sm text-warning-ink">
           <TriangleAlert className="mt-0.5 size-4 shrink-0" />
@@ -152,7 +153,7 @@ function TestCard({
       ) : (
         <p className="mt-3 text-[15px] text-muted">Chưa luyện tập</p>
       )}
-      {test.incomplete && <p className="mt-2 text-xs text-muted">Đề nguồn thiếu {100 - test.questions} câu — đã bỏ qua khi chấm.</p>}
+      {test.incomplete && !test.missingAudio && <p className="mt-2 text-xs text-muted">Đề nguồn thiếu {100 - test.questions} câu — đã bỏ qua khi chấm.</p>}
       <div className="mt-auto grid grid-cols-2 gap-2 pt-5">
         {active ? (
           <Link href={`/exam/${active.id}`} className="btn btn-primary col-span-2"><ArrowRight className="size-4" /> Tiếp tục làm bài</Link>
@@ -219,6 +220,7 @@ function PrepareForm({ state, onClose }: { state: { test: MockTest; mode: "exam"
   const range = `Part ${scoped[0].id}–${scoped[scoped.length - 1].id}`;
 
   const start = async () => {
+    if (exam && test.missingAudio && scope !== "reading") return;
     if (!test.playable) {
       onClose();
       comingSoon(exam ? "Phòng thi" : "Workspace luyện đề");
@@ -275,8 +277,9 @@ function PrepareForm({ state, onClose }: { state: { test: MockTest; mode: "exam"
           </div>
         </fieldset>
       )}
+      {!!test.missingAudio && <p className="rounded-xl bg-warning-soft p-3 text-sm text-warning-ink">Thiếu audio câu 20–22 trong dữ liệu nguồn. Thi thử chỉ mở cho Reading; Listening vẫn có thể luyện tập.</p>}
       {!!test.missingPhotos && parts.includes(1) && <p className="rounded-xl border border-[#fcdcab] bg-warning-soft px-3.5 py-3 text-sm text-warning-ink">6 ảnh Part 1 đang được bổ sung. Audio đã có; các câu mô tả tranh cần ảnh để làm đầy đủ. Bạn có thể chọn Reading hoặc luyện Part 2–4 trước.</p>}
-      {exam && hasListening && scope !== "reading" && <p className="text-sm leading-relaxed text-ink-soft">Nhấn Play trong phòng thi để bắt đầu đồng hồ Listening. Audio gồm directions và Part 1–4. {hasReading && scope === "full" && "Khi audio kết thúc, bài chuyển sang Reading với 75 phút riêng."} Tạm dừng hoặc rời trang không dừng đồng hồ.</p>}
+      {exam && hasListening && scope !== "reading" && <p className="text-sm leading-relaxed text-ink-soft">Nhấn Play trong phòng thi để bắt đầu đồng hồ Listening. Mỗi câu/nhóm câu có audio ngắn riêng. {hasReading && scope === "full" && "Hoàn tất Listening, chọn Chuyển sang Reading để bắt đầu 75 phút riêng."} Tạm dừng hoặc rời trang không dừng đồng hồ.</p>}
       {exam && test.playable && (
         <ul className="space-y-1.5 text-sm text-ink-soft">
           <li>• Bài làm tự lưu — tải lại trang hoặc quay lại sau vẫn tiếp tục đúng chỗ, đồng hồ vẫn chạy.</li>
@@ -288,7 +291,7 @@ function PrepareForm({ state, onClose }: { state: { test: MockTest; mode: "exam"
       </p>
       <div className="flex flex-col-reverse gap-2 sm:flex-row sm:justify-end">
         <button type="button" className="btn btn-outline" onClick={onClose}>Huỷ</button>
-        <button type="button" className="btn btn-primary" disabled={busy || (!exam && parts.length === 0)} aria-busy={busy} onClick={start}>
+        <button type="button" className="btn btn-primary" disabled={busy || (!exam && parts.length === 0) || (exam && !!test.missingAudio && scope !== "reading")} aria-busy={busy} onClick={start}>
           {exam ? <><Play className="size-4" /> Bắt đầu thi</> : <><BookOpen className="size-4" /> Bắt đầu luyện</>}
         </button>
       </div>

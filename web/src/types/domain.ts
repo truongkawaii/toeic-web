@@ -64,6 +64,7 @@ export type MockTest = {
   /** Đề nguồn thiếu câu (in ra khi parse). */
   incomplete?: boolean;
   missingPhotos?: number;
+  missingAudio?: number;
 };
 
 export type TestProgress = TopicProgress & {
@@ -224,7 +225,7 @@ export type EtsTest = {
   editorialTrack?: string;
   groups: EtsGroup[];
   questions: EtsQuestion[];
-  listening?: { fullAudio: string; duration: number; missingPhotos: number; contentHash: string; parts: Record<string, { directionsAudio: string; fullAudio: string; duration: number }> };
+  listening?: { fullAudio?: string; duration: number; missingPhotos: number; contentHash: string; parts: Record<string, { directionsAudio: string; fullAudio: string; duration: number }> };
 };
 
 export type EtsIndexEntry = {
@@ -240,6 +241,7 @@ export type EtsIndexEntry = {
   hasReading?: boolean;
   listeningDuration?: number;
   missingPhotos?: number;
+  missingAudio?: number;
 };
 
 /** Phiên làm bài lưu localStorage để refresh/đóng tab vẫn tiếp tục được. */

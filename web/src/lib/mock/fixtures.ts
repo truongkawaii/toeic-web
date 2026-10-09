@@ -1,5 +1,4 @@
-import ETS_INDEX_JSON from "@/data/ets/index.json";
-import YTS_LISTENING_INDEX_JSON from "@/data/listening/index.json";
+import YBM_INDEX_JSON from "@/data/ybm/index.json";
 import type {
   EtsIndexEntry,
   ActivityStat,
@@ -164,10 +163,7 @@ export const seedTopicProgress = (): Record<string, TopicProgress> => ({
 });
 
 export const READING_COLLECTIONS: Collection[] = [
-  { id: "yts-2026", label: "YTS 2026" },
-  { id: "yts-2024", label: "YTS 2024" },
-  { id: "ets-2026", label: "ETS 2026" },
-  { id: "ets-2024", label: "ETS 2024" },
+  { id: "ybm-2025", label: "YBM 2025" },
 ];
 
 export const READING_PART_QUESTIONS: Record<5 | 6 | 7, number> = { 5: 30, 6: 16, 7: 54 };
@@ -175,23 +171,23 @@ export const READING_PART_QUESTIONS: Record<5 | 6 | 7, number> = { 5: 30, 6: 16,
 /* ------------------------------- Tests ------------------------------------ */
 
 export const TEST_COLLECTIONS: Collection[] = [
-  { id: "ets-2026", label: "ETS 2026 · Reading" },
-  { id: "ets-2024", label: "ETS 2024 · Reading" },
+  { id: "ybm-2025", label: "YBM 2025" },
   { id: "crack-1", label: "Crack TOEIC Vol 1" },
   { id: "crack-2", label: "Crack TOEIC Vol 2" },
 ];
 
-const ETS_TESTS: MockTest[] = ([...YTS_LISTENING_INDEX_JSON, ...ETS_INDEX_JSON] as EtsIndexEntry[]).map((t) => ({
+const ETS_TESTS: MockTest[] = (YBM_INDEX_JSON as EtsIndexEntry[]).map((t) => ({
   id: t.id,
   collectionId: t.collectionId ?? `ets-${t.year}`,
   testNo: t.number,
   difficulty: (["medium", "hard", "medium"] as const)[t.number % 3],
   questions: t.questionCount,
-  minutes: t.listeningDuration ? Math.ceil(t.listeningDuration / 60) + (t.hasReading ? 75 : 0) : Math.max(5, Math.round((75 * t.questionCount) / 100)),
+  minutes: t.listeningDuration ? Math.ceil(Math.max(2700, t.listeningDuration) / 60) + (t.hasReading ? 75 : 0) : Math.max(5, Math.round((75 * t.questionCount) / 100)),
   playable: true,
   parts: Object.keys(t.parts).map(Number),
   partCounts: Object.fromEntries(Object.entries(t.parts).map(([part, count]) => [Number(part), count])),
   missingPhotos: t.missingPhotos,
+  missingAudio: t.missingAudio,
   incomplete: !t.complete,
 }));
 

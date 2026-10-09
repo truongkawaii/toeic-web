@@ -1,48 +1,33 @@
-import fs from "node:fs";
-import path from "node:path";
-import { describe, expect, it } from "vitest";
-import { LISTENING_LOADERS } from "@/data/listening/loaders";
-import { EXAM_LOADERS, YTS_EXAM_INDEX, gradeSession } from "@/lib/ets";
-import type { ExamSession } from "@/types/domain";
+import fs from 'node:fs';
+import path from 'node:path';
+import { execFileSync } from 'node:child_process';
+import { describe, expect, it } from 'vitest';
+import { EXAM_INDEX, EXAM_LOADERS, gradeSession } from '@/lib/ets';
+import type { ExamSession } from '@/types/domain';
 
-describe("YTS Listening catalog and assets", () => {
-  it("provides all forty complete papers with working media and grading", async () => {
-    expect(YTS_EXAM_INDEX).toHaveLength(40);
-    for (const year of [2023, 2024, 2025, 2026]) {
-      expect(YTS_EXAM_INDEX.filter(t => t.year === year)).toHaveLength(10);
-    }
-    const checkAsset = (url: string) => {
-      expect(url.startsWith("/listening/")).toBe(true);
-      expect(fs.statSync(path.join(process.cwd(), "public", url)).size).toBeGreaterThan(0);
-    };
-    for (const entry of YTS_EXAM_INDEX) {
-      const test = await LISTENING_LOADERS[entry.id]();
-      expect(test.questions.map(q => q.number)).toEqual(Array.from({ length: 100 }, (_, i) => i + 1));
-      expect([1, 2, 3, 4].map(p => test.questions.filter(q => q.part === p).length)).toEqual([6, 25, 39, 30]);
-      expect(test.listening?.missingPhotos).toBe(0);
-      checkAsset(test.listening!.fullAudio);
-      for (const part of Object.values(test.listening!.parts)) {
-        checkAsset(part.fullAudio);
-        checkAsset(part.directionsAudio);
-      }
-      for (const group of test.groups) {
+describe('YBM 2025 catalog', () => {
+  it('loads ten papers, source media, and grades each available question', async () => {
+    expect(EXAM_INDEX).toHaveLength(10);
+    const asset = (url: string) => path.join(process.cwd(), 'public', decodeURIComponent(url));
+    for (const entry of EXAM_INDEX) {
+      const test = await EXAM_LOADERS[entry.id]();
+      expect(test.questions.map(q => q.number)).toEqual(Array.from({length: entry.hasReading ? 200 : 100}, (_, i) => i + 1));
+      expect([1,2,3,4].map(p => test.questions.filter(q => q.part === p).length)).toEqual([6,25,39,30]);
+      let missing = 0;
+      for (const group of test.groups.filter(g => g.part <= 4)) {
         const item = group.listening!;
-        checkAsset(item.audio);
-        checkAsset(item.conversationAudio);
+        if (!item.audio) { missing += group.to - group.from + 1; continue; }
+        expect(fs.statSync(asset(item.audio)).size).toBeGreaterThan(0);
+        execFileSync('ffmpeg', ['-v', 'error', '-xerror', '-i', asset(item.audio), '-f', 'null', '-']);
         if (group.part === 1) expect(item.image).toBeTruthy();
-        if (item.image) checkAsset(item.image);
-        expect(item.imagePending).toBe(false);
-        expect(item.clips.length).toBeGreaterThan(0);
-        for (const clip of item.clips) { checkAsset(clip.audio); expect(clip.text).toBeTruthy(); }
+        if (item.image) expect(fs.statSync(asset(item.image)).size).toBeGreaterThan(0);
       }
-      const session: ExamSession = { id: "qa", testId: test.id, mode: "exam", questionNumbers: test.questions.map(q => q.number), answers: Object.fromEntries(test.questions.map(q => [q.number, q.answer!])), flagged: [], current: 0, startedAt: 0, deadline: null, status: "active" };
-      const result = gradeSession(test, session);
-      expect(result.correct).toBe(100);
-      expect(result.skill).toBe("listening");
-      expect(result.estimatedScore).toBe(495);
-      const combined = await EXAM_LOADERS[entry.id]();
-      expect(combined.questions).toHaveLength(entry.hasReading ? 200 : 100);
-      expect(new Set(combined.questions.map(q => q.number)).size).toBe(combined.questions.length);
+      expect(missing).toBe(entry.missingAudio ?? 0);
+      expect(test.listening).not.toHaveProperty('fullAudio');
+      const session: ExamSession = { id:'qa', testId:test.id, mode:'exam', questionNumbers:test.questions.map(q=>q.number), answers:Object.fromEntries(test.questions.map(q=>[q.number,q.answer!])), flagged:[], current:0, startedAt:0, deadline:null, status:'active' };
+      expect(gradeSession(test, session).correct).toBe(test.questions.length);
     }
-  }, 60000);
+    expect(EXAM_INDEX.find(t=>t.number===10)?.hasReading).toBe(true);
+    expect(EXAM_INDEX.find(t=>t.number===6)?.missingAudio).toBe(0);
+  }, 180000);
 });

@@ -1,0 +1,4277 @@
+[
+  {
+    "range": "1",
+    "part": "Part 1: Photographs",
+    "footerNo": 1,
+    "transcript": null,
+    "images": [
+      "https://byetoeic.com/storage/v1/object/public/mock-test-media/hacker_3/test_1/1.jpg?v=1"
+    ],
+    "hasAudio": true,
+    "audioFile": "audio/q1.aac",
+    "questions": [
+      {
+        "id": "eb527669-c6a0-4669-8663-df363dd9e81b",
+        "number": 1,
+        "question": "",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) They are taking off their running shoes.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) They are jogging on a road.",
+            "correct": true
+          },
+          {
+            "key": "C",
+            "text": "(C) They are watching a race.",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) They are passing between two trees.",
+            "correct": false
+          }
+        ],
+        "answer": "B",
+        "translation": null,
+        "explanationText": "1.\n(A) They are taking off their running shoes.\n(B) They are jogging on a road.\n(C) They are watching a race.\n(D) They are passing between two trees.\n1.\n(A) Họ đang cởi giày chạy.\n(B) Họ đang chạy bộ trên một con đường.\n(C) Họ đang xem một cuộc đua.\n(D) Họ đang đi ngang qua hai cây.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n1.\n(A) They are taking off their running shoes.\n(B) They are jogging on a road.\n(C) They are watching a race.\n(D) They are passing between two trees.\n1.\n(A) Họ đang cởi giày chạy.\n(B) Họ đang chạy bộ trên một con đường.\n(C) Họ đang xem một cuộc đua.\n(D) Họ đang đi ngang qua hai cây."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:06:43.975Z",
+    "imageFiles": [
+      "images/q1.jpg"
+    ]
+  },
+  {
+    "range": "2",
+    "part": "Part 1: Photographs",
+    "footerNo": 2,
+    "transcript": null,
+    "images": [
+      "https://byetoeic.com/storage/v1/object/public/mock-test-media/hacker_3/test_1/2.jpg?v=1"
+    ],
+    "hasAudio": true,
+    "audioFile": "audio/q2.aac",
+    "questions": [
+      {
+        "id": "a5dd8dad-f8d4-44cf-b457-9d1a0e7df8d1",
+        "number": 2,
+        "question": "",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) A woman is getting off the train.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) A woman is fastening her seat belt.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) A woman is sitting with her legs crossed.",
+            "correct": true
+          },
+          {
+            "key": "D",
+            "text": "(D) A woman is leaning forward in a chair.",
+            "correct": false
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "2.\n(A) A woman is getting off the train.\n(B) A woman is fastening her seat belt.\n(C) A woman is sitting with her legs crossed.\n(D) A woman is leaning forward in a chair.\n2.\n(A) Một người phụ nữ đang xuống tàu.\n(B) Một người phụ nữ đang thắt dây an toàn.\n(C) Một người phụ nữ đang ngồi bắt chéo chân.\n(D) Một người phụ nữ đang cúi người về phía trước trên ghế.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n2.\n(A) A woman is getting off the train.\n(B) A woman is fastening her seat belt.\n(C) A woman is sitting with her legs crossed.\n(D) A woman is leaning forward in a chair.\n2.\n(A) Một người phụ nữ đang xuống tàu.\n(B) Một người phụ nữ đang thắt dây an toàn.\n(C) Một người phụ nữ đang ngồi bắt chéo chân.\n(D) Một người phụ nữ đang cúi người về phía trước trên ghế."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:06:45.280Z",
+    "imageFiles": [
+      "images/q2.jpg"
+    ]
+  },
+  {
+    "range": "3",
+    "part": "Part 1: Photographs",
+    "footerNo": 3,
+    "transcript": null,
+    "images": [
+      "https://byetoeic.com/storage/v1/object/public/mock-test-media/hacker_3/test_1/3.jpg?v=1"
+    ],
+    "hasAudio": true,
+    "audioFile": "audio/q3.aac",
+    "questions": [
+      {
+        "id": "32f1a6df-325e-441d-8675-a82c2b7aca05",
+        "number": 3,
+        "question": "",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Some people are distributing documents.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Some people are putting papers into binders.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Some people are gathered around a table.",
+            "correct": true
+          },
+          {
+            "key": "D",
+            "text": "(D) Some people are making some photocopies.",
+            "correct": false
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "3.\n(A) Some people are distributing documents.\n(B) Some people are putting papers into binders.\n(C) Some people are gathered around a table.\n(D) Some people are making some photocopies.\n3.\n(A) Một số người đang phân phát tài liệu.\n(B) Một số người đang đặt giấy vào tập tài liệu.\n(C) Một số người đang tụ tập quanh một cái bàn.\n(D) Một số người đang photo tài liệu.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n3.\n(A) Some people are distributing documents.\n(B) Some people are putting papers into binders.\n(C) Some people are gathered around a table.\n(D) Some people are making some photocopies.\n3.\n(A) Một số người đang phân phát tài liệu.\n(B) Một số người đang đặt giấy vào tập tài liệu.\n(C) Một số người đang tụ tập quanh một cái bàn.\n(D) Một số người đang photo tài liệu."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:06:46.585Z",
+    "imageFiles": [
+      "images/q3.jpg"
+    ]
+  },
+  {
+    "range": "4",
+    "part": "Part 1: Photographs",
+    "footerNo": 4,
+    "transcript": null,
+    "images": [
+      "https://byetoeic.com/storage/v1/object/public/mock-test-media/hacker_3/test_1/4.jpg?v=1"
+    ],
+    "hasAudio": true,
+    "audioFile": "audio/q4.aac",
+    "questions": [
+      {
+        "id": "402a6f4b-f73e-49d0-9e87-9a44bc83e430",
+        "number": 4,
+        "question": "",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) The workers are standing in an aisle.",
+            "correct": true
+          },
+          {
+            "key": "B",
+            "text": "(B) The workers are assembling a storage shelf.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) The workers are entering a warehouse.",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) The workers are labeling some of the containers.",
+            "correct": false
+          }
+        ],
+        "answer": "A",
+        "translation": null,
+        "explanationText": "4.\n(A) The workers are standing in an aisle.\n(B) The workers are assembling a storage shelf.\n(C) The workers are entering a warehouse.\n(D) The workers are labeling some of the containers.\n4.\n(A) Những công nhân đang đứng trong lối đi.\n(B) Những công nhân đang lắp ráp một kệ lưu trữ.\n(C) Những công nhân đang bước vào kho hàng.\n(D) Những công nhân đang dán nhãn một số thùng chứa.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n4.\n(A) The workers are standing in an aisle.\n(B) The workers are assembling a storage shelf.\n(C) The workers are entering a warehouse.\n(D) The workers are labeling some of the containers.\n4.\n(A) Những công nhân đang đứng trong lối đi.\n(B) Những công nhân đang lắp ráp một kệ lưu trữ.\n(C) Những công nhân đang bước vào kho hàng.\n(D) Những công nhân đang dán nhãn một số thùng chứa."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:06:47.890Z",
+    "imageFiles": [
+      "images/q4.jpg"
+    ]
+  },
+  {
+    "range": "5",
+    "part": "Part 1: Photographs",
+    "footerNo": 5,
+    "transcript": null,
+    "images": [
+      "https://byetoeic.com/storage/v1/object/public/mock-test-media/hacker_3/test_1/5.jpg?v=1"
+    ],
+    "hasAudio": true,
+    "audioFile": "audio/q5.aac",
+    "questions": [
+      {
+        "id": "c8172464-6814-45fb-b0bf-77452717bd86",
+        "number": 5,
+        "question": "",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Safety glasses are being kept in a rack.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) The man is looking into a microscope.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) The researchers are putting on lab coats.",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) Some laboratory equipment is on the work surface.",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "5.\n(A) Safety glasses are being kept in a rack.\nB) The man is wearing a lab coat.\n(C) The researchers are testing some equipment.\n(D) Some laboratory equipment is on the work surface.\n5.\n(A) Kính bảo hộ đang được giữ trên giá.\n(B) Người đàn ông đang mặc áo khoác phòng thí nghiệm.\n(C) Các nhà nghiên cứu đang thử nghiệm một số thiết bị.\n(D) Một số thiết bị thí nghiệm đang được đặt trên bề mặt làm việc.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n5.\n(A) Safety glasses are being kept in a rack.\nB) The man is wearing a lab coat.\n(C) The researchers are testing some equipment.\n(D) Some laboratory equipment is on the work surface.\n5.\n(A) Kính bảo hộ đang được giữ trên giá.\n(B) Người đàn ông đang mặc áo khoác phòng thí nghiệm.\n(C) Các nhà nghiên cứu đang thử nghiệm một số thiết bị.\n(D) Một số thiết bị thí nghiệm đang được đặt trên bề mặt làm việc."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:06:49.193Z",
+    "imageFiles": [
+      "images/q5.jpg"
+    ]
+  },
+  {
+    "range": "6",
+    "part": "Part 1: Photographs",
+    "footerNo": 6,
+    "transcript": null,
+    "images": [
+      "https://byetoeic.com/storage/v1/object/public/mock-test-media/hacker_3/test_1/6.jpg?v=1"
+    ],
+    "hasAudio": true,
+    "audioFile": "audio/q6.aac",
+    "questions": [
+      {
+        "id": "f39031ba-0d2c-4608-9ae4-819999873c3a",
+        "number": 6,
+        "question": "",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) A balcony overlooks a patio.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) There are stools arranged in a row.",
+            "correct": true
+          },
+          {
+            "key": "C",
+            "text": "(C) Stairs lead to the outside of a restaurant.",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) A dining establishment is filled with customers.",
+            "correct": false
+          }
+        ],
+        "answer": "B",
+        "translation": null,
+        "explanationText": "6.\n(A) A balcony overlooks a patio.\n(B) There are stools arranged in a row.\n(C) Stairs lead to the outside of a restaurant.\n(D) A dining establishment is filled with customers.\n6.\n(A) Một ban công nhìn ra một sân trong.\n(B) Có một số ghế đẩu được sắp xếp thành hàng.\n(C) Cầu thang dẫn ra bên ngoài của một nhà hàng.\n(D) Một nhà hàng đầy khách.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n6.\n(A) A balcony overlooks a patio.\n(B) There are stools arranged in a row.\n(C) Stairs lead to the outside of a restaurant.\n(D) A dining establishment is filled with customers.\n6.\n(A) Một ban công nhìn ra một sân trong.\n(B) Có một số ghế đẩu được sắp xếp thành hàng.\n(C) Cầu thang dẫn ra bên ngoài của một nhà hàng.\n(D) Một nhà hàng đầy khách."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:06:50.498Z",
+    "imageFiles": [
+      "images/q6.jpg"
+    ]
+  },
+  {
+    "range": "7",
+    "part": "",
+    "footerNo": 7,
+    "transcript": null,
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q7.aac",
+    "questions": [
+      {
+        "id": "37cb4da0-35a4-4152-935f-452b06c83d50",
+        "number": 7,
+        "question": "Where did you put the annual shareholder report?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) The reporter from the Arlington Times.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) It's in this folder.",
+            "correct": true
+          },
+          {
+            "key": "C",
+            "text": "(C) I finished drafting it yesterday.",
+            "correct": false
+          }
+        ],
+        "answer": "B",
+        "translation": null,
+        "explanationText": "7. Where did you put the annual shareholder report?\n(A) The reporter from the Arlington Times.\n(B) It’s in this folder.\n(C) I finished drafting it yesterday.\n7. Bạn đã đặt bản báo cáo cổ đông thường niên ở đâu?\n(A) Phóng viên từ tờ Arlington Times.\n(B) Nó ở trong thư mục này.\n(C) Tôi đã hoàn thành việc soạn thảo nó ngày hôm qua.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n7. Where did you put the annual shareholder report?\n(A) The reporter from the Arlington Times.\n(B) It’s in this folder.\n(C) I finished drafting it yesterday.\n7. Bạn đã đặt bản báo cáo cổ đông thường niên ở đâu?\n(A) Phóng viên từ tờ Arlington Times.\n(B) Nó ở trong thư mục này.\n(C) Tôi đã hoàn thành việc soạn thảo nó ngày hôm qua."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:06:51.802Z",
+    "imageFiles": []
+  },
+  {
+    "range": "8",
+    "part": "",
+    "footerNo": 8,
+    "transcript": null,
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q8.aac",
+    "questions": [
+      {
+        "id": "7ec74079-9d81-4d49-801b-6456e6b63060",
+        "number": 8,
+        "question": "What is the topic of your presentation?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) I'll most likely speak at 10 a.m.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Most of the presenters have departed.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Our new line of products.",
+            "correct": true
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "8. What is the topic of your presentation?\n(A) I’ll most likely speak at 10 A.M.\n(B) Most of the presenters have departed.\n(C) Our new line of products.\n8. Chủ đề của bài thuyết trình của bạn là gì?\n(A) Tôi có khả năng sẽ phát biểu vào lúc 10 giờ sáng.\n(B) Hầu hết những người thuyết trình đã rời đi.\n(C) Dòng sản phẩm mới của chúng tôi.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n8. What is the topic of your presentation?\n(A) I’ll most likely speak at 10 A.M.\n(B) Most of the presenters have departed.\n(C) Our new line of products.\n8. Chủ đề của bài thuyết trình của bạn là gì?\n(A) Tôi có khả năng sẽ phát biểu vào lúc 10 giờ sáng.\n(B) Hầu hết những người thuyết trình đã rời đi.\n(C) Dòng sản phẩm mới của chúng tôi."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:06:53.108Z",
+    "imageFiles": []
+  },
+  {
+    "range": "9",
+    "part": "",
+    "footerNo": 9,
+    "transcript": null,
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q9.aac",
+    "questions": [
+      {
+        "id": "a62277f0-e906-4175-994a-1f0daa22a895",
+        "number": 9,
+        "question": "Did you ever email our manager about the budget?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) I'm going to deal with that.",
+            "correct": true
+          },
+          {
+            "key": "B",
+            "text": "(B) The CEO missed the luncheon.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Every box should be mailed now.",
+            "correct": false
+          }
+        ],
+        "answer": "A",
+        "translation": null,
+        "explanationText": "9. Did you ever e-mail our manager about the budget?\n(A) I’m going to deal with that.\n(B) The CEO missed the luncheon.\n(C) Every box should be mailed now.\n9. Bạn đã gửi email cho quản lý của chúng ta về ngân sách chưa?\n(A) Tôi sẽ xử lý việc đó.\n(B) Giám đốc điều hành đã bỏ lỡ buổi ăn trưa.\n(C) Mỗi hộp cần được gửi đi ngay bây giờ.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n9. Did you ever e-mail our manager about the budget?\n(A) I’m going to deal with that.\n(B) The CEO missed the luncheon.\n(C) Every box should be mailed now.\n9. Bạn đã gửi email cho quản lý của chúng ta về ngân sách chưa?\n(A) Tôi sẽ xử lý việc đó.\n(B) Giám đốc điều hành đã bỏ lỡ buổi ăn trưa.\n(C) Mỗi hộp cần được gửi đi ngay bây giờ."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:06:54.412Z",
+    "imageFiles": []
+  },
+  {
+    "range": "10",
+    "part": "",
+    "footerNo": 10,
+    "transcript": null,
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q10.aac",
+    "questions": [
+      {
+        "id": "5db29293-0be8-4580-b96a-bbafb7849617",
+        "number": 10,
+        "question": "How do I get to the nearest gas station?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Yes, it's open today.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Let me get a map.",
+            "correct": true
+          },
+          {
+            "key": "C",
+            "text": "(C) You can fill up the tank.",
+            "correct": false
+          }
+        ],
+        "answer": "B",
+        "translation": null,
+        "explanationText": "10. How do I get to the nearest gas station?\n(A) Yes, it’s open today.\n(B) Let me get a map.\n(C) You can fill up the tank.\n10. Làm thế nào để tôi đến được trạm xăng gần nhất?\n(A) Vâng, nó mở cửa hôm nay.\n(B) Để tôi lấy bản đồ.\n(C) Bạn có thể đổ đầy bình.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n10. How do I get to the nearest gas station?\n(A) Yes, it’s open today.\n(B) Let me get a map.\n(C) You can fill up the tank.\n10. Làm thế nào để tôi đến được trạm xăng gần nhất?\n(A) Vâng, nó mở cửa hôm nay.\n(B) Để tôi lấy bản đồ.\n(C) Bạn có thể đổ đầy bình."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:06:55.716Z",
+    "imageFiles": []
+  },
+  {
+    "range": "11",
+    "part": "",
+    "footerNo": 11,
+    "transcript": null,
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q11.aac",
+    "questions": [
+      {
+        "id": "40a5f54d-b05f-437d-a6ad-a7a2b4f169e6",
+        "number": 11,
+        "question": "Why don't you sign up for a course?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) I already signed them.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) For enrolling at Farrell University.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) I'll think about it.",
+            "correct": true
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "11. Why don’t you sign up for a course?\n(A) I already signed them.\n(B) For enrolling at Farrell University.\n(C) I’ll think about it.\n11. Tại sao bạn không đăng ký một khóa học?\n(A) Tôi đã đăng ký chúng rồi.\n(B) Để ghi danh tại Đại học Farrell.\n(C) Tôi sẽ suy nghĩ về điều đó.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n11. Why don’t you sign up for a course?\n(A) I already signed them.\n(B) For enrolling at Farrell University.\n(C) I’ll think about it.\n11. Tại sao bạn không đăng ký một khóa học?\n(A) Tôi đã đăng ký chúng rồi.\n(B) Để ghi danh tại Đại học Farrell.\n(C) Tôi sẽ suy nghĩ về điều đó."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:06:57.020Z",
+    "imageFiles": []
+  },
+  {
+    "range": "12",
+    "part": "",
+    "footerNo": 12,
+    "transcript": null,
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q12.aac",
+    "questions": [
+      {
+        "id": "6160d6a2-ec2c-42d9-b198-8859fca519ca",
+        "number": 12,
+        "question": "We'll be leaving for the beach shortly.",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Do I have time to use the restroom?",
+            "correct": true
+          },
+          {
+            "key": "B",
+            "text": "(B) A towel and a swimsuit.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) I believe Bob also left then.",
+            "correct": false
+          }
+        ],
+        "answer": "A",
+        "translation": null,
+        "explanationText": "12. We’ll be leaving for the beach shortly.\n(A) Do I have time to use the restroom?\n(B) A towel and a swimsuit.\n(C) I believe Bob also left then.\n12. Chúng ta sẽ rời đi đến bãi biển sớm thôi.\n(A) Tôi có kịp vào nhà vệ sinh không?\n(B) Một chiếc khăn và bộ đồ bơi.\n(C) Tôi tin rằng Bob cũng đã rời đi lúc đó.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n12. We’ll be leaving for the beach shortly.\n(A) Do I have time to use the restroom?\n(B) A towel and a swimsuit.\n(C) I believe Bob also left then.\n12. Chúng ta sẽ rời đi đến bãi biển sớm thôi.\n(A) Tôi có kịp vào nhà vệ sinh không?\n(B) Một chiếc khăn và bộ đồ bơi.\n(C) Tôi tin rằng Bob cũng đã rời đi lúc đó."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:06:58.323Z",
+    "imageFiles": []
+  },
+  {
+    "range": "13",
+    "part": "",
+    "footerNo": 13,
+    "transcript": null,
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q13.aac",
+    "questions": [
+      {
+        "id": "7aae9419-0dc8-4401-af07-69ea49d2b331",
+        "number": 13,
+        "question": "Who's going to pick up dinner tonight?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) In 20 minutes.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Thanks, the food is very good.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) We are having it delivered.",
+            "correct": true
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "13. Who’s going to pick up dinner tonight?\n(A) In 20 minutes.\n(B) Thanks. The food is very good.\n(C) We are having it delivered.\n13. Ai sẽ đi lấy bữa tối tối nay?\n(A) Trong 20 phút nữa.\n(B) Cảm ơn. Món ăn rất ngon.\n(C) Chúng ta sẽ đặt món ăn giao đến.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n13. Who’s going to pick up dinner tonight?\n(A) In 20 minutes.\n(B) Thanks. The food is very good.\n(C) We are having it delivered.\n13. Ai sẽ đi lấy bữa tối tối nay?\n(A) Trong 20 phút nữa.\n(B) Cảm ơn. Món ăn rất ngon.\n(C) Chúng ta sẽ đặt món ăn giao đến."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:06:59.626Z",
+    "imageFiles": []
+  },
+  {
+    "range": "14",
+    "part": "",
+    "footerNo": 14,
+    "transcript": null,
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q14.aac",
+    "questions": [
+      {
+        "id": "e48df132-4afd-4a33-ac95-eb9b9f11b1ec",
+        "number": 14,
+        "question": "When is the sale at Hayes Department Store ending?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) It goes until Sunday.",
+            "correct": true
+          },
+          {
+            "key": "B",
+            "text": "(B) The sail has a small tear.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Begin when you can.",
+            "correct": false
+          }
+        ],
+        "answer": "A",
+        "translation": null,
+        "explanationText": "14. When is the sale at Hayes Department Store ending?\n(A) It goes until Sunday.\n(B) The sail has a small tear.\n(C) Begin when you can.\n14. Khi nào đợt giảm giá tại cửa hàng Hayes Department kết thúc?\n(A) Đợt giảm giá kéo dài đến Chủ nhật.\n(B) Cánh buồm có một vết rách nhỏ.\n(C) Bắt đầu khi bạn có thể.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n14. When is the sale at Hayes Department Store ending?\n(A) It goes until Sunday.\n(B) The sail has a small tear.\n(C) Begin when you can.\n14. Khi nào đợt giảm giá tại cửa hàng Hayes Department kết thúc?\n(A) Đợt giảm giá kéo dài đến Chủ nhật.\n(B) Cánh buồm có một vết rách nhỏ.\n(C) Bắt đầu khi bạn có thể."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:00.931Z",
+    "imageFiles": []
+  },
+  {
+    "range": "15",
+    "part": "",
+    "footerNo": 15,
+    "transcript": null,
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q15.aac",
+    "questions": [
+      {
+        "id": "5e8df960-492d-456c-a6e6-8972f018a3bf",
+        "number": 15,
+        "question": "Which wireless keyboard should I get?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Yes, I should do that.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) This one is highly recommended.",
+            "correct": true
+          },
+          {
+            "key": "C",
+            "text": "(C) There's a power outlet over there.",
+            "correct": false
+          }
+        ],
+        "answer": "B",
+        "translation": null,
+        "explanationText": "15. Which wireless keyboard should I get?\n(A) Yes, I should do that.\n(B) This one is highly recommended.\n(C) There’s a power outlet over there.\n15. Tôi nên mua bàn phím không dây nào?\n(A) Vâng, tôi nên làm điều đó.\n(B) Cái này được khuyên dùng rất nhiều.\n(C) Có một ổ cắm điện ở đằng kia.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n15. Which wireless keyboard should I get?\n(A) Yes, I should do that.\n(B) This one is highly recommended.\n(C) There’s a power outlet over there.\n15. Tôi nên mua bàn phím không dây nào?\n(A) Vâng, tôi nên làm điều đó.\n(B) Cái này được khuyên dùng rất nhiều.\n(C) Có một ổ cắm điện ở đằng kia."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:02.235Z",
+    "imageFiles": []
+  },
+  {
+    "range": "16",
+    "part": "",
+    "footerNo": 16,
+    "transcript": null,
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q16.aac",
+    "questions": [
+      {
+        "id": "2e05bcdf-580d-4d4c-a53e-e02d5e5431ae",
+        "number": 16,
+        "question": "Why can't we stay at Casa Resort during our trip?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Because we plan to send it.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) You'll need to copy your passport.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) It is fully booked.",
+            "correct": true
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "16. Why can’t we stay at Casa Resort during our trip?\n(A) Because we plan to send it.\n(B) You’ll need to copy your passport.\n(C) It is fully booked.\n16. Tại sao chúng ta không thể ở lại Casa Resort trong chuyến đi của chúng ta?\n(A) Bởi vì chúng ta dự định gửi nó.\n(B) Bạn sẽ cần sao chép hộ chiếu của mình.\n(C) Nó đã được đặt kín chỗ.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n16. Why can’t we stay at Casa Resort during our trip?\n(A) Because we plan to send it.\n(B) You’ll need to copy your passport.\n(C) It is fully booked.\n16. Tại sao chúng ta không thể ở lại Casa Resort trong chuyến đi của chúng ta?\n(A) Bởi vì chúng ta dự định gửi nó.\n(B) Bạn sẽ cần sao chép hộ chiếu của mình.\n(C) Nó đã được đặt kín chỗ."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:03.538Z",
+    "imageFiles": []
+  },
+  {
+    "range": "17",
+    "part": "",
+    "footerNo": 17,
+    "transcript": null,
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q17.aac",
+    "questions": [
+      {
+        "id": "bd2aaec8-c405-4b04-8d41-73ccdee371bd",
+        "number": 17,
+        "question": "Are you working or taking time off over the holidays?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Try taking the bus.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) I'll be putting in overtime.",
+            "correct": true
+          },
+          {
+            "key": "C",
+            "text": "(C) Oh, I've never traveled there before.",
+            "correct": false
+          }
+        ],
+        "answer": "B",
+        "translation": null,
+        "explanationText": "17. Are you working or taking time off over the holidays?\n(A) Try taking the bus.\n(B) I’ll be putting in overtime.\n(C) Oh, I’ve never traveled there before.\n17. Bạn có đang làm việc hay nghỉ trong kỳ nghỉ lễ không?\n(A) Hãy thử đi xe buýt.\n(B) Tôi sẽ làm việc ngoài giờ.\n(C) Ồ, tôi chưa từng đến đó trước đây.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n17. Are you working or taking time off over the holidays?\n(A) Try taking the bus.\n(B) I’ll be putting in overtime.\n(C) Oh, I’ve never traveled there before.\n17. Bạn có đang làm việc hay nghỉ trong kỳ nghỉ lễ không?\n(A) Hãy thử đi xe buýt.\n(B) Tôi sẽ làm việc ngoài giờ.\n(C) Ồ, tôi chưa từng đến đó trước đây."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:04.841Z",
+    "imageFiles": []
+  },
+  {
+    "range": "18",
+    "part": "",
+    "footerNo": 18,
+    "transcript": null,
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q18.aac",
+    "questions": [
+      {
+        "id": "04290598-167e-4cee-ba63-780c85d90b37",
+        "number": 18,
+        "question": "Should the layout of the bakery be rearranged?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Mike has laid out the documents.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Across from the bread section.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) That would be too difficult.",
+            "correct": true
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "18. Should the layout of the bakery be rearranged?\n(A) Mike has laid out the documents.\n(B) Across from the bread section.\n(C) That’d be too difficult.\n18. Có nên sắp xếp lại bố cục của tiệm bánh không?\n(A) Mike đã sắp xếp tài liệu.\n(B) Đối diện với khu vực bánh mì.\n(C) Điều đó sẽ quá khó khăn.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n18. Should the layout of the bakery be rearranged?\n(A) Mike has laid out the documents.\n(B) Across from the bread section.\n(C) That’d be too difficult.\n18. Có nên sắp xếp lại bố cục của tiệm bánh không?\n(A) Mike đã sắp xếp tài liệu.\n(B) Đối diện với khu vực bánh mì.\n(C) Điều đó sẽ quá khó khăn."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:06.148Z",
+    "imageFiles": []
+  },
+  {
+    "range": "19",
+    "part": "",
+    "footerNo": 19,
+    "transcript": null,
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q19.aac",
+    "questions": [
+      {
+        "id": "9030e4ab-2a33-42a5-9bf2-78eafa809f2f",
+        "number": 19,
+        "question": "How soon can you scan all of these images?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Are you in a hurry?",
+            "correct": true
+          },
+          {
+            "key": "B",
+            "text": "(B) The scanner is on the sixth floor.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Sorry for arriving a bit late.",
+            "correct": false
+          }
+        ],
+        "answer": "A",
+        "translation": null,
+        "explanationText": "19. How soon can you scan all of these images?\n(A) Are you in a hurry?\n(B) The scanner is on the 6th floor.\n(C) Sorry for arriving a bit late.\n19. Bạn có thể quét tất cả những hình ảnh này nhanh đến mức nào?\n(A) Bạn có đang vội không?\n(B) Máy quét nằm trên tầng 6.\n(C) Xin lỗi vì tôi đã đến trễ một chút.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n19. How soon can you scan all of these images?\n(A) Are you in a hurry?\n(B) The scanner is on the 6th floor.\n(C) Sorry for arriving a bit late.\n19. Bạn có thể quét tất cả những hình ảnh này nhanh đến mức nào?\n(A) Bạn có đang vội không?\n(B) Máy quét nằm trên tầng 6.\n(C) Xin lỗi vì tôi đã đến trễ một chút."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:07.455Z",
+    "imageFiles": []
+  },
+  {
+    "range": "20",
+    "part": "",
+    "footerNo": 20,
+    "transcript": null,
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q20.aac",
+    "questions": [
+      {
+        "id": "bb9e424c-6a91-4d98-b676-6352ebaf7def",
+        "number": 20,
+        "question": "Which is the best airline to take to Orlando, Heights Air or Wide Sky?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Personally, I prefer the steak.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) My airfare was quite cheap.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) There's not much difference.",
+            "correct": true
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "20. Which is the best airline to take to Orlando, Heights Air or Wide Sky?\n(A) Personally, I prefer the steak.\n(B) My airfare was quite cheap.\n(C) There’s not much difference.\n20. Hãng hàng không nào tốt nhất để đi đến Orlando, Heights Air hay Wide Sky?\n(A) Cá nhân tôi thích món bít tết hơn.\n(B) Vé máy bay của tôi khá rẻ.\n(C) Không có nhiều sự khác biệt.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n20. Which is the best airline to take to Orlando, Heights Air or Wide Sky?\n(A) Personally, I prefer the steak.\n(B) My airfare was quite cheap.\n(C) There’s not much difference.\n20. Hãng hàng không nào tốt nhất để đi đến Orlando, Heights Air hay Wide Sky?\n(A) Cá nhân tôi thích món bít tết hơn.\n(B) Vé máy bay của tôi khá rẻ.\n(C) Không có nhiều sự khác biệt."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:08.760Z",
+    "imageFiles": []
+  },
+  {
+    "range": "21",
+    "part": "",
+    "footerNo": 21,
+    "transcript": null,
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q21.aac",
+    "questions": [
+      {
+        "id": "aad89abf-bc7e-4d63-9312-8ef341d87e18",
+        "number": 21,
+        "question": "Who is overseeing marketing for the television show?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Either Matilda or Gregory.",
+            "correct": true
+          },
+          {
+            "key": "B",
+            "text": "(B) I saw the forms last night.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) A person from our group made the map.",
+            "correct": false
+          }
+        ],
+        "answer": "A",
+        "translation": null,
+        "explanationText": "21. Who is overseeing marketing for the television show?\n(A) Either Matilda or Gregory.\n(B) I saw the forms last night.\n(C) A person from our group made the map.\n21. Ai đang giám sát mảng tiếp thị cho chương trình truyền hình?\n(A) Hoặc là Matilda hoặc là Gregory.\n(B) Tôi đã thấy các biểu mẫu tối qua.\n(C) Một người trong nhóm của chúng ta đã làm bản đồ.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n21. Who is overseeing marketing for the television show?\n(A) Either Matilda or Gregory.\n(B) I saw the forms last night.\n(C) A person from our group made the map.\n21. Ai đang giám sát mảng tiếp thị cho chương trình truyền hình?\n(A) Hoặc là Matilda hoặc là Gregory.\n(B) Tôi đã thấy các biểu mẫu tối qua.\n(C) Một người trong nhóm của chúng ta đã làm bản đồ."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:10.066Z",
+    "imageFiles": []
+  },
+  {
+    "range": "22",
+    "part": "",
+    "footerNo": 22,
+    "transcript": null,
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q22.aac",
+    "questions": [
+      {
+        "id": "9b25acd5-1a81-4059-9be8-f1de90aa3607",
+        "number": 22,
+        "question": "Is Stan going to meet his project deadline?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) A lot of tasks still have to be completed.",
+            "correct": true
+          },
+          {
+            "key": "B",
+            "text": "(B) No, he didn't go there.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) January 12th of last year.",
+            "correct": false
+          }
+        ],
+        "answer": "A",
+        "translation": null,
+        "explanationText": "22. Is Stan going to meet his project deadline?\n(A) A lot of tasks still have to be completed.\n(B) No, he didn’t go there.\n(C) January 12 of last year.\n22. Stan có hoàn thành đúng hạn dự án của mình không?\n(A) Vẫn còn rất nhiều công việc cần phải hoàn thành.\n(B) Không, anh ấy không đến đó.\n(C) Ngày 12 tháng 1 năm ngoái.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n22. Is Stan going to meet his project deadline?\n(A) A lot of tasks still have to be completed.\n(B) No, he didn’t go there.\n(C) January 12 of last year.\n22. Stan có hoàn thành đúng hạn dự án của mình không?\n(A) Vẫn còn rất nhiều công việc cần phải hoàn thành.\n(B) Không, anh ấy không đến đó.\n(C) Ngày 12 tháng 1 năm ngoái."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:11.371Z",
+    "imageFiles": []
+  },
+  {
+    "range": "23",
+    "part": "",
+    "footerNo": 23,
+    "transcript": null,
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q23.aac",
+    "questions": [
+      {
+        "id": "89860f4a-0fbf-44f2-ace5-007614840816",
+        "number": 23,
+        "question": "Tuition is predicted to increase next semester.",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) The classes were surprisingly challenging.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) The cost of education is already too high.",
+            "correct": true
+          },
+          {
+            "key": "C",
+            "text": "(C) College faculty and administrators.",
+            "correct": false
+          }
+        ],
+        "answer": "B",
+        "translation": null,
+        "explanationText": "23. Tuition is predicted to increase next semester.\n(A) The classes were surprisingly challenging.\n(B) The cost of education is already too high.\n(C) College faculty and administrators.\n23. Học phí được dự đoán sẽ tăng vào học kỳ tới.\n(A) Các lớp học này thực sự rất thách thức.\n(B) Chi phí giáo dục đã quá cao.\n(C) Giảng viên và quản trị viên của trường đại học.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n23. Tuition is predicted to increase next semester.\n(A) The classes were surprisingly challenging.\n(B) The cost of education is already too high.\n(C) College faculty and administrators.\n23. Học phí được dự đoán sẽ tăng vào học kỳ tới.\n(A) Các lớp học này thực sự rất thách thức.\n(B) Chi phí giáo dục đã quá cao.\n(C) Giảng viên và quản trị viên của trường đại học."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:12.675Z",
+    "imageFiles": []
+  },
+  {
+    "range": "24",
+    "part": "",
+    "footerNo": 24,
+    "transcript": null,
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q24.aac",
+    "questions": [
+      {
+        "id": "6d0d2c73-58b9-4b94-bb67-6bc29c379aa0",
+        "number": 24,
+        "question": "When will I receive the concert tickets that I purchased online?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) It'll be held at Davis Hall.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) You can print them out immediately.",
+            "correct": true
+          },
+          {
+            "key": "C",
+            "text": "(C) The concert should last at least an hour.",
+            "correct": false
+          }
+        ],
+        "answer": "B",
+        "translation": null,
+        "explanationText": "24. When will I receive the concert tickets that I purchased online?\n(A) ltll be held at Davis Hall.\n(B) You can print them out immediately.\n(C) The concert should last at least an hour.\n24. Khi nào tôi sẽ nhận được vé buổi hòa nhạc mà tôi đã mua trực tuyến?\n(A) Buổi hòa nhạc sẽ diễn ra tại Davis Hall.\n(B) Bạn có thể in chúng ra ngay lập tức.\n(C) Buổi hòa nhạc sẽ kéo dài ít nhất một giờ.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n24. When will I receive the concert tickets that I purchased online?\n(A) ltll be held at Davis Hall.\n(B) You can print them out immediately.\n(C) The concert should last at least an hour.\n24. Khi nào tôi sẽ nhận được vé buổi hòa nhạc mà tôi đã mua trực tuyến?\n(A) Buổi hòa nhạc sẽ diễn ra tại Davis Hall.\n(B) Bạn có thể in chúng ra ngay lập tức.\n(C) Buổi hòa nhạc sẽ kéo dài ít nhất một giờ."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:13.982Z",
+    "imageFiles": []
+  },
+  {
+    "range": "25",
+    "part": "",
+    "footerNo": 25,
+    "transcript": null,
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q25.aac",
+    "questions": [
+      {
+        "id": "f96f4f5b-5464-4d30-ac60-af6209db60ee",
+        "number": 25,
+        "question": "Would you like to sit at a table near the window?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) A more private spot would be great.",
+            "correct": true
+          },
+          {
+            "key": "B",
+            "text": "(B) Put the plate on the table.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Please be seated.",
+            "correct": false
+          }
+        ],
+        "answer": "A",
+        "translation": null,
+        "explanationText": "26. Pamela has been taking French lessons for her trip, hasn’t she?\n(A) I went to Paris last year.\n(B) She is fluent in Spanish.\n(C) That’s news to me.\n26. Pamela đã học tiếng Pháp cho chuyến đi của cô ấy, phải không?\n(A) Tôi đã đi Paris năm ngoái.\n(B) Cô ấy thông thạo tiếng Tây Ban Nha.\n(C) Điều đó là tin mới đối với tôi.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n26. Pamela has been taking French lessons for her trip, hasn’t she?\n(A) I went to Paris last year.\n(B) She is fluent in Spanish.\n(C) That’s news to me.\n26. Pamela đã học tiếng Pháp cho chuyến đi của cô ấy, phải không?\n(A) Tôi đã đi Paris năm ngoái.\n(B) Cô ấy thông thạo tiếng Tây Ban Nha.\n(C) Điều đó là tin mới đối với tôi."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:15.288Z",
+    "imageFiles": []
+  },
+  {
+    "range": "26",
+    "part": "",
+    "footerNo": 26,
+    "transcript": null,
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q26.aac",
+    "questions": [
+      {
+        "id": "b3053158-4793-4969-bfde-0112039697df",
+        "number": 26,
+        "question": "Pamela has been taking French lessons for her trip, hasn't she?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) I went to Paris last year.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) She is fluent in Spanish.",
+            "correct": true
+          },
+          {
+            "key": "C",
+            "text": "(C) That's news to me.",
+            "correct": false
+          }
+        ],
+        "answer": "B",
+        "translation": null,
+        "explanationText": "26. Pamela has been taking French lessons for her trip, hasn’t she?\n(A) I went to Paris last year.\n(B) She is fluent in Spanish.\n(C) That’s news to me.\n26. Pamela đã học tiếng Pháp cho chuyến đi của cô ấy, phải không?\n(A) Tôi đã đi Paris năm ngoái.\n(B) Cô ấy thông thạo tiếng Tây Ban Nha.\n(C) Điều đó là tin mới đối với tôi.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n26. Pamela has been taking French lessons for her trip, hasn’t she?\n(A) I went to Paris last year.\n(B) She is fluent in Spanish.\n(C) That’s news to me.\n26. Pamela đã học tiếng Pháp cho chuyến đi của cô ấy, phải không?\n(A) Tôi đã đi Paris năm ngoái.\n(B) Cô ấy thông thạo tiếng Tây Ban Nha.\n(C) Điều đó là tin mới đối với tôi."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:16.594Z",
+    "imageFiles": []
+  },
+  {
+    "range": "27",
+    "part": "",
+    "footerNo": 27,
+    "transcript": null,
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q27.aac",
+    "questions": [
+      {
+        "id": "9f320cc2-334c-480d-b513-f05cac9f7b3f",
+        "number": 27,
+        "question": "We've concluded that we need to hire four accountants for tax season.",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Well, our staff seems to enjoy their gifts.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Can we afford to do that?",
+            "correct": true
+          },
+          {
+            "key": "C",
+            "text": "(C) The hiring process for our firm.",
+            "correct": false
+          }
+        ],
+        "answer": "B",
+        "translation": null,
+        "explanationText": "27. We’ve concluded that we need to hire four accountants for tax season.\n(A) Well, our staff seems to enjoy their gifts.\n(B) Can we afford to do that?\n(C) The hiring process for our firm.\n27. Chúng tôi đã kết luận rằng chúng ta cần thuê bốn nhân viên kế toán cho mùa thuế.\n(A) Ừ, nhân viên của chúng tôi dường như rất thích quà của họ.\n(B) Chúng ta có đủ khả năng để làm điều đó không?\n(C) Quy trình tuyển dụng của công ty chúng tôi.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n27. We’ve concluded that we need to hire four accountants for tax season.\n(A) Well, our staff seems to enjoy their gifts.\n(B) Can we afford to do that?\n(C) The hiring process for our firm.\n27. Chúng tôi đã kết luận rằng chúng ta cần thuê bốn nhân viên kế toán cho mùa thuế.\n(A) Ừ, nhân viên của chúng tôi dường như rất thích quà của họ.\n(B) Chúng ta có đủ khả năng để làm điều đó không?\n(C) Quy trình tuyển dụng của công ty chúng tôi."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:17.901Z",
+    "imageFiles": []
+  },
+  {
+    "range": "28",
+    "part": "",
+    "footerNo": 28,
+    "transcript": null,
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q28.aac",
+    "questions": [
+      {
+        "id": "5089ec24-8079-4f18-b151-fad4137cc15f",
+        "number": 28,
+        "question": "Have you heard about our product recall?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) No, I'll take this item instead.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Call him back after the interview.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Yes, Miss Jones informed me this morning.",
+            "correct": true
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "28. Have you heard about our product recall?\n(A) No, I’ll take this item instead.\n(B) Call him back after the interview.\n(C) Yes, Ms. Jones informed me this morning.\n28. Bạn đã nghe về việc thu hồi sản phẩm của chúng tôi chưa?\n(A) Không, tôi sẽ lấy món hàng này thay thế.\n(B) Gọi lại cho anh ta sau buổi phỏng vấn.\n(C) Vâng, cô Jones đã thông báo cho tôi sáng nay.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n28. Have you heard about our product recall?\n(A) No, I’ll take this item instead.\n(B) Call him back after the interview.\n(C) Yes, Ms. Jones informed me this morning.\n28. Bạn đã nghe về việc thu hồi sản phẩm của chúng tôi chưa?\n(A) Không, tôi sẽ lấy món hàng này thay thế.\n(B) Gọi lại cho anh ta sau buổi phỏng vấn.\n(C) Vâng, cô Jones đã thông báo cho tôi sáng nay."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:19.206Z",
+    "imageFiles": []
+  },
+  {
+    "range": "29",
+    "part": "",
+    "footerNo": 29,
+    "transcript": null,
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q29.aac",
+    "questions": [
+      {
+        "id": "fe48a2c3-1d9d-426d-be56-892fc8e92e91",
+        "number": 29,
+        "question": "Didn't somebody tell the driver to show up here at noon?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Someone must have dropped them.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Didn't you make the reservation?",
+            "correct": true
+          },
+          {
+            "key": "C",
+            "text": "(C) I'll show you around the new house.",
+            "correct": false
+          }
+        ],
+        "answer": "B",
+        "translation": null,
+        "explanationText": "29. Didn’t somebody tell the driver to show up here at noon?\n(A) Someone must have dropped them.\n(B) Didn’t you make the reservation?\n(C) I’ll show you around the new house.\n29. Có ai đó đã bảo tài xế đến đây vào buổi trưa chưa?\n(A) Ai đó hẳn đã làm rơi chúng.\n(B) Bạn không đặt chỗ sao?\n(C) Tôi sẽ dẫn bạn đi xem ngôi nhà mới.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n29. Didn’t somebody tell the driver to show up here at noon?\n(A) Someone must have dropped them.\n(B) Didn’t you make the reservation?\n(C) I’ll show you around the new house.\n29. Có ai đó đã bảo tài xế đến đây vào buổi trưa chưa?\n(A) Ai đó hẳn đã làm rơi chúng.\n(B) Bạn không đặt chỗ sao?\n(C) Tôi sẽ dẫn bạn đi xem ngôi nhà mới."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:20.512Z",
+    "imageFiles": []
+  },
+  {
+    "range": "30",
+    "part": "",
+    "footerNo": 30,
+    "transcript": null,
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q30.aac",
+    "questions": [
+      {
+        "id": "572097d3-79e7-454f-8be7-e0fc4d6c7231",
+        "number": 30,
+        "question": "Maria intends to redecorate her living room.",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Thanks, I did it myself.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) I actually like how it looks right now.",
+            "correct": true
+          },
+          {
+            "key": "C",
+            "text": "(C) We made plans for a vacation.",
+            "correct": false
+          }
+        ],
+        "answer": "B",
+        "translation": null,
+        "explanationText": "30. Maria intends to redecorate her living room.\n(A) Thanks. I did it myself.\n(B) I actually like how it looks right now.\n(C) We made plans for a vacation.\n30. Maria dự định trang trí lại phòng khách của cô ấy.\n(A) Cảm ơn. Tôi tự làm đấy.\n(B) Thực ra, tôi thích cách nó trông ngay bây giờ.\n(C) Chúng tôi đã lên kế hoạch cho một kỳ nghỉ.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n30. Maria intends to redecorate her living room.\n(A) Thanks. I did it myself.\n(B) I actually like how it looks right now.\n(C) We made plans for a vacation.\n30. Maria dự định trang trí lại phòng khách của cô ấy.\n(A) Cảm ơn. Tôi tự làm đấy.\n(B) Thực ra, tôi thích cách nó trông ngay bây giờ.\n(C) Chúng tôi đã lên kế hoạch cho một kỳ nghỉ."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:21.818Z",
+    "imageFiles": []
+  },
+  {
+    "range": "31",
+    "part": "",
+    "footerNo": 31,
+    "transcript": null,
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q31.aac",
+    "questions": [
+      {
+        "id": "fac9bc04-306b-40bf-85d1-5baaabffa6c1",
+        "number": 31,
+        "question": "The road in front of our office was just repaved, right?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) A little over a week ago.",
+            "correct": true
+          },
+          {
+            "key": "B",
+            "text": "(B) Lindale Avenue is about a block away.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) On the back of the receipt.",
+            "correct": false
+          }
+        ],
+        "answer": "A",
+        "translation": null,
+        "explanationText": "31. The road in front of our office was just repaved, right?\n(A) A little over a week ago.\n(B) Lyndale Avenue is about a block away.\n(C) On the back of the receipt.\n31. Con đường trước văn phòng của chúng ta vừa được lát lại, đúng không?\n(A) Cách đây hơn một tuần trước.\n(B) Đại lộ Lyndale cách đây khoảng một dãy nhà.\n(C) Ở mặt sau của biên nhận.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\n31. The road in front of our office was just repaved, right?\n(A) A little over a week ago.\n(B) Lyndale Avenue is about a block away.\n(C) On the back of the receipt.\n31. Con đường trước văn phòng của chúng ta vừa được lát lại, đúng không?\n(A) Cách đây hơn một tuần trước.\n(B) Đại lộ Lyndale cách đây khoảng một dãy nhà.\n(C) Ở mặt sau của biên nhận."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:23.122Z",
+    "imageFiles": []
+  },
+  {
+    "range": "32-34",
+    "part": "Part 3: Conversations",
+    "footerNo": 32,
+    "transcript": "M-Cn: Who am I supposed to submit this corporate merger article to for review when I'm done drafting it? It's Friday and the story is scheduled to be published in our paper's Sunday edition. So, someone will have to approve it by the end of the day. W-Am: You can send it to Arnold Smith. Following his promotion last week, he's responsible for all articles published in our weekend edition. M-Cn: I'll submit it to him this afternoon then. But first, could you tell me what you think of the title? Um, here's a copy of the piece.",
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q32-34.aac",
+    "questions": [
+      {
+        "id": "194f1d10-2788-467a-a711-b07cb86e61c8",
+        "number": 32,
+        "question": "What most likely is the man’s occupation?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) A salesperson",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) An accountant",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) A lawyer",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) A journalist",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "Đáp án D. \"Who am I supposed to submit this corporate merger article to for review when I'm done drafting it?\" Người đàn ông đang nói về việc soạn thảo và nộp một bài báo về vụ sáp nhập doanh nghiệp. Công việc này cho thấy anh ấy là một nhà báo.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án D. \"Who am I supposed to submit this corporate merger article to for review when I'm done drafting it?\" Người đàn ông đang nói về việc soạn thảo và nộp một bài báo về vụ sáp nhập doanh nghiệp. Công việc này cho thấy anh ấy là một nhà báo."
+          }
+        ]
+      },
+      {
+        "id": "5ce3b4b1-9b0d-4341-876d-e018eea058fa",
+        "number": 33,
+        "question": "What does the woman say about Arnold Smith?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) He was recently promoted.",
+            "correct": true
+          },
+          {
+            "key": "B",
+            "text": "(B) He reported on some news.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) He already revised a file.",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) He would like some advice.",
+            "correct": false
+          }
+        ],
+        "answer": "A",
+        "translation": null,
+        "explanationText": "Đáp án A. \"Following his promotion last week, he's responsible for all articles published in our weekend edition.\" Người phụ nữ giải thích rằng Arnold Smith hiện chịu trách nhiệm cho các bài báo cuối tuần sau khi anh ấy được thăng chức vào tuần trước. Do đó, đáp án A là chính xác.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án A. \"Following his promotion last week, he's responsible for all articles published in our weekend edition.\" Người phụ nữ giải thích rằng Arnold Smith hiện chịu trách nhiệm cho các bài báo cuối tuần sau khi anh ấy được thăng chức vào tuần trước. Do đó, đáp án A là chính xác."
+          }
+        ]
+      },
+      {
+        "id": "78cd59e5-f39a-49f3-9705-68aaa9483e2d",
+        "number": 34,
+        "question": "What does the man ask the woman to do?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Submit a weekly time sheet",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Give back a borrowed item",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Provide some feedback",
+            "correct": true
+          },
+          {
+            "key": "D",
+            "text": "(D) Copy some documents",
+            "correct": false
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "Đáp án C. \"But first, could you tell me what you think of the title?\" Người đàn ông hỏi người phụ nữ xem cô ấy nghĩ gì về tiêu đề của bài viết. Việc hỏi ý kiến này tương đương với việc yêu cầu cô ấy đưa ra phản hồi hoặc nhận xét.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án C. \"But first, could you tell me what you think of the title?\" Người đàn ông hỏi người phụ nữ xem cô ấy nghĩ gì về tiêu đề của bài viết. Việc hỏi ý kiến này tương đương với việc yêu cầu cô ấy đưa ra phản hồi hoặc nhận xét."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:24.427Z",
+    "imageFiles": []
+  },
+  {
+    "range": "35-37",
+    "part": "Part 3: Conversations",
+    "footerNo": 35,
+    "transcript": "M-Au: Thank you for calling Jenkins Automotive Insurance. This is Bernard speaking. What can I do for you? W-Am: My name is Candace Black, and I'm one of your insurance policy holders. I was just in an accident outside Austin, and I would like my car to be towed to an auto repair shop. I don't feel comfortable driving it. M-Au: I completely understand, Miss Black. A tow truck will be dispatched to your location immediately. But first, I'd just like to confirm that you've notified the police about the situation. W-Am: Yes, I did. In fact, an officer is going to stay here with me until the tow truck arrives.",
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q35-37.aac",
+    "questions": [
+      {
+        "id": "26c9c03f-a83a-43be-873f-4559280db6ef",
+        "number": 35,
+        "question": "Why is the woman calling?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) To request a service",
+            "correct": true
+          },
+          {
+            "key": "B",
+            "text": "(B) To make an appointment",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) To provide directions",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) To respond to an inquiry",
+            "correct": false
+          }
+        ],
+        "answer": "A",
+        "translation": null,
+        "explanationText": "Đáp án A. \"I would like my car to be towed to an auto repair shop.\" Người phụ nữ gọi điện để yêu cầu dịch vụ xe kéo vì cô ấy vừa gặp tai nạn. Đây là mục đích chính của cuộc gọi.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án A. \"I would like my car to be towed to an auto repair shop.\" Người phụ nữ gọi điện để yêu cầu dịch vụ xe kéo vì cô ấy vừa gặp tai nạn. Đây là mục đích chính của cuộc gọi."
+          }
+        ]
+      },
+      {
+        "id": "99b4fc21-0de2-468f-9e7b-61e3bb8f5cff",
+        "number": 36,
+        "question": "What does the woman want to avoid doing?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Taking a longer route",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Going to an auto repair shop",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Operating her vehicle",
+            "correct": true
+          },
+          {
+            "key": "D",
+            "text": "(D) Using public transportation",
+            "correct": false
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "Đáp án C. \"I don't feel comfortable driving it.\" Cô ấy nói rằng mình không cảm thấy thoải mái khi lái chiếc xe bị hỏng sau tai nạn. Do đó, cô ấy muốn tránh việc phải tự lái xe (operating her vehicle).",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án C. \"I don't feel comfortable driving it.\" Cô ấy nói rằng mình không cảm thấy thoải mái khi lái chiếc xe bị hỏng sau tai nạn. Do đó, cô ấy muốn tránh việc phải tự lái xe (operating her vehicle)."
+          }
+        ]
+      },
+      {
+        "id": "300a0b93-2fae-4361-841c-6f16739eb580",
+        "number": 37,
+        "question": "What does the man ask the woman about?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Whether she reported an accident",
+            "correct": true
+          },
+          {
+            "key": "B",
+            "text": "(B) Whether she was injured in a collision",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Whether she arrived at a destination",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) Whether she was notified of a situation",
+            "correct": false
+          }
+        ],
+        "answer": "A",
+        "translation": null,
+        "explanationText": "Đáp án A. \"But first, I'd just like to confirm that you've notified the police about the situation.\" Người đàn ông hỏi xác nhận xem người phụ nữ đã báo cảnh sát về vụ tai nạn chưa. Điều này khớp với việc hỏi xem cô ấy đã báo cáo tai nạn hay chưa.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án A. \"But first, I'd just like to confirm that you've notified the police about the situation.\" Người đàn ông hỏi xác nhận xem người phụ nữ đã báo cảnh sát về vụ tai nạn chưa. Điều này khớp với việc hỏi xem cô ấy đã báo cáo tai nạn hay chưa."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:30.721Z",
+    "imageFiles": []
+  },
+  {
+    "range": "38-40",
+    "part": "Part 3: Conversations",
+    "footerNo": 38,
+    "transcript": "W-Am: Oh, I can't believe Pasadena Gallery is going to display my artwork. Thank you so much. M-Cn: We take great pride in supporting local artists, and I think your paintings will appeal to our clients. Plus, if you go on to achieve success, we can say that your first exhibit was held at our gallery. W-Am: Well, I'm very excited. By the way, have you decided on the dates yet? M-Cn: A two-week show would probably work best. I'm thinking about holding it from August 27th to September 10th. W-Am: Ah, could it start one week earlier, on August 20th? I'm traveling to Berlin to participate in a meet and greet event with other aspiring painters on September 8th. M-Cn: That should be fine.",
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q38-40.aac",
+    "questions": [
+      {
+        "id": "8d392afc-6a05-4e47-8239-821ba85d3e57",
+        "number": 38,
+        "question": "Where most likely does the man work?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) At a theater",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) At a gallery",
+            "correct": true
+          },
+          {
+            "key": "C",
+            "text": "(C) At an art school",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) At a photography studio",
+            "correct": false
+          }
+        ],
+        "answer": "B",
+        "translation": null,
+        "explanationText": "Đáp án B. \"we can say that your first exhibit was held at our gallery.\" Người đàn ông nói câu này để khẳng định nơi tổ chức triển lãm là phòng tranh của họ. Vì vậy, người đàn ông làm việc tại một phòng tranh.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án B. \"we can say that your first exhibit was held at our gallery.\" Người đàn ông nói câu này để khẳng định nơi tổ chức triển lãm là phòng tranh của họ. Vì vậy, người đàn ông làm việc tại một phòng tranh."
+          }
+        ]
+      },
+      {
+        "id": "6a049fe3-2355-4b10-aa31-723f1012da7e",
+        "number": 39,
+        "question": "What is implied about the woman?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) She has contacted a famous painter.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) She has not had an exhibit before.",
+            "correct": true
+          },
+          {
+            "key": "C",
+            "text": "(C) She has not finished a painting.",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) She has lived in another country.",
+            "correct": false
+          }
+        ],
+        "answer": "B",
+        "translation": null,
+        "explanationText": "Đáp án B. \"Plus, if you go on to achieve success, we can say that your first exhibit was held at our gallery.\" Người đàn ông đề cập rằng đây là triển lãm đầu tiên của cô ấy. Điều này ngụ ý rằng cô ấy chưa từng có triển lãm nào trước đây.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án B. \"Plus, if you go on to achieve success, we can say that your first exhibit was held at our gallery.\" Người đàn ông đề cập rằng đây là triển lãm đầu tiên của cô ấy. Điều này ngụ ý rằng cô ấy chưa từng có triển lãm nào trước đây."
+          }
+        ]
+      },
+      {
+        "id": "c1b2a888-a2b2-4db6-9cce-a56543332701",
+        "number": 40,
+        "question": "When will the show most likely begin?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) On August 20",
+            "correct": true
+          },
+          {
+            "key": "B",
+            "text": "(B) On August 27",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) On September 8",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) On September 10",
+            "correct": false
+          }
+        ],
+        "answer": "A",
+        "translation": null,
+        "explanationText": "Đáp án A. \"Ah, could it start one week earlier, on August 20th?\" Người phụ nữ đề nghị bắt đầu sớm hơn một tuần vào ngày 20 tháng 8 và người đàn ông đã đồng ý. Do đó, triển lãm sẽ bắt đầu vào ngày 20 tháng 8.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án A. \"Ah, could it start one week earlier, on August 20th?\" Người phụ nữ đề nghị bắt đầu sớm hơn một tuần vào ngày 20 tháng 8 và người đàn ông đã đồng ý. Do đó, triển lãm sẽ bắt đầu vào ngày 20 tháng 8."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:32.480Z",
+    "imageFiles": []
+  },
+  {
+    "range": "41-43",
+    "part": "Part 3: Conversations",
+    "footerNo": 41,
+    "transcript": "M-Cn: What a busy morning. We've received so many complaints today about the latest update to our company's accounting program. W-Am: It's been hard trying to resolve callers' issues. Didn't you say you dealt with a really upset customer earlier, Lena? W-Br: Yeah, she was working on a financial report for her company this morning and lost all her data when the program crashed. W-Am: I can understand her frustration, but I'm still not looking forward to answering more calls after lunch. M-Cn: That's for sure. Anyway, speaking of lunch, how about going to the Italian restaurant across the street? My treat. W-Br: Okay, but let's try to return to the office before 1:00 p.m. I need to finish filing some paperwork.",
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q41-43.aac",
+    "questions": [
+      {
+        "id": "6a5d5909-d3f7-4b86-ae8b-4747238d74c1",
+        "number": 41,
+        "question": "Why have the speakers been busy?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) A company has gotten multiple complaints.",
+            "correct": true
+          },
+          {
+            "key": "B",
+            "text": "(B) Some equipment is being installed.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Some employees are being trained.",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) A seminar took longer than expected.",
+            "correct": false
+          }
+        ],
+        "answer": "A",
+        "translation": null,
+        "explanationText": "Đáp án A. \"We've received so many complaints today about the latest update to our company's accounting program.\" Câu này nghĩa là chúng tôi đã nhận được rất nhiều lời phàn nàn hôm nay về bản cập nhật mới nhất cho chương trình kế toán của công ty. Vì vậy, lý do họ bận rộn là do phải xử lý nhiều khiếu nại từ khách hàng.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án A. \"We've received so many complaints today about the latest update to our company's accounting program.\" Câu này nghĩa là chúng tôi đã nhận được rất nhiều lời phàn nàn hôm nay về bản cập nhật mới nhất cho chương trình kế toán của công ty. Vì vậy, lý do họ bận rộn là do phải xử lý nhiều khiếu nại từ khách hàng."
+          }
+        ]
+      },
+      {
+        "id": "a48a4810-abe2-41b5-bb0c-8c855d7f4688",
+        "number": 42,
+        "question": "What does Lena say recently happened?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) A team missed a deadline.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) A report was submitted.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) A shipment was damaged.",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) A customer lost some data.",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "Đáp án D. \"she was working on a financial report for her company this morning and lost all her data when the program crashed.\" Câu này nghĩa là cô ấy đang làm báo cáo tài chính cho công ty vào sáng nay và đã mất hết dữ liệu khi chương trình bị lỗi. Điều này khớp với việc khách hàng bị mất dữ liệu.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án D. \"she was working on a financial report for her company this morning and lost all her data when the program crashed.\" Câu này nghĩa là cô ấy đang làm báo cáo tài chính cho công ty vào sáng nay và đã mất hết dữ liệu khi chương trình bị lỗi. Điều này khớp với việc khách hàng bị mất dữ liệu."
+          }
+        ]
+      },
+      {
+        "id": "d3da15f1-6b68-4ab0-90c0-df165af1858d",
+        "number": 43,
+        "question": "What does the man offer to do?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Download a file",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Pay for a meal",
+            "correct": true
+          },
+          {
+            "key": "C",
+            "text": "(C) Turn in some paperwork",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) Call a coworker",
+            "correct": false
+          }
+        ],
+        "answer": "B",
+        "translation": null,
+        "explanationText": "Đáp án B. \"Anyway, speaking of lunch, how about going to the Italian restaurant across the street? My treat.\" Câu này nghĩa là dù sao thì, nói về bữa trưa, hay là mình đến nhà hàng Ý bên kia đường đi? Tôi mời. Cụm từ \"My treat\" nghĩa là tôi bao, tương ứng với việc trả tiền cho bữa ăn.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án B. \"Anyway, speaking of lunch, how about going to the Italian restaurant across the street? My treat.\" Câu này nghĩa là dù sao thì, nói về bữa trưa, hay là mình đến nhà hàng Ý bên kia đường đi? Tôi mời. Cụm từ \"My treat\" nghĩa là tôi bao, tương ứng với việc trả tiền cho bữa ăn."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:34.842Z",
+    "imageFiles": []
+  },
+  {
+    "range": "44-46",
+    "part": "Part 3: Conversations",
+    "footerNo": 44,
+    "transcript": "M-Cn: Can I help the next customer in line? W-Am: Hello. I bought these bed sheets at your store last week, but they're not the correct size for my mattress. So I'd like to return them. M-Cn: Of course. Did you bring the receipt for the purchase with you? W-Am: Um, I lost it. Does that mean that I can't get a refund? M-Cn: Do you have the same credit card you bought the items with? I can look up the transaction using the number. W-Am: Yes, I have it in my wallet. Uh, let me just get it.",
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q44-46.aac",
+    "questions": [
+      {
+        "id": "f7c98e0e-e477-46c1-97f3-441b35ff9782",
+        "number": 44,
+        "question": "What did the woman do last week?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Visited an online store",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Requested a refund",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Bought some bedding",
+            "correct": true
+          },
+          {
+            "key": "D",
+            "text": "(D) Replaced a mattress",
+            "correct": false
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "Đáp án C. Người phụ nữ nói \"I bought these bed sheets at your store last week\" nghĩa là cô ấy đã mua ga trải giường tại cửa hàng vào tuần trước. Ga trải giường chính là đồ dùng giường ngủ, nên đáp án C là chính xác.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án C. Người phụ nữ nói \"I bought these bed sheets at your store last week\" nghĩa là cô ấy đã mua ga trải giường tại cửa hàng vào tuần trước. Ga trải giường chính là đồ dùng giường ngủ, nên đáp án C là chính xác."
+          }
+        ]
+      },
+      {
+        "id": "84021385-d0a1-4a9e-a03d-d9921e207b2d",
+        "number": 45,
+        "question": "What does the man imply when he says, ''l can look up the transaction using the number''?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) A purchase may be processed.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) A product might be available.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) A receipt should be located.",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) A refund can be given.",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "Đáp án D. Người đàn ông nói \"I can look up the transaction using the number.\" để giải quyết vấn đề mất hóa đơn của khách hàng. Việc tra cứu giao dịch này nhằm mục đích giúp khách hàng thực hiện được việc hoàn tiền, nên đáp án D là đúng.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án D. Người đàn ông nói \"I can look up the transaction using the number.\" để giải quyết vấn đề mất hóa đơn của khách hàng. Việc tra cứu giao dịch này nhằm mục đích giúp khách hàng thực hiện được việc hoàn tiền, nên đáp án D là đúng."
+          }
+        ]
+      },
+      {
+        "id": "097e7f34-0f49-491c-9db7-8affd3e688c5",
+        "number": 46,
+        "question": "What will the woman most likely do next?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Find a credit card",
+            "correct": true
+          },
+          {
+            "key": "B",
+            "text": "(B) Go to another store",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Check a transaction fee",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) Compare some merchandise",
+            "correct": false
+          }
+        ],
+        "answer": "A",
+        "translation": null,
+        "explanationText": "Đáp án A. Người phụ nữ trả lời \"Yes, I have it in my wallet. Uh, let me just get it.\" ngay sau khi người đàn ông hỏi về thẻ tín dụng. Vì vậy, hành động tiếp theo của cô ấy chắc chắn là lấy thẻ tín dụng ra để người đàn ông kiểm tra.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án A. Người phụ nữ trả lời \"Yes, I have it in my wallet. Uh, let me just get it.\" ngay sau khi người đàn ông hỏi về thẻ tín dụng. Vì vậy, hành động tiếp theo của cô ấy chắc chắn là lấy thẻ tín dụng ra để người đàn ông kiểm tra."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:36.164Z",
+    "imageFiles": []
+  },
+  {
+    "range": "47-49",
+    "part": "Part 3: Conversations",
+    "footerNo": 47,
+    "transcript": "W-Am: Do you require some assistance? M-Au: Yes, I'd like your opinion on which of these ties to get. Both of them have fashionable patterns, but I'm not sure if the black one will complement this suit I am buying for my friend's wedding. W-Am: Since the suit you've picked is gray, I think this sky blue tie matches it better. The black one seems too dark in my opinion. M-Au: Hmm. You're right. Plus, my friend said that light purple will be one of his wedding colors. So your recommendation will go better with that too. I'll put it on now just to make sure it suits me, if that's okay.",
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q47-49.aac",
+    "questions": [
+      {
+        "id": "ec2de25c-3178-4046-8ade-974a830789df",
+        "number": 47,
+        "question": "Where most likely is the conversation taking place?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) At an event hall",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) At a fabric factory",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) At a dry cleaner",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) At a clothing shop",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "Đáp án D. Người đàn ông nói \"I'd like your opinion on which of these ties to get.\" (Tôi muốn hỏi ý kiến cô về việc nên mua chiếc cà vạt nào trong số này). Việc thảo luận về việc mua cà vạt và bộ vest cho thấy họ đang ở trong một cửa hàng quần áo.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án D. Người đàn ông nói \"I'd like your opinion on which of these ties to get.\" (Tôi muốn hỏi ý kiến cô về việc nên mua chiếc cà vạt nào trong số này). Việc thảo luận về việc mua cà vạt và bộ vest cho thấy họ đang ở trong một cửa hàng quần áo."
+          }
+        ]
+      },
+      {
+        "id": "634b373d-8940-4789-9a1f-658e8ce575bd",
+        "number": 48,
+        "question": "What does the woman suggest?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Walking over to a counter",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Dressing in formal attire",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Selecting a different color",
+            "correct": true
+          },
+          {
+            "key": "D",
+            "text": "(D) Asking for another opinion",
+            "correct": false
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "Đáp án C. Người phụ nữ khuyên \"I think this sky blue tie matches it better.\" (Tôi nghĩ chiếc cà vạt màu xanh da trời này hợp hơn). Cô ấy đang gợi ý chọn một màu sắc khác (màu xanh thay vì màu đen) để phù hợp với bộ vest xám.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án C. Người phụ nữ khuyên \"I think this sky blue tie matches it better.\" (Tôi nghĩ chiếc cà vạt màu xanh da trời này hợp hơn). Cô ấy đang gợi ý chọn một màu sắc khác (màu xanh thay vì màu đen) để phù hợp với bộ vest xám."
+          }
+        ]
+      },
+      {
+        "id": "c4ec79ea-bd7b-41c3-a9a2-613bfde9eec7",
+        "number": 49,
+        "question": "What will the man probably do next?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Determine a wedding date",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Look over some expenses",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Find an associate",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) Try on an item",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "Đáp án D. Người đàn ông nói \"I'll put it on now just to make sure it suits me\" (Tôi sẽ đeo thử nó ngay bây giờ để chắc chắn nó hợp với tôi). Cụm từ \"put it on\" (đeo/mặc vào) đồng nghĩa với việc thử một món đồ.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án D. Người đàn ông nói \"I'll put it on now just to make sure it suits me\" (Tôi sẽ đeo thử nó ngay bây giờ để chắc chắn nó hợp với tôi). Cụm từ \"put it on\" (đeo/mặc vào) đồng nghĩa với việc thử một món đồ."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:37.771Z",
+    "imageFiles": []
+  },
+  {
+    "range": "50-52",
+    "part": "Part 3: Conversations",
+    "footerNo": 50,
+    "transcript": "M-Cn: Hi, I went to singer Farah Miller's concert last Thursday at your theater, but I was very disappointed that there were issues with the sound due to a microphone malfunction. I want a full refund for my ticket, please. W-Am: I'm sorry about that, sir. However, we aren't providing refunds because the issue was caused by the band's equipment. I suggest you make a complaint on Farah Miller's official website. M-Cn: I tried that yesterday, but I haven't heard back yet. Isn't there anything you can do to compensate me? W-Am: Well, we can provide you with a 20% discount for a future performance at our venue. I hope this will make up for the inconvenience you've experienced.",
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q50-52.aac",
+    "questions": [
+      {
+        "id": "1451e237-4168-490a-af5d-019b781825f7",
+        "number": 50,
+        "question": "What problem does the man mention?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) A concert has been canceled.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) A venue was unexpectedly closed.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) A show experienced technical difficulties.",
+            "correct": true
+          },
+          {
+            "key": "D",
+            "text": "(D) A band did not appear as planned.",
+            "correct": false
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "Đáp án C. \"I was very disappointed that there were issues with the sound due to a microphone malfunction.\" Người đàn ông nói rằng ông ấy thất vọng vì vấn đề âm thanh do micro bị hỏng, đây chính là sự cố kỹ thuật trong buổi biểu diễn.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án C. \"I was very disappointed that there were issues with the sound due to a microphone malfunction.\" Người đàn ông nói rằng ông ấy thất vọng vì vấn đề âm thanh do micro bị hỏng, đây chính là sự cố kỹ thuật trong buổi biểu diễn."
+          }
+        ]
+      },
+      {
+        "id": "ea149e2a-dce2-49c0-99ff-52232b9e63b7",
+        "number": 51,
+        "question": "What did the man do yesterday?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Viewed some comments",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Visited a ticketing office",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Checked schedule changes",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) Submitted a complaint",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "Đáp án D. \"I suggest you make a complaint on Farah Miller's official website.\" và \"I tried that yesterday, but I haven't heard back yet.\" Người phụ nữ gợi ý gửi khiếu nại trên trang web và người đàn ông xác nhận ông ấy đã thực hiện việc gửi khiếu nại đó vào ngày hôm qua.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án D. \"I suggest you make a complaint on Farah Miller's official website.\" và \"I tried that yesterday, but I haven't heard back yet.\" Người phụ nữ gợi ý gửi khiếu nại trên trang web và người đàn ông xác nhận ông ấy đã thực hiện việc gửi khiếu nại đó vào ngày hôm qua."
+          }
+        ]
+      },
+      {
+        "id": "9a9ba0b5-99b6-42fe-8698-58ee597d6314",
+        "number": 52,
+        "question": "Why does the woman say, ''we can provide you with a 20 percent discount''?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) To promote a service",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) To recommend an option",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) To fulfill a request",
+            "correct": true
+          },
+          {
+            "key": "D",
+            "text": "(D) To confirm a choice",
+            "correct": false
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "Đáp án C. \"Isn't there anything you can do to compensate me?\" và \"Well, we can provide you with a 20% discount for a future performance at our venue.\" Người đàn ông hỏi liệu có cách nào để đền bù cho ông ấy không, và người phụ nữ đưa ra mức giảm giá để đáp ứng yêu cầu đó.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án C. \"Isn't there anything you can do to compensate me?\" và \"Well, we can provide you with a 20% discount for a future performance at our venue.\" Người đàn ông hỏi liệu có cách nào để đền bù cho ông ấy không, và người phụ nữ đưa ra mức giảm giá để đáp ứng yêu cầu đó."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:39.833Z",
+    "imageFiles": []
+  },
+  {
+    "range": "53-55",
+    "part": "Part 3: Conversations",
+    "footerNo": 53,
+    "transcript": "W-Am: Okay. Both candidates for the consumer analyst position are qualified. Either would be suitable for the job. M-Au: I feel that Patricia Spalding is more versatile, as she's worked on different types of studies. What do you think, Jamie? M-Cn: I agree. She has used several methods to examine consumer trends, and I'd like her help with some marketing research I'm in charge of now. W-Am: Good idea. Also, I thought Miss Spalding was more approachable than the other candidate. M-Au: Then let's offer Miss Spalding the position. We can notify her today. Stella, could you do that? W-Am: I'll call her right after this meeting. M-Au: Thanks. I know she's anxious to hear from us, so let's not keep her waiting.",
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q53-55.aac",
+    "questions": [
+      {
+        "id": "16d6124d-f976-49e6-844c-23c6110dfb16",
+        "number": 53,
+        "question": "What are the speakers mainly discussing?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Making an applicant list",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Creating a job advertisement",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Choosing a candidate",
+            "correct": true
+          },
+          {
+            "key": "D",
+            "text": "(D) Arranging a training session",
+            "correct": false
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "Đáp án C. Câu \"Both candidates for the consumer analyst position are qualified.\" cho thấy các diễn giả đang thảo luận về các ứng viên cho vị trí phân tích người tiêu dùng. Sau đó họ quyết định chọn Patricia Spalding, nên chủ đề chính là việc lựa chọn ứng viên.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án C. Câu \"Both candidates for the consumer analyst position are qualified.\" cho thấy các diễn giả đang thảo luận về các ứng viên cho vị trí phân tích người tiêu dùng. Sau đó họ quyết định chọn Patricia Spalding, nên chủ đề chính là việc lựa chọn ứng viên."
+          }
+        ]
+      },
+      {
+        "id": "ce9cd8c0-658a-4a6e-af8f-b48f537c74d5",
+        "number": 54,
+        "question": "What is Jamie currently working on?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) A sales report",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) A meeting agenda",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) A consumer survey",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) A marketing study",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "Đáp án D. Nhân vật Jamie nói \"I'd like her help with some marketing research I'm in charge of now.\" nghĩa là anh ấy muốn cô ấy giúp với một số nghiên cứu tiếp thị mà anh ấy đang phụ trách. Do đó, anh ấy đang làm việc về nghiên cứu tiếp thị.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án D. Nhân vật Jamie nói \"I'd like her help with some marketing research I'm in charge of now.\" nghĩa là anh ấy muốn cô ấy giúp với một số nghiên cứu tiếp thị mà anh ấy đang phụ trách. Do đó, anh ấy đang làm việc về nghiên cứu tiếp thị."
+          }
+        ]
+      },
+      {
+        "id": "c9b3c96e-97ce-4b9c-b963-1c5e0893a83e",
+        "number": 55,
+        "question": "What will the woman probably do after the meeting?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Contact an applicant",
+            "correct": true
+          },
+          {
+            "key": "B",
+            "text": "(B) Conduct an interview",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Edit a posting",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) Listen to a voice mail",
+            "correct": false
+          }
+        ],
+        "answer": "A",
+        "translation": null,
+        "explanationText": "Đáp án A. Khi được hỏi có thể thông báo cho ứng viên không, người phụ nữ trả lời \"I'll call her right after this meeting.\" nghĩa là cô ấy sẽ gọi cho ứng viên ngay sau cuộc họp này. Vì vậy, hành động tiếp theo của cô ấy là liên lạc với ứng viên.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án A. Khi được hỏi có thể thông báo cho ứng viên không, người phụ nữ trả lời \"I'll call her right after this meeting.\" nghĩa là cô ấy sẽ gọi cho ứng viên ngay sau cuộc họp này. Vì vậy, hành động tiếp theo của cô ấy là liên lạc với ứng viên."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:41.594Z",
+    "imageFiles": []
+  },
+  {
+    "range": "56-58",
+    "part": "Part 3: Conversations",
+    "footerNo": 56,
+    "transcript": "M-Cn: Elaine, I have an idea. What if our company started subsidizing employee education? We could offer financial support for workers who want to pursue professional courses. W-Br: I don't see why not. Many successful corporations invest in staff development. And based on last Friday's gathering with the board of directors, our company has enough money in its budget to do the same. M-Cn: So then, how much of the education costs do you think we should cover? W-Br: The best way to determine that is to look into the amounts that other similar companies normally provide. Please do some research and let me know what you find.",
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q56-58.aac",
+    "questions": [
+      {
+        "id": "d91bd9ca-a00c-4e03-9013-d4fcbfcc78ee",
+        "number": 56,
+        "question": "What does the man suggest?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Reviewing educational materials",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Changing degree requirements",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Funding professional development",
+            "correct": true
+          },
+          {
+            "key": "D",
+            "text": "(D) Updating hiring procedures",
+            "correct": false
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "Đáp án C. Câu \"What if our company started subsidizing employee education? We could offer financial support for workers who want to pursue professional courses.\" cho thấy người đàn ông đề xuất công ty nên hỗ trợ tài chính cho nhân viên học các khóa đào tạo chuyên môn. Cụm từ \"subsidizing employee education\" đồng nghĩa với việc tài trợ cho sự phát triển chuyên môn.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án C. Câu \"What if our company started subsidizing employee education? We could offer financial support for workers who want to pursue professional courses.\" cho thấy người đàn ông đề xuất công ty nên hỗ trợ tài chính cho nhân viên học các khóa đào tạo chuyên môn. Cụm từ \"subsidizing employee education\" đồng nghĩa với việc tài trợ cho sự phát triển chuyên môn."
+          }
+        ]
+      },
+      {
+        "id": "0d521f8e-ebb5-4797-b3f6-4a94a8dbec64",
+        "number": 57,
+        "question": "According to the woman, what took place last Friday?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) A charity event",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) A business seminar",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) A press conference",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) An executive meeting",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "Đáp án D. Người phụ nữ nhắc đến \"last Friday's gathering with the board of directors\", trong đó \"board of directors\" là hội đồng quản trị. Cuộc họp với hội đồng quản trị chính là một cuộc họp điều hành (executive meeting).",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án D. Người phụ nữ nhắc đến \"last Friday's gathering with the board of directors\", trong đó \"board of directors\" là hội đồng quản trị. Cuộc họp với hội đồng quản trị chính là một cuộc họp điều hành (executive meeting)."
+          }
+        ]
+      },
+      {
+        "id": "737f4e76-53d1-45ed-83e2-5cc732ff56a1",
+        "number": 58,
+        "question": "What does the woman ask the man to do?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Call some directors",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Research some amounts",
+            "correct": true
+          },
+          {
+            "key": "C",
+            "text": "(C) Find a training program",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) Meet with a financial consultant",
+            "correct": false
+          }
+        ],
+        "answer": "B",
+        "translation": null,
+        "explanationText": "Đáp án B. Người phụ nữ nói \"Please do some research and let me know what you find.\" sau khi thảo luận về việc xác định mức chi phí hỗ trợ. Do đó, cô ấy yêu cầu người đàn ông tìm hiểu về các mức chi phí mà các công ty khác thường cung cấp.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án B. Người phụ nữ nói \"Please do some research and let me know what you find.\" sau khi thảo luận về việc xác định mức chi phí hỗ trợ. Do đó, cô ấy yêu cầu người đàn ông tìm hiểu về các mức chi phí mà các công ty khác thường cung cấp."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:47.138Z",
+    "imageFiles": []
+  },
+  {
+    "range": "59-61",
+    "part": "Part 3: Conversations",
+    "footerNo": 59,
+    "transcript": "W-Am: Hello, I'd like to purchase a pressure cooker from your department store. Uh, the cookware 550. M-Au: I can definitely take care of that for you, ma'am. Have you ordered anything over the phone from us before? W-Am: Yes, I have. There should be an account for Marilyn Tan with a home address at 100 Eastwood Street in Baltimore. However, I'd like the item shipped to my friend's home since it will be a gift for her housewarming party. M-Au: Absolutely. Please just wait a moment while our system loads and then I'll enter all the necessary information.",
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q59-61.aac",
+    "questions": [
+      {
+        "id": "540ec960-f387-4898-9d60-14c0ad1a7253",
+        "number": 59,
+        "question": "Why does the woman place the call?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) To verify warranty information",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) To complain about an error",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) To ask about a return policy",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) To place a product order",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "Đáp án D. \"Hello, I'd like to purchase a pressure cooker from your department store.\" Người phụ nữ mở đầu cuộc hội thoại bằng cách nói rằng cô ấy muốn mua một chiếc nồi áp suất. Điều này cho thấy mục đích chính của cuộc gọi là để đặt hàng sản phẩm.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án D. \"Hello, I'd like to purchase a pressure cooker from your department store.\" Người phụ nữ mở đầu cuộc hội thoại bằng cách nói rằng cô ấy muốn mua một chiếc nồi áp suất. Điều này cho thấy mục đích chính của cuộc gọi là để đặt hàng sản phẩm."
+          }
+        ]
+      },
+      {
+        "id": "117b9c4c-7c8b-4925-8ec6-32e6d0b3c09c",
+        "number": 60,
+        "question": "Why does the woman say, ''it will be a gift for her housewarming party''?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) To confirm a delivery time",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) To ask for a different service",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) To provide a reason for a request",
+            "correct": true
+          },
+          {
+            "key": "D",
+            "text": "(D) To express concern about a delay",
+            "correct": false
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "Đáp án C. \"However, I'd like the item shipped to my friend's home since it will be a gift for her housewarming party.\" Người phụ nữ yêu cầu giao hàng đến địa chỉ khác và giải thích lý do là vì món đồ này dùng làm quà tặng tân gia. Do đó, câu nói này nhằm cung cấp lý do cho yêu cầu vận chuyển đặc biệt của cô ấy.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án C. \"However, I'd like the item shipped to my friend's home since it will be a gift for her housewarming party.\" Người phụ nữ yêu cầu giao hàng đến địa chỉ khác và giải thích lý do là vì món đồ này dùng làm quà tặng tân gia. Do đó, câu nói này nhằm cung cấp lý do cho yêu cầu vận chuyển đặc biệt của cô ấy."
+          }
+        ]
+      },
+      {
+        "id": "0f8a009a-d5f4-4453-9a12-9c95a5810129",
+        "number": 61,
+        "question": "What will the man probably do next?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Shut down a system",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Input order details",
+            "correct": true
+          },
+          {
+            "key": "C",
+            "text": "(C) Meet with shipping personnel",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) Cancel a previous charge",
+            "correct": false
+          }
+        ],
+        "answer": "B",
+        "translation": null,
+        "explanationText": "Đáp án B. \"Please just wait a moment while our system loads and then I'll enter all the necessary information.\" Người đàn ông yêu cầu người phụ nữ đợi trong khi hệ thống tải và nói rằng anh ấy sẽ nhập các thông tin cần thiết. Điều này cho thấy bước tiếp theo anh ấy sẽ làm là nhập chi tiết đơn hàng vào hệ thống.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án B. \"Please just wait a moment while our system loads and then I'll enter all the necessary information.\" Người đàn ông yêu cầu người phụ nữ đợi trong khi hệ thống tải và nói rằng anh ấy sẽ nhập các thông tin cần thiết. Điều này cho thấy bước tiếp theo anh ấy sẽ làm là nhập chi tiết đơn hàng vào hệ thống."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:48.447Z",
+    "imageFiles": []
+  },
+  {
+    "range": "62-64",
+    "part": "Part 3: Conversations",
+    "footerNo": 62,
+    "transcript": "W-Am: How's the trade fair going for you? My booth has been busy. M-Au: Mine too. My company's products are selling well. W-Am: I wish I had more help. It seems there are more people at the fair this year than usual. M-Au: A staff member at the registration desk said there was a 15% increase in attendance on the first day this year compared to last year. However, my company's booth only has two employees working there today. Um, me and my colleague. W-Am: So your co-worker is all alone at your booth now? M-Au: Yeah, I'd better get back. I promised to assist him with passing out schedules for the demonstrations we'll be giving this afternoon.",
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q62-64.aac",
+    "questions": [
+      {
+        "id": "a06a0abd-bdbd-4631-bff6-452ed80c7521",
+        "number": 62,
+        "question": "Where most likely is the conversation taking place?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) At a product launch",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) At a business conference",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) At a shareholders' meeting",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) At a trade fair",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "Đáp án D. \"How's the trade fair going for you?\" Người phụ nữ đã trực tiếp hỏi về hội chợ thương mại (trade fair) đang diễn ra như thế nào. Điều này xác nhận cuộc hội thoại đang diễn ra tại một hội chợ thương mại.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án D. \"How's the trade fair going for you?\" Người phụ nữ đã trực tiếp hỏi về hội chợ thương mại (trade fair) đang diễn ra như thế nào. Điều này xác nhận cuộc hội thoại đang diễn ra tại một hội chợ thương mại."
+          }
+        ]
+      },
+      {
+        "id": "5e5384df-37bd-425a-931c-3b0506ce19cd",
+        "number": 63,
+        "question": "How is this year's event different from the previous one?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) More funding was used.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Registration fees are higher.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) More attendees are present.",
+            "correct": true
+          },
+          {
+            "key": "D",
+            "text": "(D) Additional space was created.",
+            "correct": false
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "Đáp án C. \"It seems there are more people at the fair this year than usual.\" Người phụ nữ nhận xét rằng năm nay có vẻ có nhiều người đến hội chợ hơn bình thường. Điều này tương ứng với việc số lượng người tham dự (attendees) tăng lên so với năm trước.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án C. \"It seems there are more people at the fair this year than usual.\" Người phụ nữ nhận xét rằng năm nay có vẻ có nhiều người đến hội chợ hơn bình thường. Điều này tương ứng với việc số lượng người tham dự (attendees) tăng lên so với năm trước."
+          }
+        ]
+      },
+      {
+        "id": "87fc4e39-0538-412f-9c0e-ed32be8593f3",
+        "number": 64,
+        "question": "What has the man promised to do?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Take over a work shift",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Set up a booth",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Replace some equipment",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) Distribute some documents",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "Đáp án D. \"I promised to assist him with passing out schedules for the demonstrations we'll be giving this afternoon.\" Người đàn ông nói rằng anh ấy đã hứa giúp đồng nghiệp phát lịch trình (passing out schedules). Hành động này tương đương với việc phân phát tài liệu (distribute some documents).",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án D. \"I promised to assist him with passing out schedules for the demonstrations we'll be giving this afternoon.\" Người đàn ông nói rằng anh ấy đã hứa giúp đồng nghiệp phát lịch trình (passing out schedules). Hành động này tương đương với việc phân phát tài liệu (distribute some documents)."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:51.568Z",
+    "imageFiles": []
+  },
+  {
+    "range": "65-67",
+    "part": "Part 3: Conversations",
+    "footerNo": 65,
+    "transcript": "M-Cn: Joan, we need to make arrangements to have a small office party for Angela's birthday next week. W-Am: Oh, thanks for bringing that up. I had forgotten about it. Do you have any ideas? M-Cn: Yes, I suggest we hold the celebration in the conference room. But before I buy a cake, I need to know the food budget. W-Am: We can spend up to $50 on a cake. But please make sure it's big enough so that everyone in the office can have a slice. It should be at least 10 inches. Whatever you buy, just bring the receipt to Mary in the Human Resources department and she'll reimburse you.",
+    "images": [
+      "https://byetoeic.com/storage/v1/object/public/mock-test-media/hacker_3/test_1/p3_65-67.jpg?v=1"
+    ],
+    "hasAudio": true,
+    "audioFile": "audio/q65-67.aac",
+    "questions": [
+      {
+        "id": "3948ccee-47d6-4b5c-8fc6-72e8c9c91edb",
+        "number": 65,
+        "question": "Why does the woman thank the man?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) He gave her a venue recommendation.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) He helped her move to a new office.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) He surprised her with a gift.",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) He reminded her of an occasion.",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "Đáp án D. Người phụ nữ nói \"Oh, thanks for bringing that up. I had forgotten about it.\" (Ồ, cảm ơn vì đã nhắc đến chuyện đó. Tôi đã quên mất rồi). Cô ấy cảm ơn vì người đàn ông đã nhắc cô ấy về dịp sinh nhật của Angela.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án D. Người phụ nữ nói \"Oh, thanks for bringing that up. I had forgotten about it.\" (Ồ, cảm ơn vì đã nhắc đến chuyện đó. Tôi đã quên mất rồi). Cô ấy cảm ơn vì người đàn ông đã nhắc cô ấy về dịp sinh nhật của Angela."
+          }
+        ]
+      },
+      {
+        "id": "f59afda5-7b87-4d30-a5e2-797943a4c7b1",
+        "number": 66,
+        "question": "What does the man propose doing?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Using a meeting space",
+            "correct": true
+          },
+          {
+            "key": "B",
+            "text": "(B) Browsing a sample menu",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Choosing a special decoration",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) Increasing a price limit",
+            "correct": false
+          }
+        ],
+        "answer": "A",
+        "translation": null,
+        "explanationText": "Đáp án A. Người đàn ông nói \"I suggest we hold the celebration in the conference room.\" (Tôi đề nghị chúng ta tổ chức lễ kỷ niệm trong phòng họp). \"Conference room\" (phòng họp) chính là \"meeting space\" (không gian họp).",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án A. Người đàn ông nói \"I suggest we hold the celebration in the conference room.\" (Tôi đề nghị chúng ta tổ chức lễ kỷ niệm trong phòng họp). \"Conference room\" (phòng họp) chính là \"meeting space\" (không gian họp)."
+          }
+        ]
+      },
+      {
+        "id": "4f93f3f2-250a-4e07-abcd-14eb5c7f6eda",
+        "number": 67,
+        "question": "Look at the graphic. Which cake will the man order?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Coconut Cake",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Strawberry Cheesecake",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Carrot Cake",
+            "correct": true
+          },
+          {
+            "key": "D",
+            "text": "(D) Chocolate Cake",
+            "correct": false
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "Đáp án C. Dựa trên hình ảnh thực đơn (không hiển thị ở đây), Carrot Cake là lựa chọn phù hợp với các tiêu chí được thảo luận. Câu dẫn chứng là \"We can spend up to $50 on a cake.\"",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án C. Dựa trên hình ảnh thực đơn (không hiển thị ở đây), Carrot Cake là lựa chọn phù hợp với các tiêu chí được thảo luận. Câu dẫn chứng là \"We can spend up to $50 on a cake.\""
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:52.875Z",
+    "imageFiles": [
+      "images/q65-67.jpg"
+    ]
+  },
+  {
+    "range": "68-70",
+    "part": "Part 3: Conversations",
+    "footerNo": 68,
+    "transcript": "M-Au: Welcome to Smooth Beginnings, the nation's top provider of beauty products. How can I help you? W-Am: I'm looking to purchase some moisturizer. My skin gets a bit dry in the winter. Where can I find these products? M-Au: They're next to the cashier, um, just over there. W-Am: Thanks. By the way, this new store is really nice. M-Au: I'm glad you like it. We just opened last week. Did you have any trouble finding it? W-Am: No, I live near the bus terminal, so it was easy to get here by subway. M-Au: That's right. There are only two stops between the terminal and Norton Station if you take line three. W-Am: Well, that line isn't running today because the track is being repaired. But luckily, there's another one with the same number of stops. I took that one.",
+    "images": [
+      "https://byetoeic.com/storage/v1/object/public/mock-test-media/hacker_3/test_1/p3_68-70.jpg?v=1"
+    ],
+    "hasAudio": true,
+    "audioFile": "audio/q68-70.aac",
+    "questions": [
+      {
+        "id": "5884ffc0-1015-43e9-93ad-04ea592774aa",
+        "number": 68,
+        "question": "Where most likely does the man work?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) At a transportation authority",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) At a travel agency",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) At an electronics producer",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) At a cosmetics retailer",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "Đáp án D. \"Welcome to Smooth Beginnings, the nation's top provider of beauty products.\" Người đàn ông chào đón khách hàng và giới thiệu nơi làm việc của mình là Smooth Beginnings, một nhà cung cấp sản phẩm làm đẹp. Do đó, ông ấy làm việc tại một cửa hàng bán lẻ mỹ phẩm.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án D. \"Welcome to Smooth Beginnings, the nation's top provider of beauty products.\" Người đàn ông chào đón khách hàng và giới thiệu nơi làm việc của mình là Smooth Beginnings, một nhà cung cấp sản phẩm làm đẹp. Do đó, ông ấy làm việc tại một cửa hàng bán lẻ mỹ phẩm."
+          }
+        ]
+      },
+      {
+        "id": "ddf5930d-c9e6-4b44-aae7-21ad20a9939b",
+        "number": 69,
+        "question": "What does the woman ask about?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) The location of an item",
+            "correct": true
+          },
+          {
+            "key": "B",
+            "text": "(B) The reliability of a service",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) The time of a delivery",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) The duration of an event",
+            "correct": false
+          }
+        ],
+        "answer": "A",
+        "translation": null,
+        "explanationText": "Đáp án A. \"I'm looking to purchase some moisturizer. My skin gets a bit dry in the winter. Where can I find these products?\" Người phụ nữ bày tỏ mong muốn mua kem dưỡng ẩm và hỏi người đàn ông nơi tìm thấy sản phẩm này. Vì vậy, cô ấy đang hỏi về vị trí của một món hàng.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án A. \"I'm looking to purchase some moisturizer. My skin gets a bit dry in the winter. Where can I find these products?\" Người phụ nữ bày tỏ mong muốn mua kem dưỡng ẩm và hỏi người đàn ông nơi tìm thấy sản phẩm này. Vì vậy, cô ấy đang hỏi về vị trí của một món hàng."
+          }
+        ]
+      },
+      {
+        "id": "1c4e74bf-40c0-4b31-8d5a-be8b2879dbed",
+        "number": 70,
+        "question": "Look at the graphic. Which subway line did the woman take today?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Line 1",
+            "correct": true
+          },
+          {
+            "key": "B",
+            "text": "(B) Line 2",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Line 3",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) Line 4",
+            "correct": false
+          }
+        ],
+        "answer": "A",
+        "translation": null,
+        "explanationText": "Đáp án A. \"Well, that line isn't running today because the track is being repaired. But luckily, there's another one with the same number of stops. I took that one.\" Người phụ nữ cho biết tuyến số 3 không hoạt động nên cô đã chọn một tuyến khác có cùng số trạm dừng. Dựa trên đáp án được cung cấp, tuyến đó là tuyến số 1.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án A. \"Well, that line isn't running today because the track is being repaired. But luckily, there's another one with the same number of stops. I took that one.\" Người phụ nữ cho biết tuyến số 3 không hoạt động nên cô đã chọn một tuyến khác có cùng số trạm dừng. Dựa trên đáp án được cung cấp, tuyến đó là tuyến số 1."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:54.186Z",
+    "imageFiles": [
+      "images/q68-70.jpg"
+    ]
+  },
+  {
+    "range": "71-73",
+    "part": "Part 4: Talks",
+    "footerNo": 71,
+    "transcript": "W-Br: Marion, it's Haley. One of my friends invited me to go to the Franklin Music Festival with him on Saturday. I said I'd go, and I'd like you to come along too. The festival is going to be held at Carlson Park from noon until 10:00 p.m. We plan to go at 5:30 because our favorite band takes the stage at 6:30, and we'd like to get there an hour earlier to find good seats. Please call or text me whenever you get this message to let me know if you'll be joining us. I want to buy tickets this afternoon, since today's the last day to buy them at reduced prices.",
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q71-73.aac",
+    "questions": [
+      {
+        "id": "30fe1ab9-949a-4fa6-9980-9f9cc968ebe2",
+        "number": 71,
+        "question": "What did the speaker agree to do?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Attend an event",
+            "correct": true
+          },
+          {
+            "key": "B",
+            "text": "(B) Carpool to a meeting",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Distribute an itinerary",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) Organize a festival",
+            "correct": false
+          }
+        ],
+        "answer": "A",
+        "translation": null,
+        "explanationText": "Đáp án A. \"One of my friends invited me to go to the Franklin Music Festival with him on Saturday. I said I'd go\" Người nói kể rằng bạn cô ấy đã mời đi dự lễ hội âm nhạc Franklin vào thứ Bảy và cô ấy đã đồng ý đi. Vì vậy, cô ấy đồng ý tham dự một sự kiện.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án A. \"One of my friends invited me to go to the Franklin Music Festival with him on Saturday. I said I'd go\" Người nói kể rằng bạn cô ấy đã mời đi dự lễ hội âm nhạc Franklin vào thứ Bảy và cô ấy đã đồng ý đi. Vì vậy, cô ấy đồng ý tham dự một sự kiện."
+          }
+        ]
+      },
+      {
+        "id": "efc325a2-0ac7-4f92-9c07-87d3fca97e05",
+        "number": 72,
+        "question": "What will happen at 6:30 on Saturday?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) A park will close.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) A band will be interviewed.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) A reservation will be made.",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) A performance will begin.",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "Đáp án D. \"our favorite band takes the stage at 6:30\" Cụm từ \"takes the stage\" có nghĩa là bắt đầu biểu diễn trên sân khấu. Do đó, một buổi biểu diễn sẽ bắt đầu vào lúc 6:30.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án D. \"our favorite band takes the stage at 6:30\" Cụm từ \"takes the stage\" có nghĩa là bắt đầu biểu diễn trên sân khấu. Do đó, một buổi biểu diễn sẽ bắt đầu vào lúc 6:30."
+          }
+        ]
+      },
+      {
+        "id": "f251ecce-4293-4cf4-accb-ba6ece22c437",
+        "number": 73,
+        "question": "What does the speaker want to do later today?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Exchange a product",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Purchase some tickets",
+            "correct": true
+          },
+          {
+            "key": "C",
+            "text": "(C) Visit a venue",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) Send some invitations",
+            "correct": false
+          }
+        ],
+        "answer": "B",
+        "translation": null,
+        "explanationText": "Đáp án B. \"I want to buy tickets this afternoon\" Người nói bày tỏ mong muốn mua vé vào chiều nay vì hôm nay là ngày cuối cùng để mua vé giá rẻ. Vì vậy, cô ấy muốn mua vé.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án B. \"I want to buy tickets this afternoon\" Người nói bày tỏ mong muốn mua vé vào chiều nay vì hôm nay là ngày cuối cùng để mua vé giá rẻ. Vì vậy, cô ấy muốn mua vé."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:57.309Z",
+    "imageFiles": []
+  },
+  {
+    "range": "74-76",
+    "part": "Part 4: Talks",
+    "footerNo": 74,
+    "transcript": "W-Am: It looks like everyone is here, so let's get started. As most of you know, our biggest rival, um, Dyson Travel, now allows customers to create personalized discount travel packages. This is a problem because it has led to a significant drop in traffic on our website. The CEO is very concerned and expects us to develop a strategy to deal with the situation quickly. He suggested that we charge less for our most popular tours. I'm not sure if that'll have any effect though. Our prices are already low. So, we should probably come up with some other ways to address this problem.",
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q74-76.aac",
+    "questions": [
+      {
+        "id": "fd0245d4-6098-4783-9f7c-5d573205da36",
+        "number": 74,
+        "question": "What is the problem?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) A client has made a complaint.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) A device does not function.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) A discount is no longer available.",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) A competitor is offering a new service.",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "Đáp án D. \"our biggest rival, um, Dyson Travel, now allows customers to create personalized discount travel packages.\" Người nói đề cập đến việc đối thủ cạnh tranh lớn nhất là Dyson Travel đã thay đổi dịch vụ, cho phép khách hàng tự tạo các gói du lịch giảm giá cá nhân hóa. Đây chính là dịch vụ mới mà đối thủ đang cung cấp, gây ra vấn đề cho công ty.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án D. \"our biggest rival, um, Dyson Travel, now allows customers to create personalized discount travel packages.\" Người nói đề cập đến việc đối thủ cạnh tranh lớn nhất là Dyson Travel đã thay đổi dịch vụ, cho phép khách hàng tự tạo các gói du lịch giảm giá cá nhân hóa. Đây chính là dịch vụ mới mà đối thủ đang cung cấp, gây ra vấn đề cho công ty."
+          }
+        ]
+      },
+      {
+        "id": "e3e58114-ba54-4c85-9f05-e8e43e4db8a4",
+        "number": 75,
+        "question": "What does the speaker mention about the Web site?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) It includes additional features.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) It will be updated regularly.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) It was launched yesterday.",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) It is receiving fewer visitors.",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "Đáp án D. \"This is a problem because it has led to a significant drop in traffic on our website.\" Người nói giải thích rằng sự thay đổi dịch vụ của đối thủ đã dẫn đến sự sụt giảm đáng kể lượng truy cập trên trang web của họ. Cụm từ \"drop in traffic\" đồng nghĩa với việc trang web đang nhận được ít lượt truy cập hơn.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án D. \"This is a problem because it has led to a significant drop in traffic on our website.\" Người nói giải thích rằng sự thay đổi dịch vụ của đối thủ đã dẫn đến sự sụt giảm đáng kể lượng truy cập trên trang web của họ. Cụm từ \"drop in traffic\" đồng nghĩa với việc trang web đang nhận được ít lượt truy cập hơn."
+          }
+        ]
+      },
+      {
+        "id": "f068eb3c-afaf-4091-984a-ee1a4c2577fa",
+        "number": 76,
+        "question": "What does the speaker imply when she says, ''Our prices are already Iow''?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) She is upset with a coworker.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) She is doubtful about an idea.",
+            "correct": true
+          },
+          {
+            "key": "C",
+            "text": "(C) She is confused by a situation.",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) She is concerned about a budget.",
+            "correct": false
+          }
+        ],
+        "answer": "B",
+        "translation": null,
+        "explanationText": "Đáp án B. \"I'm not sure if that'll have any effect though. Our prices are already low.\" Khi CEO đề xuất giảm giá, người nói bày tỏ sự nghi ngờ về hiệu quả của ý tưởng này vì giá của họ vốn đã thấp rồi. Câu nói này cho thấy cô ấy không tin rằng việc giảm giá thêm sẽ giải quyết được vấn đề.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án B. \"I'm not sure if that'll have any effect though. Our prices are already low.\" Khi CEO đề xuất giảm giá, người nói bày tỏ sự nghi ngờ về hiệu quả của ý tưởng này vì giá của họ vốn đã thấp rồi. Câu nói này cho thấy cô ấy không tin rằng việc giảm giá thêm sẽ giải quyết được vấn đề."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:07:58.616Z",
+    "imageFiles": []
+  },
+  {
+    "range": "77-79",
+    "part": "Part 4: Talks",
+    "footerNo": 77,
+    "transcript": "M-Cn: Is it hard to keep track of all the remote controls for the electronics in your home? Well, now you can use Kepcore's EX3 universal remote control for everything from audio equipment to kitchen appliances. The EX3 is simpler to operate than other similar products, thanks to its signal detector, which allows it to easily connect to nearby equipment. Simply press and hold the scan button near a compatible device to take control of it. Next, select a colored button on the controller to assign to the device. And now, customers who register their EX3s online will receive a battery charger absolutely free.",
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q77-79.aac",
+    "questions": [
+      {
+        "id": "8e3ccabc-114f-423c-bc6c-b2e22ae4b35a",
+        "number": 77,
+        "question": "What is the speaker advertising?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) A speaker system",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) A kitchen appliance",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) A device operator",
+            "correct": true
+          },
+          {
+            "key": "D",
+            "text": "(D) A television set",
+            "correct": false
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "Đáp án C. \"Well, now you can use Kepcore's EX3 universal remote control for everything from audio equipment to kitchen appliances.\" Bài nghe giới thiệu sản phẩm là \"universal remote control\" (điều khiển từ xa đa năng). Vì nó dùng để điều khiển các thiết bị khác, nên đáp án C (thiết bị điều khiển) là lựa chọn phù hợp nhất.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án C. \"Well, now you can use Kepcore's EX3 universal remote control for everything from audio equipment to kitchen appliances.\" Bài nghe giới thiệu sản phẩm là \"universal remote control\" (điều khiển từ xa đa năng). Vì nó dùng để điều khiển các thiết bị khác, nên đáp án C (thiết bị điều khiển) là lựa chọn phù hợp nhất."
+          }
+        ]
+      },
+      {
+        "id": "22904764-6286-46af-84aa-f27a7068900a",
+        "number": 78,
+        "question": "According to the speaker, how is EX3 different from competing products?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) It is more durable.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) It uses fewer batteries.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) It comes in more colors.",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) It is easier to use.",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "Đáp án D. \"The EX3 is simpler to operate than other similar products, thanks to its signal detector\" Câu này khẳng định EX3 \"simpler to operate\" (dễ vận hành hơn) so với các sản phẩm tương tự. Do đó, đáp án D (dễ sử dụng hơn) là chính xác.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án D. \"The EX3 is simpler to operate than other similar products, thanks to its signal detector\" Câu này khẳng định EX3 \"simpler to operate\" (dễ vận hành hơn) so với các sản phẩm tương tự. Do đó, đáp án D (dễ sử dụng hơn) là chính xác."
+          }
+        ]
+      },
+      {
+        "id": "73785733-77ef-437c-906f-376d8aafc056",
+        "number": 79,
+        "question": "What will customers receive if they register a product online?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) A reduced price",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) A complimentary item",
+            "correct": true
+          },
+          {
+            "key": "C",
+            "text": "(C) A gift card",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) An extended warranty",
+            "correct": false
+          }
+        ],
+        "answer": "B",
+        "translation": null,
+        "explanationText": "Đáp án B. \"And now, customers who register their EX3s online will receive a battery charger absolutely free.\" Người nói thông báo khách hàng đăng ký trực tuyến sẽ nhận được \"a battery charger absolutely free\" (một bộ sạc pin hoàn toàn miễn phí). \"Complimentary item\" chính là món quà tặng kèm miễn phí này.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án B. \"And now, customers who register their EX3s online will receive a battery charger absolutely free.\" Người nói thông báo khách hàng đăng ký trực tuyến sẽ nhận được \"a battery charger absolutely free\" (một bộ sạc pin hoàn toàn miễn phí). \"Complimentary item\" chính là món quà tặng kèm miễn phí này."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:08:03.246Z",
+    "imageFiles": []
+  },
+  {
+    "range": "80-82",
+    "part": "Part 4: Talks",
+    "footerNo": 80,
+    "transcript": "M-Au: Hello, I'm calling from the Blue House restaurant. Yesterday, we received a shipment for an order I recently made for our restaurant's glassware. However, many of the items, like the crystal wine glasses, are in poor shape. Several of them have scratches and stains, but other items are worse. All of the large blue pitchers are broken. I really can't believe it. We were supposed to hold our grand opening today, but we couldn't because we didn't have enough glassware. At this point, I am seriously considering finding another supplier. Please call me at 555-2583 before noon to discuss the solution to this problem.",
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q80-82.aac",
+    "questions": [
+      {
+        "id": "16b5c8f4-08c4-4417-b5eb-09db3f527738",
+        "number": 80,
+        "question": "What did the speaker recently do?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Placed a product order",
+            "correct": true
+          },
+          {
+            "key": "B",
+            "text": "(B) Contacted a new supplier",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Called a delivery person",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) Canceled a urchase",
+            "correct": false
+          }
+        ],
+        "answer": "A",
+        "translation": null,
+        "explanationText": "Đáp án A. \"Yesterday, we received a shipment for an order I recently made for our restaurant's glassware.\" Câu này có nghĩa là \"Hôm qua, chúng tôi đã nhận được một lô hàng cho đơn đặt hàng đồ thủy tinh mà tôi vừa thực hiện gần đây\". Người nói nhắc đến việc đã thực hiện một đơn hàng trước đó, nên đáp án A là chính xác.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án A. \"Yesterday, we received a shipment for an order I recently made for our restaurant's glassware.\" Câu này có nghĩa là \"Hôm qua, chúng tôi đã nhận được một lô hàng cho đơn đặt hàng đồ thủy tinh mà tôi vừa thực hiện gần đây\". Người nói nhắc đến việc đã thực hiện một đơn hàng trước đó, nên đáp án A là chính xác."
+          }
+        ]
+      },
+      {
+        "id": "e56be1a5-0963-4af3-ba71-f62811ddecfb",
+        "number": 81,
+        "question": "What does the speaker imply when he says, ''l really can't believe it''?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) He is shocked by a guest turnout.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) He is worried about a late shipment.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) He is overwhelmed with requests.",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) He is disappointed with a service.",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "Đáp án D. \"All of the large blue pitchers are broken. I really can't believe it.\" Câu này dịch là \"Tất cả các bình lớn màu xanh đều bị vỡ. Tôi thực sự không thể tin được\". Việc hàng hóa bị vỡ khiến người nói cảm thấy thất vọng về dịch vụ của nhà cung cấp, vì vậy đáp án D là phù hợp nhất.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án D. \"All of the large blue pitchers are broken. I really can't believe it.\" Câu này dịch là \"Tất cả các bình lớn màu xanh đều bị vỡ. Tôi thực sự không thể tin được\". Việc hàng hóa bị vỡ khiến người nói cảm thấy thất vọng về dịch vụ của nhà cung cấp, vì vậy đáp án D là phù hợp nhất."
+          }
+        ]
+      },
+      {
+        "id": "a2872ac4-bb9d-4e85-9755-d9d623bfb8b6",
+        "number": 82,
+        "question": "What is suggested about The Blue House Restaurant's grand opening?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) It was delayed.",
+            "correct": true
+          },
+          {
+            "key": "B",
+            "text": "(B) It began at noon.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) It had few attendees.",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) It included free beverages.",
+            "correct": false
+          }
+        ],
+        "answer": "A",
+        "translation": null,
+        "explanationText": "Đáp án A. \"We were supposed to hold our grand opening today, but we couldn't because we didn't have enough glassware.\" Câu này nghĩa là \"Chúng tôi đã dự định tổ chức lễ khai trương hôm nay, nhưng chúng tôi không thể làm vậy vì không có đủ đồ thủy tinh\". Vì sự kiện không thể diễn ra đúng dự kiến, nên nó đã bị hoãn lại, chọn đáp án A.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án A. \"We were supposed to hold our grand opening today, but we couldn't because we didn't have enough glassware.\" Câu này nghĩa là \"Chúng tôi đã dự định tổ chức lễ khai trương hôm nay, nhưng chúng tôi không thể làm vậy vì không có đủ đồ thủy tinh\". Vì sự kiện không thể diễn ra đúng dự kiến, nên nó đã bị hoãn lại, chọn đáp án A."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:08:04.553Z",
+    "imageFiles": []
+  },
+  {
+    "range": "83-85",
+    "part": "Part 4: Talks",
+    "footerNo": 83,
+    "transcript": "W-Br: Good afternoon. This is Sarah Wilkins from 109.4 FM. I'm reporting live from the corner of Baker Road and Central Avenue, where the Star Tower is being built. Traffic along these two major roads was brought to a standstill when a crane collapsed this morning. Although no one was injured, the damaged machinery is blocking both streets completely. Of course, this is causing congestion throughout the area. If you are planning on heading downtown, visit our website first to find out which routes have been affected. I have Jonathan Grant here, an engineer who works in a nearby office. He witnessed the accident and has agreed to answer a few questions now.",
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q83-85.aac",
+    "questions": [
+      {
+        "id": "d14ea1e9-7b5e-4168-ae0c-709abf33040f",
+        "number": 83,
+        "question": "Where most likely is the speaker?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) At a shopping center",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) In an engineering office",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) At a construction site",
+            "correct": true
+          },
+          {
+            "key": "D",
+            "text": "(D) In a radio station",
+            "correct": false
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "Đáp án C. \"I'm reporting live from the corner of Baker Road and Central Avenue, where the Star Tower is being built.\" Câu này có nghĩa là tôi đang đưa tin trực tiếp từ góc đường Baker và đại lộ Central, nơi tòa tháp Star đang được xây dựng. Vì tòa tháp đang được xây dựng nên vị trí này chính là công trường xây dựng.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án C. \"I'm reporting live from the corner of Baker Road and Central Avenue, where the Star Tower is being built.\" Câu này có nghĩa là tôi đang đưa tin trực tiếp từ góc đường Baker và đại lộ Central, nơi tòa tháp Star đang được xây dựng. Vì tòa tháp đang được xây dựng nên vị trí này chính là công trường xây dựng."
+          }
+        ]
+      },
+      {
+        "id": "1f2b11f1-8447-4eb5-ab6f-18db10afe118",
+        "number": 84,
+        "question": "What are listeners advised to do?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Postpone a trip",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Avoid traveling downtown",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Take public transportation",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) Check traffic conditions",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "Đáp án D. \"If you are planning on heading downtown, visit our website first to find out which routes have been affected.\" Câu này dịch là nếu bạn định đi vào trung tâm, hãy ghé thăm trang web của chúng tôi trước để biết những tuyến đường nào bị ảnh hưởng. Việc tìm hiểu các tuyến đường bị ảnh hưởng tương đương với việc kiểm tra tình trạng giao thông.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án D. \"If you are planning on heading downtown, visit our website first to find out which routes have been affected.\" Câu này dịch là nếu bạn định đi vào trung tâm, hãy ghé thăm trang web của chúng tôi trước để biết những tuyến đường nào bị ảnh hưởng. Việc tìm hiểu các tuyến đường bị ảnh hưởng tương đương với việc kiểm tra tình trạng giao thông."
+          }
+        ]
+      },
+      {
+        "id": "fe3d9047-9193-4aa9-8fa1-d95f74ced59f",
+        "number": 85,
+        "question": "What will most likely happen next?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) An alternative route will be described.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) An interview will be conducted.",
+            "correct": true
+          },
+          {
+            "key": "C",
+            "text": "(C) An accident location will be identified.",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) An event schedule will be announced.",
+            "correct": false
+          }
+        ],
+        "answer": "B",
+        "translation": null,
+        "explanationText": "Đáp án B. \"He witnessed the accident and has agreed to answer a few questions now.\" Câu này nghĩa là anh ấy đã chứng kiến vụ tai nạn và đồng ý trả lời một vài câu hỏi ngay bây giờ. Việc đồng ý trả lời câu hỏi cho thấy một cuộc phỏng vấn sắp diễn ra.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án B. \"He witnessed the accident and has agreed to answer a few questions now.\" Câu này nghĩa là anh ấy đã chứng kiến vụ tai nạn và đồng ý trả lời một vài câu hỏi ngay bây giờ. Việc đồng ý trả lời câu hỏi cho thấy một cuộc phỏng vấn sắp diễn ra."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:08:07.521Z",
+    "imageFiles": []
+  },
+  {
+    "range": "86-88",
+    "part": "Part 4: Talks",
+    "footerNo": 86,
+    "transcript": "W-Am: Good morning, Ms. Doliber. My name is Jisu Lee, and I work at Standard Bank. I want to inform you that we have temporarily suspended your checking account due to suspicious activity. Specifically, a cash withdrawal was made at an ATM in Nashville at 12:03 p.m. on July 3rd, approximately 20 minutes after a purchase was made at a store here in Seattle. Please contact our security center at 555-0848 to deal with this matter. Before you do this though, I recommend that you check your account history for anything else that seems unusual. You can access this information through our online banking service. Just enter your ID and password as usual, and then you will be provided with further instructions. Thank you.",
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q86-88.aac",
+    "questions": [
+      {
+        "id": "43cbe629-3b2f-4fcc-8435-be20d3df9675",
+        "number": 86,
+        "question": "What is the purpose of the call?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) To cancel a funds transfer",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) To verify an online payment",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) To request an account number",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) To report a security measure",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "Đáp án D. \"I want to inform you that we have temporarily suspended your checking account due to suspicious activity.\" Người nói thông báo rằng tài khoản của khách hàng đã bị tạm khóa do hoạt động đáng ngờ, đây là một biện pháp bảo mật. Vì vậy, mục đích của cuộc gọi là thông báo về biện pháp bảo mật này.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án D. \"I want to inform you that we have temporarily suspended your checking account due to suspicious activity.\" Người nói thông báo rằng tài khoản của khách hàng đã bị tạm khóa do hoạt động đáng ngờ, đây là một biện pháp bảo mật. Vì vậy, mục đích của cuộc gọi là thông báo về biện pháp bảo mật này."
+          }
+        ]
+      },
+      {
+        "id": "fa780178-40f1-4d7a-be42-4376f326b174",
+        "number": 87,
+        "question": "What problem does the speaker mention?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) A daily limit was exceeded.",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Transactions were made in two cities.",
+            "correct": true
+          },
+          {
+            "key": "C",
+            "text": "(C) A banking service was unavailable.",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) Several purchases were made at a store.",
+            "correct": false
+          }
+        ],
+        "answer": "B",
+        "translation": null,
+        "explanationText": "Đáp án B. \"Specifically, a cash withdrawal was made at an ATM in Nashville at 12:03 p.m. on July 3rd, approximately 20 minutes after a purchase was made at a store here in Seattle.\" Người nói đề cập đến việc rút tiền ở Nashville chỉ 20 phút sau khi mua hàng ở Seattle, tức là các giao dịch diễn ra ở hai thành phố khác nhau. Điều này cho thấy vấn đề là các giao dịch bất thường ở hai địa điểm xa nhau.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án B. \"Specifically, a cash withdrawal was made at an ATM in Nashville at 12:03 p.m. on July 3rd, approximately 20 minutes after a purchase was made at a store here in Seattle.\" Người nói đề cập đến việc rút tiền ở Nashville chỉ 20 phút sau khi mua hàng ở Seattle, tức là các giao dịch diễn ra ở hai thành phố khác nhau. Điều này cho thấy vấn đề là các giao dịch bất thường ở hai địa điểm xa nhau."
+          }
+        ]
+      },
+      {
+        "id": "131b1caa-4618-4ff9-b103-d0c3a5c1c4e5",
+        "number": 88,
+        "question": "What does the speaker recommend the listener do?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Examine a record",
+            "correct": true
+          },
+          {
+            "key": "B",
+            "text": "(B) Make a withdrawal",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Visit a center",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) Change a password",
+            "correct": false
+          }
+        ],
+        "answer": "A",
+        "translation": null,
+        "explanationText": "Đáp án A. \"I recommend that you check your account history for anything else that seems unusual.\" Người nói khuyên khách hàng nên kiểm tra lịch sử tài khoản để tìm các hoạt động bất thường khác. \"Check your account history\" tương đương với việc xem xét lại hồ sơ giao dịch (examine a record).",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án A. \"I recommend that you check your account history for anything else that seems unusual.\" Người nói khuyên khách hàng nên kiểm tra lịch sử tài khoản để tìm các hoạt động bất thường khác. \"Check your account history\" tương đương với việc xem xét lại hồ sơ giao dịch (examine a record)."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:08:11.247Z",
+    "imageFiles": []
+  },
+  {
+    "range": "89-91",
+    "part": "Part 4: Talks",
+    "footerNo": 89,
+    "transcript": "M-Cn: I have a quick announcement to make. In response to feedback from staff, management has decided to implement a flex time system. Employees will be able to start and finish work earlier or later than usual. Note that there are restrictions. Staff must still work eight hours daily, and they can't enter the office until 7:30 a.m. Um, security personnel don't arrive at the building until 7:00 a.m., and they need time to turn off the alarms. In addition, shifts must end at 8:00 p.m. at the latest. I'll distribute the updated employee handbook to everyone this afternoon. It includes a new section with information about this system. Please read through it and then let me know if you have any questions.",
+    "images": [],
+    "hasAudio": true,
+    "audioFile": "audio/q89-91.aac",
+    "questions": [
+      {
+        "id": "53cd6639-f64b-435e-981f-7f2bd2a235a3",
+        "number": 89,
+        "question": "What is the announcement mainly about?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Employee training",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) An updated evaluation system",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Customer feedback",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) A new company policy",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "Đáp án D. \"management has decided to implement a flex time system.\" Câu này cho biết ban quản lý đã quyết định áp dụng hệ thống giờ làm việc linh hoạt, đây chính là một chính sách mới của công ty. Vì vậy, thông báo này chủ yếu nói về một chính sách mới.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án D. \"management has decided to implement a flex time system.\" Câu này cho biết ban quản lý đã quyết định áp dụng hệ thống giờ làm việc linh hoạt, đây chính là một chính sách mới của công ty. Vì vậy, thông báo này chủ yếu nói về một chính sách mới."
+          }
+        ]
+      },
+      {
+        "id": "759192e7-3bb7-4a2f-bfec-d45b754842bf",
+        "number": 90,
+        "question": "When do security personnel arrive at the building?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) At 7:00 A.M.",
+            "correct": true
+          },
+          {
+            "key": "B",
+            "text": "(B) At 7:30 A.M.",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) At 8:00 A.M.",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) At 8:30 A.M.",
+            "correct": false
+          }
+        ],
+        "answer": "A",
+        "translation": null,
+        "explanationText": "Đáp án A. \"security personnel don't arrive at the building until 7:00 a.m.\" Người nói nêu rõ nhân viên an ninh không đến tòa nhà cho đến 7 giờ sáng. Do đó, 7 giờ sáng là thời điểm họ có mặt.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án A. \"security personnel don't arrive at the building until 7:00 a.m.\" Người nói nêu rõ nhân viên an ninh không đến tòa nhà cho đến 7 giờ sáng. Do đó, 7 giờ sáng là thời điểm họ có mặt."
+          }
+        ]
+      },
+      {
+        "id": "e91bdb32-d02b-41eb-92c7-8506cdbd2faf",
+        "number": 91,
+        "question": "What does the speaker say he will do this afternoon?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Alter a schedule",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Revise a manual",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Hand out a document",
+            "correct": true
+          },
+          {
+            "key": "D",
+            "text": "(D) Give a presentation",
+            "correct": false
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "Đáp án C. \"I'll distribute the updated employee handbook to everyone this afternoon.\" Người nói cho biết ông ấy sẽ phát cuốn sổ tay nhân viên đã cập nhật cho mọi người vào chiều nay. Từ \"distribute\" đồng nghĩa với \"hand out\" (phát/phân phát) một tài liệu.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án C. \"I'll distribute the updated employee handbook to everyone this afternoon.\" Người nói cho biết ông ấy sẽ phát cuốn sổ tay nhân viên đã cập nhật cho mọi người vào chiều nay. Từ \"distribute\" đồng nghĩa với \"hand out\" (phát/phân phát) một tài liệu."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:08:13.925Z",
+    "imageFiles": []
+  },
+  {
+    "range": "92-94",
+    "part": "Part 4: Talks",
+    "footerNo": 92,
+    "transcript": "M-Cn: Okay everyone, auditions for our new sitcom Morning Coffee will start tomorrow. So, there are a few things I'd like you to be aware of. First, since I'm directing this show, I'll be present at all of the auditions, except for Tuesday mornings. Our screenwriter, Nancy Davis, will unfortunately not be able to make any of the afternoon audition sessions because of production team meetings scheduled during those times. Also, please note that we've added a role to the show, so there will be an extra session for casting on Thursday. Information about this new part can be found in the email that I sent out this morning.",
+    "images": [
+      "https://byetoeic.com/storage/v1/object/public/mock-test-media/hacker_3/test_1/p4_92-94.jpg?v=1"
+    ],
+    "hasAudio": true,
+    "audioFile": "audio/q92-94.aac",
+    "questions": [
+      {
+        "id": "59bd0324-6d37-4ef1-867c-c6e22b5c6eea",
+        "number": 92,
+        "question": "Who most likely is the speaker?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) A writer",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) An actor",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) A cameraperson",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) A director",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "Đáp án D. \"First, since I'm directing this show, I'll be present at all of the auditions\" Người nói tự giới thiệu mình là người đang đạo diễn chương trình này. Vì vậy, người nói chính là đạo diễn.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án D. \"First, since I'm directing this show, I'll be present at all of the auditions\" Người nói tự giới thiệu mình là người đang đạo diễn chương trình này. Vì vậy, người nói chính là đạo diễn."
+          }
+        ]
+      },
+      {
+        "id": "55e3766b-1006-474c-b31b-98d4f482e373",
+        "number": 93,
+        "question": "Look at the graphic. When will the speaker and Nancy Davis attend a session together?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Monday",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Tuesday",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Wednesday",
+            "correct": true
+          },
+          {
+            "key": "D",
+            "text": "(D) Thursday",
+            "correct": false
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "Đáp án C. \"I'll be present at all of the auditions, except for Tuesday mornings.\" Người nói có mặt ở mọi buổi trừ sáng thứ Ba, còn Nancy không tham gia được các buổi chiều. Dựa vào lịch trình, thứ Tư là ngày duy nhất cả hai đều có mặt tại buổi thử vai.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án C. \"I'll be present at all of the auditions, except for Tuesday mornings.\" Người nói có mặt ở mọi buổi trừ sáng thứ Ba, còn Nancy không tham gia được các buổi chiều. Dựa vào lịch trình, thứ Tư là ngày duy nhất cả hai đều có mặt tại buổi thử vai."
+          }
+        ]
+      },
+      {
+        "id": "ee95bbff-c218-4a0b-ace4-1ea6a11178a7",
+        "number": 94,
+        "question": "What is included in the e-mail sent by the peaker?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Details about a role",
+            "correct": true
+          },
+          {
+            "key": "B",
+            "text": "(B) Assignments for a team",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Requests from a producer",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) Changes to a script",
+            "correct": false
+          }
+        ],
+        "answer": "A",
+        "translation": null,
+        "explanationText": "Đáp án A. \"Information about this new part can be found in the email that I sent out this morning.\" Người nói đề cập rằng thông tin về vai diễn mới đã được gửi qua email. Do đó, email chứa chi tiết về một vai diễn.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án A. \"Information about this new part can be found in the email that I sent out this morning.\" Người nói đề cập rằng thông tin về vai diễn mới đã được gửi qua email. Do đó, email chứa chi tiết về một vai diễn."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:08:17.518Z",
+    "imageFiles": [
+      "images/q92-94.jpg"
+    ]
+  },
+  {
+    "range": "95-97",
+    "part": "Part 4: Talks",
+    "footerNo": 95,
+    "transcript": "M-Au: Welcome to the Summit Resort. My name is Desmond, and I'll be teaching you some basic snowboarding techniques this morning. Before we get started though, you'll watch a brief video about some important safety guidelines. Then, everyone has to get suitable gear, including boots, a snowboard, and a helmet. You can rent these items at the shop on the second floor of this building. Once you have what you need, we'll begin the lesson. Since trail A is currently closed due to poor snow conditions, we'll be using the other beginner trail. All right. Are there any questions at this time?",
+    "images": [
+      "https://byetoeic.com/storage/v1/object/public/mock-test-media/hacker_3/test_1/p4_95-97.jpg?v=1"
+    ],
+    "hasAudio": true,
+    "audioFile": "audio/q95-97.aac",
+    "questions": [
+      {
+        "id": "bfa66069-1493-48df-9c9a-f0110b23521d",
+        "number": 95,
+        "question": "What will the listeners do first?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Practice snowboarding techniques",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Go to the resort's lobby",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Read a safety manual",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) Watch an instructional video",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "Đáp án D. Câu này có nghĩa là \"Before we get started though, you'll watch a brief video about some important safety guidelines.\" Dịch là: \"Tuy nhiên, trước khi chúng ta bắt đầu, các bạn sẽ xem một đoạn video ngắn về các hướng dẫn an toàn quan trọng.\" Vì vậy, việc đầu tiên người nghe cần làm là xem video hướng dẫn.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án D. Câu này có nghĩa là \"Before we get started though, you'll watch a brief video about some important safety guidelines.\" Dịch là: \"Tuy nhiên, trước khi chúng ta bắt đầu, các bạn sẽ xem một đoạn video ngắn về các hướng dẫn an toàn quan trọng.\" Vì vậy, việc đầu tiên người nghe cần làm là xem video hướng dẫn."
+          }
+        ]
+      },
+      {
+        "id": "d4f78ab1-8e1c-4b86-8b98-317931918309",
+        "number": 96,
+        "question": "Why should listeners go to the second floor of the building?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) To pay for some lessons",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) To rent a room",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) To meet a teacher",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) To get some equipment",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "Đáp án D. Câu này có nghĩa là \"You can rent these items at the shop on the second floor of this building.\" Dịch là: \"Bạn có thể thuê những món đồ này tại cửa hàng trên tầng hai của tòa nhà này.\" \"These items\" ám chỉ các thiết bị như giày, ván trượt và mũ bảo hiểm đã nhắc đến trước đó, nên họ lên tầng hai để lấy thiết bị.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án D. Câu này có nghĩa là \"You can rent these items at the shop on the second floor of this building.\" Dịch là: \"Bạn có thể thuê những món đồ này tại cửa hàng trên tầng hai của tòa nhà này.\" \"These items\" ám chỉ các thiết bị như giày, ván trượt và mũ bảo hiểm đã nhắc đến trước đó, nên họ lên tầng hai để lấy thiết bị."
+          }
+        ]
+      },
+      {
+        "id": "0abb176f-7de7-4fe1-9d2b-7223ccd94757",
+        "number": 97,
+        "question": "Look at the graphic. Which trail will the listeners use?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Trail A",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Trail B",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Trail C",
+            "correct": true
+          },
+          {
+            "key": "D",
+            "text": "(D) Trail D",
+            "correct": false
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "Đáp án C. Câu này có nghĩa là \"Since trail A is currently closed due to poor snow conditions, we'll be using the other beginner trail.\" Dịch là: \"Vì đường trượt A hiện đang đóng cửa do điều kiện tuyết kém, chúng ta sẽ sử dụng đường trượt cho người mới bắt đầu còn lại.\" Dựa vào hình ảnh minh họa đi kèm bài thi, đường trượt còn lại chính là đường C.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án C. Câu này có nghĩa là \"Since trail A is currently closed due to poor snow conditions, we'll be using the other beginner trail.\" Dịch là: \"Vì đường trượt A hiện đang đóng cửa do điều kiện tuyết kém, chúng ta sẽ sử dụng đường trượt cho người mới bắt đầu còn lại.\" Dựa vào hình ảnh minh họa đi kèm bài thi, đường trượt còn lại chính là đường C."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:08:18.827Z",
+    "imageFiles": [
+      "images/q95-97.jpg"
+    ]
+  },
+  {
+    "range": "98-100",
+    "part": "Part 4: Talks",
+    "footerNo": 98,
+    "transcript": "W-Br: I hope everyone looked over the quarterly report. If not, I recommend that you do so this afternoon because we have a problem. Only one of the company's software programs met the sales goal of 10,000 units last quarter. We've been asked to create a marketing campaign for the program with the worst sales record. And Brian Swanson's team will do the same for Core Spreadsheet. We don't have to worry about the other program with low sales because it will be discontinued next month. I'd like each of you to come up with a specific plan to promote the program assigned to our team. And we'll discuss them when we meet again on Friday.",
+    "images": [
+      "https://byetoeic.com/storage/v1/object/public/mock-test-media/hacker_3/test_1/p4_98-100.jpg?v=1"
+    ],
+    "hasAudio": true,
+    "audioFile": "audio/q98-100.aac",
+    "questions": [
+      {
+        "id": "8947883d-bd8d-4cdf-8ef1-1eb1591ab6d1",
+        "number": 98,
+        "question": "What department do the listeners most likely work in?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Sales",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Marketing",
+            "correct": true
+          },
+          {
+            "key": "C",
+            "text": "(C) Accounting",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) Human resources",
+            "correct": false
+          }
+        ],
+        "answer": "B",
+        "translation": null,
+        "explanationText": "Đáp án B. \"We've been asked to create a marketing campaign for the program with the worst sales record.\" Câu này nghĩa là chúng ta đã được yêu cầu tạo một chiến dịch tiếp thị cho chương trình có doanh số tệ nhất. Vì họ đang làm công việc tạo chiến dịch tiếp thị nên họ làm việc ở bộ phận Marketing.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án B. \"We've been asked to create a marketing campaign for the program with the worst sales record.\" Câu này nghĩa là chúng ta đã được yêu cầu tạo một chiến dịch tiếp thị cho chương trình có doanh số tệ nhất. Vì họ đang làm công việc tạo chiến dịch tiếp thị nên họ làm việc ở bộ phận Marketing."
+          }
+        ]
+      },
+      {
+        "id": "fa76e0a9-f1c9-48b3-9160-008f0353ac38",
+        "number": 99,
+        "question": "Look at the graphic. Which software product will the company stop selling?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Core Spreadsheet",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Speed Anti-Virus",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Clear Image Editor",
+            "correct": true
+          },
+          {
+            "key": "D",
+            "text": "(D) Bell Web Browser",
+            "correct": false
+          }
+        ],
+        "answer": "C",
+        "translation": null,
+        "explanationText": "Đáp án C. \"We don't have to worry about the other program with low sales because it will be discontinued next month.\" Câu này nghĩa là chúng ta không cần lo về chương trình khác có doanh số thấp vì nó sẽ bị ngừng bán vào tháng tới. Dựa vào hình ảnh minh họa (graphic) trong bài thi, sản phẩm bị ngừng bán chính là Clear Image Editor.",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án C. \"We don't have to worry about the other program with low sales because it will be discontinued next month.\" Câu này nghĩa là chúng ta không cần lo về chương trình khác có doanh số thấp vì nó sẽ bị ngừng bán vào tháng tới. Dựa vào hình ảnh minh họa (graphic) trong bài thi, sản phẩm bị ngừng bán chính là Clear Image Editor."
+          }
+        ]
+      },
+      {
+        "id": "592d9164-3799-4f22-9f9a-f0a68fc204f8",
+        "number": 100,
+        "question": "What does the speaker ask the listeners to do?",
+        "options": [
+          {
+            "key": "A",
+            "text": "(A) Submit a report",
+            "correct": false
+          },
+          {
+            "key": "B",
+            "text": "(B) Test a product",
+            "correct": false
+          },
+          {
+            "key": "C",
+            "text": "(C) Download a program",
+            "correct": false
+          },
+          {
+            "key": "D",
+            "text": "(D) Prepare a proposal",
+            "correct": true
+          }
+        ],
+        "answer": "D",
+        "translation": null,
+        "explanationText": "Đáp án D. \"I'd like each of you to come up with a specific plan to promote the program assigned to our team.\" Câu này nghĩa là tôi muốn mỗi người trong các bạn đưa ra một kế hoạch cụ thể để quảng bá chương trình được giao cho nhóm chúng ta. Việc đưa ra kế hoạch cụ thể tương đương với việc chuẩn bị một đề xuất (prepare a proposal).",
+        "explanation": [
+          {
+            "title": "Giải thích",
+            "content": "Giải thích\nĐáp án D. \"I'd like each of you to come up with a specific plan to promote the program assigned to our team.\" Câu này nghĩa là tôi muốn mỗi người trong các bạn đưa ra một kế hoạch cụ thể để quảng bá chương trình được giao cho nhóm chúng ta. Việc đưa ra kế hoạch cụ thể tương đương với việc chuẩn bị một đề xuất (prepare a proposal)."
+          }
+        ]
+      }
+    ],
+    "vocabularies": [],
+    "crawledAt": "2026-10-09T10:08:21.795Z",
+    "imageFiles": [
+      "images/q98-100.jpg"
+    ]
+  }
+]

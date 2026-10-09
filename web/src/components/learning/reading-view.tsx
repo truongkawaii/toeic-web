@@ -33,7 +33,7 @@ export function ReadingView() {
       <PageHero
         eyebrow="Luyện đọc TOEIC"
         title={["Chinh phục", "TOEIC Reading", "từ dễ đến khó"]}
-        description="Luyện Part 5–7 với bộ YTS 2024 và YTS 2026, giải thích chi tiết và giao diện đọc như tài liệu."
+        description="Luyện Part 5–7 với 10 test YBM 2025, đáp án, giải thích và giao diện đọc như tài liệu."
         icon={BookOpenText}
       />
       <SegTabs label="Chế độ luyện đọc" items={MODES} value={mode} onChange={(v) => setMode(v, { group: null, set: null })} />
@@ -128,12 +128,12 @@ function TopicCard({ topic }: { topic: GrammarTopic }) {
 }
 
 function PartSection({ part }: { part: 5 | 6 | 7 }) {
-  const [set, setSet] = useQueryParam("set", "yts-2026", READING_COLLECTIONS.map((c) => c.id));
+  const [set, setSet] = useQueryParam("set", "ybm-2025", READING_COLLECTIONS.map((c) => c.id));
   const { toast } = useToast();
   const { startSession, sessions, testProgress } = useDemoStore();
   const router = useRouter();
   const [busy, setBusy] = useState<string | null>(null);
-  const tests = useMemo(() => MOCK_TESTS.filter(t => t.collectionId === set && t.playable), [set]);
+  const tests = useMemo(() => MOCK_TESTS.filter(t => t.collectionId === set && t.playable && t.parts?.includes(part)), [set, part]);
   const start = async (testId: string) => {
     const active = Object.values(sessions).find(s => s.testId === testId && s.status === "active" && s.mode === "practice" && s.questionNumbers.every(n => n >= (part === 5 ? 101 : part === 6 ? 131 : 147) && n <= (part === 5 ? 130 : part === 6 ? 146 : 200)));
     if (active) { router.push(`/exam/${active.id}`); return; }

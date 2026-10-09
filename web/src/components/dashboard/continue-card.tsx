@@ -32,7 +32,7 @@ export function ContinueCard() {
         </span>
         <div className="min-w-0 flex-1">
           <h2 className="text-lg font-semibold text-ink">Làm đề TOEIC đầu tiên</h2>
-          <p className="text-sm text-muted">40 test YTS Listening đã sẵn sàng. YTS 2024 và 2026 có cả Reading để thi toàn bài.</p>
+          <p className="text-sm text-muted">10 test YBM 2025 đã có trong thư viện. Cả 10 test có đủ Listening và Reading.</p>
         </div>
         <Link href="/tests" className="btn btn-primary">Bắt đầu <ArrowRight className="size-4" /></Link>
       </section>

@@ -3,7 +3,7 @@ import { Dialog } from "@/components/ui/dialog";
 import { useEtsTest } from "@/lib/ets";
 
 export function YtsNotebook({testId, onClose}: {testId: string | null; onClose: () => void}) {
-  return <Dialog open={!!testId} onClose={onClose} title="Từ vựng & paraphrase" description="Sổ học theo từng đề YTS. Dùng để ôn trước hoặc sau khi làm bài.">
+  return <Dialog open={!!testId} onClose={onClose} title="Từ vựng & paraphrase" description="Sổ học theo từng đề. Dùng để ôn trước hoặc sau khi làm bài.">
     {testId && <Notes testId={testId} />}
   </Dialog>;
 }

@@ -6,12 +6,13 @@ import Link from "next/link";
 import { AudioPlayer } from "@/components/learning/audio-player";
 import type { EtsGroup } from "@/types/domain";
 
-export function ListeningMaterial({ group, reveal = false, play = true, testId, persistKey }: { group: EtsGroup; reveal?: boolean; play?: boolean; testId?: string; persistKey?: string }) {
+export function ListeningMaterial({ group, reveal = false, play = true, testId, persistKey, onPlay, practice = true }: { group: EtsGroup; reveal?: boolean; play?: boolean; testId?: string; persistKey?: string; onPlay?: () => void; practice?: boolean }) {
   const item=group.listening;
   if(!item) return null;
   return <div className="space-y-4 p-4 sm:p-6">
     <p className="text-xs font-bold uppercase tracking-wider text-primary">{group.from===group.to ? `Question ${group.from}` : `Questions ${group.from}–${group.to}`}</p>
-    {play && <AudioPlayer src={item.audio} title={group.part<=2 ? `Audio câu ${group.from}` : `Audio câu ${group.from}–${group.to}`} persistKey={persistKey} practice />}
+    {play && !item.audio && <p className="rounded-xl bg-warning-soft p-3 text-sm text-warning-ink">Audio nhóm câu này chưa có trong dữ liệu nguồn.</p>}
+    {play && !!item.audio && <AudioPlayer src={item.audio} title={group.part<=2 ? `Audio câu ${group.from}` : `Audio câu ${group.from}–${group.to}`} persistKey={persistKey} onPlay={onPlay} practice={practice} />}
     {item.image && <Image src={item.image} alt={`Photograph for question ${group.from}`} width={900} height={600} unoptimized className="max-h-[480px] w-full rounded-xl border border-line object-contain" />}
     {item.imagePending && <div className="grid min-h-52 place-content-center gap-3 rounded-xl border border-dashed border-line bg-canvas p-5 text-center">
       <ImageOff className="mx-auto size-8 text-muted" /><p className="font-semibold text-ink">Ảnh câu {group.from} đang được bổ sung</p>

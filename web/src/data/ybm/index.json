@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ybm2025-t1",
+    "year": 2025,
+    "number": 1,
+    "title": "YBM 2025 · Test 1",
+    "collectionId": "ybm-2025",
+    "questionCount": 200,
+    "parts": {
+      "1": 6,
+      "2": 25,
+      "3": 39,
+      "4": 30,
+      "5": 30,
+      "6": 16,
+      "7": 54
+    },
+    "complete": true,
+    "missingAudio": 0,
+    "hasReading": true,
+    "listeningDuration": 2482.478118,
+    "missingPhotos": 0
+  },
+  {
+    "id": "ybm2025-t2",
+    "year": 2025,
+    "number": 2,
+    "title": "YBM 2025 · Test 2",
+    "collectionId": "ybm-2025",
+    "questionCount": 200,
+    "parts": {
+      "1": 6,
+      "2": 25,
+      "3": 39,
+      "4": 30,
+      "5": 30,
+      "6": 16,
+      "7": 54
+    },
+    "complete": true,
+    "missingAudio": 0,
+    "hasReading": true,
+    "listeningDuration": 2451.6958740000005,
+    "missingPhotos": 0
+  },
+  {
+    "id": "ybm2025-t3",
+    "year": 2025,
+    "number": 3,
+    "title": "YBM 2025 · Test 3",
+    "collectionId": "ybm-2025",
+    "questionCount": 200,
+    "parts": {
+      "1": 6,
+      "2": 25,
+      "3": 39,
+      "4": 30,
+      "5": 30,
+      "6": 16,
+      "7": 54
+    },
+    "complete": true,
+    "missingAudio": 0,
+    "hasReading": true,
+    "listeningDuration": 2451.6958740000005,
+    "missingPhotos": 0
+  },
+  {
+    "id": "ybm2025-t4",
+    "year": 2025,
+    "number": 4,
+    "title": "YBM 2025 · Test 4",
+    "collectionId": "ybm-2025",
+    "questionCount": 200,
+    "parts": {
+      "1": 6,
+      "2": 25,
+      "3": 39,
+      "4": 30,
+      "5": 30,
+      "6": 16,
+      "7": 54
+    },
+    "complete": true,
+    "missingAudio": 0,
+    "hasReading": true,
+    "listeningDuration": 2451.6958740000005,
+    "missingPhotos": 0
+  },
+  {
+    "id": "ybm2025-t5",
+    "year": 2025,
+    "number": 5,
+    "title": "YBM 2025 · Test 5",
+    "collectionId": "ybm-2025",
+    "questionCount": 200,
+    "parts": {
+      "1": 6,
+      "2": 25,
+      "3": 39,
+      "4": 30,
+      "5": 30,
+      "6": 16,
+      "7": 54
+    },
+    "complete": true,
+    "missingAudio": 0,
+    "hasReading": true,
+    "listeningDuration": 2451.6958740000005,
+    "missingPhotos": 0
+  },
+  {
+    "id": "ybm2025-t6",
+    "year": 2025,
+    "number": 6,
+    "title": "YBM 2025 · Test 6",
+    "collectionId": "ybm-2025",
+    "questionCount": 200,
+    "parts": {
+      "1": 6,
+      "2": 25,
+      "3": 39,
+      "4": 30,
+      "5": 30,
+      "6": 16,
+      "7": 54
+    },
+    "complete": true,
+    "missingAudio": 0,
+    "hasReading": true,
+    "listeningDuration": 2620.161946,
+    "missingPhotos": 0
+  },
+  {
+    "id": "ybm2025-t7",
+    "year": 2025,
+    "number": 7,
+    "title": "YBM 2025 · Test 7",
+    "collectionId": "ybm-2025",
+    "questionCount": 200,
+    "parts": {
+      "1": 6,
+      "2": 25,
+      "3": 39,
+      "4": 30,
+      "5": 30,
+      "6": 16,
+      "7": 54
+    },
+    "complete": true,
+    "missingAudio": 0,
+    "hasReading": true,
+    "listeningDuration": 2540.948646,
+    "missingPhotos": 0
+  },
+  {
+    "id": "ybm2025-t8",
+    "year": 2025,
+    "number": 8,
+    "title": "YBM 2025 · Test 8",
+    "collectionId": "ybm-2025",
+    "questionCount": 200,
+    "parts": {
+      "1": 6,
+      "2": 25,
+      "3": 39,
+      "4": 30,
+      "5": 30,
+      "6": 16,
+      "7": 54
+    },
+    "complete": true,
+    "missingAudio": 0,
+    "hasReading": true,
+    "listeningDuration": 2537.8296870000013,
+    "missingPhotos": 0
+  },
+  {
+    "id": "ybm2025-t9",
+    "year": 2025,
+    "number": 9,
+    "title": "YBM 2025 · Test 9",
+    "collectionId": "ybm-2025",
+    "questionCount": 200,
+    "parts": {
+      "1": 6,
+      "2": 25,
+      "3": 39,
+      "4": 30,
+      "5": 30,
+      "6": 16,
+      "7": 54
+    },
+    "complete": true,
+    "missingAudio": 0,
+    "hasReading": true,
+    "listeningDuration": 2512.6764500000004,
+    "missingPhotos": 0
+  },
+  {
+    "id": "ybm2025-t10",
+    "year": 2025,
+    "number": 10,
+    "title": "YBM 2025 · Test 10",
+    "collectionId": "ybm-2025",
+    "questionCount": 200,
+    "parts": {
+      "1": 6,
+      "2": 25,
+      "3": 39,
+      "4": 30,
+      "5": 30,
+      "6": 16,
+      "7": 54
+    },
+    "complete": true,
+    "missingAudio": 0,
+    "hasReading": true,
+    "listeningDuration": 2518.67854,
+    "missingPhotos": 0
+  }
+]

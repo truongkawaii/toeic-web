@@ -8,7 +8,6 @@ import { useRouter } from "next/navigation";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { Explanation, GroupInstructions, OptionList, Passage, Stem } from "@/components/exam/shared";
 import { ReadingTools, useReadingPreferences } from "@/components/exam/reading-tools";
-import { AudioPlayer } from "@/components/learning/audio-player";
 import { ListeningMaterial } from "@/components/exam/listening-material";
 import { testLabel } from "@/components/tests/tests-views";
 import { ConfirmDialog, Dialog } from "@/components/ui/dialog";
@@ -112,6 +111,7 @@ function Room({ session, test }: { session: ExamSession; test: EtsTest }) {
   const remaining = session.deadline ? session.deadline - now : null;
   const elapsed = now - session.startedAt;
 
+  const [confirmListening, setConfirmListening] = useState(false);
   const [confirmSubmit, setConfirmSubmit] = useState(false);
   const [confirmExit, setConfirmExit] = useState(false);
   const [paletteOpen, setPaletteOpen] = useState(false);
@@ -227,9 +227,6 @@ function Room({ session, test }: { session: ExamSession; test: EtsTest }) {
         </div>
       </header>
 
-      {timedListening && test.listening && <div className="mx-auto w-full max-w-[1680px] shrink-0 px-3 pt-3 sm:px-6">
-        <AudioPlayer src={test.listening.fullAudio} title="Listening · Full test — nhấn Play để bắt đầu" persistKey={`yts-audio-${session.id}`} examStartedAt={session.audioStartedAt} onPlay={() => beginListening(session.id, test.listening!.duration)} onEnded={endListening} compact />
-      </div>}
       {/* Nội dung */}
       <div className="mx-auto flex min-h-0 w-full max-w-[1680px] flex-1 gap-5 px-3 py-4 sm:px-6 sm:py-5">
         <main className="flex min-h-0 min-w-0 flex-1 flex-col">
@@ -257,7 +254,7 @@ function Room({ session, test }: { session: ExamSession; test: EtsTest }) {
                 aria-label={listening ? "Audio và hình Listening" : "Đoạn văn"}
                 className={`reading-paper min-h-0 overflow-y-auto overscroll-contain ${mobilePane === "passage" ? "block" : "hidden"} lg:block`}
               >
-                {listening ? <ListeningMaterial key={group.id} group={group} play={practice} reveal={practice && groupQs.every(x => !!session.answers[x.number])} testId={test.id} persistKey={`yts-item-${session.id}-${group.id}`} /> : <Passage group={group} current={q.number} answers={session.answers} onJump={(n) => { jumpTo(n); setMobilePane("questions"); }} />}
+                {listening ? <ListeningMaterial key={group.id} group={group} play reveal={practice && groupQs.every(x => !!session.answers[x.number])} testId={test.id} persistKey={`ybm-item-${session.id}-${group.id}`} practice={practice} onPlay={timedListening ? () => beginListening(session.id, Math.max(2700, test.listening?.duration ?? 2700)) : undefined} /> : <Passage group={group} current={q.number} answers={session.answers} onJump={(n) => { jumpTo(n); setMobilePane("questions"); }} />}
               </section>
             )}
             <section
@@ -323,7 +320,9 @@ function Room({ session, test }: { session: ExamSession; test: EtsTest }) {
               <Flag className={`size-4 ${flagged ? "fill-current" : ""}`} /> <span className="hidden sm:inline">{flagged ? "Đã đánh dấu" : "Đánh dấu"}</span>
             </button>
             <span className="flex-1 text-center text-sm tabular-nums text-muted">{idx + 1} / {questions.length}</span>
-            {idx < questions.length - 1 ? (
+            {timedListening && idx === phaseEnd ? (
+              <button type="button" className="btn btn-primary" onClick={() => setConfirmListening(true)}>{questions.some(x => x.part >= 5) ? "Chuyển sang Reading" : "Nộp Listening"}<ArrowRight className="size-4" /></button>
+            ) : idx < questions.length - 1 ? (
               <button type="button" className="btn btn-primary" disabled={idx >= phaseEnd} onClick={() => go(idx + 1)}>
                 <span className="hidden sm:inline">Câu tiếp</span> <ArrowRight className="size-4" />
               </button>
@@ -352,6 +351,7 @@ function Room({ session, test }: { session: ExamSession; test: EtsTest }) {
         </button>
       </Dialog>
 
+      <ConfirmDialog open={confirmListening} onClose={() => setConfirmListening(false)} onConfirm={() => { setConfirmListening(false); endListening(); }} title="Hoàn tất Listening?" description={questions.some(x => x.part >= 5) ? "Sau khi chuyển sang Reading, bạn có 75 phút và không thể quay lại Listening." : "Bài Listening sẽ được chấm. Câu bỏ trống được tính là sai."} />
       <ConfirmDialog
         open={confirmSubmit}
         onClose={() => setConfirmSubmit(false)}

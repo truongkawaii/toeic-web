@@ -1,34 +1,20 @@
 import { useCallback, useEffect, useState } from "react";
-import ETS_INDEX_JSON from "@/data/ets/index.json";
-import { ETS_LOADERS } from "@/data/ets/loaders";
-import YTS_INDEX_JSON from "@/data/yts/index.json";
-import YTS_2024_INDEX_JSON from "@/data/yts2024/index.json";
-import { YTS_LOADERS } from "@/data/yts/loaders";
-import { YTS_LOADERS as YTS_2024_LOADERS } from "@/data/yts2024/loaders";
-import LISTENING_INDEX_JSON from "@/data/listening/index.json";
-import { LISTENING_LOADERS } from "@/data/listening/loaders";
+import YBM_INDEX_JSON from "@/data/ybm/index.json";
+import { YBM_LOADERS } from "@/data/ybm/loaders";
 import { toISODate } from "@/lib/mock/fixtures";
 import type { Attempt, EtsIndexEntry, EtsQuestion, EtsTest, ExamSession } from "@/types/domain";
 
-/* ---------------------------------------------------------------------------
- * Đề ETS Reading (Part 5–7) parse từ `ets 2024/`, `ets 2026/` bằng
- * `npm run parse:ets`. Nội dung từng đề được tách chunk, tải khi mở phòng thi.
- * ------------------------------------------------------------------------- */
-
-export const ETS_INDEX = [...YTS_INDEX_JSON, ...YTS_2024_INDEX_JSON, ...ETS_INDEX_JSON] as EtsIndexEntry[];
-export const READING_LOADERS = { ...ETS_LOADERS, ...YTS_LOADERS, ...YTS_2024_LOADERS };
-export const YTS_EXAM_INDEX = LISTENING_INDEX_JSON as EtsIndexEntry[];
-export const EXAM_INDEX = [...YTS_EXAM_INDEX, ...ETS_INDEX_JSON] as EtsIndexEntry[];
-export const EXAM_LOADERS: Record<string, () => Promise<EtsTest>> = { ...READING_LOADERS };
-for (const entry of YTS_EXAM_INDEX) {
-  EXAM_LOADERS[entry.id] = async () => {
-    const listening = await LISTENING_LOADERS[entry.id]();
-    const reading = entry.hasReading ? await READING_LOADERS[entry.id]() : null;
-    return { ...listening, editorialTrack: reading?.editorialTrack,
-      groups: [...listening.groups, ...(reading?.groups ?? [])],
-      questions: [...listening.questions, ...(reading?.questions ?? [])] };
-  };
-}
+/** Danh mục các bộ đề có dữ liệu trong dự án. */
+export const ETS_INDEX = YBM_INDEX_JSON.filter(t => t.hasReading) as EtsIndexEntry[];
+export const LISTENING_EXAM_INDEX = YBM_INDEX_JSON as EtsIndexEntry[];
+export const EXAM_INDEX = YBM_INDEX_JSON as EtsIndexEntry[];
+export const EXAM_LOADERS = YBM_LOADERS;
+export const READING_LOADERS: Record<string, () => Promise<EtsTest>> = Object.fromEntries(
+  ETS_INDEX.map(entry => [entry.id, async () => {
+    const test = await YBM_LOADERS[entry.id]();
+    return { ...test, groups: test.groups.filter(g => g.part >= 5), questions: test.questions.filter(q => q.part >= 5), listening: undefined };
+  }]),
+);
 
 /** Thời lượng Reading thật: 75 phút / 100 câu. */
 export const READING_MINUTES = 75;

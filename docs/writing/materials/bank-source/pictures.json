@@ -1,0 +1,2212 @@
+[
+  {
+    "id": "P1-31",
+    "part": "picture",
+    "title": "Một người đang dán nhãn lên kiện hàng",
+    "category": "N + V",
+    "scene": "Một người đang dán nhãn lên kiện hàng",
+    "words": [
+      "label",
+      "attach"
+    ],
+    "answer": "A person is attaching a label to a package.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-32",
+    "part": "picture",
+    "title": "Một kỹ thuật viên đang kiểm tra máy tính xách tay",
+    "category": "N + V",
+    "scene": "Một kỹ thuật viên đang kiểm tra máy tính xách tay",
+    "words": [
+      "technician",
+      "inspect"
+    ],
+    "answer": "A technician is inspecting a laptop.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-33",
+    "part": "picture",
+    "title": "Một người làm vườn đang tưới cây trong chậu",
+    "category": "N + V",
+    "scene": "Một người làm vườn đang tưới cây trong chậu",
+    "words": [
+      "plant",
+      "water"
+    ],
+    "answer": "A gardener is watering a plant in a pot.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-34",
+    "part": "picture",
+    "title": "Một người đang đẩy xe đẩy dọc hành lang",
+    "category": "N + V",
+    "scene": "Một người đang đẩy xe đẩy dọc hành lang",
+    "words": [
+      "cart",
+      "push"
+    ],
+    "answer": "A person is pushing a cart along a corridor.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-35",
+    "part": "picture",
+    "title": "Một người phụ nữ đang gấp khăn trên bàn",
+    "category": "N + V",
+    "scene": "Một người phụ nữ đang gấp khăn trên bàn",
+    "words": [
+      "towel",
+      "fold"
+    ],
+    "answer": "A woman is folding a towel on a table.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-36",
+    "part": "picture",
+    "title": "Một khách hàng đang chọn táo từ quầy hàng",
+    "category": "N + V",
+    "scene": "Một khách hàng đang chọn táo từ quầy hàng",
+    "words": [
+      "customer",
+      "select"
+    ],
+    "answer": "A customer is selecting apples from a display.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-37",
+    "part": "picture",
+    "title": "Một người đang lau cửa sổ bằng khăn",
+    "category": "N + V",
+    "scene": "Một người đang lau cửa sổ bằng khăn",
+    "words": [
+      "window",
+      "wipe"
+    ],
+    "answer": "A person is wiping a window with a cloth.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-38",
+    "part": "picture",
+    "title": "Một nhân viên đang sắp sách lên kệ",
+    "category": "N + V",
+    "scene": "Một nhân viên đang sắp sách lên kệ",
+    "words": [
+      "book",
+      "arrange"
+    ],
+    "answer": "An employee is arranging books on a shelf.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-39",
+    "part": "picture",
+    "title": "Một công nhân đang đo tấm gỗ",
+    "category": "N + V",
+    "scene": "Một công nhân đang đo tấm gỗ",
+    "words": [
+      "board",
+      "measure"
+    ],
+    "answer": "A worker is measuring a wooden board.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-40",
+    "part": "picture",
+    "title": "Một phụ nữ đang chụp bức tượng",
+    "category": "N + V",
+    "scene": "Một phụ nữ đang chụp bức tượng",
+    "words": [
+      "statue",
+      "photograph"
+    ],
+    "answer": "A woman is photographing a statue.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-41",
+    "part": "picture",
+    "title": "Một người đang trải thảm trên sàn",
+    "category": "N + V",
+    "scene": "Một người đang trải thảm trên sàn",
+    "words": [
+      "rug",
+      "spread"
+    ],
+    "answer": "A person is spreading a rug on the floor.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-42",
+    "part": "picture",
+    "title": "Một nhân viên đang quét sàn nhà",
+    "category": "N + V",
+    "scene": "Một nhân viên đang quét sàn nhà",
+    "words": [
+      "employee",
+      "sweep"
+    ],
+    "answer": "An employee is sweeping the floor.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-43",
+    "part": "picture",
+    "title": "Một nam giới đang cài dây đeo mũ bảo hiểm",
+    "category": "N + V",
+    "scene": "Một nam giới đang cài dây đeo mũ bảo hiểm",
+    "words": [
+      "helmet",
+      "fasten"
+    ],
+    "answer": "A man is fastening the strap of his helmet.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-44",
+    "part": "picture",
+    "title": "Một người đang dựng biển báo ở lối vào",
+    "category": "N + V",
+    "scene": "Một người đang dựng biển báo ở lối vào",
+    "words": [
+      "sign",
+      "set"
+    ],
+    "answer": "A person is setting up a sign at the entrance.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-45",
+    "part": "picture",
+    "title": "Một người phụ nữ đang cắt miếng vải bằng kéo",
+    "category": "N + V",
+    "scene": "Một người phụ nữ đang cắt miếng vải bằng kéo",
+    "words": [
+      "fabric",
+      "cut"
+    ],
+    "answer": "A woman is cutting fabric with scissors.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-46",
+    "part": "picture",
+    "title": "Một nhân viên đang gõ dữ liệu vào máy tính",
+    "category": "N + V",
+    "scene": "Một nhân viên đang gõ dữ liệu vào máy tính",
+    "words": [
+      "data",
+      "enter"
+    ],
+    "answer": "An employee is entering data into a computer.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-47",
+    "part": "picture",
+    "title": "Một công nhân đang nâng thùng lên xe đẩy",
+    "category": "N + V",
+    "scene": "Một công nhân đang nâng thùng lên xe đẩy",
+    "words": [
+      "crate",
+      "lift"
+    ],
+    "answer": "A worker is lifting a crate onto a cart.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-48",
+    "part": "picture",
+    "title": "Một hành khách đang kéo vali qua sảnh",
+    "category": "N + V",
+    "scene": "Một hành khách đang kéo vali qua sảnh",
+    "words": [
+      "suitcase",
+      "pull"
+    ],
+    "answer": "A passenger is pulling a suitcase through the lobby.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-49",
+    "part": "picture",
+    "title": "Một người đang đào đất cạnh luống hoa",
+    "category": "N + V",
+    "scene": "Một người đang đào đất cạnh luống hoa",
+    "words": [
+      "soil",
+      "dig"
+    ],
+    "answer": "A person is digging the soil beside a flower bed.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-50",
+    "part": "picture",
+    "title": "Một người phụ nữ đang buộc dây giày",
+    "category": "N + V",
+    "scene": "Một người phụ nữ đang buộc dây giày",
+    "words": [
+      "shoelace",
+      "tie"
+    ],
+    "answer": "A woman is tying her shoelaces.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-51",
+    "part": "picture",
+    "title": "Một nhân viên đang đưa thực đơn cho khách",
+    "category": "N + V",
+    "scene": "Một nhân viên đang đưa thực đơn cho khách",
+    "words": [
+      "menu",
+      "hand"
+    ],
+    "answer": "An employee is handing a menu to a customer.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-52",
+    "part": "picture",
+    "title": "Một người đang đóng nắp hộp dụng cụ",
+    "category": "N + V",
+    "scene": "Một người đang đóng nắp hộp dụng cụ",
+    "words": [
+      "lid",
+      "close"
+    ],
+    "answer": "A person is closing the lid of a toolbox.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-53",
+    "part": "picture",
+    "title": "Một công nhân đang lắp một tấm kính vào khung",
+    "category": "N + V",
+    "scene": "Một công nhân đang lắp một tấm kính vào khung",
+    "words": [
+      "panel",
+      "install"
+    ],
+    "answer": "A worker is installing a glass panel in a frame.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-54",
+    "part": "picture",
+    "title": "Một người đang xếp đĩa vào máy rửa bát",
+    "category": "N + V",
+    "scene": "Một người đang xếp đĩa vào máy rửa bát",
+    "words": [
+      "dish",
+      "load"
+    ],
+    "answer": "A person is loading dishes into a dishwasher.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-55",
+    "part": "picture",
+    "title": "Một phụ nữ đang kiểm tra lịch trên điện thoại",
+    "category": "N + V",
+    "scene": "Một phụ nữ đang kiểm tra lịch trên điện thoại",
+    "words": [
+      "schedule",
+      "check"
+    ],
+    "answer": "A woman is checking a schedule on her phone.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-56",
+    "part": "picture",
+    "title": "Một người đang rắc hạt lên mặt đất",
+    "category": "N + V",
+    "scene": "Một người đang rắc hạt lên mặt đất",
+    "words": [
+      "seed",
+      "scatter"
+    ],
+    "answer": "A person is scattering seeds on the ground.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-57",
+    "part": "picture",
+    "title": "Một nhân viên đang cân một kiện hàng",
+    "category": "N + V",
+    "scene": "Một nhân viên đang cân một kiện hàng",
+    "words": [
+      "package",
+      "weigh"
+    ],
+    "answer": "An employee is weighing a package.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-58",
+    "part": "picture",
+    "title": "Một người đang cuộn dây điện trên sàn",
+    "category": "N + V",
+    "scene": "Một người đang cuộn dây điện trên sàn",
+    "words": [
+      "cable",
+      "coil"
+    ],
+    "answer": "A person is coiling a cable on the floor.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-59",
+    "part": "picture",
+    "title": "Một nam giới đang sơn hàng rào",
+    "category": "N + V",
+    "scene": "Một nam giới đang sơn hàng rào",
+    "words": [
+      "fence",
+      "paint"
+    ],
+    "answer": "A man is painting a fence.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-60",
+    "part": "picture",
+    "title": "Một phụ nữ đang lật trang sách",
+    "category": "N + V",
+    "scene": "Một phụ nữ đang lật trang sách",
+    "words": [
+      "page",
+      "turn"
+    ],
+    "answer": "A woman is turning a page in a book.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-61",
+    "part": "picture",
+    "title": "Một người đang bơm lốp xe đạp",
+    "category": "N + V",
+    "scene": "Một người đang bơm lốp xe đạp",
+    "words": [
+      "tire",
+      "inflate"
+    ],
+    "answer": "A person is inflating a bicycle tire.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-62",
+    "part": "picture",
+    "title": "Một nhân viên đang đặt hoa vào bình",
+    "category": "N + V",
+    "scene": "Một nhân viên đang đặt hoa vào bình",
+    "words": [
+      "flower",
+      "put"
+    ],
+    "answer": "An employee is putting flowers in a vase.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-63",
+    "part": "picture",
+    "title": "Một người đang rót nước vào bình tưới",
+    "category": "N + V",
+    "scene": "Một người đang rót nước vào bình tưới",
+    "words": [
+      "water",
+      "pour"
+    ],
+    "answer": "A person is pouring water into a watering can.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-64",
+    "part": "picture",
+    "title": "Một công nhân đang trải bản vẽ trên bàn",
+    "category": "N + V",
+    "scene": "Một công nhân đang trải bản vẽ trên bàn",
+    "words": [
+      "drawing",
+      "unroll"
+    ],
+    "answer": "A worker is unrolling a drawing on a table.",
+    "explanation": "Dùng danh từ làm chủ thể/tân ngữ và chia động từ theo hành động đang thấy; câu phải có động từ chính."
+  },
+  {
+    "id": "P1-65",
+    "part": "picture",
+    "title": "Một người đang nấu ăn trong khi người khác rửa bát",
+    "category": "V + Conj",
+    "scene": "Một người đang nấu ăn trong khi người khác rửa bát",
+    "words": [
+      "cook",
+      "while"
+    ],
+    "answer": "One person is cooking while another is washing dishes.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-66",
+    "part": "picture",
+    "title": "Một công nhân đang cưa gỗ và người khác đang giữ tấm gỗ",
+    "category": "V + Conj",
+    "scene": "Một công nhân đang cưa gỗ và người khác đang giữ tấm gỗ",
+    "words": [
+      "saw",
+      "and"
+    ],
+    "answer": "A worker is sawing a board, and another is holding it.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-67",
+    "part": "picture",
+    "title": "Một nam giới đang đọc báo nhưng người phụ nữ cạnh đó đang nhìn điện thoại",
+    "category": "V + Conj",
+    "scene": "Một nam giới đang đọc báo nhưng người phụ nữ cạnh đó đang nhìn điện thoại",
+    "words": [
+      "read",
+      "but"
+    ],
+    "answer": "A man is reading a newspaper, but the woman beside him is looking at her phone.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-68",
+    "part": "picture",
+    "title": "Một người đang đẩy cửa mở trong khi người khác mang hộp đi qua",
+    "category": "V + Conj",
+    "scene": "Một người đang đẩy cửa mở trong khi người khác mang hộp đi qua",
+    "words": [
+      "push",
+      "while"
+    ],
+    "answer": "A person is pushing the door open while another carries a box through it.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-69",
+    "part": "picture",
+    "title": "Một nhân viên đang quét mã hàng và đặt sản phẩm vào túi",
+    "category": "V + Conj",
+    "scene": "Một nhân viên đang quét mã hàng và đặt sản phẩm vào túi",
+    "words": [
+      "scan",
+      "and"
+    ],
+    "answer": "An employee is scanning an item and placing it in a bag.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-70",
+    "part": "picture",
+    "title": "Một phụ nữ đang viết lên bảng trong khi những người khác nhìn bảng",
+    "category": "V + Conj",
+    "scene": "Một phụ nữ đang viết lên bảng trong khi những người khác nhìn bảng",
+    "words": [
+      "write",
+      "while"
+    ],
+    "answer": "A woman is writing on a board while other people look at it.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-71",
+    "part": "picture",
+    "title": "Một người đang ngồi nhưng người bên cạnh đang đứng",
+    "category": "V + Conj",
+    "scene": "Một người đang ngồi nhưng người bên cạnh đang đứng",
+    "words": [
+      "sit",
+      "but"
+    ],
+    "answer": "One person is sitting, but the person beside him is standing.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-72",
+    "part": "picture",
+    "title": "Một nam giới đang mở vali và lấy áo khoác ra",
+    "category": "V + Conj",
+    "scene": "Một nam giới đang mở vali và lấy áo khoác ra",
+    "words": [
+      "open",
+      "and"
+    ],
+    "answer": "A man is opening a suitcase and taking out a jacket.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-73",
+    "part": "picture",
+    "title": "Một người đang bọc một vật trong khi người khác giữ cuộn giấy",
+    "category": "V + Conj",
+    "scene": "Một người đang bọc một vật trong khi người khác giữ cuộn giấy",
+    "words": [
+      "wrap",
+      "while"
+    ],
+    "answer": "A person is wrapping an object while another holds a roll of paper.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-74",
+    "part": "picture",
+    "title": "Một người phụ nữ đang cầm máy ảnh và nhìn màn hình của nó",
+    "category": "V + Conj",
+    "scene": "Một người phụ nữ đang cầm máy ảnh và nhìn màn hình của nó",
+    "words": [
+      "hold",
+      "and"
+    ],
+    "answer": "A woman is holding a camera and looking at its screen.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-75",
+    "part": "picture",
+    "title": "Một người đang xếp ghế trong khi người khác trải khăn bàn",
+    "category": "V + Conj",
+    "scene": "Một người đang xếp ghế trong khi người khác trải khăn bàn",
+    "words": [
+      "stack",
+      "while"
+    ],
+    "answer": "A person is stacking chairs while another spreads a tablecloth.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-76",
+    "part": "picture",
+    "title": "Một hành khách đang lên tàu trong khi người khác xuống tàu",
+    "category": "V + Conj",
+    "scene": "Một hành khách đang lên tàu trong khi người khác xuống tàu",
+    "words": [
+      "board",
+      "while"
+    ],
+    "answer": "A passenger is boarding a train while another is getting off.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-77",
+    "part": "picture",
+    "title": "Một phụ nữ đang gấp áo và đặt chúng lên kệ",
+    "category": "V + Conj",
+    "scene": "Một phụ nữ đang gấp áo và đặt chúng lên kệ",
+    "words": [
+      "fold",
+      "and"
+    ],
+    "answer": "A woman is folding shirts and placing them on a shelf.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-78",
+    "part": "picture",
+    "title": "Một người đang kéo rèm trong khi người khác bật đèn",
+    "category": "V + Conj",
+    "scene": "Một người đang kéo rèm trong khi người khác bật đèn",
+    "words": [
+      "pull",
+      "while"
+    ],
+    "answer": "A person is pulling the curtains closed while another turns on a lamp.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-79",
+    "part": "picture",
+    "title": "Một công nhân đang mang thang nhưng đồng nghiệp đang mang thùng dụng cụ",
+    "category": "V + Conj",
+    "scene": "Một công nhân đang mang thang nhưng đồng nghiệp đang mang thùng dụng cụ",
+    "words": [
+      "carry",
+      "but"
+    ],
+    "answer": "A worker is carrying a ladder, but a colleague is carrying a toolbox.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-80",
+    "part": "picture",
+    "title": "Một người đang cắt trái cây và đặt các miếng vào bát",
+    "category": "V + Conj",
+    "scene": "Một người đang cắt trái cây và đặt các miếng vào bát",
+    "words": [
+      "cut",
+      "and"
+    ],
+    "answer": "A person is cutting fruit and putting the pieces in a bowl.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-81",
+    "part": "picture",
+    "title": "Một nam giới đang đạp xe trong khi người đi bộ băng qua cầu",
+    "category": "V + Conj",
+    "scene": "Một nam giới đang đạp xe trong khi người đi bộ băng qua cầu",
+    "words": [
+      "cycle",
+      "while"
+    ],
+    "answer": "A man is cycling while pedestrians cross the bridge.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-82",
+    "part": "picture",
+    "title": "Một nhân viên đang lau quầy và một người khác đang lau sàn",
+    "category": "V + Conj",
+    "scene": "Một nhân viên đang lau quầy và một người khác đang lau sàn",
+    "words": [
+      "wipe",
+      "and"
+    ],
+    "answer": "An employee is wiping the counter, and another is cleaning the floor.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-83",
+    "part": "picture",
+    "title": "Một người đang đóng hộp trong khi người bên cạnh dán nhãn",
+    "category": "V + Conj",
+    "scene": "Một người đang đóng hộp trong khi người bên cạnh dán nhãn",
+    "words": [
+      "close",
+      "while"
+    ],
+    "answer": "A person is closing a box while another attaches a label.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-84",
+    "part": "picture",
+    "title": "Một phụ nữ đang nâng túi lên và đặt nó lên ghế",
+    "category": "V + Conj",
+    "scene": "Một phụ nữ đang nâng túi lên và đặt nó lên ghế",
+    "words": [
+      "lift",
+      "and"
+    ],
+    "answer": "A woman is lifting a bag and placing it on a chair.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-85",
+    "part": "picture",
+    "title": "Một nam giới đang nhìn bản đồ trong khi người phụ nữ chỉ vào nó",
+    "category": "V + Conj",
+    "scene": "Một nam giới đang nhìn bản đồ trong khi người phụ nữ chỉ vào nó",
+    "words": [
+      "look",
+      "while"
+    ],
+    "answer": "A man is looking at a map while a woman points at it.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-86",
+    "part": "picture",
+    "title": "Một nhân viên đang đeo găng nhưng người bên cạnh không đeo găng",
+    "category": "V + Conj",
+    "scene": "Một nhân viên đang đeo găng nhưng người bên cạnh không đeo găng",
+    "words": [
+      "wear",
+      "but"
+    ],
+    "answer": "An employee is wearing gloves, but the person beside him is not wearing any.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-87",
+    "part": "picture",
+    "title": "Một người đang mở sổ và viết ghi chú",
+    "category": "V + Conj",
+    "scene": "Một người đang mở sổ và viết ghi chú",
+    "words": [
+      "open",
+      "and"
+    ],
+    "answer": "A person is opening a notebook and writing notes.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-88",
+    "part": "picture",
+    "title": "Một phụ nữ đang giữ cửa trong khi khách đi vào",
+    "category": "V + Conj",
+    "scene": "Một phụ nữ đang giữ cửa trong khi khách đi vào",
+    "words": [
+      "hold",
+      "while"
+    ],
+    "answer": "A woman is holding the door open while visitors enter.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-89",
+    "part": "picture",
+    "title": "Một người đang quét lá và người khác đang bỏ lá vào bao",
+    "category": "V + Conj",
+    "scene": "Một người đang quét lá và người khác đang bỏ lá vào bao",
+    "words": [
+      "sweep",
+      "and"
+    ],
+    "answer": "One person is sweeping leaves, and another is putting them in a sack.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-90",
+    "part": "picture",
+    "title": "Một công nhân đang đứng trên thang trong khi người khác giữ chân thang",
+    "category": "V + Conj",
+    "scene": "Một công nhân đang đứng trên thang trong khi người khác giữ chân thang",
+    "words": [
+      "stand",
+      "while"
+    ],
+    "answer": "A worker is standing on a ladder while another holds its base.",
+    "explanation": "Liên từ nối hai hành động hoặc mệnh đề; while diễn tả đồng thời, and thêm hành động, but nêu tương phản."
+  },
+  {
+    "id": "P1-91",
+    "part": "picture",
+    "title": "Một cặp găng tay nằm trên ghế",
+    "category": "N + Prep",
+    "scene": "Một cặp găng tay nằm trên ghế",
+    "words": [
+      "glove",
+      "on"
+    ],
+    "answer": "A pair of gloves is on a chair.",
+    "explanation": "Giới từ diễn tả vị trí có trong cảnh; không tự thêm chuyển động hoặc mục đích."
+  },
+  {
+    "id": "P1-92",
+    "part": "picture",
+    "title": "Một xe đạp dựng tựa vào bức tường",
+    "category": "N + Prep",
+    "scene": "Một xe đạp dựng tựa vào bức tường",
+    "words": [
+      "bicycle",
+      "against"
+    ],
+    "answer": "A bicycle is leaning against a wall.",
+    "explanation": "Giới từ diễn tả vị trí có trong cảnh; không tự thêm chuyển động hoặc mục đích."
+  },
+  {
+    "id": "P1-93",
+    "part": "picture",
+    "title": "Một hộp dụng cụ ở dưới bàn làm việc",
+    "category": "N + Prep",
+    "scene": "Một hộp dụng cụ ở dưới bàn làm việc",
+    "words": [
+      "toolbox",
+      "under"
+    ],
+    "answer": "A toolbox is under a workbench.",
+    "explanation": "Giới từ diễn tả vị trí có trong cảnh; không tự thêm chuyển động hoặc mục đích."
+  },
+  {
+    "id": "P1-94",
+    "part": "picture",
+    "title": "Một biển báo ở giữa hai cánh cửa",
+    "category": "N + Prep",
+    "scene": "Một biển báo ở giữa hai cánh cửa",
+    "words": [
+      "sign",
+      "between"
+    ],
+    "answer": "A sign is between two doors.",
+    "explanation": "Giới từ diễn tả vị trí có trong cảnh; không tự thêm chuyển động hoặc mục đích."
+  },
+  {
+    "id": "P1-95",
+    "part": "picture",
+    "title": "Một phụ nữ đứng sau quầy",
+    "category": "N + Prep",
+    "scene": "Một phụ nữ đứng sau quầy",
+    "words": [
+      "counter",
+      "behind"
+    ],
+    "answer": "A woman is standing behind a counter.",
+    "explanation": "Giới từ diễn tả vị trí có trong cảnh; không tự thêm chuyển động hoặc mục đích."
+  },
+  {
+    "id": "P1-96",
+    "part": "picture",
+    "title": "Một chiếc ô ở cạnh cửa ra vào",
+    "category": "N + Prep",
+    "scene": "Một chiếc ô ở cạnh cửa ra vào",
+    "words": [
+      "umbrella",
+      "beside"
+    ],
+    "answer": "An umbrella is beside the doorway.",
+    "explanation": "Giới từ diễn tả vị trí có trong cảnh; không tự thêm chuyển động hoặc mục đích."
+  },
+  {
+    "id": "P1-97",
+    "part": "picture",
+    "title": "Một cây nhỏ ở trước cửa sổ",
+    "category": "N + Prep",
+    "scene": "Một cây nhỏ ở trước cửa sổ",
+    "words": [
+      "plant",
+      "in front of"
+    ],
+    "answer": "A small plant is in front of a window.",
+    "explanation": "Giới từ diễn tả vị trí có trong cảnh; không tự thêm chuyển động hoặc mục đích."
+  },
+  {
+    "id": "P1-98",
+    "part": "picture",
+    "title": "Một đồng hồ treo phía trên bảng thông báo",
+    "category": "N + Prep",
+    "scene": "Một đồng hồ treo phía trên bảng thông báo",
+    "words": [
+      "clock",
+      "above"
+    ],
+    "answer": "A clock is above a noticeboard.",
+    "explanation": "Giới từ diễn tả vị trí có trong cảnh; không tự thêm chuyển động hoặc mục đích."
+  },
+  {
+    "id": "P1-99",
+    "part": "picture",
+    "title": "Một giỏ đầy táo ở dưới kệ",
+    "category": "N + Prep",
+    "scene": "Một giỏ đầy táo ở dưới kệ",
+    "words": [
+      "basket",
+      "below"
+    ],
+    "answer": "A basket of apples is below a shelf.",
+    "explanation": "Giới từ diễn tả vị trí có trong cảnh; không tự thêm chuyển động hoặc mục đích."
+  },
+  {
+    "id": "P1-100",
+    "part": "picture",
+    "title": "Một nam giới đứng gần bến xe buýt",
+    "category": "N + Prep",
+    "scene": "Một nam giới đứng gần bến xe buýt",
+    "words": [
+      "bus stop",
+      "near"
+    ],
+    "answer": "A man is standing near a bus stop.",
+    "explanation": "Giới từ diễn tả vị trí có trong cảnh; không tự thêm chuyển động hoặc mục đích."
+  },
+  {
+    "id": "P1-101",
+    "part": "picture",
+    "title": "Một tập tài liệu nằm trong ngăn kéo mở",
+    "category": "N + Prep",
+    "scene": "Một tập tài liệu nằm trong ngăn kéo mở",
+    "words": [
+      "document",
+      "inside"
+    ],
+    "answer": "Some documents are inside an open drawer.",
+    "explanation": "Giới từ diễn tả vị trí có trong cảnh; không tự thêm chuyển động hoặc mục đích."
+  },
+  {
+    "id": "P1-102",
+    "part": "picture",
+    "title": "Một thuyền ở bên dưới cầu",
+    "category": "N + Prep",
+    "scene": "Một thuyền ở bên dưới cầu",
+    "words": [
+      "boat",
+      "beneath"
+    ],
+    "answer": "A boat is beneath a bridge.",
+    "explanation": "Giới từ diễn tả vị trí có trong cảnh; không tự thêm chuyển động hoặc mục đích."
+  },
+  {
+    "id": "P1-103",
+    "part": "picture",
+    "title": "Một biển chỉ đường ở góc phố",
+    "category": "N + Prep",
+    "scene": "Một biển chỉ đường ở góc phố",
+    "words": [
+      "street",
+      "at"
+    ],
+    "answer": "A direction sign is at the street corner.",
+    "explanation": "Giới từ diễn tả vị trí có trong cảnh; không tự thêm chuyển động hoặc mục đích."
+  },
+  {
+    "id": "P1-104",
+    "part": "picture",
+    "title": "Một chiếc xe đẩy ở giữa lối đi",
+    "category": "N + Prep",
+    "scene": "Một chiếc xe đẩy ở giữa lối đi",
+    "words": [
+      "cart",
+      "in"
+    ],
+    "answer": "A cart is in the middle of an aisle.",
+    "explanation": "Giới từ diễn tả vị trí có trong cảnh; không tự thêm chuyển động hoặc mục đích."
+  },
+  {
+    "id": "P1-105",
+    "part": "picture",
+    "title": "Một thảm ở bên ngoài cửa",
+    "category": "N + Prep",
+    "scene": "Một thảm ở bên ngoài cửa",
+    "words": [
+      "mat",
+      "outside"
+    ],
+    "answer": "A mat is outside the door.",
+    "explanation": "Giới từ diễn tả vị trí có trong cảnh; không tự thêm chuyển động hoặc mục đích."
+  },
+  {
+    "id": "P1-106",
+    "part": "picture",
+    "title": "Một nam giới cầm khay có cốc trên đó",
+    "category": "N + Prep",
+    "scene": "Một nam giới cầm khay có cốc trên đó",
+    "words": [
+      "cup",
+      "on"
+    ],
+    "answer": "A man is holding a tray with cups on it.",
+    "explanation": "Giới từ diễn tả vị trí có trong cảnh; không tự thêm chuyển động hoặc mục đích."
+  },
+  {
+    "id": "P1-107",
+    "part": "picture",
+    "title": "Một ghế dài ở dọc bức tường",
+    "category": "N + Prep",
+    "scene": "Một ghế dài ở dọc bức tường",
+    "words": [
+      "bench",
+      "along"
+    ],
+    "answer": "A bench is positioned along the wall.",
+    "explanation": "Giới từ diễn tả vị trí có trong cảnh; không tự thêm chuyển động hoặc mục đích."
+  },
+  {
+    "id": "P1-108",
+    "part": "picture",
+    "title": "Một cái đèn ở gần mép bàn",
+    "category": "N + Prep",
+    "scene": "Một cái đèn ở gần mép bàn",
+    "words": [
+      "lamp",
+      "near"
+    ],
+    "answer": "A lamp is near the edge of a table.",
+    "explanation": "Giới từ diễn tả vị trí có trong cảnh; không tự thêm chuyển động hoặc mục đích."
+  },
+  {
+    "id": "P1-109",
+    "part": "picture",
+    "title": "Một máy in ở phía sau màn hình",
+    "category": "N + Prep",
+    "scene": "Một máy in ở phía sau màn hình",
+    "words": [
+      "printer",
+      "behind"
+    ],
+    "answer": "A printer is behind a monitor.",
+    "explanation": "Giới từ diễn tả vị trí có trong cảnh; không tự thêm chuyển động hoặc mục đích."
+  },
+  {
+    "id": "P1-110",
+    "part": "picture",
+    "title": "Một người đứng giữa hai cột",
+    "category": "N + Prep",
+    "scene": "Một người đứng giữa hai cột",
+    "words": [
+      "column",
+      "between"
+    ],
+    "answer": "A person is standing between two columns.",
+    "explanation": "Giới từ diễn tả vị trí có trong cảnh; không tự thêm chuyển động hoặc mục đích."
+  },
+  {
+    "id": "P1-111",
+    "part": "picture",
+    "title": "Một xe tải ở cạnh khu vực chất hàng",
+    "category": "N + Prep",
+    "scene": "Một xe tải ở cạnh khu vực chất hàng",
+    "words": [
+      "truck",
+      "beside"
+    ],
+    "answer": "A truck is beside the loading area.",
+    "explanation": "Giới từ diễn tả vị trí có trong cảnh; không tự thêm chuyển động hoặc mục đích."
+  },
+  {
+    "id": "P1-112",
+    "part": "picture",
+    "title": "Một chiếc túi ở dưới ghế dài",
+    "category": "N + Prep",
+    "scene": "Một chiếc túi ở dưới ghế dài",
+    "words": [
+      "bag",
+      "underneath"
+    ],
+    "answer": "A bag is underneath a bench.",
+    "explanation": "Giới từ diễn tả vị trí có trong cảnh; không tự thêm chuyển động hoặc mục đích."
+  },
+  {
+    "id": "P1-113",
+    "part": "picture",
+    "title": "Một tấm bảng ở trên giá đỡ",
+    "category": "N + Prep",
+    "scene": "Một tấm bảng ở trên giá đỡ",
+    "words": [
+      "board",
+      "on"
+    ],
+    "answer": "A board is on a stand.",
+    "explanation": "Giới từ diễn tả vị trí có trong cảnh; không tự thêm chuyển động hoặc mục đích."
+  },
+  {
+    "id": "P1-114",
+    "part": "picture",
+    "title": "Một nam giới đứng đối diện quầy bán vé",
+    "category": "N + Prep",
+    "scene": "Một nam giới đứng đối diện quầy bán vé",
+    "words": [
+      "ticket counter",
+      "opposite"
+    ],
+    "answer": "A man is standing opposite a ticket counter.",
+    "explanation": "Giới từ diễn tả vị trí có trong cảnh; không tự thêm chuyển động hoặc mục đích."
+  },
+  {
+    "id": "P1-115",
+    "part": "picture",
+    "title": "Một người phụ nữ cầm máy ảnh có dây đeo",
+    "category": "N + N",
+    "scene": "Một người phụ nữ cầm máy ảnh có dây đeo",
+    "words": [
+      "camera",
+      "strap"
+    ],
+    "answer": "A woman is holding a camera with a strap.",
+    "explanation": "Liên kết hai danh từ bằng động từ phù hợp; danh từ đếm được số ít cần từ hạn định."
+  },
+  {
+    "id": "P1-116",
+    "part": "picture",
+    "title": "Một nhân viên đang đưa hóa đơn cho khách",
+    "category": "N + N",
+    "scene": "Một nhân viên đang đưa hóa đơn cho khách",
+    "words": [
+      "receipt",
+      "customer"
+    ],
+    "answer": "An employee is handing a receipt to a customer.",
+    "explanation": "Liên kết hai danh từ bằng động từ phù hợp; danh từ đếm được số ít cần từ hạn định."
+  },
+  {
+    "id": "P1-117",
+    "part": "picture",
+    "title": "Một người đang đặt cốc lên khay",
+    "category": "N + N",
+    "scene": "Một người đang đặt cốc lên khay",
+    "words": [
+      "cup",
+      "tray"
+    ],
+    "answer": "A person is placing cups on a tray.",
+    "explanation": "Liên kết hai danh từ bằng động từ phù hợp; danh từ đếm được số ít cần từ hạn định."
+  },
+  {
+    "id": "P1-118",
+    "part": "picture",
+    "title": "Một nam giới đang mở thùng dụng cụ",
+    "category": "N + N",
+    "scene": "Một nam giới đang mở thùng dụng cụ",
+    "words": [
+      "man",
+      "toolbox"
+    ],
+    "answer": "A man is opening a toolbox.",
+    "explanation": "Liên kết hai danh từ bằng động từ phù hợp; danh từ đếm được số ít cần từ hạn định."
+  },
+  {
+    "id": "P1-119",
+    "part": "picture",
+    "title": "Một chiếc thuyền có mái chèo bên trong",
+    "category": "N + N",
+    "scene": "Một chiếc thuyền có mái chèo bên trong",
+    "words": [
+      "boat",
+      "paddle"
+    ],
+    "answer": "A paddle is lying inside a boat.",
+    "explanation": "Liên kết hai danh từ bằng động từ phù hợp; danh từ đếm được số ít cần từ hạn định."
+  },
+  {
+    "id": "P1-120",
+    "part": "picture",
+    "title": "Một nam giới dùng cọ để sơn tường",
+    "category": "N + N",
+    "scene": "Một nam giới dùng cọ để sơn tường",
+    "words": [
+      "brush",
+      "wall"
+    ],
+    "answer": "A man is painting a wall with a brush.",
+    "explanation": "Liên kết hai danh từ bằng động từ phù hợp; danh từ đếm được số ít cần từ hạn định."
+  },
+  {
+    "id": "P1-121",
+    "part": "picture",
+    "title": "Một người đang đặt vở vào ba lô",
+    "category": "N + N",
+    "scene": "Một người đang đặt vở vào ba lô",
+    "words": [
+      "notebook",
+      "backpack"
+    ],
+    "answer": "A person is putting a notebook into a backpack.",
+    "explanation": "Liên kết hai danh từ bằng động từ phù hợp; danh từ đếm được số ít cần từ hạn định."
+  },
+  {
+    "id": "P1-122",
+    "part": "picture",
+    "title": "Một phụ nữ đang đưa chìa khóa cho đồng nghiệp",
+    "category": "N + N",
+    "scene": "Một phụ nữ đang đưa chìa khóa cho đồng nghiệp",
+    "words": [
+      "key",
+      "colleague"
+    ],
+    "answer": "A woman is handing a key to a colleague.",
+    "explanation": "Liên kết hai danh từ bằng động từ phù hợp; danh từ đếm được số ít cần từ hạn định."
+  },
+  {
+    "id": "P1-123",
+    "part": "picture",
+    "title": "Một người đang đặt chăn lên giường",
+    "category": "N + N",
+    "scene": "Một người đang đặt chăn lên giường",
+    "words": [
+      "blanket",
+      "bed"
+    ],
+    "answer": "A person is spreading a blanket on a bed.",
+    "explanation": "Liên kết hai danh từ bằng động từ phù hợp; danh từ đếm được số ít cần từ hạn định."
+  },
+  {
+    "id": "P1-124",
+    "part": "picture",
+    "title": "Một nhân viên đeo bảng tên trên áo",
+    "category": "N + N",
+    "scene": "Một nhân viên đeo bảng tên trên áo",
+    "words": [
+      "employee",
+      "badge"
+    ],
+    "answer": "An employee is wearing a badge on her shirt.",
+    "explanation": "Liên kết hai danh từ bằng động từ phù hợp; danh từ đếm được số ít cần từ hạn định."
+  },
+  {
+    "id": "P1-125",
+    "part": "picture",
+    "title": "Một người đang dùng xẻng cho đất vào xe cút kít",
+    "category": "N + N",
+    "scene": "Một người đang dùng xẻng cho đất vào xe cút kít",
+    "words": [
+      "shovel",
+      "wheelbarrow"
+    ],
+    "answer": "A person is using a shovel to put soil into a wheelbarrow.",
+    "explanation": "Liên kết hai danh từ bằng động từ phù hợp; danh từ đếm được số ít cần từ hạn định."
+  },
+  {
+    "id": "P1-126",
+    "part": "picture",
+    "title": "Một phụ nữ đang đặt bút lên sổ tay",
+    "category": "N + N",
+    "scene": "Một phụ nữ đang đặt bút lên sổ tay",
+    "words": [
+      "pen",
+      "notebook"
+    ],
+    "answer": "A woman is placing a pen on a notebook.",
+    "explanation": "Liên kết hai danh từ bằng động từ phù hợp; danh từ đếm được số ít cần từ hạn định."
+  },
+  {
+    "id": "P1-127",
+    "part": "picture",
+    "title": "Một nam giới cầm điện thoại ở cạnh xe đạp",
+    "category": "N + N",
+    "scene": "Một nam giới cầm điện thoại ở cạnh xe đạp",
+    "words": [
+      "phone",
+      "bicycle"
+    ],
+    "answer": "A man is holding a phone beside a bicycle.",
+    "explanation": "Liên kết hai danh từ bằng động từ phù hợp; danh từ đếm được số ít cần từ hạn định."
+  },
+  {
+    "id": "P1-128",
+    "part": "picture",
+    "title": "Một người đang đặt sách vào hộp",
+    "category": "N + N",
+    "scene": "Một người đang đặt sách vào hộp",
+    "words": [
+      "book",
+      "box"
+    ],
+    "answer": "A person is putting books into a box.",
+    "explanation": "Liên kết hai danh từ bằng động từ phù hợp; danh từ đếm được số ít cần từ hạn định."
+  },
+  {
+    "id": "P1-129",
+    "part": "picture",
+    "title": "Một phụ nữ đặt giỏ rau lên quầy",
+    "category": "N + N",
+    "scene": "Một phụ nữ đặt giỏ rau lên quầy",
+    "words": [
+      "basket",
+      "counter"
+    ],
+    "answer": "A woman is placing a basket of vegetables on a counter.",
+    "explanation": "Liên kết hai danh từ bằng động từ phù hợp; danh từ đếm được số ít cần từ hạn định."
+  },
+  {
+    "id": "P1-130",
+    "part": "picture",
+    "title": "Một người đang đổ đá vào bình",
+    "category": "N + N",
+    "scene": "Một người đang đổ đá vào bình",
+    "words": [
+      "ice",
+      "pitcher"
+    ],
+    "answer": "A person is putting ice into a pitcher.",
+    "explanation": "Liên kết hai danh từ bằng động từ phù hợp; danh từ đếm được số ít cần từ hạn định."
+  },
+  {
+    "id": "P1-131",
+    "part": "picture",
+    "title": "Một công nhân đang đặt gạch lên xe đẩy",
+    "category": "N + N",
+    "scene": "Một công nhân đang đặt gạch lên xe đẩy",
+    "words": [
+      "brick",
+      "cart"
+    ],
+    "answer": "A worker is loading bricks onto a cart.",
+    "explanation": "Liên kết hai danh từ bằng động từ phù hợp; danh từ đếm được số ít cần từ hạn định."
+  },
+  {
+    "id": "P1-132",
+    "part": "picture",
+    "title": "Một người đang trải bản đồ trên nắp xe",
+    "category": "N + N",
+    "scene": "Một người đang trải bản đồ trên nắp xe",
+    "words": [
+      "map",
+      "car"
+    ],
+    "answer": "A person is spreading a map on the hood of a car.",
+    "explanation": "Liên kết hai danh từ bằng động từ phù hợp; danh từ đếm được số ít cần từ hạn định."
+  },
+  {
+    "id": "P1-133",
+    "part": "picture",
+    "title": "Một chiếc xe đẩy trống nhưng kệ bên cạnh đầy hàng",
+    "category": "N + Conj",
+    "scene": "Một chiếc xe đẩy trống nhưng kệ bên cạnh đầy hàng",
+    "words": [
+      "cart",
+      "but"
+    ],
+    "answer": "The cart is empty, but the shelf beside it is full.",
+    "explanation": "Giữ danh từ gợi ý, dùng liên từ để nối các chi tiết quan sát được thành một câu hoàn chỉnh."
+  },
+  {
+    "id": "P1-134",
+    "part": "picture",
+    "title": "Một người đang cầm bản đồ trong khi người khác cầm vé",
+    "category": "N + Conj",
+    "scene": "Một người đang cầm bản đồ trong khi người khác cầm vé",
+    "words": [
+      "map",
+      "while"
+    ],
+    "answer": "A person is holding a map while another holds a ticket.",
+    "explanation": "Giữ danh từ gợi ý, dùng liên từ để nối các chi tiết quan sát được thành một câu hoàn chỉnh."
+  },
+  {
+    "id": "P1-135",
+    "part": "picture",
+    "title": "Một người đang đóng cửa sổ và người khác đang mở cửa ra vào",
+    "category": "N + Conj",
+    "scene": "Một người đang đóng cửa sổ và người khác đang mở cửa ra vào",
+    "words": [
+      "window",
+      "and"
+    ],
+    "answer": "One person is closing a window, and another is opening a door.",
+    "explanation": "Giữ danh từ gợi ý, dùng liên từ để nối các chi tiết quan sát được thành một câu hoàn chỉnh."
+  },
+  {
+    "id": "P1-136",
+    "part": "picture",
+    "title": "Một xe tải đang được chất hàng trong khi công nhân khác giữ cổng",
+    "category": "N + Conj",
+    "scene": "Một xe tải đang được chất hàng trong khi công nhân khác giữ cổng",
+    "words": [
+      "truck",
+      "while"
+    ],
+    "answer": "A truck is being loaded while a worker holds the gate open.",
+    "explanation": "Giữ danh từ gợi ý, dùng liên từ để nối các chi tiết quan sát được thành một câu hoàn chỉnh."
+  },
+  {
+    "id": "P1-137",
+    "part": "picture",
+    "title": "Một phụ nữ cầm hoa và một nam giới cầm hộp",
+    "category": "N + Conj",
+    "scene": "Một phụ nữ cầm hoa và một nam giới cầm hộp",
+    "words": [
+      "flower",
+      "and"
+    ],
+    "answer": "A woman is holding flowers, and a man is carrying a box.",
+    "explanation": "Giữ danh từ gợi ý, dùng liên từ để nối các chi tiết quan sát được thành một câu hoàn chỉnh."
+  },
+  {
+    "id": "P1-138",
+    "part": "picture",
+    "title": "Một chiếc ghế nằm trên bàn nhưng các ghế khác ở dưới sàn",
+    "category": "N + Conj",
+    "scene": "Một chiếc ghế nằm trên bàn nhưng các ghế khác ở dưới sàn",
+    "words": [
+      "chair",
+      "but"
+    ],
+    "answer": "One chair is on the table, but the other chairs are on the floor.",
+    "explanation": "Giữ danh từ gợi ý, dùng liên từ để nối các chi tiết quan sát được thành một câu hoàn chỉnh."
+  },
+  {
+    "id": "P1-139",
+    "part": "picture",
+    "title": "Một người đang đọc thực đơn trong khi nhân viên chờ bên cạnh",
+    "category": "N + Conj",
+    "scene": "Một người đang đọc thực đơn trong khi nhân viên chờ bên cạnh",
+    "words": [
+      "menu",
+      "while"
+    ],
+    "answer": "A customer is reading a menu while an employee waits beside the table.",
+    "explanation": "Giữ danh từ gợi ý, dùng liên từ để nối các chi tiết quan sát được thành một câu hoàn chỉnh."
+  },
+  {
+    "id": "P1-140",
+    "part": "picture",
+    "title": "Một máy tính đang mở và một cuốn sổ nằm cạnh nó",
+    "category": "N + Conj",
+    "scene": "Một máy tính đang mở và một cuốn sổ nằm cạnh nó",
+    "words": [
+      "laptop",
+      "and"
+    ],
+    "answer": "A laptop is open, and a notebook is lying beside it.",
+    "explanation": "Giữ danh từ gợi ý, dùng liên từ để nối các chi tiết quan sát được thành một câu hoàn chỉnh."
+  },
+  {
+    "id": "P1-141",
+    "part": "picture",
+    "title": "Một người đang dọn bàn trong khi người khác sắp ghế",
+    "category": "N + Conj",
+    "scene": "Một người đang dọn bàn trong khi người khác sắp ghế",
+    "words": [
+      "table",
+      "while"
+    ],
+    "answer": "A person is clearing a table while another arranges chairs.",
+    "explanation": "Giữ danh từ gợi ý, dùng liên từ để nối các chi tiết quan sát được thành một câu hoàn chỉnh."
+  },
+  {
+    "id": "P1-142",
+    "part": "picture",
+    "title": "Một cái thang tựa vào tường nhưng thùng dụng cụ ở dưới sàn",
+    "category": "N + Conj",
+    "scene": "Một cái thang tựa vào tường nhưng thùng dụng cụ ở dưới sàn",
+    "words": [
+      "ladder",
+      "but"
+    ],
+    "answer": "A ladder is leaning against the wall, but the toolbox is on the floor.",
+    "explanation": "Giữ danh từ gợi ý, dùng liên từ để nối các chi tiết quan sát được thành một câu hoàn chỉnh."
+  },
+  {
+    "id": "P1-143",
+    "part": "picture",
+    "title": "Một phụ nữ đang đóng gói áo khoác và người khác gấp khăn",
+    "category": "N + Conj",
+    "scene": "Một phụ nữ đang đóng gói áo khoác và người khác gấp khăn",
+    "words": [
+      "jacket",
+      "and"
+    ],
+    "answer": "A woman is packing a jacket, and another person is folding a towel.",
+    "explanation": "Giữ danh từ gợi ý, dùng liên từ để nối các chi tiết quan sát được thành một câu hoàn chỉnh."
+  },
+  {
+    "id": "P1-144",
+    "part": "picture",
+    "title": "Một nam giới đang đẩy xe đẩy trong khi người khác mở cổng",
+    "category": "N + Conj",
+    "scene": "Một nam giới đang đẩy xe đẩy trong khi người khác mở cổng",
+    "words": [
+      "cart",
+      "while"
+    ],
+    "answer": "A man is pushing a cart while another person opens the gate.",
+    "explanation": "Giữ danh từ gợi ý, dùng liên từ để nối các chi tiết quan sát được thành một câu hoàn chỉnh."
+  },
+  {
+    "id": "P1-145",
+    "part": "picture",
+    "title": "Một hành khách cầm vali nhưng không có túi xách",
+    "category": "N + Conj",
+    "scene": "Một hành khách cầm vali nhưng không có túi xách",
+    "words": [
+      "suitcase",
+      "but"
+    ],
+    "answer": "A passenger is holding a suitcase but is not carrying a handbag.",
+    "explanation": "Giữ danh từ gợi ý, dùng liên từ để nối các chi tiết quan sát được thành một câu hoàn chỉnh."
+  },
+  {
+    "id": "P1-146",
+    "part": "picture",
+    "title": "Một người đang cắt bánh mì và người khác đang đặt đĩa lên bàn",
+    "category": "N + Conj",
+    "scene": "Một người đang cắt bánh mì và người khác đang đặt đĩa lên bàn",
+    "words": [
+      "bread",
+      "and"
+    ],
+    "answer": "One person is slicing bread, and another is setting plates on the table.",
+    "explanation": "Giữ danh từ gợi ý, dùng liên từ để nối các chi tiết quan sát được thành một câu hoàn chỉnh."
+  },
+  {
+    "id": "P1-147",
+    "part": "picture",
+    "title": "Một phụ nữ đang đeo găng trong khi người đàn ông đeo kính bảo hộ",
+    "category": "N + Conj",
+    "scene": "Một phụ nữ đang đeo găng trong khi người đàn ông đeo kính bảo hộ",
+    "words": [
+      "glove",
+      "while"
+    ],
+    "answer": "A woman is putting on gloves while a man puts on safety glasses.",
+    "explanation": "Giữ danh từ gợi ý, dùng liên từ để nối các chi tiết quan sát được thành một câu hoàn chỉnh."
+  },
+  {
+    "id": "P1-148",
+    "part": "picture",
+    "title": "Một hộp mở nhưng một hộp khác đang đóng",
+    "category": "N + Conj",
+    "scene": "Một hộp mở nhưng một hộp khác đang đóng",
+    "words": [
+      "box",
+      "but"
+    ],
+    "answer": "One box is open, but another is closed.",
+    "explanation": "Giữ danh từ gợi ý, dùng liên từ để nối các chi tiết quan sát được thành một câu hoàn chỉnh."
+  },
+  {
+    "id": "P1-149",
+    "part": "picture",
+    "title": "Một người đang lau bảng và người khác đang thu bút",
+    "category": "N + Conj",
+    "scene": "Một người đang lau bảng và người khác đang thu bút",
+    "words": [
+      "board",
+      "and"
+    ],
+    "answer": "One person is wiping a board, and another is collecting markers.",
+    "explanation": "Giữ danh từ gợi ý, dùng liên từ để nối các chi tiết quan sát được thành một câu hoàn chỉnh."
+  },
+  {
+    "id": "P1-150",
+    "part": "picture",
+    "title": "Một nam giới đang cân hành lý trong khi nhân viên nhìn màn hình",
+    "category": "N + Conj",
+    "scene": "Một nam giới đang cân hành lý trong khi nhân viên nhìn màn hình",
+    "words": [
+      "luggage",
+      "while"
+    ],
+    "answer": "A man is weighing his luggage while an employee looks at a screen.",
+    "explanation": "Giữ danh từ gợi ý, dùng liên từ để nối các chi tiết quan sát được thành một câu hoàn chỉnh."
+  },
+  {
+    "id": "P1-151",
+    "part": "picture",
+    "title": "Một chiếc cốc trắng nằm trên đĩa",
+    "category": "Adj + N",
+    "scene": "Một chiếc cốc trắng nằm trên đĩa",
+    "words": [
+      "white",
+      "cup"
+    ],
+    "answer": "A white cup is on a plate.",
+    "explanation": "Tính từ bổ nghĩa danh từ hoặc theo sau be; kiểm tra a/an theo âm của từ đứng ngay sau mạo từ."
+  },
+  {
+    "id": "P1-152",
+    "part": "picture",
+    "title": "Một người đang mang một chiếc thùng nặng được ghi 25 kg trên nhãn",
+    "category": "Adj + N",
+    "scene": "Một người đang mang một chiếc thùng nặng được ghi 25 kg trên nhãn",
+    "words": [
+      "heavy",
+      "box"
+    ],
+    "answer": "A person is carrying a heavy box labeled twenty-five kilograms.",
+    "explanation": "Tính từ bổ nghĩa danh từ hoặc theo sau be; kiểm tra a/an theo âm của từ đứng ngay sau mạo từ."
+  },
+  {
+    "id": "P1-153",
+    "part": "picture",
+    "title": "Một cửa sổ mở phía trên bồn rửa",
+    "category": "Adj + N",
+    "scene": "Một cửa sổ mở phía trên bồn rửa",
+    "words": [
+      "open",
+      "window"
+    ],
+    "answer": "An open window is above the sink.",
+    "explanation": "Tính từ bổ nghĩa danh từ hoặc theo sau be; kiểm tra a/an theo âm của từ đứng ngay sau mạo từ."
+  },
+  {
+    "id": "P1-154",
+    "part": "picture",
+    "title": "Một bàn tròn ở giữa phòng",
+    "category": "Adj + N",
+    "scene": "Một bàn tròn ở giữa phòng",
+    "words": [
+      "round",
+      "table"
+    ],
+    "answer": "A round table is in the middle of the room.",
+    "explanation": "Tính từ bổ nghĩa danh từ hoặc theo sau be; kiểm tra a/an theo âm của từ đứng ngay sau mạo từ."
+  },
+  {
+    "id": "P1-155",
+    "part": "picture",
+    "title": "Một phụ nữ mặc áo khoác sọc",
+    "category": "Adj + N",
+    "scene": "Một phụ nữ mặc áo khoác sọc",
+    "words": [
+      "striped",
+      "jacket"
+    ],
+    "answer": "A woman is wearing a striped jacket.",
+    "explanation": "Tính từ bổ nghĩa danh từ hoặc theo sau be; kiểm tra a/an theo âm của từ đứng ngay sau mạo từ."
+  },
+  {
+    "id": "P1-156",
+    "part": "picture",
+    "title": "Một chiếc túi nhỏ nằm bên cạnh vali lớn",
+    "category": "Adj + N",
+    "scene": "Một chiếc túi nhỏ nằm bên cạnh vali lớn",
+    "words": [
+      "small",
+      "bag"
+    ],
+    "answer": "A small bag is beside a large suitcase.",
+    "explanation": "Tính từ bổ nghĩa danh từ hoặc theo sau be; kiểm tra a/an theo âm của từ đứng ngay sau mạo từ."
+  },
+  {
+    "id": "P1-157",
+    "part": "picture",
+    "title": "Một người đang đứng cạnh xe tải màu vàng",
+    "category": "Adj + N",
+    "scene": "Một người đang đứng cạnh xe tải màu vàng",
+    "words": [
+      "yellow",
+      "truck"
+    ],
+    "answer": "A person is standing beside a yellow truck.",
+    "explanation": "Tính từ bổ nghĩa danh từ hoặc theo sau be; kiểm tra a/an theo âm của từ đứng ngay sau mạo từ."
+  },
+  {
+    "id": "P1-158",
+    "part": "picture",
+    "title": "Một kệ gỗ treo trên tường",
+    "category": "Adj + N",
+    "scene": "Một kệ gỗ treo trên tường",
+    "words": [
+      "wooden",
+      "shelf"
+    ],
+    "answer": "A wooden shelf is attached to the wall.",
+    "explanation": "Tính từ bổ nghĩa danh từ hoặc theo sau be; kiểm tra a/an theo âm của từ đứng ngay sau mạo từ."
+  },
+  {
+    "id": "P1-159",
+    "part": "picture",
+    "title": "Một sàn nhà ướt có biển cảnh báo đặt trên đó",
+    "category": "Adj + N",
+    "scene": "Một sàn nhà ướt có biển cảnh báo đặt trên đó",
+    "words": [
+      "wet",
+      "floor"
+    ],
+    "answer": "A warning sign is standing on the wet floor.",
+    "explanation": "Tính từ bổ nghĩa danh từ hoặc theo sau be; kiểm tra a/an theo âm của từ đứng ngay sau mạo từ."
+  },
+  {
+    "id": "P1-160",
+    "part": "picture",
+    "title": "Một phụ nữ đang cầm một chiếc ô gấp",
+    "category": "Adj + N",
+    "scene": "Một phụ nữ đang cầm một chiếc ô gấp",
+    "words": [
+      "folded",
+      "umbrella"
+    ],
+    "answer": "A woman is holding a folded umbrella.",
+    "explanation": "Tính từ bổ nghĩa danh từ hoặc theo sau be; kiểm tra a/an theo âm của từ đứng ngay sau mạo từ."
+  },
+  {
+    "id": "P1-161",
+    "part": "picture",
+    "title": "Một nam giới ngồi trên ghế cao",
+    "category": "Adj + N",
+    "scene": "Một nam giới ngồi trên ghế cao",
+    "words": [
+      "tall",
+      "chair"
+    ],
+    "answer": "A man is sitting on a tall chair.",
+    "explanation": "Tính từ bổ nghĩa danh từ hoặc theo sau be; kiểm tra a/an theo âm của từ đứng ngay sau mạo từ."
+  },
+  {
+    "id": "P1-162",
+    "part": "picture",
+    "title": "Một cuốn sách mở nằm trên bàn",
+    "category": "Adj + N",
+    "scene": "Một cuốn sách mở nằm trên bàn",
+    "words": [
+      "open",
+      "book"
+    ],
+    "answer": "An open book is lying on the table.",
+    "explanation": "Tính từ bổ nghĩa danh từ hoặc theo sau be; kiểm tra a/an theo âm của từ đứng ngay sau mạo từ."
+  },
+  {
+    "id": "P1-163",
+    "part": "picture",
+    "title": "Một vài xe đạp dựng thành hàng cạnh tường",
+    "category": "Quant + N",
+    "scene": "Một vài xe đạp dựng thành hàng cạnh tường",
+    "words": [
+      "several",
+      "bicycle"
+    ],
+    "answer": "Several bicycles are parked in a row beside the wall.",
+    "explanation": "Chọn danh từ đếm được phù hợp từ chỉ lượng và chia động từ theo danh từ trung tâm."
+  },
+  {
+    "id": "P1-164",
+    "part": "picture",
+    "title": "Hai người đang kiểm tra một tấm bản đồ",
+    "category": "Quant + N",
+    "scene": "Hai người đang kiểm tra một tấm bản đồ",
+    "words": [
+      "two",
+      "person"
+    ],
+    "answer": "Two people are examining a map.",
+    "explanation": "Chọn danh từ đếm được phù hợp từ chỉ lượng và chia động từ theo danh từ trung tâm."
+  },
+  {
+    "id": "P1-165",
+    "part": "picture",
+    "title": "Ba chiếc bình trên bệ cửa sổ",
+    "category": "Quant + N",
+    "scene": "Ba chiếc bình trên bệ cửa sổ",
+    "words": [
+      "three",
+      "vase"
+    ],
+    "answer": "Three vases are on the windowsill.",
+    "explanation": "Chọn danh từ đếm được phù hợp từ chỉ lượng và chia động từ theo danh từ trung tâm."
+  },
+  {
+    "id": "P1-166",
+    "part": "picture",
+    "title": "Một chút nước còn trong bình thủy tinh",
+    "category": "Quant + N",
+    "scene": "Một chút nước còn trong bình thủy tinh",
+    "words": [
+      "some",
+      "water"
+    ],
+    "answer": "Some water is left in the glass pitcher.",
+    "explanation": "Chọn danh từ đếm được phù hợp từ chỉ lượng và chia động từ theo danh từ trung tâm."
+  },
+  {
+    "id": "P1-167",
+    "part": "picture",
+    "title": "Nhiều chiếc hộp được xếp trên một kệ",
+    "category": "Quant + N",
+    "scene": "Nhiều chiếc hộp được xếp trên một kệ",
+    "words": [
+      "many",
+      "box"
+    ],
+    "answer": "Many boxes are stacked on a shelf.",
+    "explanation": "Chọn danh từ đếm được phù hợp từ chỉ lượng và chia động từ theo danh từ trung tâm."
+  },
+  {
+    "id": "P1-168",
+    "part": "picture",
+    "title": "Một vài hành khách đứng gần cửa lên tàu",
+    "category": "Quant + N",
+    "scene": "Một vài hành khách đứng gần cửa lên tàu",
+    "words": [
+      "a few",
+      "passenger"
+    ],
+    "answer": "A few passengers are standing near the boarding gate.",
+    "explanation": "Chọn danh từ đếm được phù hợp từ chỉ lượng và chia động từ theo danh từ trung tâm."
+  },
+  {
+    "id": "P1-169",
+    "part": "picture",
+    "title": "Hai chiếc cốc đặt trên khay",
+    "category": "Quant + N",
+    "scene": "Hai chiếc cốc đặt trên khay",
+    "words": [
+      "two",
+      "cup"
+    ],
+    "answer": "Two cups are on a tray.",
+    "explanation": "Chọn danh từ đếm được phù hợp từ chỉ lượng và chia động từ theo danh từ trung tâm."
+  },
+  {
+    "id": "P1-170",
+    "part": "picture",
+    "title": "Một ít bánh mì nằm trên đĩa",
+    "category": "Quant + N",
+    "scene": "Một ít bánh mì nằm trên đĩa",
+    "words": [
+      "some",
+      "bread"
+    ],
+    "answer": "Some bread is on a plate.",
+    "explanation": "Chọn danh từ đếm được phù hợp từ chỉ lượng và chia động từ theo danh từ trung tâm."
+  },
+  {
+    "id": "P1-171",
+    "part": "picture",
+    "title": "Một số công nhân đang mang vật liệu",
+    "category": "Quant + N",
+    "scene": "Một số công nhân đang mang vật liệu",
+    "words": [
+      "several",
+      "worker"
+    ],
+    "answer": "Several workers are carrying materials.",
+    "explanation": "Chọn danh từ đếm được phù hợp từ chỉ lượng và chia động từ theo danh từ trung tâm."
+  },
+  {
+    "id": "P1-172",
+    "part": "picture",
+    "title": "Mỗi ghế có một bảng tên trên chỗ ngồi",
+    "category": "Quant + N",
+    "scene": "Mỗi ghế có một bảng tên trên chỗ ngồi",
+    "words": [
+      "each",
+      "chair"
+    ],
+    "answer": "Each chair has a name card on its seat.",
+    "explanation": "Chọn danh từ đếm được phù hợp từ chỉ lượng và chia động từ theo danh từ trung tâm."
+  },
+  {
+    "id": "P1-173",
+    "part": "picture",
+    "title": "Cả hai cửa ra vào đều đang mở",
+    "category": "Quant + N",
+    "scene": "Cả hai cửa ra vào đều đang mở",
+    "words": [
+      "both",
+      "door"
+    ],
+    "answer": "Both doors are open.",
+    "explanation": "Chọn danh từ đếm được phù hợp từ chỉ lượng và chia động từ theo danh từ trung tâm."
+  },
+  {
+    "id": "P1-174",
+    "part": "picture",
+    "title": "Một phụ nữ đang tựa vào lan can",
+    "category": "V + Prep",
+    "scene": "Một phụ nữ đang tựa vào lan can",
+    "words": [
+      "lean",
+      "against"
+    ],
+    "answer": "A woman is leaning against a railing.",
+    "explanation": "Dùng động từ và giới từ thành kết hợp tự nhiên; sau giới từ có danh từ/cụm danh từ."
+  },
+  {
+    "id": "P1-175",
+    "part": "picture",
+    "title": "Một người đang đi qua đường dành cho người đi bộ",
+    "category": "V + Prep",
+    "scene": "Một người đang đi qua đường dành cho người đi bộ",
+    "words": [
+      "walk",
+      "across"
+    ],
+    "answer": "A person is walking across a pedestrian crossing.",
+    "explanation": "Dùng động từ và giới từ thành kết hợp tự nhiên; sau giới từ có danh từ/cụm danh từ."
+  },
+  {
+    "id": "P1-176",
+    "part": "picture",
+    "title": "Một công nhân đang bước lên thang",
+    "category": "V + Prep",
+    "scene": "Một công nhân đang bước lên thang",
+    "words": [
+      "climb",
+      "up"
+    ],
+    "answer": "A worker is climbing up a ladder.",
+    "explanation": "Dùng động từ và giới từ thành kết hợp tự nhiên; sau giới từ có danh từ/cụm danh từ."
+  },
+  {
+    "id": "P1-177",
+    "part": "picture",
+    "title": "Một hành khách đang bước xuống xe buýt",
+    "category": "V + Prep",
+    "scene": "Một hành khách đang bước xuống xe buýt",
+    "words": [
+      "step",
+      "off"
+    ],
+    "answer": "A passenger is stepping off a bus.",
+    "explanation": "Dùng động từ và giới từ thành kết hợp tự nhiên; sau giới từ có danh từ/cụm danh từ."
+  },
+  {
+    "id": "P1-178",
+    "part": "picture",
+    "title": "Một phụ nữ đang nhìn vào bên trong hộp",
+    "category": "V + Prep",
+    "scene": "Một phụ nữ đang nhìn vào bên trong hộp",
+    "words": [
+      "look",
+      "into"
+    ],
+    "answer": "A woman is looking into a box.",
+    "explanation": "Dùng động từ và giới từ thành kết hợp tự nhiên; sau giới từ có danh từ/cụm danh từ."
+  },
+  {
+    "id": "P1-179",
+    "part": "picture",
+    "title": "Một người đang treo áo khoác lên móc",
+    "category": "V + Prep",
+    "scene": "Một người đang treo áo khoác lên móc",
+    "words": [
+      "hang",
+      "on"
+    ],
+    "answer": "A person is hanging a jacket on a hook.",
+    "explanation": "Dùng động từ và giới từ thành kết hợp tự nhiên; sau giới từ có danh từ/cụm danh từ."
+  },
+  {
+    "id": "P1-180",
+    "part": "picture",
+    "title": "Một nam giới đang lấy sách ra khỏi túi",
+    "category": "V + Prep",
+    "scene": "Một nam giới đang lấy sách ra khỏi túi",
+    "words": [
+      "take",
+      "out of"
+    ],
+    "answer": "A man is taking a book out of a bag.",
+    "explanation": "Dùng động từ và giới từ thành kết hợp tự nhiên; sau giới từ có danh từ/cụm danh từ."
+  },
+  {
+    "id": "P1-181",
+    "part": "picture",
+    "title": "Một công nhân đang bắc cầu thang qua một rãnh",
+    "category": "V + Prep",
+    "scene": "Một công nhân đang bắc cầu thang qua một rãnh",
+    "words": [
+      "place",
+      "across"
+    ],
+    "answer": "A worker is placing a ladder across a ditch.",
+    "explanation": "Dùng động từ và giới từ thành kết hợp tự nhiên; sau giới từ có danh từ/cụm danh từ."
+  },
+  {
+    "id": "P1-182",
+    "part": "picture",
+    "title": "Một người đang bỏ phong bì vào hộp thư",
+    "category": "V + Prep",
+    "scene": "Một người đang bỏ phong bì vào hộp thư",
+    "words": [
+      "put",
+      "into"
+    ],
+    "answer": "A person is putting an envelope into a mailbox.",
+    "explanation": "Dùng động từ và giới từ thành kết hợp tự nhiên; sau giới từ có danh từ/cụm danh từ."
+  },
+  {
+    "id": "P1-183",
+    "part": "picture",
+    "title": "Một nam giới đang bước lùi, mặt hướng về cửa",
+    "category": "Adv + V",
+    "scene": "Một nam giới đang bước lùi, mặt hướng về cửa",
+    "words": [
+      "backward",
+      "step"
+    ],
+    "answer": "A man is stepping backward from the door.",
+    "explanation": "Trạng từ bổ nghĩa hành động hoặc vị trí có thể xác nhận, không suy ra tốc độ từ cảnh tĩnh."
+  },
+  {
+    "id": "P1-184",
+    "part": "picture",
+    "title": "Một phụ nữ đang giơ tay lên phía trên đầu",
+    "category": "Adv + V",
+    "scene": "Một phụ nữ đang giơ tay lên phía trên đầu",
+    "words": [
+      "upward",
+      "reach"
+    ],
+    "answer": "A woman is reaching upward with one hand.",
+    "explanation": "Trạng từ bổ nghĩa hành động hoặc vị trí có thể xác nhận, không suy ra tốc độ từ cảnh tĩnh."
+  },
+  {
+    "id": "P1-185",
+    "part": "picture",
+    "title": "Hai người đang đứng cạnh nhau nhìn bản đồ",
+    "category": "Adv + V",
+    "scene": "Hai người đang đứng cạnh nhau nhìn bản đồ",
+    "words": [
+      "together",
+      "stand"
+    ],
+    "answer": "Two people are standing together and looking at a map.",
+    "explanation": "Trạng từ bổ nghĩa hành động hoặc vị trí có thể xác nhận, không suy ra tốc độ từ cảnh tĩnh."
+  },
+  {
+    "id": "P1-186",
+    "part": "picture",
+    "title": "Một nhân viên đang cúi người xuống phía trước quầy",
+    "category": "Adv + V",
+    "scene": "Một nhân viên đang cúi người xuống phía trước quầy",
+    "words": [
+      "forward",
+      "bend"
+    ],
+    "answer": "An employee is bending forward over a counter.",
+    "explanation": "Trạng từ bổ nghĩa hành động hoặc vị trí có thể xác nhận, không suy ra tốc độ từ cảnh tĩnh."
+  },
+  {
+    "id": "P1-187",
+    "part": "picture",
+    "title": "Một người đứng bên ngoài tòa nhà đang cầm thùng",
+    "category": "Adv + N",
+    "scene": "Một người đứng bên ngoài tòa nhà đang cầm thùng",
+    "words": [
+      "outside",
+      "box"
+    ],
+    "answer": "A person is holding a box outside the building.",
+    "explanation": "Cặp gợi ý không phải trật tự toàn câu: trạng từ bổ nghĩa vị trí/hành động, danh từ giữ vai trò chủ thể/tân ngữ."
+  },
+  {
+    "id": "P1-188",
+    "part": "picture",
+    "title": "Hai người đang ngồi cùng nhau trên ghế dài",
+    "category": "Adv + N",
+    "scene": "Hai người đang ngồi cùng nhau trên ghế dài",
+    "words": [
+      "together",
+      "bench"
+    ],
+    "answer": "Two people are sitting together on a bench.",
+    "explanation": "Cặp gợi ý không phải trật tự toàn câu: trạng từ bổ nghĩa vị trí/hành động, danh từ giữ vai trò chủ thể/tân ngữ."
+  },
+  {
+    "id": "P1-189",
+    "part": "picture",
+    "title": "Một người trong phòng đang cầm một chiếc máy tính bảng",
+    "category": "Adv + N",
+    "scene": "Một người trong phòng đang cầm một chiếc máy tính bảng",
+    "words": [
+      "indoors",
+      "tablet"
+    ],
+    "answer": "A person is standing indoors with a tablet in her hand.",
+    "explanation": "Cặp gợi ý không phải trật tự toàn câu: trạng từ bổ nghĩa vị trí/hành động, danh từ giữ vai trò chủ thể/tân ngữ."
+  },
+  {
+    "id": "P1-190",
+    "part": "picture",
+    "title": "Một người đang quỳ xuống để kiểm tra bánh xe, tay chạm vào lốp",
+    "category": "V + V",
+    "scene": "Một người đang quỳ xuống để kiểm tra bánh xe, tay chạm vào lốp",
+    "words": [
+      "kneel",
+      "inspect"
+    ],
+    "answer": "A person is kneeling to inspect a wheel.",
+    "explanation": "Động từ chính ở hiện tại tiếp diễn; động từ thứ hai dùng to V hoặc V-ing phù hợp cấu trúc."
+  },
+  {
+    "id": "P1-191",
+    "part": "picture",
+    "title": "Một phụ nữ đang đưa tay lên để treo chiếc áo trên móc",
+    "category": "V + V",
+    "scene": "Một phụ nữ đang đưa tay lên để treo chiếc áo trên móc",
+    "words": [
+      "reach",
+      "hang"
+    ],
+    "answer": "A woman is reaching up to hang a jacket on a hook.",
+    "explanation": "Động từ chính ở hiện tại tiếp diễn; động từ thứ hai dùng to V hoặc V-ing phù hợp cấu trúc."
+  },
+  {
+    "id": "P1-192",
+    "part": "picture",
+    "title": "Một nam giới đang cúi xuống để nhặt chiếc bút trên sàn",
+    "category": "V + V",
+    "scene": "Một nam giới đang cúi xuống để nhặt chiếc bút trên sàn",
+    "words": [
+      "bend",
+      "pick"
+    ],
+    "answer": "A man is bending to pick up a pen.",
+    "explanation": "Động từ chính ở hiện tại tiếp diễn; động từ thứ hai dùng to V hoặc V-ing phù hợp cấu trúc."
+  },
+  {
+    "id": "P1-193",
+    "part": "picture",
+    "title": "Một người hướng dẫn đang chỉ từng bước sử dụng máy đo cho một nhóm",
+    "category": "V + how/to",
+    "scene": "Một người hướng dẫn đang chỉ từng bước sử dụng máy đo cho một nhóm",
+    "words": [
+      "show",
+      "how"
+    ],
+    "answer": "A guide is showing a group how to use a measuring device.",
+    "explanation": "Sau how to/to dùng động từ nguyên mẫu. Chỉ nêu thao tác hướng dẫn hoặc mục đích được mô tả rõ."
+  },
+  {
+    "id": "P1-194",
+    "part": "picture",
+    "title": "Một phụ nữ đang vươn tay lên để lấy hộp trên kệ",
+    "category": "V + how/to",
+    "scene": "Một phụ nữ đang vươn tay lên để lấy hộp trên kệ",
+    "words": [
+      "reach",
+      "to"
+    ],
+    "answer": "A woman is reaching up to take a box from a shelf.",
+    "explanation": "Sau how to/to dùng động từ nguyên mẫu. Chỉ nêu thao tác hướng dẫn hoặc mục đích được mô tả rõ."
+  },
+  {
+    "id": "P1-195",
+    "part": "picture",
+    "title": "Một nhân viên đang minh họa các bước gói hàng cho người mới",
+    "category": "V + how/to",
+    "scene": "Một nhân viên đang minh họa các bước gói hàng cho người mới",
+    "words": [
+      "demonstrate",
+      "how"
+    ],
+    "answer": "An employee is demonstrating how to wrap a package.",
+    "explanation": "Sau how to/to dùng động từ nguyên mẫu. Chỉ nêu thao tác hướng dẫn hoặc mục đích được mô tả rõ."
+  },
+  {
+    "id": "P1-196",
+    "part": "picture",
+    "title": "Mỗi công nhân đang đội mũ bảo hộ",
+    "category": "Det + V",
+    "scene": "Mỗi công nhân đang đội mũ bảo hộ",
+    "words": [
+      "every",
+      "wear"
+    ],
+    "answer": "Every worker is wearing a safety helmet.",
+    "explanation": "Từ hạn định đi với danh từ; each/every + danh từ số ít, both + danh từ số nhiều."
+  },
+  {
+    "id": "P1-197",
+    "part": "picture",
+    "title": "Cả hai khách hàng đang nhìn cùng một sản phẩm",
+    "category": "Det + V",
+    "scene": "Cả hai khách hàng đang nhìn cùng một sản phẩm",
+    "words": [
+      "both",
+      "examine"
+    ],
+    "answer": "Both customers are examining the same product.",
+    "explanation": "Từ hạn định đi với danh từ; each/every + danh từ số ít, both + danh từ số nhiều."
+  },
+  {
+    "id": "P1-198",
+    "part": "picture",
+    "title": "Một số hành khách đang bước lên xe",
+    "category": "Det + V",
+    "scene": "Một số hành khách đang bước lên xe",
+    "words": [
+      "some",
+      "board"
+    ],
+    "answer": "Some passengers are boarding a bus.",
+    "explanation": "Từ hạn định đi với danh từ; each/every + danh từ số ít, both + danh từ số nhiều."
+  },
+  {
+    "id": "P1-199",
+    "part": "picture",
+    "title": "Một cánh cửa màu xanh đang mở nhưng cánh cửa màu đỏ đang đóng",
+    "category": "Adj + Conj",
+    "scene": "Một cánh cửa màu xanh đang mở nhưng cánh cửa màu đỏ đang đóng",
+    "words": [
+      "blue",
+      "but"
+    ],
+    "answer": "The blue door is open, but the red door is closed.",
+    "explanation": "Đưa tính từ vào cụm danh từ hoặc vị ngữ; liên từ nối các mệnh đề có quan hệ rõ."
+  },
+  {
+    "id": "P1-200",
+    "part": "picture",
+    "title": "Một người đang đợi bên ngoài trong khi người khác mở cổng",
+    "category": "Adv + Conj",
+    "scene": "Một người đang đợi bên ngoài trong khi người khác mở cổng",
+    "words": [
+      "outside",
+      "while"
+    ],
+    "answer": "One person is waiting outside while another opens the gate.",
+    "explanation": "Trạng từ mô tả hành động/vị trí, liên từ nối hai chi tiết của cùng một cảnh."
+  }
+]

@@ -13,7 +13,8 @@
     "test": "vitest run",
     "build:yts:2024": "node scripts/build-yts.mjs 2024",
     "build:courses": "node scripts/build-courses.mjs",
-    "build:ybm": "node scripts/build-ybm.mjs"
+    "build:ybm": "node scripts/build-ybm.mjs",
+    "build:writing": "python3 scripts/build-writing.py"
   },
   "dependencies": {
     "lucide-react": "^1.52.0",

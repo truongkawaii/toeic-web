@@ -1,135 +1,78 @@
 "use client";
 
-import { ImageIcon, Mail, PenTool, Reply } from "lucide-react";
-import Image from "next/image";
-import { useMemo } from "react";
+import { BookOpen, FileText, ImageIcon, Mail, PenTool, Star } from "lucide-react";
+import { useState } from "react";
 import { PageHero } from "@/components/learning/page-hero";
 import { ChipGroup, SegTabs } from "@/components/ui/tabs";
-import { useToast } from "@/components/ui/toast";
-import { EMAIL_PROMPTS, PICTURE_PROMPTS, PICTURE_STRUCTURES } from "@/lib/mock/fixtures";
 import { useQueryParam } from "@/lib/use-query-param";
-import type { EmailPrompt, PicturePrompt } from "@/types/domain";
+import { useWritingProgress } from "@/lib/use-writing-progress";
+import { WRITING_CATEGORIES, WRITING_LESSONS, WRITING_TOPICS, type WritingEntry, type WritingLesson, type WritingPart } from "@/lib/writing";
+import { WritingPractice } from "./writing-practice";
 
 const PARTS = [
-  { id: "picture", label: "Part 1 · Picture", icon: ImageIcon },
-  { id: "email", label: "Part 2 · Email", icon: Mail },
+  {id: "picture", label: "Part 1 · Picture", icon: ImageIcon},
+  {id: "email", label: "Part 2 · Email", icon: Mail},
+  {id: "essay", label: "Part 3 · Essay", icon: FileText},
 ] as const;
-
-const STRUCT_CHIPS = [
-  { id: "all", label: "All", count: PICTURE_STRUCTURES.reduce((s, x) => s + x.count, 0) },
-  ...PICTURE_STRUCTURES,
-];
+export const WRITING_DIFFICULTY: Record<string, string> = {CB: "Cơ bản", TB: "Trung bình", NC: "Nâng cao"};
 
 export function WritingView() {
-  const [part, setPart] = useQueryParam<"picture" | "email">("part", "picture", ["picture", "email"]);
+  const [part, setPart] = useQueryParam<WritingPart>("part", "picture", ["picture", "email", "essay"]);
+  const [category, setCategory] = useQueryParam("s", "all", ["all", ...WRITING_CATEGORIES[part]]);
+  const [topic, setTopic] = useQueryParam("topic", "all", ["all", ...WRITING_TOPICS]);
+  const [level, setLevel] = useQueryParam<string>("level", "all", ["all", "CB", "TB", "NC"]);
+  const [status, setStatus] = useQueryParam("status", "all", ["all", "todo", "done", "saved"]);
+  const [lessonId, setLessonId] = useQueryParam<string>("lesson", "");
+  const {data, update, persistent} = useWritingProgress();
+  const [search, setSearch] = useState("");
+  const lessons = WRITING_LESSONS.filter(p => p.part === part);
+  const lesson = lessons.find(p => p.id === lessonId);
+  const count = (state: string) => lessons.filter(p => state === "all" || (state === "done" ? data.entries[p.id]?.completed : state === "saved" ? data.entries[p.id]?.bookmarked : !data.entries[p.id]?.completed)).length;
+  const filtered = lessons.filter(p =>
+    (category === "all" || p.category === category) &&
+    (p.part !== "essay" || ((topic === "all" || p.topic === topic) && (level === "all" || p.difficulty === level))) &&
+    (status === "all" || (status === "done" ? data.entries[p.id]?.completed : status === "saved" ? data.entries[p.id]?.bookmarked : !data.entries[p.id]?.completed)) &&
+    `${p.id} ${p.title} ${p.category} ${p.part === "essay" ? p.topic : ""}`.toLocaleLowerCase("vi").includes(search.toLocaleLowerCase("vi")),
+  );
 
-  return (
-    <div className="container-app space-y-7">
-      <PageHero
-        eyebrow="Luyện viết TOEIC"
-        title={["Rèn luyện", "TOEIC Writing", "từ câu đến bài luận"]}
-        description="Luyện viết dịch Việt–Anh, tạo thẻ từ vựng nhanh và bài mẫu đa dạng."
-        icon={PenTool}
-      />
-      <SegTabs label="Dạng bài viết" items={PARTS} value={part} onChange={(v) => setPart(v, { s: null })} />
-      {part === "picture" ? <PictureSection /> : <EmailSection />}
+  return <div className="container-app space-y-6 pb-10">
+    <PageHero eyebrow="Luyện viết TOEIC" title={["Rèn luyện", "TOEIC Writing", "từ câu đến bài luận"]}
+      description="Luyện câu chính xác, trả lời email đủ ý và phát triển bài luận bằng lý do, ví dụ cụ thể." icon={PenTool} />
+    <div className="flex flex-wrap items-center justify-between gap-3">
+      <SegTabs label="Dạng bài viết" items={PARTS} value={part} onChange={v => {setPart(v, {s: null, topic: null, level: null, lesson: null}); setSearch("");}} />
+      <a className="btn btn-outline btn-sm" href="/writing/TOEIC-Writing.html" target="_blank" rel="noopener noreferrer"><BookOpen className="size-4" /> Giáo trình đầy đủ</a>
     </div>
-  );
+    {!persistent && <p role="alert" className="rounded-xl bg-warning-soft p-4 text-sm text-warning-ink">Trình duyệt chưa lưu được bản nháp. Bài viết vẫn còn trong phiên này; hãy sao chép bài trước khi đóng trang.</p>}
+    {lessonId ? lesson ? <WritingPractice key={lesson.id} lesson={lesson} entry={data.entries[lesson.id] ?? {}} update={patch => update(lesson.id, patch)} persistent={persistent}
+      back={() => setLessonId("")} navigate={setLessonId} siblings={lessons} /> :
+      <div className="card p-8 text-center"><p>Không tìm thấy bài luyện trong phần đang chọn.</p><button className="btn btn-primary mt-4" onClick={() => setLessonId("")}>Về danh sách</button></div> : <>
+      {part === "picture" && <p className="rounded-xl border border-hero-line bg-hero p-4 text-sm text-ink-soft">Luyện theo mô tả cảnh, dùng đủ hai từ gợi ý. Bộ này tạm chưa có tranh; phần quan sát ảnh sẽ được bổ sung sau.</p>}
+      {part !== "email" && <ChipGroup label={part === "picture" ? "Nhóm từ gợi ý" : "Dạng đề essay"} value={category} onChange={setCategory}
+        items={[{id: "all", label: "Tất cả", count: lessons.length}, ...WRITING_CATEGORIES[part].map(id => ({id, label: id, count: lessons.filter(p => p.category === id).length}))]} />}
+      <div className="flex flex-wrap items-center gap-3">
+        <SegTabs label="Tiến độ bài viết" value={status} onChange={setStatus} items={[
+          {id: "all", label: "Tất cả", count: count("all")}, {id: "todo", label: "Chưa hoàn thành", count: count("todo")},
+          {id: "done", label: "Đã tự kiểm", count: count("done")}, {id: "saved", label: "Đã lưu", count: count("saved")},
+        ]} />
+        {part === "essay" && <>
+          <label className="flex items-center gap-2 text-sm">Chủ đề<select className="input max-w-64" value={topic} onChange={e => setTopic(e.target.value)}><option value="all">Mọi chủ đề</option>{WRITING_TOPICS.map(t => <option key={t}>{t}</option>)}</select></label>
+          <label className="flex items-center gap-2 text-sm">Độ khó<select className="input w-40" value={level} onChange={e => setLevel(e.target.value)}><option value="all">Mọi độ khó</option>{Object.entries(WRITING_DIFFICULTY).map(([id, text]) => <option key={id} value={id}>{text}</option>)}</select></label>
+        </>}
+      </div>
+      <div className="flex flex-wrap items-center justify-between gap-3"><label className="w-full sm:max-w-sm"><span className="sr-only">Tìm bài viết</span><input className="input" placeholder="Tìm theo mã bài, nội dung hoặc chủ đề…" value={search} onChange={e => setSearch(e.target.value)} /></label><p className="text-sm text-muted">{filtered.length} bài phù hợp</p></div>
+      {filtered.length ? <div className="grid gap-5 sm:grid-cols-2 xl:grid-cols-3">{filtered.map(p => <LessonCard key={p.id} lesson={p} entry={data.entries[p.id] ?? {}} open={() => setLessonId(p.id)} bookmark={() => update(p.id, {bookmarked: !data.entries[p.id]?.bookmarked})} />)}</div> :
+        <div className="card p-10 text-center text-muted">Chưa có bài phù hợp. Thử đổi bộ lọc hoặc nội dung tìm kiếm.</div>}
+      <p className="text-sm text-muted">Nội dung luyện tập biên soạn mới · Tiến độ và bản nháp được lưu trên trình duyệt này.</p>
+    </>}
+  </div>;
 }
 
-function PictureSection() {
-  const [s, setS] = useQueryParam("s", "all", STRUCT_CHIPS.map((c) => c.id));
-  const list = useMemo(() => PICTURE_PROMPTS.filter((p) => s === "all" || p.structure === s), [s]);
-
-  return (
-    <div className="space-y-6">
-      <div className="relative">
-        <ChipGroup
-          label="Cấu trúc câu"
-          items={STRUCT_CHIPS.map((c) => ({ ...c, label: c.label }))}
-          value={s}
-          onChange={(v) => setS(v)}
-        />
-      </div>
-      {list.length === 0 ? (
-        <div className="card px-6 py-12 text-center text-muted">
-          Bản demo chưa có ảnh cho cấu trúc này — chọn “All” để xem các đề mẫu.
-        </div>
-      ) : (
-        <div className="grid gap-5 sm:grid-cols-2 xl:grid-cols-4">
-          {list.map((p, i) => <PictureCard key={p.id} prompt={p} delay={i * 30} />)}
-        </div>
-      )}
-    </div>
-  );
-}
-
-function PictureCard({ prompt, delay }: { prompt: PicturePrompt; delay: number }) {
-  const { comingSoon } = useToast();
-  return (
-    <article className="card card-hover group flex animate-fade-up flex-col overflow-hidden p-3" style={{ animationDelay: `${delay}ms` }}>
-      <div className="relative aspect-[4/3] overflow-hidden rounded-xl bg-canvas">
-        {prompt.image ? (
-          <Image
-            src={prompt.image}
-            alt={`Ảnh đề bài: ${prompt.scene}`}
-            fill
-            sizes="(min-width:1280px) 25vw, (min-width:640px) 50vw, 100vw"
-            className="object-cover transition duration-500 group-hover:scale-105"
-          />
-        ) : (
-          // Placeholder đồng nhất — thay bằng ảnh thật trong public/demo/writing
-          <div className="flex h-full flex-col items-center justify-center gap-2 bg-[linear-gradient(135deg,#eef3fb,#e3ebf8)] text-[#9aabc4]">
-            <ImageIcon className="size-10" strokeWidth={1.4} />
-            <span className="text-sm font-medium">{prompt.scene}</span>
-          </div>
-        )}
-      </div>
-      <div className="flex items-center gap-2 px-1 pb-1 pt-3">
-        {prompt.words.map((w) => (
-          <span key={w} className="rounded-lg border border-line bg-canvas px-2.5 py-1 font-mono text-[13px] text-ink-soft">{w}</span>
-        ))}
-        <button type="button" className="btn btn-primary btn-sm ml-auto" onClick={() => comingSoon("Bài viết Picture")}>
-          Học
-        </button>
-      </div>
-    </article>
-  );
-}
-
-function EmailSection() {
-  return (
-    <div className="grid gap-5 md:grid-cols-2 xl:grid-cols-3">
-      {EMAIL_PROMPTS.map((m, i) => <EmailCard key={m.id} mail={m} delay={i * 40} />)}
-    </div>
-  );
-}
-
-function EmailCard({ mail, delay }: { mail: EmailPrompt; delay: number }) {
-  const { comingSoon } = useToast();
-  return (
-    <article className="card card-hover flex animate-fade-up flex-col p-5" style={{ animationDelay: `${delay}ms` }}>
-      <div className="flex items-center gap-3">
-        <span className="grid size-11 shrink-0 place-items-center rounded-xl bg-primary-tint text-primary">
-          <Mail className="size-5" />
-        </span>
-        <div className="min-w-0">
-          <p className="truncate text-[13px] text-muted">{mail.from}</p>
-          <h3 className="truncate font-semibold text-ink">{mail.subject}</h3>
-        </div>
-      </div>
-      <p className="mt-4 text-[15px] leading-relaxed text-ink-soft">{mail.summary}</p>
-      <ul className="mt-3 flex flex-wrap gap-2">
-        {mail.tasks.map((t) => (
-          <li key={t} className="badge border border-line bg-canvas font-medium text-ink-soft">{t}</li>
-        ))}
-      </ul>
-      <div className="mt-auto flex items-center justify-between pt-5">
-        <span className="text-sm text-muted">10 phút · ≥ 50 từ</span>
-        <button type="button" className="btn btn-primary btn-sm" onClick={() => comingSoon("Viết email")}>
-          <Reply className="size-4" /> Trả lời
-        </button>
-      </div>
-    </article>
-  );
+function LessonCard({lesson: p, entry, open, bookmark}: {lesson: WritingLesson; entry: WritingEntry; open: () => void; bookmark: () => void}) {
+  return <article className="card card-hover flex flex-col p-5">
+    <div className="flex items-center justify-between gap-2"><span className="text-xs font-semibold text-muted">{p.id} · {p.category}</span><button className="icon-btn" aria-label={`${entry.bookmarked ? "Bỏ lưu" : "Lưu"} ${p.id}`} aria-pressed={!!entry.bookmarked} onClick={bookmark}><Star className={`size-5 ${entry.bookmarked ? "fill-warning text-warning" : ""}`} /></button></div>
+    {p.part === "picture" && <div className="my-3 flex min-h-36 items-center gap-3 rounded-xl bg-hero px-4 py-5"><ImageIcon className="size-8 shrink-0 text-primary" /><p className="text-sm leading-relaxed">{p.scene}</p></div>}
+    <h2 className="mt-2 font-semibold leading-relaxed">{p.part === "picture" ? "Viết câu theo cảnh" : p.title}</h2>
+    {p.part === "picture" ? <div className="mt-3 flex gap-2">{p.words.map(w => <span key={w} className="rounded-lg border border-line bg-canvas px-3 py-1 font-mono text-sm">{w}</span>)}</div> : p.part === "email" ? <p className="mt-3 text-sm leading-relaxed text-ink-soft">{p.task}</p> : <p className="mt-3 text-sm text-muted">{p.topic} · {WRITING_DIFFICULTY[p.difficulty]}</p>}
+    <div className="mt-auto flex items-center justify-between gap-3 pt-5"><span className={`text-xs ${entry.completed ? "text-success" : "text-muted"}`}>{entry.completed ? "✓ Đã tự kiểm" : entry.draft?.trim() ? "Có bản nháp" : p.part === "picture" ? "Luyện một câu" : p.part === "email" ? "10 phút" : "30 phút"}</span><button className="btn btn-primary btn-sm" onClick={open}>{entry.draft?.trim() ? "Viết tiếp" : "Luyện tập"}</button></div>
+  </article>;
 }

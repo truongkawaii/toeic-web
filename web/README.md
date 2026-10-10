@@ -25,6 +25,14 @@ npm run build:yts  # xuất bộ YTS 2026 từ nguồn biên soạn trong script
 
 ## Màn hình
 
+### TOEIC Writing
+
+`/writing` đã có 3 phần: 200 bài viết theo cảnh (15 nhóm từ), 50 email với bài mẫu cho từng đề, 100 đề essay (5 dạng, 12 chủ đề) với dàn ý cho từng đề và 5 bài mẫu đầy đủ. Part 1 tạm dùng mô tả cảnh, chưa cần ảnh mới. Các mã bài cũ được giữ để tiếp tục bản nháp.
+
+Nút **Luyện tập** mở đề và trình soạn thảo. Có dàn ý, từ vựng, ngữ pháp, bài mẫu, ghi chú, hẹn giờ và phiếu tự kiểm. Các bài hỗ trợ gồm dịch câu, điền từ, sắp xếp câu Part 1 và sửa lỗi Part 2/3. Bài phụ dùng trong lượt luyện; bản nháp chính, ghi chú, bookmark, tiến độ tự kiểm và hạn chót hẹn giờ lưu trên trình duyệt bằng key `toeic-writing-v1`. Sửa bản nháp sau khi tự kiểm sẽ yêu cầu tự kiểm lại. Không có chấm điểm AI/điểm TOEIC.
+
+Nguồn nội dung mới: [`docs/writing/materials`](../docs/writing/materials/README.md). Sau khi chỉnh giáo trình, chạy `npm run build:writing` để tạo lại `src/lib/writing-content.json` và bản HTML ngoại tuyến tại `/writing/TOEIC-Writing.html`. Bài cấu trúc tương tác nằm trong `src/lib/writing-exercises.ts`; khi sửa bài tập trong giáo trình, cập nhật file này tương ứng.
+
 | Route | Nội dung |
 | --- | --- |
 | `/` | Tổng quan: mục tiêu điểm, ngày thi, hoạt động theo kỳ |
@@ -66,7 +74,7 @@ npm run build:yts  # xuất bộ YTS 2026 từ nguồn biên soạn trong script
 Ảnh hiện tại là tạm thời — thay bằng ảnh thật cùng tên file:
 
 - Mascot: `public/demo/mascot.jpg` (nền trắng, hiển thị với `mix-blend-multiply`).
-- Writing Part 1: `public/demo/writing/*.jpg` (khai báo trong `PICTURE_PROMPTS`). Prompt không có `image` sẽ hiển thị placeholder.
+- Writing Part 1 hiện dùng mô tả cảnh trong `src/lib/writing-content.json`; không sử dụng các ảnh demo cũ.
 - Thumbnail Speaking đang vẽ bằng CSS; có thể thêm trường ảnh trong `MEDIA_LESSONS`.
 
 ## Cấu trúc

@@ -1,0 +1,1446 @@
+[
+  {
+    "id": "W25",
+    "part": "essay",
+    "title": "Companies should allow employees to exchange unused leave for additional training. Do you agree or disagree?",
+    "prompt": "Companies should allow employees to exchange unused leave for additional training. Do you agree or disagree?",
+    "topic": "Chính sách & phúc lợi công ty",
+    "category": "Đồng ý/Phản đối",
+    "difficulty": "CB",
+    "ideas": [
+      "Ủng hộ: tăng quyền lựa chọn phát triển kỹ năng",
+      "Phản biện: cần bảo vệ thời gian nghỉ thực tế"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Ủng hộ: tăng quyền lựa chọn phát triển kỹ năng. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Phản biện: cần bảo vệ thời gian nghỉ thực tế. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Nhân viên chọn khóa phân tích dữ liệu nhưng vẫn phải nghỉ số ngày tối thiểu.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Đồng ý/Phản đối. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Nhân viên chọn khóa phân tích dữ liệu nhưng vẫn phải nghỉ số ngày tối thiểu. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Ủng hộ: tăng quyền lựa chọn phát triển kỹ năng; Phản biện: cần bảo vệ thời gian nghỉ thực tế"
+  },
+  {
+    "id": "W26",
+    "part": "essay",
+    "title": "Which would benefit employees more: a transport allowance or an annual health club membership?",
+    "prompt": "Which would benefit employees more: a transport allowance or an annual health club membership?",
+    "topic": "Chính sách & phúc lợi công ty",
+    "category": "Chọn 1 trong 2",
+    "difficulty": "TB",
+    "ideas": [
+      "Chọn hỗ trợ đi lại: giảm khoản chi thường xuyên",
+      "So sánh: phòng tập hữu ích nhưng không phù hợp mọi lịch làm việc"
+    ],
+    "samples": [],
+    "outline": "Mở bài: nêu lựa chọn và tiêu chí so sánh; không chỉ liệt kê các phương án.\n\nThân bài 1: Chọn hỗ trợ đi lại: giảm khoản chi thường xuyên. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: So sánh: phòng tập hữu ích nhưng không phù hợp mọi lịch làm việc. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Người làm ca tối sử dụng hỗ trợ xe buýt mỗi ngày.\n\nKết bài: khẳng định lựa chọn trong hoàn cảnh đã nêu; nhắc đánh đổi với các phương án còn lại.",
+    "analysis": "Dạng Chọn 1 trong 2. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Người làm ca tối sử dụng hỗ trợ xe buýt mỗi ngày. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chọn hỗ trợ đi lại: giảm khoản chi thường xuyên; So sánh: phòng tập hữu ích nhưng không phù hợp mọi lịch làm việc"
+  },
+  {
+    "id": "W27",
+    "part": "essay",
+    "title": "Which workplace benefit is most useful: extra leave, childcare support, or a professional membership?",
+    "prompt": "Which workplace benefit is most useful: extra leave, childcare support, or a professional membership?",
+    "topic": "Chính sách & phúc lợi công ty",
+    "category": "Chọn 1 trong 3",
+    "difficulty": "TB",
+    "ideas": [
+      "Chọn hỗ trợ chăm trẻ: giảm khó khăn duy trì việc làm",
+      "So sánh với nghỉ thêm và hội nghề nghiệp theo nhu cầu cụ thể"
+    ],
+    "samples": [],
+    "outline": "Mở bài: nêu lựa chọn và tiêu chí so sánh; không chỉ liệt kê các phương án.\n\nThân bài 1: Chọn hỗ trợ chăm trẻ: giảm khó khăn duy trì việc làm. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: So sánh với nghỉ thêm và hội nghề nghiệp theo nhu cầu cụ thể. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Một phụ huynh có thể nhận ca làm ổn định nhờ dịch vụ chăm trẻ.\n\nKết bài: khẳng định lựa chọn trong hoàn cảnh đã nêu; nhắc đánh đổi với các phương án còn lại.",
+    "analysis": "Dạng Chọn 1 trong 3. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Một phụ huynh có thể nhận ca làm ổn định nhờ dịch vụ chăm trẻ. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chọn hỗ trợ chăm trẻ: giảm khó khăn duy trì việc làm; So sánh với nghỉ thêm và hội nghề nghiệp theo nhu cầu cụ thể"
+  },
+  {
+    "id": "W28",
+    "part": "essay",
+    "title": "What should a company consider first when designing an employee recognition program?",
+    "prompt": "What should a company consider first when designing an employee recognition program?",
+    "topic": "Chính sách & phúc lợi công ty",
+    "category": "Nêu ý kiến",
+    "difficulty": "CB",
+    "ideas": [
+      "Ưu tiên tiêu chí minh bạch",
+      "Ghi nhận cả đóng góp ít được nhìn thấy"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Ưu tiên tiêu chí minh bạch. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Ghi nhận cả đóng góp ít được nhìn thấy. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Nhân viên hỗ trợ hậu trường được đánh giá qua chất lượng bàn giao.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Nêu ý kiến. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Nhân viên hỗ trợ hậu trường được đánh giá qua chất lượng bàn giao. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Ưu tiên tiêu chí minh bạch; Ghi nhận cả đóng góp ít được nhìn thấy"
+  },
+  {
+    "id": "W29",
+    "part": "essay",
+    "title": "What are the advantages and disadvantages of offering a four-day workweek?",
+    "prompt": "What are the advantages and disadvantages of offering a four-day workweek?",
+    "topic": "Chính sách & phúc lợi công ty",
+    "category": "Ưu–nhược",
+    "difficulty": "NC",
+    "ideas": [
+      "Ưu điểm: thời gian phục hồi dài hơn",
+      "Nhược điểm: khó duy trì độ phủ dịch vụ"
+    ],
+    "samples": [],
+    "outline": "Mở bài: giới thiệu vấn đề, báo trước sẽ xem xét lợi ích và hạn chế.\n\nThân bài 1: Ưu điểm: thời gian phục hồi dài hơn. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Nhược điểm: khó duy trì độ phủ dịch vụ. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Nhóm hỗ trợ chia ngày nghỉ để vẫn trả lời khách hàng vào thứ Sáu.\n\nKết bài: cân nhắc hai mặt; nêu điều kiện để lợi ích vượt hạn chế.",
+    "analysis": "Dạng Ưu–nhược. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Nhóm hỗ trợ chia ngày nghỉ để vẫn trả lời khách hàng vào thứ Sáu. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Ưu điểm: thời gian phục hồi dài hơn; Nhược điểm: khó duy trì độ phủ dịch vụ"
+  },
+  {
+    "id": "W30",
+    "part": "essay",
+    "title": "Employees should be allowed to choose their own office seating arrangements. Do you agree or disagree?",
+    "prompt": "Employees should be allowed to choose their own office seating arrangements. Do you agree or disagree?",
+    "topic": "Chính sách & phúc lợi công ty",
+    "category": "Đồng ý/Phản đối",
+    "difficulty": "CB",
+    "ideas": [
+      "Ủng hộ có giới hạn: chọn môi trường phù hợp công việc",
+      "Cần điều phối để tránh chiếm chỗ yên tĩnh"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Ủng hộ có giới hạn: chọn môi trường phù hợp công việc. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Cần điều phối để tránh chiếm chỗ yên tĩnh. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Nhóm cần gọi điện ngồi xa khu vực xử lý báo cáo.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Đồng ý/Phản đối. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Nhóm cần gọi điện ngồi xa khu vực xử lý báo cáo. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Ủng hộ có giới hạn: chọn môi trường phù hợp công việc; Cần điều phối để tránh chiếm chỗ yên tĩnh"
+  },
+  {
+    "id": "W31",
+    "part": "essay",
+    "title": "Local governments should provide more public drinking water stations. Do you agree or disagree?",
+    "prompt": "Local governments should provide more public drinking water stations. Do you agree or disagree?",
+    "topic": "Cộng đồng & môi trường",
+    "category": "Đồng ý/Phản đối",
+    "difficulty": "CB",
+    "ideas": [
+      "Giảm nhu cầu chai dùng một lần",
+      "Tăng tiện ích tại nơi đông người nhưng cần bảo trì"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Giảm nhu cầu chai dùng một lần. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Tăng tiện ích tại nơi đông người nhưng cần bảo trì. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Trạm nước tại sân thể thao được kiểm tra hằng tuần.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Đồng ý/Phản đối. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Trạm nước tại sân thể thao được kiểm tra hằng tuần. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Giảm nhu cầu chai dùng một lần; Tăng tiện ích tại nơi đông người nhưng cần bảo trì"
+  },
+  {
+    "id": "W32",
+    "part": "essay",
+    "title": "For a neighborhood project, would you choose a shared vegetable garden or a free book cabinet?",
+    "prompt": "For a neighborhood project, would you choose a shared vegetable garden or a free book cabinet?",
+    "topic": "Cộng đồng & môi trường",
+    "category": "Chọn 1 trong 2",
+    "difficulty": "TB",
+    "ideas": [
+      "Chọn vườn chung: tạo hợp tác thường xuyên",
+      "So sánh tủ sách ít cần diện tích và quản lý"
+    ],
+    "samples": [],
+    "outline": "Mở bài: nêu lựa chọn và tiêu chí so sánh; không chỉ liệt kê các phương án.\n\nThân bài 1: Chọn vườn chung: tạo hợp tác thường xuyên. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: So sánh tủ sách ít cần diện tích và quản lý. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Cư dân phân lịch tưới cây và chia rau sau vụ thu hoạch.\n\nKết bài: khẳng định lựa chọn trong hoàn cảnh đã nêu; nhắc đánh đổi với các phương án còn lại.",
+    "analysis": "Dạng Chọn 1 trong 2. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Cư dân phân lịch tưới cây và chia rau sau vụ thu hoạch. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chọn vườn chung: tạo hợp tác thường xuyên; So sánh tủ sách ít cần diện tích và quản lý"
+  },
+  {
+    "id": "W33",
+    "part": "essay",
+    "title": "Which would improve a community most: better lighting, more public benches, or a local notice board?",
+    "prompt": "Which would improve a community most: better lighting, more public benches, or a local notice board?",
+    "topic": "Cộng đồng & môi trường",
+    "category": "Chọn 1 trong 3",
+    "difficulty": "TB",
+    "ideas": [
+      "Chọn chiếu sáng: hỗ trợ sử dụng đường đi buổi tối",
+      "So sánh ghế và bảng tin giải quyết nhu cầu khác"
+    ],
+    "samples": [],
+    "outline": "Mở bài: nêu lựa chọn và tiêu chí so sánh; không chỉ liệt kê các phương án.\n\nThân bài 1: Chọn chiếu sáng: hỗ trợ sử dụng đường đi buổi tối. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: So sánh ghế và bảng tin giải quyết nhu cầu khác. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Người đi bộ có thể nhìn rõ bậc thềm sau giờ làm.\n\nKết bài: khẳng định lựa chọn trong hoàn cảnh đã nêu; nhắc đánh đổi với các phương án còn lại.",
+    "analysis": "Dạng Chọn 1 trong 3. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Người đi bộ có thể nhìn rõ bậc thềm sau giờ làm. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chọn chiếu sáng: hỗ trợ sử dụng đường đi buổi tối; So sánh ghế và bảng tin giải quyết nhu cầu khác"
+  },
+  {
+    "id": "W34",
+    "part": "essay",
+    "title": "What is the best way to encourage residents to reduce household waste?",
+    "prompt": "What is the best way to encourage residents to reduce household waste?",
+    "topic": "Cộng đồng & môi trường",
+    "category": "Nêu ý kiến",
+    "difficulty": "CB",
+    "ideas": [
+      "Ưu tiên hướng dẫn thực hành dễ áp dụng",
+      "Theo dõi kết quả thay vì chỉ dùng khẩu hiệu"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Ưu tiên hướng dẫn thực hành dễ áp dụng. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Theo dõi kết quả thay vì chỉ dùng khẩu hiệu. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Buổi hướng dẫn phân loại bao bì dùng chính rác sinh hoạt mẫu.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Nêu ý kiến. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Buổi hướng dẫn phân loại bao bì dùng chính rác sinh hoạt mẫu. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Ưu tiên hướng dẫn thực hành dễ áp dụng; Theo dõi kết quả thay vì chỉ dùng khẩu hiệu"
+  },
+  {
+    "id": "W35",
+    "part": "essay",
+    "title": "What are the advantages and disadvantages of charging for disposable shopping bags?",
+    "prompt": "What are the advantages and disadvantages of charging for disposable shopping bags?",
+    "topic": "Cộng đồng & môi trường",
+    "category": "Ưu–nhược",
+    "difficulty": "NC",
+    "ideas": [
+      "Ưu điểm: khuyến khích mang túi dùng lại",
+      "Nhược điểm: bất tiện cho người mua đột xuất"
+    ],
+    "samples": [],
+    "outline": "Mở bài: giới thiệu vấn đề, báo trước sẽ xem xét lợi ích và hạn chế.\n\nThân bài 1: Ưu điểm: khuyến khích mang túi dùng lại. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Nhược điểm: bất tiện cho người mua đột xuất. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Cửa hàng có điểm mượn túi và ghi rõ mức phí ở lối vào.\n\nKết bài: cân nhắc hai mặt; nêu điều kiện để lợi ích vượt hạn chế.",
+    "analysis": "Dạng Ưu–nhược. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Cửa hàng có điểm mượn túi và ghi rõ mức phí ở lối vào. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Ưu điểm: khuyến khích mang túi dùng lại; Nhược điểm: bất tiện cho người mua đột xuất"
+  },
+  {
+    "id": "W36",
+    "part": "essay",
+    "title": "Community events should include activities for both children and older adults. Do you agree or disagree?",
+    "prompt": "Community events should include activities for both children and older adults. Do you agree or disagree?",
+    "topic": "Cộng đồng & môi trường",
+    "category": "Đồng ý/Phản đối",
+    "difficulty": "CB",
+    "ideas": [
+      "Tăng khả năng tham gia của cả gia đình",
+      "Cần bố trí hoạt động phù hợp khả năng khác nhau"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Tăng khả năng tham gia của cả gia đình. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Cần bố trí hoạt động phù hợp khả năng khác nhau. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Ngày hội có trò chơi trẻ em và khu hướng dẫn trồng cây có ghế ngồi.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Đồng ý/Phản đối. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Ngày hội có trò chơi trẻ em và khu hướng dẫn trồng cây có ghế ngồi. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Tăng khả năng tham gia của cả gia đình; Cần bố trí hoạt động phù hợp khả năng khác nhau"
+  },
+  {
+    "id": "W37",
+    "part": "essay",
+    "title": "Employees should receive training before a company introduces new digital tools. Do you agree or disagree?",
+    "prompt": "Employees should receive training before a company introduces new digital tools. Do you agree or disagree?",
+    "topic": "Công nghệ & Internet",
+    "category": "Đồng ý/Phản đối",
+    "difficulty": "CB",
+    "ideas": [
+      "Giảm lỗi sử dụng ban đầu",
+      "Giúp người ít quen công nghệ theo kịp"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Giảm lỗi sử dụng ban đầu. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Giúp người ít quen công nghệ theo kịp. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Nhóm thực hành nhập đơn thử trước khi đổi phần mềm bán hàng.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Đồng ý/Phản đối. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Nhóm thực hành nhập đơn thử trước khi đổi phần mềm bán hàng. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Giảm lỗi sử dụng ban đầu; Giúp người ít quen công nghệ theo kịp"
+  },
+  {
+    "id": "W38",
+    "part": "essay",
+    "title": "Would you rather store important work documents online or on a local computer?",
+    "prompt": "Would you rather store important work documents online or on a local computer?",
+    "topic": "Công nghệ & Internet",
+    "category": "Chọn 1 trong 2",
+    "difficulty": "TB",
+    "ideas": [
+      "Chọn trực tuyến có kiểm soát: truy cập và cộng tác",
+      "So sánh lưu cục bộ khi kết nối không ổn định"
+    ],
+    "samples": [],
+    "outline": "Mở bài: nêu lựa chọn và tiêu chí so sánh; không chỉ liệt kê các phương án.\n\nThân bài 1: Chọn trực tuyến có kiểm soát: truy cập và cộng tác. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: So sánh lưu cục bộ khi kết nối không ổn định. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Hai nhân viên cập nhật cùng bảng tiến độ với phân quyền riêng.\n\nKết bài: khẳng định lựa chọn trong hoàn cảnh đã nêu; nhắc đánh đổi với các phương án còn lại.",
+    "analysis": "Dạng Chọn 1 trong 2. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Hai nhân viên cập nhật cùng bảng tiến độ với phân quyền riêng. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chọn trực tuyến có kiểm soát: truy cập và cộng tác; So sánh lưu cục bộ khi kết nối không ổn định"
+  },
+  {
+    "id": "W39",
+    "part": "essay",
+    "title": "Which feature matters most in a work application: ease of use, customization, or speed?",
+    "prompt": "Which feature matters most in a work application: ease of use, customization, or speed?",
+    "topic": "Công nghệ & Internet",
+    "category": "Chọn 1 trong 3",
+    "difficulty": "TB",
+    "ideas": [
+      "Chọn dễ dùng: giảm thời gian học",
+      "So sánh tùy chỉnh và tốc độ sau khi đáp ứng nhu cầu chính"
+    ],
+    "samples": [],
+    "outline": "Mở bài: nêu lựa chọn và tiêu chí so sánh; không chỉ liệt kê các phương án.\n\nThân bài 1: Chọn dễ dùng: giảm thời gian học. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: So sánh tùy chỉnh và tốc độ sau khi đáp ứng nhu cầu chính. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Nhân viên mới hoàn thành đơn đặt hàng mà không phải tìm nhiều menu.\n\nKết bài: khẳng định lựa chọn trong hoàn cảnh đã nêu; nhắc đánh đổi với các phương án còn lại.",
+    "analysis": "Dạng Chọn 1 trong 3. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Nhân viên mới hoàn thành đơn đặt hàng mà không phải tìm nhiều menu. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chọn dễ dùng: giảm thời gian học; So sánh tùy chỉnh và tốc độ sau khi đáp ứng nhu cầu chính"
+  },
+  {
+    "id": "W40",
+    "part": "essay",
+    "title": "What is the most effective way to prevent misunderstandings in workplace chat messages?",
+    "prompt": "What is the most effective way to prevent misunderstandings in workplace chat messages?",
+    "topic": "Công nghệ & Internet",
+    "category": "Nêu ý kiến",
+    "difficulty": "CB",
+    "ideas": [
+      "Ưu tiên yêu cầu rõ hành động và thời hạn",
+      "Xác nhận nội dung khi quyết định có ảnh hưởng lớn"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Ưu tiên yêu cầu rõ hành động và thời hạn. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Xác nhận nội dung khi quyết định có ảnh hưởng lớn. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Tin nhắn ghi người phụ trách, bản tài liệu và giờ cần phản hồi.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Nêu ý kiến. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Tin nhắn ghi người phụ trách, bản tài liệu và giờ cần phản hồi. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Ưu tiên yêu cầu rõ hành động và thời hạn; Xác nhận nội dung khi quyết định có ảnh hưởng lớn"
+  },
+  {
+    "id": "W41",
+    "part": "essay",
+    "title": "What are the advantages and disadvantages of using automated customer support chat?",
+    "prompt": "What are the advantages and disadvantages of using automated customer support chat?",
+    "topic": "Công nghệ & Internet",
+    "category": "Ưu–nhược",
+    "difficulty": "NC",
+    "ideas": [
+      "Ưu điểm: trả lời câu hỏi lặp lại nhanh",
+      "Nhược điểm: khó xử lý tình huống nhiều ngoại lệ"
+    ],
+    "samples": [],
+    "outline": "Mở bài: giới thiệu vấn đề, báo trước sẽ xem xét lợi ích và hạn chế.\n\nThân bài 1: Ưu điểm: trả lời câu hỏi lặp lại nhanh. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Nhược điểm: khó xử lý tình huống nhiều ngoại lệ. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Chat tự động hướng dẫn theo dõi kiện hàng và chuyển tranh chấp sang nhân viên.\n\nKết bài: cân nhắc hai mặt; nêu điều kiện để lợi ích vượt hạn chế.",
+    "analysis": "Dạng Ưu–nhược. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Chat tự động hướng dẫn theo dõi kiện hàng và chuyển tranh chấp sang nhân viên. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Ưu điểm: trả lời câu hỏi lặp lại nhanh; Nhược điểm: khó xử lý tình huống nhiều ngoại lệ"
+  },
+  {
+    "id": "W42",
+    "part": "essay",
+    "title": "People should occasionally spend a full evening without using the Internet. Do you agree or disagree?",
+    "prompt": "People should occasionally spend a full evening without using the Internet. Do you agree or disagree?",
+    "topic": "Công nghệ & Internet",
+    "category": "Đồng ý/Phản đối",
+    "difficulty": "CB",
+    "ideas": [
+      "Tạo thời gian tập trung hoạt động ngoại tuyến",
+      "Chừa ngoại lệ cho trách nhiệm thiết yếu"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Tạo thời gian tập trung hoạt động ngoại tuyến. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Chừa ngoại lệ cho trách nhiệm thiết yếu. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Gia đình nấu ăn cùng nhau và chỉ giữ liên lạc khẩn cấp.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Đồng ý/Phản đối. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Gia đình nấu ăn cùng nhau và chỉ giữ liên lạc khẩn cấp. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Tạo thời gian tập trung hoạt động ngoại tuyến; Chừa ngoại lệ cho trách nhiệm thiết yếu"
+  },
+  {
+    "id": "W43",
+    "part": "essay",
+    "title": "Travelers should learn a few local phrases before visiting another country. Do you agree or disagree?",
+    "prompt": "Travelers should learn a few local phrases before visiting another country. Do you agree or disagree?",
+    "topic": "Du lịch & giải trí",
+    "category": "Đồng ý/Phản đối",
+    "difficulty": "CB",
+    "ideas": [
+      "Hỗ trợ giao tiếp cơ bản",
+      "Thể hiện sự tôn trọng và tạo tương tác"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Hỗ trợ giao tiếp cơ bản. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Thể hiện sự tôn trọng và tạo tương tác. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Khách hỏi đường đến bến xe bằng câu đã luyện trước chuyến đi.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Đồng ý/Phản đối. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Khách hỏi đường đến bến xe bằng câu đã luyện trước chuyến đi. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Hỗ trợ giao tiếp cơ bản; Thể hiện sự tôn trọng và tạo tương tác"
+  },
+  {
+    "id": "W44",
+    "part": "essay",
+    "title": "For a short holiday, would you prefer a quiet rural destination or a lively city?",
+    "prompt": "For a short holiday, would you prefer a quiet rural destination or a lively city?",
+    "topic": "Du lịch & giải trí",
+    "category": "Chọn 1 trong 2",
+    "difficulty": "TB",
+    "ideas": [
+      "Chọn nông thôn: phục hồi nhờ lịch nhẹ",
+      "So sánh thành phố có nhiều lựa chọn nhưng dễ quá tải"
+    ],
+    "samples": [],
+    "outline": "Mở bài: nêu lựa chọn và tiêu chí so sánh; không chỉ liệt kê các phương án.\n\nThân bài 1: Chọn nông thôn: phục hồi nhờ lịch nhẹ. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: So sánh thành phố có nhiều lựa chọn nhưng dễ quá tải. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Người làm việc trong khu đông đúc chọn hai ngày đi bộ ở vùng quê.\n\nKết bài: khẳng định lựa chọn trong hoàn cảnh đã nêu; nhắc đánh đổi với các phương án còn lại.",
+    "analysis": "Dạng Chọn 1 trong 2. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Người làm việc trong khu đông đúc chọn hai ngày đi bộ ở vùng quê. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chọn nông thôn: phục hồi nhờ lịch nhẹ; So sánh thành phố có nhiều lựa chọn nhưng dễ quá tải"
+  },
+  {
+    "id": "W45",
+    "part": "essay",
+    "title": "Which holiday activity would you prioritize: visiting museums, trying local food, or attending live performances?",
+    "prompt": "Which holiday activity would you prioritize: visiting museums, trying local food, or attending live performances?",
+    "topic": "Du lịch & giải trí",
+    "category": "Chọn 1 trong 3",
+    "difficulty": "TB",
+    "ideas": [
+      "Chọn bảo tàng: hiểu bối cảnh địa phương",
+      "So sánh món ăn và biểu diễn theo thời gian giới hạn"
+    ],
+    "samples": [],
+    "outline": "Mở bài: nêu lựa chọn và tiêu chí so sánh; không chỉ liệt kê các phương án.\n\nThân bài 1: Chọn bảo tàng: hiểu bối cảnh địa phương. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: So sánh món ăn và biểu diễn theo thời gian giới hạn. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Khách dành một buổi xem triển lãm lịch sử trước khi đi quanh thành phố.\n\nKết bài: khẳng định lựa chọn trong hoàn cảnh đã nêu; nhắc đánh đổi với các phương án còn lại.",
+    "analysis": "Dạng Chọn 1 trong 3. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Khách dành một buổi xem triển lãm lịch sử trước khi đi quanh thành phố. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chọn bảo tàng: hiểu bối cảnh địa phương; So sánh món ăn và biểu diễn theo thời gian giới hạn"
+  },
+  {
+    "id": "W46",
+    "part": "essay",
+    "title": "What should people consider first when planning a trip with friends?",
+    "prompt": "What should people consider first when planning a trip with friends?",
+    "topic": "Du lịch & giải trí",
+    "category": "Nêu ý kiến",
+    "difficulty": "CB",
+    "ideas": [
+      "Thống nhất ngân sách",
+      "Bố trí lựa chọn linh hoạt theo sở thích"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Thống nhất ngân sách. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Bố trí lựa chọn linh hoạt theo sở thích. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Nhóm thống nhất mức chi phòng trước khi đặt dịch vụ.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Nêu ý kiến. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Nhóm thống nhất mức chi phòng trước khi đặt dịch vụ. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Thống nhất ngân sách; Bố trí lựa chọn linh hoạt theo sở thích"
+  },
+  {
+    "id": "W47",
+    "part": "essay",
+    "title": "What are the advantages and disadvantages of traveling with a large tour group?",
+    "prompt": "What are the advantages and disadvantages of traveling with a large tour group?",
+    "topic": "Du lịch & giải trí",
+    "category": "Ưu–nhược",
+    "difficulty": "NC",
+    "ideas": [
+      "Ưu điểm: tổ chức thuận tiện",
+      "Nhược điểm: lịch cứng và thời gian chờ"
+    ],
+    "samples": [],
+    "outline": "Mở bài: giới thiệu vấn đề, báo trước sẽ xem xét lợi ích và hạn chế.\n\nThân bài 1: Ưu điểm: tổ chức thuận tiện. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Nhược điểm: lịch cứng và thời gian chờ. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Đoàn được đưa đón sẵn nhưng phải rời bảo tàng đúng giờ.\n\nKết bài: cân nhắc hai mặt; nêu điều kiện để lợi ích vượt hạn chế.",
+    "analysis": "Dạng Ưu–nhược. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Đoàn được đưa đón sẵn nhưng phải rời bảo tàng đúng giờ. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Ưu điểm: tổ chức thuận tiện; Nhược điểm: lịch cứng và thời gian chờ"
+  },
+  {
+    "id": "W48",
+    "part": "essay",
+    "title": "Employers should encourage staff to take all of their annual vacation days. Do you agree or disagree?",
+    "prompt": "Employers should encourage staff to take all of their annual vacation days. Do you agree or disagree?",
+    "topic": "Du lịch & giải trí",
+    "category": "Đồng ý/Phản đối",
+    "difficulty": "CB",
+    "ideas": [
+      "Nghỉ đủ hỗ trợ phục hồi",
+      "Cần kế hoạch bàn giao để tránh gián đoạn"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Nghỉ đủ hỗ trợ phục hồi. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Cần kế hoạch bàn giao để tránh gián đoạn. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Hai đồng nghiệp nghỉ lệch tuần và chuẩn bị hướng dẫn công việc.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Đồng ý/Phản đối. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Hai đồng nghiệp nghỉ lệch tuần và chuẩn bị hướng dẫn công việc. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Nghỉ đủ hỗ trợ phục hồi; Cần kế hoạch bàn giao để tránh gián đoạn"
+  },
+  {
+    "id": "W49",
+    "part": "essay",
+    "title": "Training courses should include practical tasks rather than only lectures. Do you agree or disagree?",
+    "prompt": "Training courses should include practical tasks rather than only lectures. Do you agree or disagree?",
+    "topic": "Đào tạo & kỹ năng",
+    "category": "Đồng ý/Phản đối",
+    "difficulty": "CB",
+    "ideas": [
+      "Thực hành phát hiện chỗ chưa hiểu",
+      "Phản hồi giúp chuyển kiến thức sang công việc"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Thực hành phát hiện chỗ chưa hiểu. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Phản hồi giúp chuyển kiến thức sang công việc. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Học viên tạo bảng dự toán thay vì chỉ xem giảng viên thao tác.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Đồng ý/Phản đối. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Học viên tạo bảng dự toán thay vì chỉ xem giảng viên thao tác. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Thực hành phát hiện chỗ chưa hiểu; Phản hồi giúp chuyển kiến thức sang công việc"
+  },
+  {
+    "id": "W50",
+    "part": "essay",
+    "title": "Would you prefer a short intensive course or weekly classes over several months?",
+    "prompt": "Would you prefer a short intensive course or weekly classes over several months?",
+    "topic": "Đào tạo & kỹ năng",
+    "category": "Chọn 1 trong 2",
+    "difficulty": "TB",
+    "ideas": [
+      "Chọn lớp hằng tuần: thời gian ứng dụng",
+      "So sánh khóa ngắn phù hợp nhu cầu khẩn cấp"
+    ],
+    "samples": [],
+    "outline": "Mở bài: nêu lựa chọn và tiêu chí so sánh; không chỉ liệt kê các phương án.\n\nThân bài 1: Chọn lớp hằng tuần: thời gian ứng dụng. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: So sánh khóa ngắn phù hợp nhu cầu khẩn cấp. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Người học thử một kỹ thuật thuyết trình giữa hai buổi học.\n\nKết bài: khẳng định lựa chọn trong hoàn cảnh đã nêu; nhắc đánh đổi với các phương án còn lại.",
+    "analysis": "Dạng Chọn 1 trong 2. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Người học thử một kỹ thuật thuyết trình giữa hai buổi học. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chọn lớp hằng tuần: thời gian ứng dụng; So sánh khóa ngắn phù hợp nhu cầu khẩn cấp"
+  },
+  {
+    "id": "W51",
+    "part": "essay",
+    "title": "Which skill should new employees develop first: writing clearly, organizing time, or negotiating?",
+    "prompt": "Which skill should new employees develop first: writing clearly, organizing time, or negotiating?",
+    "topic": "Đào tạo & kỹ năng",
+    "category": "Chọn 1 trong 3",
+    "difficulty": "TB",
+    "ideas": [
+      "Chọn quản lý thời gian: tạo nền tảng đáp ứng hạn",
+      "So sánh viết và thương lượng tùy vai trò"
+    ],
+    "samples": [],
+    "outline": "Mở bài: nêu lựa chọn và tiêu chí so sánh; không chỉ liệt kê các phương án.\n\nThân bài 1: Chọn quản lý thời gian: tạo nền tảng đáp ứng hạn. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: So sánh viết và thương lượng tùy vai trò. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Nhân viên lập danh sách ưu tiên trước khi nhận nhiều yêu cầu cùng lúc.\n\nKết bài: khẳng định lựa chọn trong hoàn cảnh đã nêu; nhắc đánh đổi với các phương án còn lại.",
+    "analysis": "Dạng Chọn 1 trong 3. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Nhân viên lập danh sách ưu tiên trước khi nhận nhiều yêu cầu cùng lúc. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chọn quản lý thời gian: tạo nền tảng đáp ứng hạn; So sánh viết và thương lượng tùy vai trò"
+  },
+  {
+    "id": "W52",
+    "part": "essay",
+    "title": "What is the best way to measure whether workplace training has been useful?",
+    "prompt": "What is the best way to measure whether workplace training has been useful?",
+    "topic": "Đào tạo & kỹ năng",
+    "category": "Nêu ý kiến",
+    "difficulty": "CB",
+    "ideas": [
+      "Đánh giá ứng dụng vào nhiệm vụ thực tế",
+      "So sánh tiến bộ trước và sau khóa học"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Đánh giá ứng dụng vào nhiệm vụ thực tế. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: So sánh tiến bộ trước và sau khóa học. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Quan sát số lần phải sửa báo cáo trước và sau khóa viết.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Nêu ý kiến. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Quan sát số lần phải sửa báo cáo trước và sau khóa viết. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Đánh giá ứng dụng vào nhiệm vụ thực tế; So sánh tiến bộ trước và sau khóa học"
+  },
+  {
+    "id": "W53",
+    "part": "essay",
+    "title": "What are the advantages and disadvantages of allowing employees to select their own training courses?",
+    "prompt": "What are the advantages and disadvantages of allowing employees to select their own training courses?",
+    "topic": "Đào tạo & kỹ năng",
+    "category": "Ưu–nhược",
+    "difficulty": "NC",
+    "ideas": [
+      "Ưu điểm: phù hợp mục tiêu cá nhân",
+      "Nhược điểm: dễ lệch nhu cầu tổ chức"
+    ],
+    "samples": [],
+    "outline": "Mở bài: giới thiệu vấn đề, báo trước sẽ xem xét lợi ích và hạn chế.\n\nThân bài 1: Ưu điểm: phù hợp mục tiêu cá nhân. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Nhược điểm: dễ lệch nhu cầu tổ chức. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Nhân viên đề xuất khóa học kèm nhiệm vụ sẽ áp dụng.\n\nKết bài: cân nhắc hai mặt; nêu điều kiện để lợi ích vượt hạn chế.",
+    "analysis": "Dạng Ưu–nhược. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Nhân viên đề xuất khóa học kèm nhiệm vụ sẽ áp dụng. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Ưu điểm: phù hợp mục tiêu cá nhân; Nhược điểm: dễ lệch nhu cầu tổ chức"
+  },
+  {
+    "id": "W54",
+    "part": "essay",
+    "title": "Experienced staff should regularly share their knowledge with newer colleagues. Do you agree or disagree?",
+    "prompt": "Experienced staff should regularly share their knowledge with newer colleagues. Do you agree or disagree?",
+    "topic": "Đào tạo & kỹ năng",
+    "category": "Đồng ý/Phản đối",
+    "difficulty": "CB",
+    "ideas": [
+      "Giảm lặp lại lỗi cũ",
+      "Chia sẻ nên có lịch để không cản công việc chính"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Giảm lặp lại lỗi cũ. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Chia sẻ nên có lịch để không cản công việc chính. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Buổi trao đổi ngắn giải thích cách xử lý đơn hàng có ngoại lệ.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Đồng ý/Phản đối. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Buổi trao đổi ngắn giải thích cách xử lý đơn hàng có ngoại lệ. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Giảm lặp lại lỗi cũ; Chia sẻ nên có lịch để không cản công việc chính"
+  },
+  {
+    "id": "W55",
+    "part": "essay",
+    "title": "Friends should avoid checking their phones during shared meals. Do you agree or disagree?",
+    "prompt": "Friends should avoid checking their phones during shared meals. Do you agree or disagree?",
+    "topic": "Gia đình & bạn bè",
+    "category": "Đồng ý/Phản đối",
+    "difficulty": "CB",
+    "ideas": [
+      "Tăng sự chú ý khi trò chuyện",
+      "Cho phép ngoại lệ đã nói trước"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Tăng sự chú ý khi trò chuyện. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Cho phép ngoại lệ đã nói trước. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Bạn bè cất điện thoại nhưng một người vẫn theo dõi cuộc gọi từ gia đình.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Đồng ý/Phản đối. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Bạn bè cất điện thoại nhưng một người vẫn theo dõi cuộc gọi từ gia đình. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Tăng sự chú ý khi trò chuyện; Cho phép ngoại lệ đã nói trước"
+  },
+  {
+    "id": "W56",
+    "part": "essay",
+    "title": "Would you prefer to help a friend by giving practical assistance or by listening to their concerns?",
+    "prompt": "Would you prefer to help a friend by giving practical assistance or by listening to their concerns?",
+    "topic": "Gia đình & bạn bè",
+    "category": "Chọn 1 trong 2",
+    "difficulty": "TB",
+    "ideas": [
+      "Chọn lắng nghe trước: xác định nhu cầu",
+      "Sau đó giúp thực tế khi được yêu cầu"
+    ],
+    "samples": [],
+    "outline": "Mở bài: nêu lựa chọn và tiêu chí so sánh; không chỉ liệt kê các phương án.\n\nThân bài 1: Chọn lắng nghe trước: xác định nhu cầu. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Sau đó giúp thực tế khi được yêu cầu. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Người chuyển nhà cần chia sẻ lo lắng trước khi lên lịch đóng đồ.\n\nKết bài: khẳng định lựa chọn trong hoàn cảnh đã nêu; nhắc đánh đổi với các phương án còn lại.",
+    "analysis": "Dạng Chọn 1 trong 2. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Người chuyển nhà cần chia sẻ lo lắng trước khi lên lịch đóng đồ. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chọn lắng nghe trước: xác định nhu cầu; Sau đó giúp thực tế khi được yêu cầu"
+  },
+  {
+    "id": "W57",
+    "part": "essay",
+    "title": "Which activity best strengthens family relationships: cooking together, playing games, or taking trips?",
+    "prompt": "Which activity best strengthens family relationships: cooking together, playing games, or taking trips?",
+    "topic": "Gia đình & bạn bè",
+    "category": "Chọn 1 trong 3",
+    "difficulty": "TB",
+    "ideas": [
+      "Chọn nấu ăn: hoạt động thường xuyên dễ duy trì",
+      "So sánh trò chơi và chuyến đi có chi phí khác nhau"
+    ],
+    "samples": [],
+    "outline": "Mở bài: nêu lựa chọn và tiêu chí so sánh; không chỉ liệt kê các phương án.\n\nThân bài 1: Chọn nấu ăn: hoạt động thường xuyên dễ duy trì. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: So sánh trò chơi và chuyến đi có chi phí khác nhau. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Gia đình phân việc chuẩn bị bữa tối vào cuối tuần.\n\nKết bài: khẳng định lựa chọn trong hoàn cảnh đã nêu; nhắc đánh đổi với các phương án còn lại.",
+    "analysis": "Dạng Chọn 1 trong 3. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Gia đình phân việc chuẩn bị bữa tối vào cuối tuần. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chọn nấu ăn: hoạt động thường xuyên dễ duy trì; So sánh trò chơi và chuyến đi có chi phí khác nhau"
+  },
+  {
+    "id": "W58",
+    "part": "essay",
+    "title": "What is the most important quality in a reliable friend?",
+    "prompt": "What is the most important quality in a reliable friend?",
+    "topic": "Gia đình & bạn bè",
+    "category": "Nêu ý kiến",
+    "difficulty": "CB",
+    "ideas": [
+      "Giữ lời hứa",
+      "Trung thực về khả năng hỗ trợ"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Giữ lời hứa. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Trung thực về khả năng hỗ trợ. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Bạn báo sớm khi không thể đưa đón thay vì để người kia chờ.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Nêu ý kiến. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Bạn báo sớm khi không thể đưa đón thay vì để người kia chờ. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Giữ lời hứa; Trung thực về khả năng hỗ trợ"
+  },
+  {
+    "id": "W59",
+    "part": "essay",
+    "title": "What are the advantages and disadvantages of living close to extended family?",
+    "prompt": "What are the advantages and disadvantages of living close to extended family?",
+    "topic": "Gia đình & bạn bè",
+    "category": "Ưu–nhược",
+    "difficulty": "NC",
+    "ideas": [
+      "Ưu điểm: hỗ trợ nhanh và gặp thường xuyên",
+      "Nhược điểm: cần ranh giới về riêng tư"
+    ],
+    "samples": [],
+    "outline": "Mở bài: giới thiệu vấn đề, báo trước sẽ xem xét lợi ích và hạn chế.\n\nThân bài 1: Ưu điểm: hỗ trợ nhanh và gặp thường xuyên. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Nhược điểm: cần ranh giới về riêng tư. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Gia đình thống nhất gọi trước khi ghé thăm.\n\nKết bài: cân nhắc hai mặt; nêu điều kiện để lợi ích vượt hạn chế.",
+    "analysis": "Dạng Ưu–nhược. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Gia đình thống nhất gọi trước khi ghé thăm. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Ưu điểm: hỗ trợ nhanh và gặp thường xuyên; Nhược điểm: cần ranh giới về riêng tư"
+  },
+  {
+    "id": "W60",
+    "part": "essay",
+    "title": "Families should share household responsibilities equally. Do you agree or disagree?",
+    "prompt": "Families should share household responsibilities equally. Do you agree or disagree?",
+    "topic": "Gia đình & bạn bè",
+    "category": "Đồng ý/Phản đối",
+    "difficulty": "CB",
+    "ideas": [
+      "Ủng hộ phân chia công bằng theo thời gian và khả năng",
+      "Không đánh đồng công bằng với mọi việc giống nhau"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Ủng hộ phân chia công bằng theo thời gian và khả năng. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Không đánh đồng công bằng với mọi việc giống nhau. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Người về sớm nấu ăn còn người kia dọn bếp.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Đồng ý/Phản đối. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Người về sớm nấu ăn còn người kia dọn bếp. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Ủng hộ phân chia công bằng theo thời gian và khả năng; Không đánh đồng công bằng với mọi việc giống nhau"
+  },
+  {
+    "id": "W61",
+    "part": "essay",
+    "title": "Children should be encouraged to borrow books from libraries regularly. Do you agree or disagree?",
+    "prompt": "Children should be encouraged to borrow books from libraries regularly. Do you agree or disagree?",
+    "topic": "Giáo dục & trẻ em",
+    "category": "Đồng ý/Phản đối",
+    "difficulty": "CB",
+    "ideas": [
+      "Tăng cơ hội khám phá nhiều thể loại",
+      "Giảm chi phí nhưng cần hướng dẫn lựa chọn"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Tăng cơ hội khám phá nhiều thể loại. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Giảm chi phí nhưng cần hướng dẫn lựa chọn. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Trẻ chọn một truyện và một sách khoa học mỗi tháng.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Đồng ý/Phản đối. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Trẻ chọn một truyện và một sách khoa học mỗi tháng. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Tăng cơ hội khám phá nhiều thể loại; Giảm chi phí nhưng cần hướng dẫn lựa chọn"
+  },
+  {
+    "id": "W62",
+    "part": "essay",
+    "title": "Would students learn more from a science experiment or a classroom discussion?",
+    "prompt": "Would students learn more from a science experiment or a classroom discussion?",
+    "topic": "Giáo dục & trẻ em",
+    "category": "Chọn 1 trong 2",
+    "difficulty": "TB",
+    "ideas": [
+      "Chọn thí nghiệm: quan sát bằng chứng",
+      "Thảo luận giúp giải thích kết quả nên có vai trò bổ trợ"
+    ],
+    "samples": [],
+    "outline": "Mở bài: nêu lựa chọn và tiêu chí so sánh; không chỉ liệt kê các phương án.\n\nThân bài 1: Chọn thí nghiệm: quan sát bằng chứng. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Thảo luận giúp giải thích kết quả nên có vai trò bổ trợ. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Học sinh so sánh tốc độ nảy mầm dưới hai điều kiện ánh sáng.\n\nKết bài: khẳng định lựa chọn trong hoàn cảnh đã nêu; nhắc đánh đổi với các phương án còn lại.",
+    "analysis": "Dạng Chọn 1 trong 2. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Học sinh so sánh tốc độ nảy mầm dưới hai điều kiện ánh sáng. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chọn thí nghiệm: quan sát bằng chứng; Thảo luận giúp giải thích kết quả nên có vai trò bổ trợ"
+  },
+  {
+    "id": "W63",
+    "part": "essay",
+    "title": "Which should schools improve first: libraries, sports facilities, or computer rooms?",
+    "prompt": "Which should schools improve first: libraries, sports facilities, or computer rooms?",
+    "topic": "Giáo dục & trẻ em",
+    "category": "Chọn 1 trong 3",
+    "difficulty": "TB",
+    "ideas": [
+      "Chọn thư viện theo bối cảnh thiếu tài liệu",
+      "So sánh thể thao và máy tính bằng mức sử dụng"
+    ],
+    "samples": [],
+    "outline": "Mở bài: nêu lựa chọn và tiêu chí so sánh; không chỉ liệt kê các phương án.\n\nThân bài 1: Chọn thư viện theo bối cảnh thiếu tài liệu. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: So sánh thể thao và máy tính bằng mức sử dụng. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Thư viện mở sau giờ học phục vụ học sinh không có nơi đọc yên tĩnh.\n\nKết bài: khẳng định lựa chọn trong hoàn cảnh đã nêu; nhắc đánh đổi với các phương án còn lại.",
+    "analysis": "Dạng Chọn 1 trong 3. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Thư viện mở sau giờ học phục vụ học sinh không có nơi đọc yên tĩnh. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chọn thư viện theo bối cảnh thiếu tài liệu; So sánh thể thao và máy tính bằng mức sử dụng"
+  },
+  {
+    "id": "W64",
+    "part": "essay",
+    "title": "What is the best way for teachers to encourage students to ask questions?",
+    "prompt": "What is the best way for teachers to encourage students to ask questions?",
+    "topic": "Giáo dục & trẻ em",
+    "category": "Nêu ý kiến",
+    "difficulty": "CB",
+    "ideas": [
+      "Tạo môi trường chấp nhận chưa hiểu",
+      "Cho nhiều cách đặt câu hỏi"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Tạo môi trường chấp nhận chưa hiểu. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Cho nhiều cách đặt câu hỏi. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Học sinh gửi câu hỏi ẩn danh trước khi thảo luận trên lớp.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Nêu ý kiến. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Học sinh gửi câu hỏi ẩn danh trước khi thảo luận trên lớp. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Tạo môi trường chấp nhận chưa hiểu; Cho nhiều cách đặt câu hỏi"
+  },
+  {
+    "id": "W65",
+    "part": "essay",
+    "title": "What are the advantages and disadvantages of assigning group projects to students?",
+    "prompt": "What are the advantages and disadvantages of assigning group projects to students?",
+    "topic": "Giáo dục & trẻ em",
+    "category": "Ưu–nhược",
+    "difficulty": "NC",
+    "ideas": [
+      "Ưu điểm: luyện hợp tác",
+      "Nhược điểm: đóng góp không đều"
+    ],
+    "samples": [],
+    "outline": "Mở bài: giới thiệu vấn đề, báo trước sẽ xem xét lợi ích và hạn chế.\n\nThân bài 1: Ưu điểm: luyện hợp tác. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Nhược điểm: đóng góp không đều. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Nhóm ghi nhiệm vụ cá nhân và báo cáo tiến độ từng tuần.\n\nKết bài: cân nhắc hai mặt; nêu điều kiện để lợi ích vượt hạn chế.",
+    "analysis": "Dạng Ưu–nhược. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Nhóm ghi nhiệm vụ cá nhân và báo cáo tiến độ từng tuần. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Ưu điểm: luyện hợp tác; Nhược điểm: đóng góp không đều"
+  },
+  {
+    "id": "W66",
+    "part": "essay",
+    "title": "Schools should give students opportunities to help plan school events. Do you agree or disagree?",
+    "prompt": "Schools should give students opportunities to help plan school events. Do you agree or disagree?",
+    "topic": "Giáo dục & trẻ em",
+    "category": "Đồng ý/Phản đối",
+    "difficulty": "CB",
+    "ideas": [
+      "Luyện trách nhiệm qua việc thật",
+      "Cần người lớn hỗ trợ các quyết định vượt khả năng"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Luyện trách nhiệm qua việc thật. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Cần người lớn hỗ trợ các quyết định vượt khả năng. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Học sinh lập lịch gian hàng và giáo viên kiểm tra ngân sách.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Đồng ý/Phản đối. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Học sinh lập lịch gian hàng và giáo viên kiểm tra ngân sách. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Luyện trách nhiệm qua việc thật; Cần người lớn hỗ trợ các quyết định vượt khả năng"
+  },
+  {
+    "id": "W67",
+    "part": "essay",
+    "title": "Businesses should clearly explain changes to their prices. Do you agree or disagree?",
+    "prompt": "Businesses should clearly explain changes to their prices. Do you agree or disagree?",
+    "topic": "Kinh doanh, khách hàng & quảng cáo",
+    "category": "Đồng ý/Phản đối",
+    "difficulty": "CB",
+    "ideas": [
+      "Giữ niềm tin khi chi phí tăng",
+      "Giúp khách lựa chọn sản phẩm phù hợp"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Giữ niềm tin khi chi phí tăng. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Giúp khách lựa chọn sản phẩm phù hợp. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Cửa hàng ghi ngày áp dụng giá mới và giải thích dịch vụ đi kèm.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Đồng ý/Phản đối. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Cửa hàng ghi ngày áp dụng giá mới và giải thích dịch vụ đi kèm. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Giữ niềm tin khi chi phí tăng; Giúp khách lựa chọn sản phẩm phù hợp"
+  },
+  {
+    "id": "W68",
+    "part": "essay",
+    "title": "For a new shop, would you invest first in attractive displays or staff training?",
+    "prompt": "For a new shop, would you invest first in attractive displays or staff training?",
+    "topic": "Kinh doanh, khách hàng & quảng cáo",
+    "category": "Chọn 1 trong 2",
+    "difficulty": "TB",
+    "ideas": [
+      "Chọn đào tạo: trải nghiệm tư vấn ảnh hưởng mua lại",
+      "Trưng bày thu hút ban đầu nhưng không giải quyết khiếu nại"
+    ],
+    "samples": [],
+    "outline": "Mở bài: nêu lựa chọn và tiêu chí so sánh; không chỉ liệt kê các phương án.\n\nThân bài 1: Chọn đào tạo: trải nghiệm tư vấn ảnh hưởng mua lại. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Trưng bày thu hút ban đầu nhưng không giải quyết khiếu nại. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Nhân viên giải thích đúng sự khác biệt giữa hai sản phẩm.\n\nKết bài: khẳng định lựa chọn trong hoàn cảnh đã nêu; nhắc đánh đổi với các phương án còn lại.",
+    "analysis": "Dạng Chọn 1 trong 2. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Nhân viên giải thích đúng sự khác biệt giữa hai sản phẩm. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chọn đào tạo: trải nghiệm tư vấn ảnh hưởng mua lại; Trưng bày thu hút ban đầu nhưng không giải quyết khiếu nại"
+  },
+  {
+    "id": "W69",
+    "part": "essay",
+    "title": "Which promotion is most effective for a local business: discounts, free demonstrations, or loyalty rewards?",
+    "prompt": "Which promotion is most effective for a local business: discounts, free demonstrations, or loyalty rewards?",
+    "topic": "Kinh doanh, khách hàng & quảng cáo",
+    "category": "Chọn 1 trong 3",
+    "difficulty": "TB",
+    "ideas": [
+      "Chọn trình diễn: giảm bất định về sản phẩm",
+      "So sánh giảm giá và tích điểm theo mục tiêu"
+    ],
+    "samples": [],
+    "outline": "Mở bài: nêu lựa chọn và tiêu chí so sánh; không chỉ liệt kê các phương án.\n\nThân bài 1: Chọn trình diễn: giảm bất định về sản phẩm. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: So sánh giảm giá và tích điểm theo mục tiêu. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Cửa hàng cho khách thử dụng cụ trước khi quyết định mua.\n\nKết bài: khẳng định lựa chọn trong hoàn cảnh đã nêu; nhắc đánh đổi với các phương án còn lại.",
+    "analysis": "Dạng Chọn 1 trong 3. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Cửa hàng cho khách thử dụng cụ trước khi quyết định mua. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chọn trình diễn: giảm bất định về sản phẩm; So sánh giảm giá và tích điểm theo mục tiêu"
+  },
+  {
+    "id": "W70",
+    "part": "essay",
+    "title": "What is the best way for a company to respond to a dissatisfied customer?",
+    "prompt": "What is the best way for a company to respond to a dissatisfied customer?",
+    "topic": "Kinh doanh, khách hàng & quảng cáo",
+    "category": "Nêu ý kiến",
+    "difficulty": "CB",
+    "ideas": [
+      "Xác định vấn đề cụ thể",
+      "Đề xuất giải pháp và thời hạn thực hiện"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Xác định vấn đề cụ thể. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Đề xuất giải pháp và thời hạn thực hiện. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Nhân viên xác nhận phụ kiện thiếu và hẹn ngày gửi bổ sung.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Nêu ý kiến. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Nhân viên xác nhận phụ kiện thiếu và hẹn ngày gửi bổ sung. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Xác định vấn đề cụ thể; Đề xuất giải pháp và thời hạn thực hiện"
+  },
+  {
+    "id": "W71",
+    "part": "essay",
+    "title": "What are the advantages and disadvantages of selling products only through an online store?",
+    "prompt": "What are the advantages and disadvantages of selling products only through an online store?",
+    "topic": "Kinh doanh, khách hàng & quảng cáo",
+    "category": "Ưu–nhược",
+    "difficulty": "NC",
+    "ideas": [
+      "Ưu điểm: giảm chi phí mặt bằng",
+      "Nhược điểm: khách khó thử trực tiếp"
+    ],
+    "samples": [],
+    "outline": "Mở bài: giới thiệu vấn đề, báo trước sẽ xem xét lợi ích và hạn chế.\n\nThân bài 1: Ưu điểm: giảm chi phí mặt bằng. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Nhược điểm: khách khó thử trực tiếp. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Hãng giày hướng dẫn kích cỡ rõ và đưa chính sách đổi phù hợp.\n\nKết bài: cân nhắc hai mặt; nêu điều kiện để lợi ích vượt hạn chế.",
+    "analysis": "Dạng Ưu–nhược. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Hãng giày hướng dẫn kích cỡ rõ và đưa chính sách đổi phù hợp. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Ưu điểm: giảm chi phí mặt bằng; Nhược điểm: khách khó thử trực tiếp"
+  },
+  {
+    "id": "W72",
+    "part": "essay",
+    "title": "Small businesses should seek feedback before launching a new service. Do you agree or disagree?",
+    "prompt": "Small businesses should seek feedback before launching a new service. Do you agree or disagree?",
+    "topic": "Kinh doanh, khách hàng & quảng cáo",
+    "category": "Đồng ý/Phản đối",
+    "difficulty": "CB",
+    "ideas": [
+      "Kiểm tra nhu cầu trước đầu tư",
+      "Cần phân biệt lời khen với ý định sử dụng"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Kiểm tra nhu cầu trước đầu tư. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Cần phân biệt lời khen với ý định sử dụng. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Tiệm giặt thử dịch vụ giao nhận ở một khu vực trước khi mở rộng.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Đồng ý/Phản đối. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Tiệm giặt thử dịch vụ giao nhận ở một khu vực trước khi mở rộng. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Kiểm tra nhu cầu trước đầu tư; Cần phân biệt lời khen với ý định sử dụng"
+  },
+  {
+    "id": "W73",
+    "part": "essay",
+    "title": "Team leaders should explain the reasons behind important decisions. Do you agree or disagree?",
+    "prompt": "Team leaders should explain the reasons behind important decisions. Do you agree or disagree?",
+    "topic": "Lãnh đạo & làm việc nhóm",
+    "category": "Đồng ý/Phản đối",
+    "difficulty": "CB",
+    "ideas": [
+      "Giúp nhóm hiểu ưu tiên",
+      "Giảm suy đoán nhưng không tiết lộ dữ liệu không được phép"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Giúp nhóm hiểu ưu tiên. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Giảm suy đoán nhưng không tiết lộ dữ liệu không được phép. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Trưởng nhóm giải thích đổi lịch để đáp ứng thời điểm bàn giao.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Đồng ý/Phản đối. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Trưởng nhóm giải thích đổi lịch để đáp ứng thời điểm bàn giao. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Giúp nhóm hiểu ưu tiên; Giảm suy đoán nhưng không tiết lộ dữ liệu không được phép"
+  },
+  {
+    "id": "W74",
+    "part": "essay",
+    "title": "Would you prefer a leader who gives detailed instructions or one who allows independence?",
+    "prompt": "Would you prefer a leader who gives detailed instructions or one who allows independence?",
+    "topic": "Lãnh đạo & làm việc nhóm",
+    "category": "Chọn 1 trong 2",
+    "difficulty": "TB",
+    "ideas": [
+      "Chọn tự chủ khi nhóm đủ kỹ năng",
+      "So sánh hướng dẫn chi tiết cần thiết với người mới"
+    ],
+    "samples": [],
+    "outline": "Mở bài: nêu lựa chọn và tiêu chí so sánh; không chỉ liệt kê các phương án.\n\nThân bài 1: Chọn tự chủ khi nhóm đủ kỹ năng. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: So sánh hướng dẫn chi tiết cần thiết với người mới. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Nhân viên được chọn cách làm nhưng có mốc kiểm tra rõ.\n\nKết bài: khẳng định lựa chọn trong hoàn cảnh đã nêu; nhắc đánh đổi với các phương án còn lại.",
+    "analysis": "Dạng Chọn 1 trong 2. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Nhân viên được chọn cách làm nhưng có mốc kiểm tra rõ. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chọn tự chủ khi nhóm đủ kỹ năng; So sánh hướng dẫn chi tiết cần thiết với người mới"
+  },
+  {
+    "id": "W75",
+    "part": "essay",
+    "title": "Which contributes most to successful teamwork: clear roles, regular meetings, or shared rewards?",
+    "prompt": "Which contributes most to successful teamwork: clear roles, regular meetings, or shared rewards?",
+    "topic": "Lãnh đạo & làm việc nhóm",
+    "category": "Chọn 1 trong 3",
+    "difficulty": "TB",
+    "ideas": [
+      "Chọn vai trò rõ: tránh bỏ sót và chồng chéo",
+      "So sánh họp và thưởng chỉ hiệu quả khi biết trách nhiệm"
+    ],
+    "samples": [],
+    "outline": "Mở bài: nêu lựa chọn và tiêu chí so sánh; không chỉ liệt kê các phương án.\n\nThân bài 1: Chọn vai trò rõ: tránh bỏ sót và chồng chéo. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: So sánh họp và thưởng chỉ hiệu quả khi biết trách nhiệm. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Dự án xác định riêng người viết, kiểm tra và phê duyệt.\n\nKết bài: khẳng định lựa chọn trong hoàn cảnh đã nêu; nhắc đánh đổi với các phương án còn lại.",
+    "analysis": "Dạng Chọn 1 trong 3. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Dự án xác định riêng người viết, kiểm tra và phê duyệt. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chọn vai trò rõ: tránh bỏ sót và chồng chéo; So sánh họp và thưởng chỉ hiệu quả khi biết trách nhiệm"
+  },
+  {
+    "id": "W76",
+    "part": "essay",
+    "title": "What should a leader do first when two team members disagree?",
+    "prompt": "What should a leader do first when two team members disagree?",
+    "topic": "Lãnh đạo & làm việc nhóm",
+    "category": "Nêu ý kiến",
+    "difficulty": "CB",
+    "ideas": [
+      "Lắng nghe thông tin từ cả hai",
+      "Xác định mục tiêu và tiêu chí chung"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Lắng nghe thông tin từ cả hai. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Xác định mục tiêu và tiêu chí chung. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Hai nhân viên chọn phương án theo thời hạn và yêu cầu khách hàng.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Nêu ý kiến. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Hai nhân viên chọn phương án theo thời hạn và yêu cầu khách hàng. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Lắng nghe thông tin từ cả hai; Xác định mục tiêu và tiêu chí chung"
+  },
+  {
+    "id": "W77",
+    "part": "essay",
+    "title": "What are the advantages and disadvantages of rotating the team leader role?",
+    "prompt": "What are the advantages and disadvantages of rotating the team leader role?",
+    "topic": "Lãnh đạo & làm việc nhóm",
+    "category": "Ưu–nhược",
+    "difficulty": "NC",
+    "ideas": [
+      "Ưu điểm: phát triển nhiều người",
+      "Nhược điểm: gián đoạn tính liên tục"
+    ],
+    "samples": [],
+    "outline": "Mở bài: giới thiệu vấn đề, báo trước sẽ xem xét lợi ích và hạn chế.\n\nThân bài 1: Ưu điểm: phát triển nhiều người. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Nhược điểm: gián đoạn tính liên tục. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Nhóm đổi người điều phối mỗi tháng với hồ sơ bàn giao.\n\nKết bài: cân nhắc hai mặt; nêu điều kiện để lợi ích vượt hạn chế.",
+    "analysis": "Dạng Ưu–nhược. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Nhóm đổi người điều phối mỗi tháng với hồ sơ bàn giao. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Ưu điểm: phát triển nhiều người; Nhược điểm: gián đoạn tính liên tục"
+  },
+  {
+    "id": "W78",
+    "part": "essay",
+    "title": "Team members should receive feedback throughout a project, not just at the end. Do you agree or disagree?",
+    "prompt": "Team members should receive feedback throughout a project, not just at the end. Do you agree or disagree?",
+    "topic": "Lãnh đạo & làm việc nhóm",
+    "category": "Đồng ý/Phản đối",
+    "difficulty": "CB",
+    "ideas": [
+      "Sửa sai khi còn thời gian",
+      "Giữ phản hồi cụ thể để tránh gián đoạn"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Sửa sai khi còn thời gian. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Giữ phản hồi cụ thể để tránh gián đoạn. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Bản nháp được nhận xét trước khi nhóm hoàn thành toàn bộ báo cáo.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Đồng ý/Phản đối. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Bản nháp được nhận xét trước khi nhóm hoàn thành toàn bộ báo cáo. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Sửa sai khi còn thời gian; Giữ phản hồi cụ thể để tránh gián đoạn"
+  },
+  {
+    "id": "W79",
+    "part": "essay",
+    "title": "Cities should provide more protected bicycle routes. Do you agree or disagree?",
+    "prompt": "Cities should provide more protected bicycle routes. Do you agree or disagree?",
+    "topic": "Nơi ở, giao thông & thành phố",
+    "category": "Đồng ý/Phản đối",
+    "difficulty": "CB",
+    "ideas": [
+      "Tăng lựa chọn di chuyển",
+      "Cần kết nối tuyến và cân nhắc không gian đường"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Tăng lựa chọn di chuyển. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Cần kết nối tuyến và cân nhắc không gian đường. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Tuyến xe đạp nối khu dân cư với ga thay vì kết thúc giữa đường.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Đồng ý/Phản đối. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Tuyến xe đạp nối khu dân cư với ga thay vì kết thúc giữa đường. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Tăng lựa chọn di chuyển; Cần kết nối tuyến và cân nhắc không gian đường"
+  },
+  {
+    "id": "W80",
+    "part": "essay",
+    "title": "Would you prefer to live near a park or near a shopping center?",
+    "prompt": "Would you prefer to live near a park or near a shopping center?",
+    "topic": "Nơi ở, giao thông & thành phố",
+    "category": "Chọn 1 trong 2",
+    "difficulty": "TB",
+    "ideas": [
+      "Chọn công viên: hoạt động ngoài trời thường xuyên",
+      "So sánh mua sắm thuận tiện nhưng có thể ồn"
+    ],
+    "samples": [],
+    "outline": "Mở bài: nêu lựa chọn và tiêu chí so sánh; không chỉ liệt kê các phương án.\n\nThân bài 1: Chọn công viên: hoạt động ngoài trời thường xuyên. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: So sánh mua sắm thuận tiện nhưng có thể ồn. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Người làm việc tại nhà đi bộ sau giờ làm ở công viên gần nhà.\n\nKết bài: khẳng định lựa chọn trong hoàn cảnh đã nêu; nhắc đánh đổi với các phương án còn lại.",
+    "analysis": "Dạng Chọn 1 trong 2. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Người làm việc tại nhà đi bộ sau giờ làm ở công viên gần nhà. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chọn công viên: hoạt động ngoài trời thường xuyên; So sánh mua sắm thuận tiện nhưng có thể ồn"
+  },
+  {
+    "id": "W81",
+    "part": "essay",
+    "title": "Which transport improvement should a city prioritize: more buses, better sidewalks, or additional parking?",
+    "prompt": "Which transport improvement should a city prioritize: more buses, better sidewalks, or additional parking?",
+    "topic": "Nơi ở, giao thông & thành phố",
+    "category": "Chọn 1 trong 3",
+    "difficulty": "TB",
+    "ideas": [
+      "Chọn xe buýt trong bối cảnh nhu cầu đi làm cao",
+      "So sánh vỉa hè và chỗ đỗ theo số người phục vụ"
+    ],
+    "samples": [],
+    "outline": "Mở bài: nêu lựa chọn và tiêu chí so sánh; không chỉ liệt kê các phương án.\n\nThân bài 1: Chọn xe buýt trong bối cảnh nhu cầu đi làm cao. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: So sánh vỉa hè và chỗ đỗ theo số người phục vụ. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Tuyến xe buýt tăng chuyến vào giờ đông người.\n\nKết bài: khẳng định lựa chọn trong hoàn cảnh đã nêu; nhắc đánh đổi với các phương án còn lại.",
+    "analysis": "Dạng Chọn 1 trong 3. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Tuyến xe buýt tăng chuyến vào giờ đông người. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chọn xe buýt trong bối cảnh nhu cầu đi làm cao; So sánh vỉa hè và chỗ đỗ theo số người phục vụ"
+  },
+  {
+    "id": "W82",
+    "part": "essay",
+    "title": "What should people consider first when choosing a neighborhood to live in?",
+    "prompt": "What should people consider first when choosing a neighborhood to live in?",
+    "topic": "Nơi ở, giao thông & thành phố",
+    "category": "Nêu ý kiến",
+    "difficulty": "CB",
+    "ideas": [
+      "Khả năng đáp ứng sinh hoạt thường ngày",
+      "Kiểm tra thời gian di chuyển thực tế"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Khả năng đáp ứng sinh hoạt thường ngày. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Kiểm tra thời gian di chuyển thực tế. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Người thuê thử đi từ nhà đến nơi làm vào giờ cao điểm.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Nêu ý kiến. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Người thuê thử đi từ nhà đến nơi làm vào giờ cao điểm. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Khả năng đáp ứng sinh hoạt thường ngày; Kiểm tra thời gian di chuyển thực tế"
+  },
+  {
+    "id": "W83",
+    "part": "essay",
+    "title": "What are the advantages and disadvantages of sharing an apartment with other people?",
+    "prompt": "What are the advantages and disadvantages of sharing an apartment with other people?",
+    "topic": "Nơi ở, giao thông & thành phố",
+    "category": "Ưu–nhược",
+    "difficulty": "NC",
+    "ideas": [
+      "Ưu điểm: chia chi phí",
+      "Nhược điểm: khác lịch sinh hoạt và tiêu chuẩn dọn dẹp"
+    ],
+    "samples": [],
+    "outline": "Mở bài: giới thiệu vấn đề, báo trước sẽ xem xét lợi ích và hạn chế.\n\nThân bài 1: Ưu điểm: chia chi phí. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Nhược điểm: khác lịch sinh hoạt và tiêu chuẩn dọn dẹp. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Người ở chung thống nhất giờ yên tĩnh và lịch vệ sinh.\n\nKết bài: cân nhắc hai mặt; nêu điều kiện để lợi ích vượt hạn chế.",
+    "analysis": "Dạng Ưu–nhược. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Người ở chung thống nhất giờ yên tĩnh và lịch vệ sinh. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Ưu điểm: chia chi phí; Nhược điểm: khác lịch sinh hoạt và tiêu chuẩn dọn dẹp"
+  },
+  {
+    "id": "W84",
+    "part": "essay",
+    "title": "Public transport should run later at night in large cities. Do you agree or disagree?",
+    "prompt": "Public transport should run later at night in large cities. Do you agree or disagree?",
+    "topic": "Nơi ở, giao thông & thành phố",
+    "category": "Đồng ý/Phản đối",
+    "difficulty": "CB",
+    "ideas": [
+      "Phục vụ người làm ca và hoạt động buổi tối",
+      "Cần cân đối nhu cầu với chi phí vận hành"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Phục vụ người làm ca và hoạt động buổi tối. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Cần cân đối nhu cầu với chi phí vận hành. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Chuyến cuối phù hợp thời điểm nhân viên nhà hàng tan ca.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Đồng ý/Phản đối. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Chuyến cuối phù hợp thời điểm nhân viên nhà hàng tan ca. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Phục vụ người làm ca và hoạt động buổi tối; Cần cân đối nhu cầu với chi phí vận hành"
+  },
+  {
+    "id": "W85",
+    "part": "essay",
+    "title": "Employees should keep a record of their professional achievements. Do you agree or disagree?",
+    "prompt": "Employees should keep a record of their professional achievements. Do you agree or disagree?",
+    "topic": "Sự nghiệp & thăng tiến",
+    "category": "Đồng ý/Phản đối",
+    "difficulty": "CB",
+    "ideas": [
+      "Cung cấp bằng chứng khi đánh giá",
+      "Giúp nhận ra kỹ năng cần phát triển"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Cung cấp bằng chứng khi đánh giá. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Giúp nhận ra kỹ năng cần phát triển. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Nhân viên ghi kết quả cải tiến quy trình cùng vai trò của đồng đội.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Đồng ý/Phản đối. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Nhân viên ghi kết quả cải tiến quy trình cùng vai trò của đồng đội. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Cung cấp bằng chứng khi đánh giá; Giúp nhận ra kỹ năng cần phát triển"
+  },
+  {
+    "id": "W86",
+    "part": "essay",
+    "title": "Would you choose a promotion with more responsibility or a specialist role with deeper expertise?",
+    "prompt": "Would you choose a promotion with more responsibility or a specialist role with deeper expertise?",
+    "topic": "Sự nghiệp & thăng tiến",
+    "category": "Chọn 1 trong 2",
+    "difficulty": "TB",
+    "ideas": [
+      "Chọn chuyên môn sâu theo mục tiêu nghề nghiệp",
+      "So sánh quản lý đòi hỏi kỹ năng khác"
+    ],
+    "samples": [],
+    "outline": "Mở bài: nêu lựa chọn và tiêu chí so sánh; không chỉ liệt kê các phương án.\n\nThân bài 1: Chọn chuyên môn sâu theo mục tiêu nghề nghiệp. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: So sánh quản lý đòi hỏi kỹ năng khác. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Kỹ thuật viên phát triển thành chuyên gia thay vì quản lý nhân sự.\n\nKết bài: khẳng định lựa chọn trong hoàn cảnh đã nêu; nhắc đánh đổi với các phương án còn lại.",
+    "analysis": "Dạng Chọn 1 trong 2. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Kỹ thuật viên phát triển thành chuyên gia thay vì quản lý nhân sự. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chọn chuyên môn sâu theo mục tiêu nghề nghiệp; So sánh quản lý đòi hỏi kỹ năng khác"
+  },
+  {
+    "id": "W87",
+    "part": "essay",
+    "title": "Which helps career development most: mentoring, challenging assignments, or professional networking?",
+    "prompt": "Which helps career development most: mentoring, challenging assignments, or professional networking?",
+    "topic": "Sự nghiệp & thăng tiến",
+    "category": "Chọn 1 trong 3",
+    "difficulty": "TB",
+    "ideas": [
+      "Chọn nhiệm vụ thử thách: có bằng chứng năng lực",
+      "So sánh cố vấn và quan hệ hỗ trợ nhưng cần thực hành"
+    ],
+    "samples": [],
+    "outline": "Mở bài: nêu lựa chọn và tiêu chí so sánh; không chỉ liệt kê các phương án.\n\nThân bài 1: Chọn nhiệm vụ thử thách: có bằng chứng năng lực. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: So sánh cố vấn và quan hệ hỗ trợ nhưng cần thực hành. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Nhân viên phụ trách dự án nhỏ và nhận phản hồi từ người hướng dẫn.\n\nKết bài: khẳng định lựa chọn trong hoàn cảnh đã nêu; nhắc đánh đổi với các phương án còn lại.",
+    "analysis": "Dạng Chọn 1 trong 3. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Nhân viên phụ trách dự án nhỏ và nhận phản hồi từ người hướng dẫn. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chọn nhiệm vụ thử thách: có bằng chứng năng lực; So sánh cố vấn và quan hệ hỗ trợ nhưng cần thực hành"
+  },
+  {
+    "id": "W88",
+    "part": "essay",
+    "title": "What is the best way to prepare for a more senior role?",
+    "prompt": "What is the best way to prepare for a more senior role?",
+    "topic": "Sự nghiệp & thăng tiến",
+    "category": "Nêu ý kiến",
+    "difficulty": "CB",
+    "ideas": [
+      "Xác định khoảng trống năng lực",
+      "Thử trách nhiệm mới có hỗ trợ"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Xác định khoảng trống năng lực. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Thử trách nhiệm mới có hỗ trợ. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Người chuẩn bị lên trưởng nhóm điều phối một cuộc họp tiến độ.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Nêu ý kiến. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Người chuẩn bị lên trưởng nhóm điều phối một cuộc họp tiến độ. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Xác định khoảng trống năng lực; Thử trách nhiệm mới có hỗ trợ"
+  },
+  {
+    "id": "W89",
+    "part": "essay",
+    "title": "What are the advantages and disadvantages of changing careers after several years in one field?",
+    "prompt": "What are the advantages and disadvantages of changing careers after several years in one field?",
+    "topic": "Sự nghiệp & thăng tiến",
+    "category": "Ưu–nhược",
+    "difficulty": "NC",
+    "ideas": [
+      "Ưu điểm: phù hợp mục tiêu mới",
+      "Nhược điểm: thời gian học lại và thu nhập ban đầu"
+    ],
+    "samples": [],
+    "outline": "Mở bài: giới thiệu vấn đề, báo trước sẽ xem xét lợi ích và hạn chế.\n\nThân bài 1: Ưu điểm: phù hợp mục tiêu mới. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Nhược điểm: thời gian học lại và thu nhập ban đầu. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Nhân viên hành chính học kỹ năng phân tích trước khi chuyển việc.\n\nKết bài: cân nhắc hai mặt; nêu điều kiện để lợi ích vượt hạn chế.",
+    "analysis": "Dạng Ưu–nhược. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Nhân viên hành chính học kỹ năng phân tích trước khi chuyển việc. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Ưu điểm: phù hợp mục tiêu mới; Nhược điểm: thời gian học lại và thu nhập ban đầu"
+  },
+  {
+    "id": "W90",
+    "part": "essay",
+    "title": "Career success should be measured by more than job titles. Do you agree or disagree?",
+    "prompt": "Career success should be measured by more than job titles. Do you agree or disagree?",
+    "topic": "Sự nghiệp & thăng tiến",
+    "category": "Đồng ý/Phản đối",
+    "difficulty": "CB",
+    "ideas": [
+      "Xét chất lượng công việc và mức phát triển",
+      "Chức danh không thể hiện mọi đóng góp"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Xét chất lượng công việc và mức phát triển. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Chức danh không thể hiện mọi đóng góp. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Chuyên gia cải thiện chất lượng dịch vụ dù không quản lý người khác.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Đồng ý/Phản đối. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Chuyên gia cải thiện chất lượng dịch vụ dù không quản lý người khác. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Xét chất lượng công việc và mức phát triển; Chức danh không thể hiện mọi đóng góp"
+  },
+  {
+    "id": "W91",
+    "part": "essay",
+    "title": "Employers should provide candidates with clear information about job responsibilities. Do you agree or disagree?",
+    "prompt": "Employers should provide candidates with clear information about job responsibilities. Do you agree or disagree?",
+    "topic": "Tuyển dụng & chọn việc",
+    "category": "Đồng ý/Phản đối",
+    "difficulty": "CB",
+    "ideas": [
+      "Giảm kỳ vọng sai",
+      "Giúp ứng viên tự đánh giá mức phù hợp"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Giảm kỳ vọng sai. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Giúp ứng viên tự đánh giá mức phù hợp. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Tin tuyển dụng ghi tỷ lệ công việc hỗ trợ khách và xử lý dữ liệu.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Đồng ý/Phản đối. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Tin tuyển dụng ghi tỷ lệ công việc hỗ trợ khách và xử lý dữ liệu. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Giảm kỳ vọng sai; Giúp ứng viên tự đánh giá mức phù hợp"
+  },
+  {
+    "id": "W92",
+    "part": "essay",
+    "title": "Would you prefer a job at a small company or at a large organization?",
+    "prompt": "Would you prefer a job at a small company or at a large organization?",
+    "topic": "Tuyển dụng & chọn việc",
+    "category": "Chọn 1 trong 2",
+    "difficulty": "TB",
+    "ideas": [
+      "Chọn công ty nhỏ: tiếp xúc nhiều loại nhiệm vụ",
+      "So sánh công ty lớn có nguồn lực đào tạo tốt"
+    ],
+    "samples": [],
+    "outline": "Mở bài: nêu lựa chọn và tiêu chí so sánh; không chỉ liệt kê các phương án.\n\nThân bài 1: Chọn công ty nhỏ: tiếp xúc nhiều loại nhiệm vụ. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: So sánh công ty lớn có nguồn lực đào tạo tốt. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Nhân viên doanh nghiệp nhỏ theo đơn hàng từ tiếp nhận đến bàn giao.\n\nKết bài: khẳng định lựa chọn trong hoàn cảnh đã nêu; nhắc đánh đổi với các phương án còn lại.",
+    "analysis": "Dạng Chọn 1 trong 2. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Nhân viên doanh nghiệp nhỏ theo đơn hàng từ tiếp nhận đến bàn giao. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chọn công ty nhỏ: tiếp xúc nhiều loại nhiệm vụ; So sánh công ty lớn có nguồn lực đào tạo tốt"
+  },
+  {
+    "id": "W93",
+    "part": "essay",
+    "title": "Which should a candidate prioritize: salary, learning opportunities, or work location?",
+    "prompt": "Which should a candidate prioritize: salary, learning opportunities, or work location?",
+    "topic": "Tuyển dụng & chọn việc",
+    "category": "Chọn 1 trong 3",
+    "difficulty": "TB",
+    "ideas": [
+      "Chọn cơ hội học khi tài chính cơ bản được đáp ứng",
+      "So sánh lương và nơi làm theo hoàn cảnh"
+    ],
+    "samples": [],
+    "outline": "Mở bài: nêu lựa chọn và tiêu chí so sánh; không chỉ liệt kê các phương án.\n\nThân bài 1: Chọn cơ hội học khi tài chính cơ bản được đáp ứng. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: So sánh lương và nơi làm theo hoàn cảnh. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Người mới ra trường chọn vị trí có người hướng dẫn và lộ trình kỹ năng.\n\nKết bài: khẳng định lựa chọn trong hoàn cảnh đã nêu; nhắc đánh đổi với các phương án còn lại.",
+    "analysis": "Dạng Chọn 1 trong 3. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Người mới ra trường chọn vị trí có người hướng dẫn và lộ trình kỹ năng. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chọn cơ hội học khi tài chính cơ bản được đáp ứng; So sánh lương và nơi làm theo hoàn cảnh"
+  },
+  {
+    "id": "W94",
+    "part": "essay",
+    "title": "What is the most useful question to ask an employer during a job interview?",
+    "prompt": "What is the most useful question to ask an employer during a job interview?",
+    "topic": "Tuyển dụng & chọn việc",
+    "category": "Nêu ý kiến",
+    "difficulty": "CB",
+    "ideas": [
+      "Hỏi cách đánh giá thành công của vị trí",
+      "Liên hệ câu trả lời với trách nhiệm thực tế"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Hỏi cách đánh giá thành công của vị trí. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Liên hệ câu trả lời với trách nhiệm thực tế. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Ứng viên hỏi kết quả kỳ vọng sau ba tháng đầu.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Nêu ý kiến. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Ứng viên hỏi kết quả kỳ vọng sau ba tháng đầu. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Hỏi cách đánh giá thành công của vị trí; Liên hệ câu trả lời với trách nhiệm thực tế"
+  },
+  {
+    "id": "W95",
+    "part": "essay",
+    "title": "What are the advantages and disadvantages of hiring employees through staff referrals?",
+    "prompt": "What are the advantages and disadvantages of hiring employees through staff referrals?",
+    "topic": "Tuyển dụng & chọn việc",
+    "category": "Ưu–nhược",
+    "difficulty": "NC",
+    "ideas": [
+      "Ưu điểm: tiếp cận ứng viên nhanh",
+      "Nhược điểm: thu hẹp nguồn ứng viên và nguy cơ thiên vị"
+    ],
+    "samples": [],
+    "outline": "Mở bài: giới thiệu vấn đề, báo trước sẽ xem xét lợi ích và hạn chế.\n\nThân bài 1: Ưu điểm: tiếp cận ứng viên nhanh. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Nhược điểm: thu hẹp nguồn ứng viên và nguy cơ thiên vị. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Ứng viên được giới thiệu vẫn làm cùng bài đánh giá với người khác.\n\nKết bài: cân nhắc hai mặt; nêu điều kiện để lợi ích vượt hạn chế.",
+    "analysis": "Dạng Ưu–nhược. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Ứng viên được giới thiệu vẫn làm cùng bài đánh giá với người khác. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Ưu điểm: tiếp cận ứng viên nhanh; Nhược điểm: thu hẹp nguồn ứng viên và nguy cơ thiên vị"
+  },
+  {
+    "id": "W96",
+    "part": "essay",
+    "title": "Employers should consider relevant volunteer experience when evaluating applicants. Do you agree or disagree?",
+    "prompt": "Employers should consider relevant volunteer experience when evaluating applicants. Do you agree or disagree?",
+    "topic": "Tuyển dụng & chọn việc",
+    "category": "Đồng ý/Phản đối",
+    "difficulty": "CB",
+    "ideas": [
+      "Nhận diện kỹ năng có thể chuyển sang việc làm",
+      "Kiểm tra mức trách nhiệm thay vì chỉ tên hoạt động"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Nhận diện kỹ năng có thể chuyển sang việc làm. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Kiểm tra mức trách nhiệm thay vì chỉ tên hoạt động. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Ứng viên quản lý lịch tình nguyện viên chứng minh kỹ năng tổ chức.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Đồng ý/Phản đối. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Ứng viên quản lý lịch tình nguyện viên chứng minh kỹ năng tổ chức. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Nhận diện kỹ năng có thể chuyển sang việc làm; Kiểm tra mức trách nhiệm thay vì chỉ tên hoạt động"
+  },
+  {
+    "id": "W97",
+    "part": "essay",
+    "title": "What are the advantages and disadvantages of replacing printed workplace notices with digital screens?",
+    "prompt": "What are the advantages and disadvantages of replacing printed workplace notices with digital screens?",
+    "topic": "Công nghệ & Internet",
+    "category": "Ưu–nhược",
+    "difficulty": "NC",
+    "ideas": [
+      "Ưu điểm: cập nhật nội dung nhanh",
+      "Nhược điểm: phụ thuộc thiết bị và khả năng đọc"
+    ],
+    "samples": [],
+    "outline": "Mở bài: giới thiệu vấn đề, báo trước sẽ xem xét lợi ích và hạn chế.\n\nThân bài 1: Ưu điểm: cập nhật nội dung nhanh. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Nhược điểm: phụ thuộc thiết bị và khả năng đọc. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Công ty giữ thông báo khẩn cấp tại vị trí dễ thấy khi màn hình hỏng.\n\nKết bài: cân nhắc hai mặt; nêu điều kiện để lợi ích vượt hạn chế.",
+    "analysis": "Dạng Ưu–nhược. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Công ty giữ thông báo khẩn cấp tại vị trí dễ thấy khi màn hình hỏng. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Ưu điểm: cập nhật nội dung nhanh; Nhược điểm: phụ thuộc thiết bị và khả năng đọc"
+  },
+  {
+    "id": "W98",
+    "part": "essay",
+    "title": "What is the best way to help students manage their homework time?",
+    "prompt": "What is the best way to help students manage their homework time?",
+    "topic": "Giáo dục & trẻ em",
+    "category": "Nêu ý kiến",
+    "difficulty": "CB",
+    "ideas": [
+      "Chia nhiệm vụ thành bước với mốc hoàn thành",
+      "Theo dõi thời gian thực tế để điều chỉnh"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Chia nhiệm vụ thành bước với mốc hoàn thành. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Theo dõi thời gian thực tế để điều chỉnh. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Học sinh lên lịch tìm nguồn trước khi viết bài thay vì làm toàn bộ tối cuối.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Nêu ý kiến. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Học sinh lên lịch tìm nguồn trước khi viết bài thay vì làm toàn bộ tối cuối. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chia nhiệm vụ thành bước với mốc hoàn thành; Theo dõi thời gian thực tế để điều chỉnh"
+  },
+  {
+    "id": "W99",
+    "part": "essay",
+    "title": "For a team discussion, would you prefer written suggestions in advance or spontaneous ideas during the meeting?",
+    "prompt": "For a team discussion, would you prefer written suggestions in advance or spontaneous ideas during the meeting?",
+    "topic": "Lãnh đạo & làm việc nhóm",
+    "category": "Chọn 1 trong 2",
+    "difficulty": "TB",
+    "ideas": [
+      "Chọn gửi trước: chuẩn bị ý và tăng cơ hội người ít nói",
+      "So sánh trao đổi trực tiếp giúp làm rõ"
+    ],
+    "samples": [],
+    "outline": "Mở bài: nêu lựa chọn và tiêu chí so sánh; không chỉ liệt kê các phương án.\n\nThân bài 1: Chọn gửi trước: chuẩn bị ý và tăng cơ hội người ít nói. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: So sánh trao đổi trực tiếp giúp làm rõ. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Nhóm đọc đề xuất trước rồi dành buổi họp để giải quyết khác biệt.\n\nKết bài: khẳng định lựa chọn trong hoàn cảnh đã nêu; nhắc đánh đổi với các phương án còn lại.",
+    "analysis": "Dạng Chọn 1 trong 2. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Nhóm đọc đề xuất trước rồi dành buổi họp để giải quyết khác biệt. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Chọn gửi trước: chuẩn bị ý và tăng cơ hội người ít nói; So sánh trao đổi trực tiếp giúp làm rõ"
+  },
+  {
+    "id": "W100",
+    "part": "essay",
+    "title": "Job applicants should research a company's work practices before accepting an offer. Do you agree or disagree?",
+    "prompt": "Job applicants should research a company's work practices before accepting an offer. Do you agree or disagree?",
+    "topic": "Tuyển dụng & chọn việc",
+    "category": "Đồng ý/Phản đối",
+    "difficulty": "CB",
+    "ideas": [
+      "Đánh giá mức phù hợp",
+      "Kiểm tra thông tin bằng câu hỏi cụ thể"
+    ],
+    "samples": [],
+    "outline": "Mở bài: trả lời trực tiếp câu hỏi và xác định lập trường.\n\nThân bài 1: Đánh giá mức phù hợp. Giải thích cơ chế tạo ra kết quả.\n\nThân bài 2: Kiểm tra thông tin bằng câu hỏi cụ thể. Phát triển một hệ quả khác hoặc giới hạn của quan điểm.\n\nVí dụ gợi ý: Ứng viên hỏi cách phân ca và nhận phản hồi thay vì dựa vào khẩu hiệu.\n\nKết bài: nhắc lại kết luận từ hai luận điểm, không thêm lý do mới.",
+    "analysis": "Dạng Đồng ý/Phản đối. Xác định đối tượng và phạm vi trong đề; các luận điểm dưới đây là một hướng triển khai, có thể chọn lập trường khác nếu giải thích nhất quán.",
+    "explanation": "Giữ mỗi đoạn tập trung một luận điểm, dùng câu giải thích trước ví dụ. Ví dụ riêng của đề: Ứng viên hỏi cách phân ca và nhận phản hồi thay vì dựa vào khẩu hiệu. Đây là tình huống minh họa, không phải số liệu nghiên cứu. Dùng hiện tại đơn cho nhận định chung; can/may cho khả năng; if + hiện tại đơn để nêu điều kiện. Không dùng số liệu không có nguồn.",
+    "vocabulary": "a practical benefit = lợi ích thực tế; a potential drawback = hạn chế có thể có; a clear priority = ưu tiên rõ ràng; in this situation = trong tình huống này",
+    "summary": "Đánh giá mức phù hợp; Kiểm tra thông tin bằng câu hỏi cụ thể"
+  }
+]

@@ -1,0 +1,5061 @@
+[
+  {
+    "id": "conversation-bbc-0",
+    "category": "conversation",
+    "query": "BBC Learning English Real Easy English meeting people",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "Real Easy English: hội thoại theo chủ đề",
+    "accent": "uk",
+    "level": "B1",
+    "goal": "Luyện nghe lượt hỏi–đáp và nói một câu trả lời có thông tin cụ thể.",
+    "practicePrompt": "Chọn một câu hỏi nghe được trong video, trả lời bằng trải nghiệm của em rồi đặt một câu hỏi tiếp theo.",
+    "require": "Real Easy|Easy English Conversations|English conversation",
+    "min": 100
+  },
+  {
+    "id": "conversation-bbc-1",
+    "category": "conversation",
+    "query": "BBC Learning English Real Easy English shopping conversation",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "Real Easy English: hội thoại theo chủ đề",
+    "accent": "uk",
+    "level": "B1",
+    "goal": "Luyện nghe lượt hỏi–đáp và nói một câu trả lời có thông tin cụ thể.",
+    "practicePrompt": "Chọn một câu hỏi nghe được trong video, trả lời bằng trải nghiệm của em rồi đặt một câu hỏi tiếp theo.",
+    "require": "Real Easy|Easy English Conversations|English conversation",
+    "min": 100
+  },
+  {
+    "id": "conversation-bbc-2",
+    "category": "conversation",
+    "query": "BBC Learning English Real Easy English talking about work",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "Real Easy English: hội thoại theo chủ đề",
+    "accent": "uk",
+    "level": "B1",
+    "goal": "Luyện nghe lượt hỏi–đáp và nói một câu trả lời có thông tin cụ thể.",
+    "practicePrompt": "Chọn một câu hỏi nghe được trong video, trả lời bằng trải nghiệm của em rồi đặt một câu hỏi tiếp theo.",
+    "require": "Real Easy|Easy English Conversations|English conversation",
+    "min": 100
+  },
+  {
+    "id": "conversation-bbc-3",
+    "category": "conversation",
+    "query": "BBC Learning English Real Easy English talking about family",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "Real Easy English: hội thoại theo chủ đề",
+    "accent": "uk",
+    "level": "B1",
+    "goal": "Luyện nghe lượt hỏi–đáp và nói một câu trả lời có thông tin cụ thể.",
+    "practicePrompt": "Chọn một câu hỏi nghe được trong video, trả lời bằng trải nghiệm của em rồi đặt một câu hỏi tiếp theo.",
+    "require": "Real Easy|Easy English Conversations|English conversation",
+    "min": 100
+  },
+  {
+    "id": "conversation-bbc-4",
+    "category": "conversation",
+    "query": "BBC Learning English Real Easy English daily routine",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "Real Easy English: hội thoại theo chủ đề",
+    "accent": "uk",
+    "level": "B1",
+    "goal": "Luyện nghe lượt hỏi–đáp và nói một câu trả lời có thông tin cụ thể.",
+    "practicePrompt": "Chọn một câu hỏi nghe được trong video, trả lời bằng trải nghiệm của em rồi đặt một câu hỏi tiếp theo.",
+    "require": "Real Easy|Easy English Conversations|English conversation",
+    "min": 100
+  },
+  {
+    "id": "conversation-bbc-5",
+    "category": "conversation",
+    "query": "BBC Learning English Real Easy English plans and holidays",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "Real Easy English: hội thoại theo chủ đề",
+    "accent": "uk",
+    "level": "B1",
+    "goal": "Luyện nghe lượt hỏi–đáp và nói một câu trả lời có thông tin cụ thể.",
+    "practicePrompt": "Chọn một câu hỏi nghe được trong video, trả lời bằng trải nghiệm của em rồi đặt một câu hỏi tiếp theo.",
+    "require": "Real Easy|Easy English Conversations|English conversation",
+    "min": 100
+  },
+  {
+    "id": "conversation-bbc-6",
+    "category": "conversation",
+    "query": "BBC Learning English Real Easy English likes and dislikes",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "Real Easy English: hội thoại theo chủ đề",
+    "accent": "uk",
+    "level": "B1",
+    "goal": "Luyện nghe lượt hỏi–đáp và nói một câu trả lời có thông tin cụ thể.",
+    "practicePrompt": "Chọn một câu hỏi nghe được trong video, trả lời bằng trải nghiệm của em rồi đặt một câu hỏi tiếp theo.",
+    "require": "Real Easy|Easy English Conversations|English conversation",
+    "min": 100
+  },
+  {
+    "id": "conversation-bbc-7",
+    "category": "conversation",
+    "query": "BBC Learning English Real Easy English talking about food",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "Real Easy English: hội thoại theo chủ đề",
+    "accent": "uk",
+    "level": "B1",
+    "goal": "Luyện nghe lượt hỏi–đáp và nói một câu trả lời có thông tin cụ thể.",
+    "practicePrompt": "Chọn một câu hỏi nghe được trong video, trả lời bằng trải nghiệm của em rồi đặt một câu hỏi tiếp theo.",
+    "require": "Real Easy|Easy English Conversations|English conversation",
+    "min": 100
+  },
+  {
+    "id": "conversation-voa-0",
+    "category": "conversation",
+    "query": "VOA Learning English Lets Learn English ordering food",
+    "sources": [
+      "VOA Learning English"
+    ],
+    "collection": "Hội thoại cơ bản: VOA",
+    "accent": "us",
+    "level": "A2",
+    "goal": "Luyện hỏi–đáp rõ nghĩa trong tình huống thường ngày.",
+    "practicePrompt": "Đóng hai vai trong tình huống của video: một lời hỏi, một câu trả lời và một thông tin bổ sung.",
+    "require": "Lesson|Let.s Learn English",
+    "min": 100
+  },
+  {
+    "id": "conversation-voa-1",
+    "category": "conversation",
+    "query": "VOA Learning English Lets Learn English shopping",
+    "sources": [
+      "VOA Learning English"
+    ],
+    "collection": "Hội thoại cơ bản: VOA",
+    "accent": "us",
+    "level": "A2",
+    "goal": "Luyện hỏi–đáp rõ nghĩa trong tình huống thường ngày.",
+    "practicePrompt": "Đóng hai vai trong tình huống của video: một lời hỏi, một câu trả lời và một thông tin bổ sung.",
+    "require": "Lesson|Let.s Learn English",
+    "min": 100
+  },
+  {
+    "id": "conversation-voa-2",
+    "category": "conversation",
+    "query": "VOA Learning English Lets Learn English family",
+    "sources": [
+      "VOA Learning English"
+    ],
+    "collection": "Hội thoại cơ bản: VOA",
+    "accent": "us",
+    "level": "A2",
+    "goal": "Luyện hỏi–đáp rõ nghĩa trong tình huống thường ngày.",
+    "practicePrompt": "Đóng hai vai trong tình huống của video: một lời hỏi, một câu trả lời và một thông tin bổ sung.",
+    "require": "Lesson|Let.s Learn English",
+    "min": 100
+  },
+  {
+    "id": "conversation-voa-3",
+    "category": "conversation",
+    "query": "VOA Learning English Lets Learn English work",
+    "sources": [
+      "VOA Learning English"
+    ],
+    "collection": "Hội thoại cơ bản: VOA",
+    "accent": "us",
+    "level": "A2",
+    "goal": "Luyện hỏi–đáp rõ nghĩa trong tình huống thường ngày.",
+    "practicePrompt": "Đóng hai vai trong tình huống của video: một lời hỏi, một câu trả lời và một thông tin bổ sung.",
+    "require": "Lesson|Let.s Learn English",
+    "min": 100
+  },
+  {
+    "id": "conversation-voa-4",
+    "category": "conversation",
+    "query": "VOA Learning English Lets Learn English vacation",
+    "sources": [
+      "VOA Learning English"
+    ],
+    "collection": "Hội thoại cơ bản: VOA",
+    "accent": "us",
+    "level": "A2",
+    "goal": "Luyện hỏi–đáp rõ nghĩa trong tình huống thường ngày.",
+    "practicePrompt": "Đóng hai vai trong tình huống của video: một lời hỏi, một câu trả lời và một thông tin bổ sung.",
+    "require": "Lesson|Let.s Learn English",
+    "min": 100
+  },
+  {
+    "id": "conversation-voa-5",
+    "category": "conversation",
+    "query": "VOA Learning English Lets Learn English transport",
+    "sources": [
+      "VOA Learning English"
+    ],
+    "collection": "Hội thoại cơ bản: VOA",
+    "accent": "us",
+    "level": "A2",
+    "goal": "Luyện hỏi–đáp rõ nghĩa trong tình huống thường ngày.",
+    "practicePrompt": "Đóng hai vai trong tình huống của video: một lời hỏi, một câu trả lời và một thông tin bổ sung.",
+    "require": "Lesson|Let.s Learn English",
+    "min": 100
+  },
+  {
+    "id": "conversation-easy-0",
+    "category": "conversation",
+    "query": "Easy English slow beginners daily conversation",
+    "sources": [
+      "Easy English"
+    ],
+    "collection": "Hội thoại thực tế: Easy English",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Nghe cách người thật trả lời câu hỏi, chú ý nhịp và từ nhấn.",
+    "practicePrompt": "Trả lời cùng câu hỏi với một người trong video trong 30 giây; dùng ý của riêng em.",
+    "reject": "music|song|without speaking",
+    "min": 180
+  },
+  {
+    "id": "conversation-easy-1",
+    "category": "conversation",
+    "query": "Easy English what do you do for fun",
+    "sources": [
+      "Easy English"
+    ],
+    "collection": "Hội thoại thực tế: Easy English",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Nghe cách người thật trả lời câu hỏi, chú ý nhịp và từ nhấn.",
+    "practicePrompt": "Trả lời cùng câu hỏi với một người trong video trong 30 giây; dùng ý của riêng em.",
+    "reject": "music|song|without speaking",
+    "min": 180
+  },
+  {
+    "id": "conversation-easy-2",
+    "category": "conversation",
+    "query": "Easy English weekend plans",
+    "sources": [
+      "Easy English"
+    ],
+    "collection": "Hội thoại thực tế: Easy English",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Nghe cách người thật trả lời câu hỏi, chú ý nhịp và từ nhấn.",
+    "practicePrompt": "Trả lời cùng câu hỏi với một người trong video trong 30 giây; dùng ý của riêng em.",
+    "reject": "music|song|without speaking",
+    "min": 180
+  },
+  {
+    "id": "conversation-easy-3",
+    "category": "conversation",
+    "query": "Easy English dream job",
+    "sources": [
+      "Easy English"
+    ],
+    "collection": "Hội thoại thực tế: Easy English",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Nghe cách người thật trả lời câu hỏi, chú ý nhịp và từ nhấn.",
+    "practicePrompt": "Trả lời cùng câu hỏi với một người trong video trong 30 giây; dùng ý của riêng em.",
+    "reject": "music|song|without speaking",
+    "min": 180
+  },
+  {
+    "id": "conversation-easy-4",
+    "category": "conversation",
+    "query": "Easy English food",
+    "sources": [
+      "Easy English"
+    ],
+    "collection": "Hội thoại thực tế: Easy English",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Nghe cách người thật trả lời câu hỏi, chú ý nhịp và từ nhấn.",
+    "practicePrompt": "Trả lời cùng câu hỏi với một người trong video trong 30 giây; dùng ý của riêng em.",
+    "reject": "music|song|without speaking",
+    "min": 180
+  },
+  {
+    "id": "conversation-easy-5",
+    "category": "conversation",
+    "query": "Easy English family",
+    "sources": [
+      "Easy English"
+    ],
+    "collection": "Hội thoại thực tế: Easy English",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Nghe cách người thật trả lời câu hỏi, chú ý nhịp và từ nhấn.",
+    "practicePrompt": "Trả lời cùng câu hỏi với một người trong video trong 30 giây; dùng ý của riêng em.",
+    "reject": "music|song|without speaking",
+    "min": 180
+  },
+  {
+    "id": "business-work-0",
+    "category": "business",
+    "query": "BBC English at Work interview",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "English at Work: tình huống công sở",
+    "accent": "uk",
+    "level": "B1",
+    "goal": "Luyện cách nói lịch sự và xác nhận thông tin trong tình huống công sở.",
+    "practicePrompt": "Chọn một mục đích giao tiếp trong video và đóng vai với dữ kiện mới: đề nghị, xác nhận hoặc đưa phương án xử lý.",
+    "require": "English at Work",
+    "min": 90
+  },
+  {
+    "id": "business-work-1",
+    "category": "business",
+    "query": "BBC English at Work suggestions",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "English at Work: tình huống công sở",
+    "accent": "uk",
+    "level": "B1",
+    "goal": "Luyện cách nói lịch sự và xác nhận thông tin trong tình huống công sở.",
+    "practicePrompt": "Chọn một mục đích giao tiếp trong video và đóng vai với dữ kiện mới: đề nghị, xác nhận hoặc đưa phương án xử lý.",
+    "require": "English at Work",
+    "min": 90
+  },
+  {
+    "id": "business-work-2",
+    "category": "business",
+    "query": "BBC English at Work telephone",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "English at Work: tình huống công sở",
+    "accent": "uk",
+    "level": "B1",
+    "goal": "Luyện cách nói lịch sự và xác nhận thông tin trong tình huống công sở.",
+    "practicePrompt": "Chọn một mục đích giao tiếp trong video và đóng vai với dữ kiện mới: đề nghị, xác nhận hoặc đưa phương án xử lý.",
+    "require": "English at Work",
+    "min": 90
+  },
+  {
+    "id": "business-work-3",
+    "category": "business",
+    "query": "BBC English at Work presentation",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "English at Work: tình huống công sở",
+    "accent": "uk",
+    "level": "B1",
+    "goal": "Luyện cách nói lịch sự và xác nhận thông tin trong tình huống công sở.",
+    "practicePrompt": "Chọn một mục đích giao tiếp trong video và đóng vai với dữ kiện mới: đề nghị, xác nhận hoặc đưa phương án xử lý.",
+    "require": "English at Work",
+    "min": 90
+  },
+  {
+    "id": "business-work-4",
+    "category": "business",
+    "query": "BBC English at Work meeting",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "English at Work: tình huống công sở",
+    "accent": "uk",
+    "level": "B1",
+    "goal": "Luyện cách nói lịch sự và xác nhận thông tin trong tình huống công sở.",
+    "practicePrompt": "Chọn một mục đích giao tiếp trong video và đóng vai với dữ kiện mới: đề nghị, xác nhận hoặc đưa phương án xử lý.",
+    "require": "English at Work",
+    "min": 90
+  },
+  {
+    "id": "business-work-5",
+    "category": "business",
+    "query": "BBC English at Work customer",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "English at Work: tình huống công sở",
+    "accent": "uk",
+    "level": "B1",
+    "goal": "Luyện cách nói lịch sự và xác nhận thông tin trong tình huống công sở.",
+    "practicePrompt": "Chọn một mục đích giao tiếp trong video và đóng vai với dữ kiện mới: đề nghị, xác nhận hoặc đưa phương án xử lý.",
+    "require": "English at Work",
+    "min": 90
+  },
+  {
+    "id": "business-work-6",
+    "category": "business",
+    "query": "BBC English at Work complaint",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "English at Work: tình huống công sở",
+    "accent": "uk",
+    "level": "B1",
+    "goal": "Luyện cách nói lịch sự và xác nhận thông tin trong tình huống công sở.",
+    "practicePrompt": "Chọn một mục đích giao tiếp trong video và đóng vai với dữ kiện mới: đề nghị, xác nhận hoặc đưa phương án xử lý.",
+    "require": "English at Work",
+    "min": 90
+  },
+  {
+    "id": "business-work-7",
+    "category": "business",
+    "query": "BBC English at Work request",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "English at Work: tình huống công sở",
+    "accent": "uk",
+    "level": "B1",
+    "goal": "Luyện cách nói lịch sự và xác nhận thông tin trong tình huống công sở.",
+    "practicePrompt": "Chọn một mục đích giao tiếp trong video và đóng vai với dữ kiện mới: đề nghị, xác nhận hoặc đưa phương án xử lý.",
+    "require": "English at Work",
+    "min": 90
+  },
+  {
+    "id": "business-office-0",
+    "category": "business",
+    "query": "BBC Office English emails meetings",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "Office English: trao đổi chuyên sâu",
+    "accent": "uk",
+    "level": "B2",
+    "goal": "Luyện giải thích ý và giữ giọng lịch sự khi trao đổi ở nơi làm việc.",
+    "practicePrompt": "Tóm tắt lời khuyên chính trong 45 giây rồi áp dụng vào một tình huống công việc của em.",
+    "require": "Office English",
+    "min": 240
+  },
+  {
+    "id": "business-office-1",
+    "category": "business",
+    "query": "BBC Office English mistakes bad news",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "Office English: trao đổi chuyên sâu",
+    "accent": "uk",
+    "level": "B2",
+    "goal": "Luyện giải thích ý và giữ giọng lịch sự khi trao đổi ở nơi làm việc.",
+    "practicePrompt": "Tóm tắt lời khuyên chính trong 45 giây rồi áp dụng vào một tình huống công việc của em.",
+    "require": "Office English",
+    "min": 240
+  },
+  {
+    "id": "business-office-2",
+    "category": "business",
+    "query": "BBC Office English feedback help",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "Office English: trao đổi chuyên sâu",
+    "accent": "uk",
+    "level": "B2",
+    "goal": "Luyện giải thích ý và giữ giọng lịch sự khi trao đổi ở nơi làm việc.",
+    "practicePrompt": "Tóm tắt lời khuyên chính trong 45 giây rồi áp dụng vào một tình huống công việc của em.",
+    "require": "Office English",
+    "min": 240
+  },
+  {
+    "id": "business-office-3",
+    "category": "business",
+    "query": "BBC Office English negotiating conflict",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "Office English: trao đổi chuyên sâu",
+    "accent": "uk",
+    "level": "B2",
+    "goal": "Luyện giải thích ý và giữ giọng lịch sự khi trao đổi ở nơi làm việc.",
+    "practicePrompt": "Tóm tắt lời khuyên chính trong 45 giây rồi áp dụng vào một tình huống công việc của em.",
+    "require": "Office English",
+    "min": 240
+  },
+  {
+    "id": "business-office-4",
+    "category": "business",
+    "query": "BBC Office English career presentations",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "Office English: trao đổi chuyên sâu",
+    "accent": "uk",
+    "level": "B2",
+    "goal": "Luyện giải thích ý và giữ giọng lịch sự khi trao đổi ở nơi làm việc.",
+    "practicePrompt": "Tóm tắt lời khuyên chính trong 45 giây rồi áp dụng vào một tình huống công việc của em.",
+    "require": "Office English",
+    "min": 240
+  },
+  {
+    "id": "business-office-5",
+    "category": "business",
+    "query": "BBC Office English deadlines delegating",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "Office English: trao đổi chuyên sâu",
+    "accent": "uk",
+    "level": "B2",
+    "goal": "Luyện giải thích ý và giữ giọng lịch sự khi trao đổi ở nơi làm việc.",
+    "practicePrompt": "Tóm tắt lời khuyên chính trong 45 giây rồi áp dụng vào một tình huống công việc của em.",
+    "require": "Office English",
+    "min": 240
+  },
+  {
+    "id": "business-oxford-0",
+    "category": "business",
+    "query": "Oxford Online English business meetings",
+    "sources": [
+      "Oxford Online English"
+    ],
+    "collection": "Kỹ năng giao tiếp công việc",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Phát triển câu trả lời rõ ý, có lý do và ví dụ trong môi trường làm việc.",
+    "practicePrompt": "Soạn một lượt nói khoảng 45 giây theo chủ đề video, dùng một lý do và một ví dụ cụ thể.",
+    "min": 240
+  },
+  {
+    "id": "business-oxford-1",
+    "category": "business",
+    "query": "Oxford Online English presentation",
+    "sources": [
+      "Oxford Online English"
+    ],
+    "collection": "Kỹ năng giao tiếp công việc",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Phát triển câu trả lời rõ ý, có lý do và ví dụ trong môi trường làm việc.",
+    "practicePrompt": "Soạn một lượt nói khoảng 45 giây theo chủ đề video, dùng một lý do và một ví dụ cụ thể.",
+    "min": 240
+  },
+  {
+    "id": "business-oxford-2",
+    "category": "business",
+    "query": "Oxford Online English job interview",
+    "sources": [
+      "Oxford Online English"
+    ],
+    "collection": "Kỹ năng giao tiếp công việc",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Phát triển câu trả lời rõ ý, có lý do và ví dụ trong môi trường làm việc.",
+    "practicePrompt": "Soạn một lượt nói khoảng 45 giây theo chủ đề video, dùng một lý do và một ví dụ cụ thể.",
+    "min": 240
+  },
+  {
+    "id": "business-oxford-3",
+    "category": "business",
+    "query": "Oxford Online English customer service",
+    "sources": [
+      "Oxford Online English"
+    ],
+    "collection": "Kỹ năng giao tiếp công việc",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Phát triển câu trả lời rõ ý, có lý do và ví dụ trong môi trường làm việc.",
+    "practicePrompt": "Soạn một lượt nói khoảng 45 giây theo chủ đề video, dùng một lý do và một ví dụ cụ thể.",
+    "min": 240
+  },
+  {
+    "id": "toeic-engpro-0",
+    "category": "toeic",
+    "query": "EngPro 101 TOEIC Speaking read aloud",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: lượt luyện theo nhiệm vụ",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Luyện phản hồi đúng nhiệm vụ, giữ phát âm và thông tin rõ ràng.",
+    "practicePrompt": "Tự trả lời một nhiệm vụ của video trước khi nghe bài mẫu; ghi một điểm cần sửa và thực hiện lại.",
+    "require": "TOEIC.*Speaking|TOEIC.*speaking",
+    "reject": "Listening|Writing|Reading|Speaking.*full.*test",
+    "min": 60
+  },
+  {
+    "id": "toeic-engpro-1",
+    "category": "toeic",
+    "query": "EngPro 101 TOEIC Speaking describe a picture",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: lượt luyện theo nhiệm vụ",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Luyện phản hồi đúng nhiệm vụ, giữ phát âm và thông tin rõ ràng.",
+    "practicePrompt": "Tự trả lời một nhiệm vụ của video trước khi nghe bài mẫu; ghi một điểm cần sửa và thực hiện lại.",
+    "require": "TOEIC.*Speaking|TOEIC.*speaking",
+    "reject": "Listening|Writing|Reading|Speaking.*full.*test",
+    "min": 60
+  },
+  {
+    "id": "toeic-engpro-2",
+    "category": "toeic",
+    "query": "EngPro 101 TOEIC Speaking respond to questions",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: lượt luyện theo nhiệm vụ",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Luyện phản hồi đúng nhiệm vụ, giữ phát âm và thông tin rõ ràng.",
+    "practicePrompt": "Tự trả lời một nhiệm vụ của video trước khi nghe bài mẫu; ghi một điểm cần sửa và thực hiện lại.",
+    "require": "TOEIC.*Speaking|TOEIC.*speaking",
+    "reject": "Listening|Writing|Reading|Speaking.*full.*test",
+    "min": 60
+  },
+  {
+    "id": "toeic-engpro-3",
+    "category": "toeic",
+    "query": "EngPro 101 TOEIC Speaking information provided",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: lượt luyện theo nhiệm vụ",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Luyện phản hồi đúng nhiệm vụ, giữ phát âm và thông tin rõ ràng.",
+    "practicePrompt": "Tự trả lời một nhiệm vụ của video trước khi nghe bài mẫu; ghi một điểm cần sửa và thực hiện lại.",
+    "require": "TOEIC.*Speaking|TOEIC.*speaking",
+    "reject": "Listening|Writing|Reading|Speaking.*full.*test",
+    "min": 60
+  },
+  {
+    "id": "toeic-engpro-4",
+    "category": "toeic",
+    "query": "EngPro 101 TOEIC Speaking express opinion",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: lượt luyện theo nhiệm vụ",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Luyện phản hồi đúng nhiệm vụ, giữ phát âm và thông tin rõ ràng.",
+    "practicePrompt": "Tự trả lời một nhiệm vụ của video trước khi nghe bài mẫu; ghi một điểm cần sửa và thực hiện lại.",
+    "require": "TOEIC.*Speaking|TOEIC.*speaking",
+    "reject": "Listening|Writing|Reading|Speaking.*full.*test",
+    "min": 60
+  },
+  {
+    "id": "toeic-engpro-5",
+    "category": "toeic",
+    "query": "EngPro 101 TOEIC Speaking speaking practice test",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: lượt luyện theo nhiệm vụ",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Luyện phản hồi đúng nhiệm vụ, giữ phát âm và thông tin rõ ràng.",
+    "practicePrompt": "Tự trả lời một nhiệm vụ của video trước khi nghe bài mẫu; ghi một điểm cần sửa và thực hiện lại.",
+    "require": "TOEIC.*Speaking|TOEIC.*speaking",
+    "reject": "Listening|Writing|Reading|Speaking.*full.*test",
+    "min": 60
+  },
+  {
+    "id": "toeic-nancy-0",
+    "category": "toeic",
+    "query": "Nancy's TOEIC Speaking part 1 read aloud",
+    "sources": [
+      "Nancy's TOEIC"
+    ],
+    "collection": "TOEIC Speaking: luyện trả lời",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Nói đúng trọng tâm, ngắt cụm rõ và kiểm tra chi tiết trong câu trả lời.",
+    "practicePrompt": "Luyện một câu hỏi trong video, thu âm câu trả lời của em rồi tự đối chiếu cách tổ chức ý.",
+    "require": "Speaking",
+    "reject": "Listening|Reading|Writing",
+    "min": 60
+  },
+  {
+    "id": "toeic-nancy-1",
+    "category": "toeic",
+    "query": "Nancy's TOEIC Speaking part 2 describe picture",
+    "sources": [
+      "Nancy's TOEIC"
+    ],
+    "collection": "TOEIC Speaking: luyện trả lời",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Nói đúng trọng tâm, ngắt cụm rõ và kiểm tra chi tiết trong câu trả lời.",
+    "practicePrompt": "Luyện một câu hỏi trong video, thu âm câu trả lời của em rồi tự đối chiếu cách tổ chức ý.",
+    "require": "Speaking",
+    "reject": "Listening|Reading|Writing",
+    "min": 60
+  },
+  {
+    "id": "toeic-nancy-2",
+    "category": "toeic",
+    "query": "Nancy's TOEIC Speaking part 3 respond questions",
+    "sources": [
+      "Nancy's TOEIC"
+    ],
+    "collection": "TOEIC Speaking: luyện trả lời",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Nói đúng trọng tâm, ngắt cụm rõ và kiểm tra chi tiết trong câu trả lời.",
+    "practicePrompt": "Luyện một câu hỏi trong video, thu âm câu trả lời của em rồi tự đối chiếu cách tổ chức ý.",
+    "require": "Speaking",
+    "reject": "Listening|Reading|Writing",
+    "min": 60
+  },
+  {
+    "id": "toeic-nancy-3",
+    "category": "toeic",
+    "query": "Nancy's TOEIC Speaking part 4 information",
+    "sources": [
+      "Nancy's TOEIC"
+    ],
+    "collection": "TOEIC Speaking: luyện trả lời",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Nói đúng trọng tâm, ngắt cụm rõ và kiểm tra chi tiết trong câu trả lời.",
+    "practicePrompt": "Luyện một câu hỏi trong video, thu âm câu trả lời của em rồi tự đối chiếu cách tổ chức ý.",
+    "require": "Speaking",
+    "reject": "Listening|Reading|Writing",
+    "min": 60
+  },
+  {
+    "id": "toeic-nancy-4",
+    "category": "toeic",
+    "query": "Nancy's TOEIC Speaking part 5 express opinion",
+    "sources": [
+      "Nancy's TOEIC"
+    ],
+    "collection": "TOEIC Speaking: luyện trả lời",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Nói đúng trọng tâm, ngắt cụm rõ và kiểm tra chi tiết trong câu trả lời.",
+    "practicePrompt": "Luyện một câu hỏi trong video, thu âm câu trả lời của em rồi tự đối chiếu cách tổ chức ý.",
+    "require": "Speaking",
+    "reject": "Listening|Reading|Writing",
+    "min": 60
+  },
+  {
+    "id": "toeic-nancy-5",
+    "category": "toeic",
+    "query": "Nancy's TOEIC Speaking practice test",
+    "sources": [
+      "Nancy's TOEIC"
+    ],
+    "collection": "TOEIC Speaking: luyện trả lời",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Nói đúng trọng tâm, ngắt cụm rõ và kiểm tra chi tiết trong câu trả lời.",
+    "practicePrompt": "Luyện một câu hỏi trong video, thu âm câu trả lời của em rồi tự đối chiếu cách tổ chức ý.",
+    "require": "Speaking",
+    "reject": "Listening|Reading|Writing",
+    "min": 60
+  },
+  {
+    "id": "toeic-anbui-0",
+    "category": "toeic",
+    "query": "An Bui TOEIC SPEAKING PART 1",
+    "sources": [
+      "An Bùi"
+    ],
+    "collection": "TOEIC Speaking: ví dụ theo dạng bài",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Quan sát cách đáp ứng yêu cầu đề và bổ sung chi tiết hỗ trợ phù hợp.",
+    "practicePrompt": "Tự nói một phiên bản trả lời với thông tin cá nhân; giữ lập trường và các chi tiết nhất quán.",
+    "require": "TOEIC.*SPEAKING",
+    "reject": "LISTENING|READING|WRITING",
+    "min": 50
+  },
+  {
+    "id": "toeic-anbui-1",
+    "category": "toeic",
+    "query": "An Bui TOEIC SPEAKING PART 2",
+    "sources": [
+      "An Bùi"
+    ],
+    "collection": "TOEIC Speaking: ví dụ theo dạng bài",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Quan sát cách đáp ứng yêu cầu đề và bổ sung chi tiết hỗ trợ phù hợp.",
+    "practicePrompt": "Tự nói một phiên bản trả lời với thông tin cá nhân; giữ lập trường và các chi tiết nhất quán.",
+    "require": "TOEIC.*SPEAKING",
+    "reject": "LISTENING|READING|WRITING",
+    "min": 50
+  },
+  {
+    "id": "toeic-anbui-2",
+    "category": "toeic",
+    "query": "An Bui TOEIC SPEAKING PART 3",
+    "sources": [
+      "An Bùi"
+    ],
+    "collection": "TOEIC Speaking: ví dụ theo dạng bài",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Quan sát cách đáp ứng yêu cầu đề và bổ sung chi tiết hỗ trợ phù hợp.",
+    "practicePrompt": "Tự nói một phiên bản trả lời với thông tin cá nhân; giữ lập trường và các chi tiết nhất quán.",
+    "require": "TOEIC.*SPEAKING",
+    "reject": "LISTENING|READING|WRITING",
+    "min": 50
+  },
+  {
+    "id": "toeic-anbui-3",
+    "category": "toeic",
+    "query": "An Bui TOEIC SPEAKING PART 4",
+    "sources": [
+      "An Bùi"
+    ],
+    "collection": "TOEIC Speaking: ví dụ theo dạng bài",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Quan sát cách đáp ứng yêu cầu đề và bổ sung chi tiết hỗ trợ phù hợp.",
+    "practicePrompt": "Tự nói một phiên bản trả lời với thông tin cá nhân; giữ lập trường và các chi tiết nhất quán.",
+    "require": "TOEIC.*SPEAKING",
+    "reject": "LISTENING|READING|WRITING",
+    "min": 50
+  },
+  {
+    "id": "toeic-anbui-4",
+    "category": "toeic",
+    "query": "An Bui TOEIC SPEAKING PART 5",
+    "sources": [
+      "An Bùi"
+    ],
+    "collection": "TOEIC Speaking: ví dụ theo dạng bài",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Quan sát cách đáp ứng yêu cầu đề và bổ sung chi tiết hỗ trợ phù hợp.",
+    "practicePrompt": "Tự nói một phiên bản trả lời với thông tin cá nhân; giữ lập trường và các chi tiết nhất quán.",
+    "require": "TOEIC.*SPEAKING",
+    "reject": "LISTENING|READING|WRITING",
+    "min": 50
+  },
+  {
+    "id": "toeic-anbui-5",
+    "category": "toeic",
+    "query": "An Bui TOEIC SPEAKING express your opinion",
+    "sources": [
+      "An Bùi"
+    ],
+    "collection": "TOEIC Speaking: ví dụ theo dạng bài",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Quan sát cách đáp ứng yêu cầu đề và bổ sung chi tiết hỗ trợ phù hợp.",
+    "practicePrompt": "Tự nói một phiên bản trả lời với thông tin cá nhân; giữ lập trường và các chi tiết nhất quán.",
+    "require": "TOEIC.*SPEAKING",
+    "reject": "LISTENING|READING|WRITING",
+    "min": 50
+  },
+  {
+    "id": "toeic-e2-0",
+    "category": "toeic",
+    "query": "TOEIC Speaking tips",
+    "sources": [
+      "E2 TOEIC",
+      "The Official TOEIC Tests Channel",
+      "Anh Quang"
+    ],
+    "collection": "TOEIC Speaking: phương pháp & tự kiểm",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Luyện cách triển khai câu trả lời rõ ràng và tự kiểm theo yêu cầu nhiệm vụ.",
+    "practicePrompt": "Ghi một cách tổ chức ý trong video rồi thử áp dụng vào một câu hỏi Speaking mới.",
+    "require": "Speaking|SPEAKING",
+    "reject": "Listening|Reading|Writing",
+    "min": 50
+  },
+  {
+    "id": "toeic-e2-1",
+    "category": "toeic",
+    "query": "TOEIC Speaking describe picture",
+    "sources": [
+      "E2 TOEIC",
+      "The Official TOEIC Tests Channel",
+      "Anh Quang"
+    ],
+    "collection": "TOEIC Speaking: phương pháp & tự kiểm",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Luyện cách triển khai câu trả lời rõ ràng và tự kiểm theo yêu cầu nhiệm vụ.",
+    "practicePrompt": "Ghi một cách tổ chức ý trong video rồi thử áp dụng vào một câu hỏi Speaking mới.",
+    "require": "Speaking|SPEAKING",
+    "reject": "Listening|Reading|Writing",
+    "min": 50
+  },
+  {
+    "id": "toeic-e2-2",
+    "category": "toeic",
+    "query": "TOEIC Speaking opinion",
+    "sources": [
+      "E2 TOEIC",
+      "The Official TOEIC Tests Channel",
+      "Anh Quang"
+    ],
+    "collection": "TOEIC Speaking: phương pháp & tự kiểm",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Luyện cách triển khai câu trả lời rõ ràng và tự kiểm theo yêu cầu nhiệm vụ.",
+    "practicePrompt": "Ghi một cách tổ chức ý trong video rồi thử áp dụng vào một câu hỏi Speaking mới.",
+    "require": "Speaking|SPEAKING",
+    "reject": "Listening|Reading|Writing",
+    "min": 50
+  },
+  {
+    "id": "movie-0",
+    "category": "movie",
+    "query": "The Intern dialogue scene Movieclips",
+    "sources": [
+      "Movieclips",
+      "Rotten Tomatoes Classic Trailers",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures"
+    ],
+    "collection": "Phim nổi tiếng: The Intern",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp nói, trọng âm và ngữ điệu qua lời thoại trong The Intern.",
+    "practicePrompt": "Chọn một lượt lời ngắn, nghe chậm rồi nói theo; kể lại mục đích của người nói bằng hai câu của riêng em.",
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|dancing|sex|kill|murder|shoot|gun|explosion|soundtrack|promo|teaser",
+    "require": null,
+    "min": 45
+  },
+  {
+    "id": "movie-1",
+    "category": "movie",
+    "query": "The Devil Wears Prada dialogue scene Movieclips",
+    "sources": [
+      "Movieclips",
+      "Rotten Tomatoes Classic Trailers",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures"
+    ],
+    "collection": "Phim nổi tiếng: The Devil Wears Prada",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp nói, trọng âm và ngữ điệu qua lời thoại trong The Devil Wears Prada.",
+    "practicePrompt": "Chọn một lượt lời ngắn, nghe chậm rồi nói theo; kể lại mục đích của người nói bằng hai câu của riêng em.",
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|dancing|sex|kill|murder|shoot|gun|explosion|soundtrack|promo|teaser",
+    "require": null,
+    "min": 45
+  },
+  {
+    "id": "movie-2",
+    "category": "movie",
+    "query": "The Pursuit of Happyness dialogue scene Movieclips",
+    "sources": [
+      "Movieclips",
+      "Rotten Tomatoes Classic Trailers",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures"
+    ],
+    "collection": "Phim nổi tiếng: The Pursuit of Happyness",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp nói, trọng âm và ngữ điệu qua lời thoại trong The Pursuit of Happyness.",
+    "practicePrompt": "Chọn một lượt lời ngắn, nghe chậm rồi nói theo; kể lại mục đích của người nói bằng hai câu của riêng em.",
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|dancing|sex|kill|murder|shoot|gun|explosion|soundtrack|promo|teaser",
+    "require": null,
+    "min": 45
+  },
+  {
+    "id": "movie-3",
+    "category": "movie",
+    "query": "Forrest Gump dialogue scene Movieclips",
+    "sources": [
+      "Movieclips",
+      "Rotten Tomatoes Classic Trailers",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures"
+    ],
+    "collection": "Phim nổi tiếng: Forrest Gump",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp nói, trọng âm và ngữ điệu qua lời thoại trong Forrest Gump.",
+    "practicePrompt": "Chọn một lượt lời ngắn, nghe chậm rồi nói theo; kể lại mục đích của người nói bằng hai câu của riêng em.",
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|dancing|sex|kill|murder|shoot|gun|explosion|soundtrack|promo|teaser",
+    "require": null,
+    "min": 45
+  },
+  {
+    "id": "movie-4",
+    "category": "movie",
+    "query": "The Terminal dialogue scene Movieclips",
+    "sources": [
+      "Movieclips",
+      "Rotten Tomatoes Classic Trailers",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures"
+    ],
+    "collection": "Phim nổi tiếng: The Terminal",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp nói, trọng âm và ngữ điệu qua lời thoại trong The Terminal.",
+    "practicePrompt": "Chọn một lượt lời ngắn, nghe chậm rồi nói theo; kể lại mục đích của người nói bằng hai câu của riêng em.",
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|dancing|sex|kill|murder|shoot|gun|explosion|soundtrack|promo|teaser",
+    "require": null,
+    "min": 45
+  },
+  {
+    "id": "movie-5",
+    "category": "movie",
+    "query": "The Kings Speech dialogue scene Movieclips",
+    "sources": [
+      "Movieclips",
+      "Rotten Tomatoes Classic Trailers",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures"
+    ],
+    "collection": "Phim nổi tiếng: The Kings Speech",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp nói, trọng âm và ngữ điệu qua lời thoại trong The Kings Speech.",
+    "practicePrompt": "Chọn một lượt lời ngắn, nghe chậm rồi nói theo; kể lại mục đích của người nói bằng hai câu của riêng em.",
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|dancing|sex|kill|murder|shoot|gun|explosion|soundtrack|promo|teaser",
+    "require": null,
+    "min": 45
+  },
+  {
+    "id": "movie-6",
+    "category": "movie",
+    "query": "Harry Potter dialogue scene Movieclips",
+    "sources": [
+      "Movieclips",
+      "Rotten Tomatoes Classic Trailers",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures"
+    ],
+    "collection": "Phim nổi tiếng: Harry Potter",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp nói, trọng âm và ngữ điệu qua lời thoại trong Harry Potter.",
+    "practicePrompt": "Chọn một lượt lời ngắn, nghe chậm rồi nói theo; kể lại mục đích của người nói bằng hai câu của riêng em.",
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|dancing|sex|kill|murder|shoot|gun|explosion|soundtrack|promo|teaser",
+    "require": null,
+    "min": 45
+  },
+  {
+    "id": "movie-7",
+    "category": "movie",
+    "query": "Paddington dialogue scene Movieclips",
+    "sources": [
+      "Movieclips",
+      "Rotten Tomatoes Classic Trailers",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures"
+    ],
+    "collection": "Phim nổi tiếng: Paddington",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp nói, trọng âm và ngữ điệu qua lời thoại trong Paddington.",
+    "practicePrompt": "Chọn một lượt lời ngắn, nghe chậm rồi nói theo; kể lại mục đích của người nói bằng hai câu của riêng em.",
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|dancing|sex|kill|murder|shoot|gun|explosion|soundtrack|promo|teaser",
+    "require": null,
+    "min": 45
+  },
+  {
+    "id": "movie-8",
+    "category": "movie",
+    "query": "The Princess Diaries dialogue scene Movieclips",
+    "sources": [
+      "Movieclips",
+      "Rotten Tomatoes Classic Trailers",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures"
+    ],
+    "collection": "Phim nổi tiếng: The Princess Diaries",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp nói, trọng âm và ngữ điệu qua lời thoại trong The Princess Diaries.",
+    "practicePrompt": "Chọn một lượt lời ngắn, nghe chậm rồi nói theo; kể lại mục đích của người nói bằng hai câu của riêng em.",
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|dancing|sex|kill|murder|shoot|gun|explosion|soundtrack|promo|teaser",
+    "require": null,
+    "min": 45
+  },
+  {
+    "id": "movie-9",
+    "category": "movie",
+    "query": "Good Will Hunting dialogue scene Movieclips",
+    "sources": [
+      "Movieclips",
+      "Rotten Tomatoes Classic Trailers",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures"
+    ],
+    "collection": "Phim nổi tiếng: Good Will Hunting",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp nói, trọng âm và ngữ điệu qua lời thoại trong Good Will Hunting.",
+    "practicePrompt": "Chọn một lượt lời ngắn, nghe chậm rồi nói theo; kể lại mục đích của người nói bằng hai câu của riêng em.",
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|dancing|sex|kill|murder|shoot|gun|explosion|soundtrack|promo|teaser",
+    "require": null,
+    "min": 45
+  },
+  {
+    "id": "movie-10",
+    "category": "movie",
+    "query": "The Martian dialogue scene Movieclips",
+    "sources": [
+      "Movieclips",
+      "Rotten Tomatoes Classic Trailers",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures"
+    ],
+    "collection": "Phim nổi tiếng: The Martian",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp nói, trọng âm và ngữ điệu qua lời thoại trong The Martian.",
+    "practicePrompt": "Chọn một lượt lời ngắn, nghe chậm rồi nói theo; kể lại mục đích của người nói bằng hai câu của riêng em.",
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|dancing|sex|kill|murder|shoot|gun|explosion|soundtrack|promo|teaser",
+    "require": null,
+    "min": 45
+  },
+  {
+    "id": "movie-11",
+    "category": "movie",
+    "query": "Inside Out dialogue scene Movieclips",
+    "sources": [
+      "Movieclips",
+      "Rotten Tomatoes Classic Trailers",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures"
+    ],
+    "collection": "Phim nổi tiếng: Inside Out",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp nói, trọng âm và ngữ điệu qua lời thoại trong Inside Out.",
+    "practicePrompt": "Chọn một lượt lời ngắn, nghe chậm rồi nói theo; kể lại mục đích của người nói bằng hai câu của riêng em.",
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|dancing|sex|kill|murder|shoot|gun|explosion|soundtrack|promo|teaser",
+    "require": null,
+    "min": 45
+  },
+  {
+    "id": "movie-12",
+    "category": "movie",
+    "query": "Toy Story dialogue scene Movieclips",
+    "sources": [
+      "Movieclips",
+      "Rotten Tomatoes Classic Trailers",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures"
+    ],
+    "collection": "Phim nổi tiếng: Toy Story",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp nói, trọng âm và ngữ điệu qua lời thoại trong Toy Story.",
+    "practicePrompt": "Chọn một lượt lời ngắn, nghe chậm rồi nói theo; kể lại mục đích của người nói bằng hai câu của riêng em.",
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|dancing|sex|kill|murder|shoot|gun|explosion|soundtrack|promo|teaser",
+    "require": null,
+    "min": 45
+  },
+  {
+    "id": "movie-13",
+    "category": "movie",
+    "query": "Finding Nemo dialogue scene Movieclips",
+    "sources": [
+      "Movieclips",
+      "Rotten Tomatoes Classic Trailers",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures"
+    ],
+    "collection": "Phim nổi tiếng: Finding Nemo",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp nói, trọng âm và ngữ điệu qua lời thoại trong Finding Nemo.",
+    "practicePrompt": "Chọn một lượt lời ngắn, nghe chậm rồi nói theo; kể lại mục đích của người nói bằng hai câu của riêng em.",
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|dancing|sex|kill|murder|shoot|gun|explosion|soundtrack|promo|teaser",
+    "require": null,
+    "min": 45
+  },
+  {
+    "id": "movie-14",
+    "category": "movie",
+    "query": "The Social Network dialogue scene Movieclips",
+    "sources": [
+      "Movieclips",
+      "Rotten Tomatoes Classic Trailers",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures"
+    ],
+    "collection": "Phim nổi tiếng: The Social Network",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp nói, trọng âm và ngữ điệu qua lời thoại trong The Social Network.",
+    "practicePrompt": "Chọn một lượt lời ngắn, nghe chậm rồi nói theo; kể lại mục đích của người nói bằng hai câu của riêng em.",
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|dancing|sex|kill|murder|shoot|gun|explosion|soundtrack|promo|teaser",
+    "require": null,
+    "min": 45
+  },
+  {
+    "id": "movie-15",
+    "category": "movie",
+    "query": "Legally Blonde dialogue scene Movieclips",
+    "sources": [
+      "Movieclips",
+      "Rotten Tomatoes Classic Trailers",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures"
+    ],
+    "collection": "Phim nổi tiếng: Legally Blonde",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp nói, trọng âm và ngữ điệu qua lời thoại trong Legally Blonde.",
+    "practicePrompt": "Chọn một lượt lời ngắn, nghe chậm rồi nói theo; kể lại mục đích của người nói bằng hai câu của riêng em.",
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|dancing|sex|kill|murder|shoot|gun|explosion|soundtrack|promo|teaser",
+    "require": null,
+    "min": 45
+  },
+  {
+    "id": "movie-16",
+    "category": "movie",
+    "query": "Dead Poets Society dialogue scene Movieclips",
+    "sources": [
+      "Movieclips",
+      "Rotten Tomatoes Classic Trailers",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures"
+    ],
+    "collection": "Phim nổi tiếng: Dead Poets Society",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp nói, trọng âm và ngữ điệu qua lời thoại trong Dead Poets Society.",
+    "practicePrompt": "Chọn một lượt lời ngắn, nghe chậm rồi nói theo; kể lại mục đích của người nói bằng hai câu của riêng em.",
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|dancing|sex|kill|murder|shoot|gun|explosion|soundtrack|promo|teaser",
+    "require": null,
+    "min": 45
+  },
+  {
+    "id": "movie-17",
+    "category": "movie",
+    "query": "Notting Hill dialogue scene Movieclips",
+    "sources": [
+      "Movieclips",
+      "Rotten Tomatoes Classic Trailers",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures"
+    ],
+    "collection": "Phim nổi tiếng: Notting Hill",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp nói, trọng âm và ngữ điệu qua lời thoại trong Notting Hill.",
+    "practicePrompt": "Chọn một lượt lời ngắn, nghe chậm rồi nói theo; kể lại mục đích của người nói bằng hai câu của riêng em.",
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|dancing|sex|kill|murder|shoot|gun|explosion|soundtrack|promo|teaser",
+    "require": null,
+    "min": 45
+  },
+  {
+    "id": "movie-long-0",
+    "category": "movie",
+    "query": "The Intern best dialogue scenes Warner Bros",
+    "sources": [
+      "Movieclips",
+      "Rotten Tomatoes Classic Trailers",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures"
+    ],
+    "collection": "Phim nổi tiếng: The Intern",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện lời thoại rõ ý và thay đổi ngữ điệu theo mục đích giao tiếp trong The Intern.",
+    "practicePrompt": "Chọn một đoạn đối thoại có âm thanh rõ, luyện từng lượt rồi tóm tắt tình huống bằng 30–45 giây.",
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|shoot|gun|explosion|soundtrack",
+    "min": 240
+  },
+  {
+    "id": "movie-long-1",
+    "category": "movie",
+    "query": "The Devil Wears Prada best dialogue scenes Warner Bros",
+    "sources": [
+      "Movieclips",
+      "Rotten Tomatoes Classic Trailers",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures"
+    ],
+    "collection": "Phim nổi tiếng: The Devil Wears Prada",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện lời thoại rõ ý và thay đổi ngữ điệu theo mục đích giao tiếp trong The Devil Wears Prada.",
+    "practicePrompt": "Chọn một đoạn đối thoại có âm thanh rõ, luyện từng lượt rồi tóm tắt tình huống bằng 30–45 giây.",
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|shoot|gun|explosion|soundtrack",
+    "min": 240
+  },
+  {
+    "id": "movie-long-2",
+    "category": "movie",
+    "query": "Harry Potter best dialogue scenes Warner Bros",
+    "sources": [
+      "Movieclips",
+      "Rotten Tomatoes Classic Trailers",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures"
+    ],
+    "collection": "Phim nổi tiếng: Harry Potter",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện lời thoại rõ ý và thay đổi ngữ điệu theo mục đích giao tiếp trong Harry Potter.",
+    "practicePrompt": "Chọn một đoạn đối thoại có âm thanh rõ, luyện từng lượt rồi tóm tắt tình huống bằng 30–45 giây.",
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|shoot|gun|explosion|soundtrack",
+    "min": 240
+  },
+  {
+    "id": "movie-long-3",
+    "category": "movie",
+    "query": "Paddington best dialogue scenes Warner Bros",
+    "sources": [
+      "Movieclips",
+      "Rotten Tomatoes Classic Trailers",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures"
+    ],
+    "collection": "Phim nổi tiếng: Paddington",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện lời thoại rõ ý và thay đổi ngữ điệu theo mục đích giao tiếp trong Paddington.",
+    "practicePrompt": "Chọn một đoạn đối thoại có âm thanh rõ, luyện từng lượt rồi tóm tắt tình huống bằng 30–45 giây.",
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|shoot|gun|explosion|soundtrack",
+    "min": 240
+  },
+  {
+    "id": "movie-long-4",
+    "category": "movie",
+    "query": "The Kings Speech best dialogue scenes Warner Bros",
+    "sources": [
+      "Movieclips",
+      "Rotten Tomatoes Classic Trailers",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures"
+    ],
+    "collection": "Phim nổi tiếng: The Kings Speech",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện lời thoại rõ ý và thay đổi ngữ điệu theo mục đích giao tiếp trong The Kings Speech.",
+    "practicePrompt": "Chọn một đoạn đối thoại có âm thanh rõ, luyện từng lượt rồi tóm tắt tình huống bằng 30–45 giây.",
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|shoot|gun|explosion|soundtrack",
+    "min": 240
+  },
+  {
+    "id": "movie-long-5",
+    "category": "movie",
+    "query": "Forrest Gump best dialogue scenes Warner Bros",
+    "sources": [
+      "Movieclips",
+      "Rotten Tomatoes Classic Trailers",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures"
+    ],
+    "collection": "Phim nổi tiếng: Forrest Gump",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện lời thoại rõ ý và thay đổi ngữ điệu theo mục đích giao tiếp trong Forrest Gump.",
+    "practicePrompt": "Chọn một đoạn đối thoại có âm thanh rõ, luyện từng lượt rồi tóm tắt tình huống bằng 30–45 giây.",
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|shoot|gun|explosion|soundtrack",
+    "min": 240
+  },
+  {
+    "id": "vlog-bc-0",
+    "category": "vlog",
+    "query": "British Council LearnEnglish Teens vlog London",
+    "sources": [
+      "British Council | LearnEnglish Teens"
+    ],
+    "collection": "Vlog: trải nghiệm & đời sống",
+    "accent": "uk",
+    "level": "B1",
+    "goal": "Nghe lời kể theo trình tự và cách người nói giải thích lựa chọn.",
+    "practicePrompt": "Kể lại hai hoạt động trong video bằng lời riêng, rồi liên hệ với một trải nghiệm của em.",
+    "reject": "grammar|exam|speaking skills|listening skills|challenge|test|how to|phonetic",
+    "min": 100
+  },
+  {
+    "id": "vlog-bc-1",
+    "category": "vlog",
+    "query": "British Council LearnEnglish Teens vlog weekend",
+    "sources": [
+      "British Council | LearnEnglish Teens"
+    ],
+    "collection": "Vlog: trải nghiệm & đời sống",
+    "accent": "uk",
+    "level": "B1",
+    "goal": "Nghe lời kể theo trình tự và cách người nói giải thích lựa chọn.",
+    "practicePrompt": "Kể lại hai hoạt động trong video bằng lời riêng, rồi liên hệ với một trải nghiệm của em.",
+    "reject": "grammar|exam|speaking skills|listening skills|challenge|test|how to|phonetic",
+    "min": 100
+  },
+  {
+    "id": "vlog-bc-2",
+    "category": "vlog",
+    "query": "British Council LearnEnglish Teens vlog travel",
+    "sources": [
+      "British Council | LearnEnglish Teens"
+    ],
+    "collection": "Vlog: trải nghiệm & đời sống",
+    "accent": "uk",
+    "level": "B1",
+    "goal": "Nghe lời kể theo trình tự và cách người nói giải thích lựa chọn.",
+    "practicePrompt": "Kể lại hai hoạt động trong video bằng lời riêng, rồi liên hệ với một trải nghiệm của em.",
+    "reject": "grammar|exam|speaking skills|listening skills|challenge|test|how to|phonetic",
+    "min": 100
+  },
+  {
+    "id": "vlog-bc-3",
+    "category": "vlog",
+    "query": "British Council LearnEnglish Teens vlog food",
+    "sources": [
+      "British Council | LearnEnglish Teens"
+    ],
+    "collection": "Vlog: trải nghiệm & đời sống",
+    "accent": "uk",
+    "level": "B1",
+    "goal": "Nghe lời kể theo trình tự và cách người nói giải thích lựa chọn.",
+    "practicePrompt": "Kể lại hai hoạt động trong video bằng lời riêng, rồi liên hệ với một trải nghiệm của em.",
+    "reject": "grammar|exam|speaking skills|listening skills|challenge|test|how to|phonetic",
+    "min": 100
+  },
+  {
+    "id": "vlog-bc-4",
+    "category": "vlog",
+    "query": "British Council LearnEnglish Teens vlog school",
+    "sources": [
+      "British Council | LearnEnglish Teens"
+    ],
+    "collection": "Vlog: trải nghiệm & đời sống",
+    "accent": "uk",
+    "level": "B1",
+    "goal": "Nghe lời kể theo trình tự và cách người nói giải thích lựa chọn.",
+    "practicePrompt": "Kể lại hai hoạt động trong video bằng lời riêng, rồi liên hệ với một trải nghiệm của em.",
+    "reject": "grammar|exam|speaking skills|listening skills|challenge|test|how to|phonetic",
+    "min": 100
+  },
+  {
+    "id": "vlog-bc-5",
+    "category": "vlog",
+    "query": "British Council LearnEnglish Teens vlog life",
+    "sources": [
+      "British Council | LearnEnglish Teens"
+    ],
+    "collection": "Vlog: trải nghiệm & đời sống",
+    "accent": "uk",
+    "level": "B1",
+    "goal": "Nghe lời kể theo trình tự và cách người nói giải thích lựa chọn.",
+    "practicePrompt": "Kể lại hai hoạt động trong video bằng lời riêng, rồi liên hệ với một trải nghiệm của em.",
+    "reject": "grammar|exam|speaking skills|listening skills|challenge|test|how to|phonetic",
+    "min": 100
+  },
+  {
+    "id": "vlog-bc-6",
+    "category": "vlog",
+    "query": "British Council LearnEnglish Teens vlog learning English",
+    "sources": [
+      "British Council | LearnEnglish Teens"
+    ],
+    "collection": "Vlog: trải nghiệm & đời sống",
+    "accent": "uk",
+    "level": "B1",
+    "goal": "Nghe lời kể theo trình tự và cách người nói giải thích lựa chọn.",
+    "practicePrompt": "Kể lại hai hoạt động trong video bằng lời riêng, rồi liên hệ với một trải nghiệm của em.",
+    "reject": "grammar|exam|speaking skills|listening skills|challenge|test|how to|phonetic",
+    "min": 100
+  },
+  {
+    "id": "vlog-bc-7",
+    "category": "vlog",
+    "query": "British Council LearnEnglish Teens vlog holiday",
+    "sources": [
+      "British Council | LearnEnglish Teens"
+    ],
+    "collection": "Vlog: trải nghiệm & đời sống",
+    "accent": "uk",
+    "level": "B1",
+    "goal": "Nghe lời kể theo trình tự và cách người nói giải thích lựa chọn.",
+    "practicePrompt": "Kể lại hai hoạt động trong video bằng lời riêng, rồi liên hệ với một trải nghiệm của em.",
+    "reject": "grammar|exam|speaking skills|listening skills|challenge|test|how to|phonetic",
+    "min": 100
+  },
+  {
+    "id": "vlog-rick-0",
+    "category": "vlog",
+    "query": "Rick Steves Europe London",
+    "sources": [
+      "Rick Steves' Europe"
+    ],
+    "collection": "Du lịch: lời kể từ địa điểm thật",
+    "accent": "us",
+    "level": "B1",
+    "goal": "Luyện nghe lời thuyết minh rõ và mô tả địa điểm bằng các chi tiết cụ thể.",
+    "practicePrompt": "Giới thiệu một địa điểm trong video trong 45 giây: vị trí, hai đặc điểm và lý do em muốn đến.",
+    "reject": "full episode|full special|travel talk|live|Q&A|music|concert",
+    "min": 180
+  },
+  {
+    "id": "vlog-rick-1",
+    "category": "vlog",
+    "query": "Rick Steves Europe Paris",
+    "sources": [
+      "Rick Steves' Europe"
+    ],
+    "collection": "Du lịch: lời kể từ địa điểm thật",
+    "accent": "us",
+    "level": "B1",
+    "goal": "Luyện nghe lời thuyết minh rõ và mô tả địa điểm bằng các chi tiết cụ thể.",
+    "practicePrompt": "Giới thiệu một địa điểm trong video trong 45 giây: vị trí, hai đặc điểm và lý do em muốn đến.",
+    "reject": "full episode|full special|travel talk|live|Q&A|music|concert",
+    "min": 180
+  },
+  {
+    "id": "vlog-rick-2",
+    "category": "vlog",
+    "query": "Rick Steves Europe Rome",
+    "sources": [
+      "Rick Steves' Europe"
+    ],
+    "collection": "Du lịch: lời kể từ địa điểm thật",
+    "accent": "us",
+    "level": "B1",
+    "goal": "Luyện nghe lời thuyết minh rõ và mô tả địa điểm bằng các chi tiết cụ thể.",
+    "practicePrompt": "Giới thiệu một địa điểm trong video trong 45 giây: vị trí, hai đặc điểm và lý do em muốn đến.",
+    "reject": "full episode|full special|travel talk|live|Q&A|music|concert",
+    "min": 180
+  },
+  {
+    "id": "vlog-rick-3",
+    "category": "vlog",
+    "query": "Rick Steves Europe Italy",
+    "sources": [
+      "Rick Steves' Europe"
+    ],
+    "collection": "Du lịch: lời kể từ địa điểm thật",
+    "accent": "us",
+    "level": "B1",
+    "goal": "Luyện nghe lời thuyết minh rõ và mô tả địa điểm bằng các chi tiết cụ thể.",
+    "practicePrompt": "Giới thiệu một địa điểm trong video trong 45 giây: vị trí, hai đặc điểm và lý do em muốn đến.",
+    "reject": "full episode|full special|travel talk|live|Q&A|music|concert",
+    "min": 180
+  },
+  {
+    "id": "vlog-rick-4",
+    "category": "vlog",
+    "query": "Rick Steves Europe Spain",
+    "sources": [
+      "Rick Steves' Europe"
+    ],
+    "collection": "Du lịch: lời kể từ địa điểm thật",
+    "accent": "us",
+    "level": "B1",
+    "goal": "Luyện nghe lời thuyết minh rõ và mô tả địa điểm bằng các chi tiết cụ thể.",
+    "practicePrompt": "Giới thiệu một địa điểm trong video trong 45 giây: vị trí, hai đặc điểm và lý do em muốn đến.",
+    "reject": "full episode|full special|travel talk|live|Q&A|music|concert",
+    "min": 180
+  },
+  {
+    "id": "vlog-rick-5",
+    "category": "vlog",
+    "query": "Rick Steves Europe Germany",
+    "sources": [
+      "Rick Steves' Europe"
+    ],
+    "collection": "Du lịch: lời kể từ địa điểm thật",
+    "accent": "us",
+    "level": "B1",
+    "goal": "Luyện nghe lời thuyết minh rõ và mô tả địa điểm bằng các chi tiết cụ thể.",
+    "practicePrompt": "Giới thiệu một địa điểm trong video trong 45 giây: vị trí, hai đặc điểm và lý do em muốn đến.",
+    "reject": "full episode|full special|travel talk|live|Q&A|music|concert",
+    "min": 180
+  },
+  {
+    "id": "vlog-rick-6",
+    "category": "vlog",
+    "query": "Rick Steves Europe France",
+    "sources": [
+      "Rick Steves' Europe"
+    ],
+    "collection": "Du lịch: lời kể từ địa điểm thật",
+    "accent": "us",
+    "level": "B1",
+    "goal": "Luyện nghe lời thuyết minh rõ và mô tả địa điểm bằng các chi tiết cụ thể.",
+    "practicePrompt": "Giới thiệu một địa điểm trong video trong 45 giây: vị trí, hai đặc điểm và lý do em muốn đến.",
+    "reject": "full episode|full special|travel talk|live|Q&A|music|concert",
+    "min": 180
+  },
+  {
+    "id": "vlog-rick-7",
+    "category": "vlog",
+    "query": "Rick Steves Europe Amsterdam",
+    "sources": [
+      "Rick Steves' Europe"
+    ],
+    "collection": "Du lịch: lời kể từ địa điểm thật",
+    "accent": "us",
+    "level": "B1",
+    "goal": "Luyện nghe lời thuyết minh rõ và mô tả địa điểm bằng các chi tiết cụ thể.",
+    "practicePrompt": "Giới thiệu một địa điểm trong video trong 45 giây: vị trí, hai đặc điểm và lý do em muốn đến.",
+    "reject": "full episode|full special|travel talk|live|Q&A|music|concert",
+    "min": 180
+  },
+  {
+    "id": "vlog-abroad-0",
+    "category": "vlog",
+    "query": "Abroad in Japan food",
+    "sources": [
+      "Abroad in Japan"
+    ],
+    "collection": "Vlog: du lịch & cuộc sống ở Nhật",
+    "accent": "uk",
+    "level": "B2",
+    "goal": "Luyện lời kể trải nghiệm, cách nêu nhận xét và ví dụ.",
+    "practicePrompt": "Tóm tắt một trải nghiệm trong video và nêu một điều em thấy thú vị bằng 45 giây.",
+    "reject": "music|trailer|teaser|shorts",
+    "min": 240
+  },
+  {
+    "id": "vlog-abroad-1",
+    "category": "vlog",
+    "query": "Abroad in Japan travel tips",
+    "sources": [
+      "Abroad in Japan"
+    ],
+    "collection": "Vlog: du lịch & cuộc sống ở Nhật",
+    "accent": "uk",
+    "level": "B2",
+    "goal": "Luyện lời kể trải nghiệm, cách nêu nhận xét và ví dụ.",
+    "practicePrompt": "Tóm tắt một trải nghiệm trong video và nêu một điều em thấy thú vị bằng 45 giây.",
+    "reject": "music|trailer|teaser|shorts",
+    "min": 240
+  },
+  {
+    "id": "vlog-abroad-2",
+    "category": "vlog",
+    "query": "Abroad in Japan Japanese hotel",
+    "sources": [
+      "Abroad in Japan"
+    ],
+    "collection": "Vlog: du lịch & cuộc sống ở Nhật",
+    "accent": "uk",
+    "level": "B2",
+    "goal": "Luyện lời kể trải nghiệm, cách nêu nhận xét và ví dụ.",
+    "practicePrompt": "Tóm tắt một trải nghiệm trong video và nêu một điều em thấy thú vị bằng 45 giây.",
+    "reject": "music|trailer|teaser|shorts",
+    "min": 240
+  },
+  {
+    "id": "vlog-abroad-3",
+    "category": "vlog",
+    "query": "Abroad in Japan Tokyo",
+    "sources": [
+      "Abroad in Japan"
+    ],
+    "collection": "Vlog: du lịch & cuộc sống ở Nhật",
+    "accent": "uk",
+    "level": "B2",
+    "goal": "Luyện lời kể trải nghiệm, cách nêu nhận xét và ví dụ.",
+    "practicePrompt": "Tóm tắt một trải nghiệm trong video và nêu một điều em thấy thú vị bằng 45 giây.",
+    "reject": "music|trailer|teaser|shorts",
+    "min": 240
+  },
+  {
+    "id": "vlog-abroad-4",
+    "category": "vlog",
+    "query": "Abroad in Japan daily life",
+    "sources": [
+      "Abroad in Japan"
+    ],
+    "collection": "Vlog: du lịch & cuộc sống ở Nhật",
+    "accent": "uk",
+    "level": "B2",
+    "goal": "Luyện lời kể trải nghiệm, cách nêu nhận xét và ví dụ.",
+    "practicePrompt": "Tóm tắt một trải nghiệm trong video và nêu một điều em thấy thú vị bằng 45 giây.",
+    "reject": "music|trailer|teaser|shorts",
+    "min": 240
+  },
+  {
+    "id": "pronunciation-0",
+    "category": "pronunciation",
+    "query": "BBC Sounds English long vowel u nurse",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "Phát âm nền tảng: âm còn thiếu",
+    "accent": "uk",
+    "level": "A2",
+    "goal": "Quan sát khẩu hình và luyện âm trong từ rồi đưa vào câu ngắn.",
+    "practicePrompt": "Chọn ba từ mẫu của âm đang học và đặt một câu của riêng em; giữ âm cuối và trọng âm rõ.",
+    "require": "Pronunciation Tips|Sounds of English",
+    "min": 30
+  },
+  {
+    "id": "pronunciation-1",
+    "category": "pronunciation",
+    "query": "BBC Sounds English consonants t d s z",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "Phát âm nền tảng: âm còn thiếu",
+    "accent": "uk",
+    "level": "A2",
+    "goal": "Quan sát khẩu hình và luyện âm trong từ rồi đưa vào câu ngắn.",
+    "practicePrompt": "Chọn ba từ mẫu của âm đang học và đặt một câu của riêng em; giữ âm cuối và trọng âm rõ.",
+    "require": "Pronunciation Tips|Sounds of English",
+    "min": 30
+  },
+  {
+    "id": "pronunciation-2",
+    "category": "pronunciation",
+    "query": "BBC Sounds English consonants sh ch j",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "Phát âm nền tảng: âm còn thiếu",
+    "accent": "uk",
+    "level": "A2",
+    "goal": "Quan sát khẩu hình và luyện âm trong từ rồi đưa vào câu ngắn.",
+    "practicePrompt": "Chọn ba từ mẫu của âm đang học và đặt một câu của riêng em; giữ âm cuối và trọng âm rõ.",
+    "require": "Pronunciation Tips|Sounds of English",
+    "min": 30
+  },
+  {
+    "id": "pronunciation-3",
+    "category": "pronunciation",
+    "query": "BBC Sounds English diphthong ai ei",
+    "sources": [
+      "BBC Learning English"
+    ],
+    "collection": "Phát âm nền tảng: âm còn thiếu",
+    "accent": "uk",
+    "level": "A2",
+    "goal": "Quan sát khẩu hình và luyện âm trong từ rồi đưa vào câu ngắn.",
+    "practicePrompt": "Chọn ba từ mẫu của âm đang học và đặt một câu của riêng em; giữ âm cuối và trọng âm rõ.",
+    "require": "Pronunciation Tips|Sounds of English",
+    "min": 30
+  },
+  {
+    "id": "toeic-expand-1",
+    "category": "toeic",
+    "query": "EngPro 101 TOEIC Speaking Expressing Opinion #1",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 120,
+    "reject": "Listening|Reading|Writing|BAD Answer"
+  },
+  {
+    "id": "toeic-expand-2",
+    "category": "toeic",
+    "query": "EngPro 101 TOEIC Speaking Expressing Opinion #2",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 120,
+    "reject": "Listening|Reading|Writing|BAD Answer"
+  },
+  {
+    "id": "toeic-expand-3",
+    "category": "toeic",
+    "query": "EngPro 101 TOEIC Speaking Expressing Opinion #3",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 120,
+    "reject": "Listening|Reading|Writing|BAD Answer"
+  },
+  {
+    "id": "toeic-expand-4",
+    "category": "toeic",
+    "query": "EngPro 101 TOEIC Speaking Expressing Opinion #4",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 120,
+    "reject": "Listening|Reading|Writing|BAD Answer"
+  },
+  {
+    "id": "toeic-expand-5",
+    "category": "toeic",
+    "query": "EngPro 101 TOEIC Speaking Expressing Opinion #5",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 120,
+    "reject": "Listening|Reading|Writing|BAD Answer"
+  },
+  {
+    "id": "toeic-expand-6",
+    "category": "toeic",
+    "query": "EngPro 101 TOEIC Speaking Expressing Opinion #6",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 120,
+    "reject": "Listening|Reading|Writing|BAD Answer"
+  },
+  {
+    "id": "toeic-expand-7",
+    "category": "toeic",
+    "query": "EngPro 101 TOEIC Speaking Expressing Opinion #7",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 120,
+    "reject": "Listening|Reading|Writing|BAD Answer"
+  },
+  {
+    "id": "toeic-expand-8",
+    "category": "toeic",
+    "query": "EngPro 101 TOEIC Speaking Expressing Opinion #8",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 120,
+    "reject": "Listening|Reading|Writing|BAD Answer"
+  },
+  {
+    "id": "toeic-expand-9",
+    "category": "toeic",
+    "query": "EngPro 101 TOEIC Speaking Expressing Opinion #9",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 120,
+    "reject": "Listening|Reading|Writing|BAD Answer"
+  },
+  {
+    "id": "toeic-expand-10",
+    "category": "toeic",
+    "query": "EngPro 101 TOEIC Speaking Expressing Opinion #10",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 120,
+    "reject": "Listening|Reading|Writing|BAD Answer"
+  },
+  {
+    "id": "toeic-expand-11",
+    "category": "toeic",
+    "query": "EngPro 101 TOEIC Speaking Expressing Opinion #11",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 120,
+    "reject": "Listening|Reading|Writing|BAD Answer"
+  },
+  {
+    "id": "toeic-expand-12",
+    "category": "toeic",
+    "query": "EngPro 101 TOEIC Speaking Expressing Opinion #12",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 120,
+    "reject": "Listening|Reading|Writing|BAD Answer"
+  },
+  {
+    "id": "toeic-expand-15",
+    "category": "toeic",
+    "query": "EngPro 101 TOEIC Speaking Expressing Opinion #15",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 120,
+    "reject": "Listening|Reading|Writing|BAD Answer"
+  },
+  {
+    "id": "toeic-expand-20",
+    "category": "toeic",
+    "query": "EngPro 101 TOEIC Speaking Expressing Opinion #20",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 120,
+    "reject": "Listening|Reading|Writing|BAD Answer"
+  },
+  {
+    "id": "toeic-expand-25",
+    "category": "toeic",
+    "query": "EngPro 101 TOEIC Speaking Expressing Opinion #25",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 120,
+    "reject": "Listening|Reading|Writing|BAD Answer"
+  },
+  {
+    "id": "toeic-expand-30",
+    "category": "toeic",
+    "query": "EngPro 101 TOEIC Speaking Expressing Opinion #30",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 120,
+    "reject": "Listening|Reading|Writing|BAD Answer"
+  },
+  {
+    "id": "toeic-expand-40",
+    "category": "toeic",
+    "query": "EngPro 101 TOEIC Speaking Expressing Opinion #40",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 120,
+    "reject": "Listening|Reading|Writing|BAD Answer"
+  },
+  {
+    "id": "toeic-expand-50",
+    "category": "toeic",
+    "query": "EngPro 101 TOEIC Speaking Expressing Opinion #50",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 120,
+    "reject": "Listening|Reading|Writing|BAD Answer"
+  },
+  {
+    "id": "toeic-picture-1",
+    "category": "toeic",
+    "query": "Anh Quang DESCRIBE A PICTURE TOEIC Practice 1",
+    "sources": [
+      "Anh Quang"
+    ],
+    "collection": "TOEIC Speaking: mô tả tranh",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Mô tả người, hành động và vị trí từ các chi tiết quan sát được.",
+    "practicePrompt": "Tự mô tả cảnh trong 30 giây trước khi nghe bài nguồn; không thêm quan hệ hoặc mục đích không thấy trong tranh.",
+    "min": 40,
+    "require": "DESCRIBE A PICTURE"
+  },
+  {
+    "id": "toeic-picture-3",
+    "category": "toeic",
+    "query": "Anh Quang DESCRIBE A PICTURE TOEIC Practice 3",
+    "sources": [
+      "Anh Quang"
+    ],
+    "collection": "TOEIC Speaking: mô tả tranh",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Mô tả người, hành động và vị trí từ các chi tiết quan sát được.",
+    "practicePrompt": "Tự mô tả cảnh trong 30 giây trước khi nghe bài nguồn; không thêm quan hệ hoặc mục đích không thấy trong tranh.",
+    "min": 40,
+    "require": "DESCRIBE A PICTURE"
+  },
+  {
+    "id": "toeic-picture-5",
+    "category": "toeic",
+    "query": "Anh Quang DESCRIBE A PICTURE TOEIC Practice 5",
+    "sources": [
+      "Anh Quang"
+    ],
+    "collection": "TOEIC Speaking: mô tả tranh",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Mô tả người, hành động và vị trí từ các chi tiết quan sát được.",
+    "practicePrompt": "Tự mô tả cảnh trong 30 giây trước khi nghe bài nguồn; không thêm quan hệ hoặc mục đích không thấy trong tranh.",
+    "min": 40,
+    "require": "DESCRIBE A PICTURE"
+  },
+  {
+    "id": "toeic-picture-7",
+    "category": "toeic",
+    "query": "Anh Quang DESCRIBE A PICTURE TOEIC Practice 7",
+    "sources": [
+      "Anh Quang"
+    ],
+    "collection": "TOEIC Speaking: mô tả tranh",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Mô tả người, hành động và vị trí từ các chi tiết quan sát được.",
+    "practicePrompt": "Tự mô tả cảnh trong 30 giây trước khi nghe bài nguồn; không thêm quan hệ hoặc mục đích không thấy trong tranh.",
+    "min": 40,
+    "require": "DESCRIBE A PICTURE"
+  },
+  {
+    "id": "toeic-picture-9",
+    "category": "toeic",
+    "query": "Anh Quang DESCRIBE A PICTURE TOEIC Practice 9",
+    "sources": [
+      "Anh Quang"
+    ],
+    "collection": "TOEIC Speaking: mô tả tranh",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Mô tả người, hành động và vị trí từ các chi tiết quan sát được.",
+    "practicePrompt": "Tự mô tả cảnh trong 30 giây trước khi nghe bài nguồn; không thêm quan hệ hoặc mục đích không thấy trong tranh.",
+    "min": 40,
+    "require": "DESCRIBE A PICTURE"
+  },
+  {
+    "id": "toeic-long-respond-to-questions",
+    "category": "toeic",
+    "query": "TOEIC Speaking respond to questions practice 10 minutes",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101",
+      "Nancy's TOEIC",
+      "E2 TOEIC",
+      "YBM TOEIC",
+      "YBM 어학원"
+    ],
+    "collection": "TOEIC Speaking: luyện nhiều lượt",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Luyện trả lời liên tiếp và tự kiểm độ rõ, sự đúng trọng tâm.",
+    "practicePrompt": "Luyện ba lượt hỏi trong video, thu âm mỗi lượt riêng và ghi một điều cần cải thiện trước lượt tiếp theo.",
+    "min": 300,
+    "reject": "Listening|Reading|Writing"
+  },
+  {
+    "id": "toeic-long-read-aloud",
+    "category": "toeic",
+    "query": "TOEIC Speaking read aloud practice 10 minutes",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101",
+      "Nancy's TOEIC",
+      "E2 TOEIC",
+      "YBM TOEIC",
+      "YBM 어학원"
+    ],
+    "collection": "TOEIC Speaking: luyện nhiều lượt",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Luyện trả lời liên tiếp và tự kiểm độ rõ, sự đúng trọng tâm.",
+    "practicePrompt": "Luyện ba lượt hỏi trong video, thu âm mỗi lượt riêng và ghi một điều cần cải thiện trước lượt tiếp theo.",
+    "min": 300,
+    "reject": "Listening|Reading|Writing"
+  },
+  {
+    "id": "toeic-long-information-provided",
+    "category": "toeic",
+    "query": "TOEIC Speaking information provided practice 10 minutes",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101",
+      "Nancy's TOEIC",
+      "E2 TOEIC",
+      "YBM TOEIC",
+      "YBM 어학원"
+    ],
+    "collection": "TOEIC Speaking: luyện nhiều lượt",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Luyện trả lời liên tiếp và tự kiểm độ rõ, sự đúng trọng tâm.",
+    "practicePrompt": "Luyện ba lượt hỏi trong video, thu âm mỗi lượt riêng và ghi một điều cần cải thiện trước lượt tiếp theo.",
+    "min": 300,
+    "reject": "Listening|Reading|Writing"
+  },
+  {
+    "id": "toeic-long-speaking-opinion",
+    "category": "toeic",
+    "query": "TOEIC Speaking speaking opinion practice 10 minutes",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101",
+      "Nancy's TOEIC",
+      "E2 TOEIC",
+      "YBM TOEIC",
+      "YBM 어학원"
+    ],
+    "collection": "TOEIC Speaking: luyện nhiều lượt",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Luyện trả lời liên tiếp và tự kiểm độ rõ, sự đúng trọng tâm.",
+    "practicePrompt": "Luyện ba lượt hỏi trong video, thu âm mỗi lượt riêng và ghi một điều cần cải thiện trước lượt tiếp theo.",
+    "min": 300,
+    "reject": "Listening|Reading|Writing"
+  },
+  {
+    "id": "movie-expand-0",
+    "category": "movie",
+    "query": "The Intern movie scene official clip",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: The Intern",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện ngắt cụm, nhấn từ khóa và giọng phản ứng qua lời thoại của The Intern.",
+    "practicePrompt": "Chọn một lượt thoại nghe rõ, luyện lại ở tốc độ chậm rồi nói tốc độ thường; diễn đạt mục đích của nhân vật bằng lời riêng.",
+    "min": 45,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch"
+  },
+  {
+    "id": "movie-expand-1",
+    "category": "movie",
+    "query": "The Kings Speech movie scene official clip",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: The King’s Speech",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện ngắt cụm, nhấn từ khóa và giọng phản ứng qua lời thoại của The Kings Speech.",
+    "practicePrompt": "Chọn một lượt thoại nghe rõ, luyện lại ở tốc độ chậm rồi nói tốc độ thường; diễn đạt mục đích của nhân vật bằng lời riêng.",
+    "min": 45,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch"
+  },
+  {
+    "id": "movie-expand-2",
+    "category": "movie",
+    "query": "Harry Potter Sorcerers Stone movie scene official clip",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: Harry Potter Sorcerers Stone",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện ngắt cụm, nhấn từ khóa và giọng phản ứng qua lời thoại của Harry Potter Sorcerers Stone.",
+    "practicePrompt": "Chọn một lượt thoại nghe rõ, luyện lại ở tốc độ chậm rồi nói tốc độ thường; diễn đạt mục đích của nhân vật bằng lời riêng.",
+    "min": 45,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch"
+  },
+  {
+    "id": "movie-expand-3",
+    "category": "movie",
+    "query": "Harry Potter Prisoner Azkaban movie scene official clip",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: Harry Potter Prisoner Azkaban",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện ngắt cụm, nhấn từ khóa và giọng phản ứng qua lời thoại của Harry Potter Prisoner Azkaban.",
+    "practicePrompt": "Chọn một lượt thoại nghe rõ, luyện lại ở tốc độ chậm rồi nói tốc độ thường; diễn đạt mục đích của nhân vật bằng lời riêng.",
+    "min": 45,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch"
+  },
+  {
+    "id": "movie-expand-4",
+    "category": "movie",
+    "query": "Paddington movie scene official clip",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: Paddington",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện ngắt cụm, nhấn từ khóa và giọng phản ứng qua lời thoại của Paddington.",
+    "practicePrompt": "Chọn một lượt thoại nghe rõ, luyện lại ở tốc độ chậm rồi nói tốc độ thường; diễn đạt mục đích của nhân vật bằng lời riêng.",
+    "min": 45,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch"
+  },
+  {
+    "id": "movie-expand-5",
+    "category": "movie",
+    "query": "The Princess Diaries movie scene official clip",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: The Princess Diaries",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện ngắt cụm, nhấn từ khóa và giọng phản ứng qua lời thoại của The Princess Diaries.",
+    "practicePrompt": "Chọn một lượt thoại nghe rõ, luyện lại ở tốc độ chậm rồi nói tốc độ thường; diễn đạt mục đích của nhân vật bằng lời riêng.",
+    "min": 45,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch"
+  },
+  {
+    "id": "movie-expand-6",
+    "category": "movie",
+    "query": "Toy Story movie scene official clip",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: Toy Story",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện ngắt cụm, nhấn từ khóa và giọng phản ứng qua lời thoại của Toy Story.",
+    "practicePrompt": "Chọn một lượt thoại nghe rõ, luyện lại ở tốc độ chậm rồi nói tốc độ thường; diễn đạt mục đích của nhân vật bằng lời riêng.",
+    "min": 45,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch"
+  },
+  {
+    "id": "movie-expand-7",
+    "category": "movie",
+    "query": "Finding Nemo movie scene official clip",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: Finding Nemo",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện ngắt cụm, nhấn từ khóa và giọng phản ứng qua lời thoại của Finding Nemo.",
+    "practicePrompt": "Chọn một lượt thoại nghe rõ, luyện lại ở tốc độ chậm rồi nói tốc độ thường; diễn đạt mục đích của nhân vật bằng lời riêng.",
+    "min": 45,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch"
+  },
+  {
+    "id": "movie-expand-8",
+    "category": "movie",
+    "query": "Finding Dory movie scene official clip",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: Finding Dory",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện ngắt cụm, nhấn từ khóa và giọng phản ứng qua lời thoại của Finding Dory.",
+    "practicePrompt": "Chọn một lượt thoại nghe rõ, luyện lại ở tốc độ chậm rồi nói tốc độ thường; diễn đạt mục đích của nhân vật bằng lời riêng.",
+    "min": 45,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch"
+  },
+  {
+    "id": "movie-expand-9",
+    "category": "movie",
+    "query": "Zootopia movie scene official clip",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: Zootopia",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện ngắt cụm, nhấn từ khóa và giọng phản ứng qua lời thoại của Zootopia.",
+    "practicePrompt": "Chọn một lượt thoại nghe rõ, luyện lại ở tốc độ chậm rồi nói tốc độ thường; diễn đạt mục đích của nhân vật bằng lời riêng.",
+    "min": 45,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch"
+  },
+  {
+    "id": "movie-expand-10",
+    "category": "movie",
+    "query": "The Lion King movie scene official clip",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: The Lion King",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện ngắt cụm, nhấn từ khóa và giọng phản ứng qua lời thoại của The Lion King.",
+    "practicePrompt": "Chọn một lượt thoại nghe rõ, luyện lại ở tốc độ chậm rồi nói tốc độ thường; diễn đạt mục đích của nhân vật bằng lời riêng.",
+    "min": 45,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch"
+  },
+  {
+    "id": "movie-expand-11",
+    "category": "movie",
+    "query": "Beauty and the Beast movie scene official clip",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: Beauty and the Beast",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện ngắt cụm, nhấn từ khóa và giọng phản ứng qua lời thoại của Beauty and the Beast.",
+    "practicePrompt": "Chọn một lượt thoại nghe rõ, luyện lại ở tốc độ chậm rồi nói tốc độ thường; diễn đạt mục đích của nhân vật bằng lời riêng.",
+    "min": 45,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch"
+  },
+  {
+    "id": "movie-expand-12",
+    "category": "movie",
+    "query": "The Holiday movie scene official clip",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: The Holiday",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện ngắt cụm, nhấn từ khóa và giọng phản ứng qua lời thoại của The Holiday.",
+    "practicePrompt": "Chọn một lượt thoại nghe rõ, luyện lại ở tốc độ chậm rồi nói tốc độ thường; diễn đạt mục đích của nhân vật bằng lời riêng.",
+    "min": 45,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch"
+  },
+  {
+    "id": "movie-expand-13",
+    "category": "movie",
+    "query": "The Truman Show movie scene official clip",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: The Truman Show",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện ngắt cụm, nhấn từ khóa và giọng phản ứng qua lời thoại của The Truman Show.",
+    "practicePrompt": "Chọn một lượt thoại nghe rõ, luyện lại ở tốc độ chậm rồi nói tốc độ thường; diễn đạt mục đích của nhân vật bằng lời riêng.",
+    "min": 45,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch"
+  },
+  {
+    "id": "movie-expand-14",
+    "category": "movie",
+    "query": "The Sound of Music movie scene official clip",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: The Sound of Music",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện ngắt cụm, nhấn từ khóa và giọng phản ứng qua lời thoại của The Sound of Music.",
+    "practicePrompt": "Chọn một lượt thoại nghe rõ, luyện lại ở tốc độ chậm rồi nói tốc độ thường; diễn đạt mục đích của nhân vật bằng lời riêng.",
+    "min": 45,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch"
+  },
+  {
+    "id": "movie-expand-15",
+    "category": "movie",
+    "query": "Matilda movie scene official clip",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: Matilda",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện ngắt cụm, nhấn từ khóa và giọng phản ứng qua lời thoại của Matilda.",
+    "practicePrompt": "Chọn một lượt thoại nghe rõ, luyện lại ở tốc độ chậm rồi nói tốc độ thường; diễn đạt mục đích của nhân vật bằng lời riêng.",
+    "min": 45,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch"
+  },
+  {
+    "id": "movie-expand-16",
+    "category": "movie",
+    "query": "School of Rock movie scene official clip",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: School of Rock",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện ngắt cụm, nhấn từ khóa và giọng phản ứng qua lời thoại của School of Rock.",
+    "practicePrompt": "Chọn một lượt thoại nghe rõ, luyện lại ở tốc độ chậm rồi nói tốc độ thường; diễn đạt mục đích của nhân vật bằng lời riêng.",
+    "min": 45,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch"
+  },
+  {
+    "id": "movie-expand-17",
+    "category": "movie",
+    "query": "The Parent Trap movie scene official clip",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: The Parent Trap",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện ngắt cụm, nhấn từ khóa và giọng phản ứng qua lời thoại của The Parent Trap.",
+    "practicePrompt": "Chọn một lượt thoại nghe rõ, luyện lại ở tốc độ chậm rồi nói tốc độ thường; diễn đạt mục đích của nhân vật bằng lời riêng.",
+    "min": 45,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch"
+  },
+  {
+    "id": "movie-expand-18",
+    "category": "movie",
+    "query": "Mary Poppins movie scene official clip",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: Mary Poppins",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện ngắt cụm, nhấn từ khóa và giọng phản ứng qua lời thoại của Mary Poppins.",
+    "practicePrompt": "Chọn một lượt thoại nghe rõ, luyện lại ở tốc độ chậm rồi nói tốc độ thường; diễn đạt mục đích của nhân vật bằng lời riêng.",
+    "min": 45,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch"
+  },
+  {
+    "id": "movie-expand-19",
+    "category": "movie",
+    "query": "Up movie scene official clip",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: Up",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện ngắt cụm, nhấn từ khóa và giọng phản ứng qua lời thoại của Up.",
+    "practicePrompt": "Chọn một lượt thoại nghe rõ, luyện lại ở tốc độ chậm rồi nói tốc độ thường; diễn đạt mục đích của nhân vật bằng lời riêng.",
+    "min": 45,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch"
+  },
+  {
+    "id": "movie-extra-long-0",
+    "category": "movie",
+    "query": "Harry Potter extended preview best scenes 10 minutes",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: Harry Potter",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Theo dõi đối thoại dài hơn và luyện cách nối lượt lời trong Harry Potter.",
+    "practicePrompt": "Chọn một đoạn hội thoại 20–30 giây có âm thanh rõ; nói theo từng lượt rồi tóm tắt diễn biến bằng 45 giây.",
+    "min": 300,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser"
+  },
+  {
+    "id": "movie-extra-long-1",
+    "category": "movie",
+    "query": "The Intern extended preview best scenes 10 minutes",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: The Intern",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Theo dõi đối thoại dài hơn và luyện cách nối lượt lời trong The Intern.",
+    "practicePrompt": "Chọn một đoạn hội thoại 20–30 giây có âm thanh rõ; nói theo từng lượt rồi tóm tắt diễn biến bằng 45 giây.",
+    "min": 300,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser"
+  },
+  {
+    "id": "movie-extra-long-2",
+    "category": "movie",
+    "query": "Paddington extended preview best scenes 10 minutes",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: Paddington",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Theo dõi đối thoại dài hơn và luyện cách nối lượt lời trong Paddington.",
+    "practicePrompt": "Chọn một đoạn hội thoại 20–30 giây có âm thanh rõ; nói theo từng lượt rồi tóm tắt diễn biến bằng 45 giây.",
+    "min": 300,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser"
+  },
+  {
+    "id": "movie-extra-long-3",
+    "category": "movie",
+    "query": "The Holiday extended preview best scenes 10 minutes",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: The Holiday",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Theo dõi đối thoại dài hơn và luyện cách nối lượt lời trong The Holiday.",
+    "practicePrompt": "Chọn một đoạn hội thoại 20–30 giây có âm thanh rõ; nói theo từng lượt rồi tóm tắt diễn biến bằng 45 giây.",
+    "min": 300,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser"
+  },
+  {
+    "id": "movie-extra-long-4",
+    "category": "movie",
+    "query": "The Parent Trap extended preview best scenes 10 minutes",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: The Parent Trap",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Theo dõi đối thoại dài hơn và luyện cách nối lượt lời trong The Parent Trap.",
+    "practicePrompt": "Chọn một đoạn hội thoại 20–30 giây có âm thanh rõ; nói theo từng lượt rồi tóm tắt diễn biến bằng 45 giây.",
+    "min": 300,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser"
+  },
+  {
+    "id": "movie-extra-long-5",
+    "category": "movie",
+    "query": "Matilda extended preview best scenes 10 minutes",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: Matilda",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Theo dõi đối thoại dài hơn và luyện cách nối lượt lời trong Matilda.",
+    "practicePrompt": "Chọn một đoạn hội thoại 20–30 giây có âm thanh rõ; nói theo từng lượt rồi tóm tắt diễn biến bằng 45 giây.",
+    "min": 300,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser"
+  },
+  {
+    "id": "movie-extra-long-6",
+    "category": "movie",
+    "query": "Toy Story extended preview best scenes 10 minutes",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: Toy Story",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Theo dõi đối thoại dài hơn và luyện cách nối lượt lời trong Toy Story.",
+    "practicePrompt": "Chọn một đoạn hội thoại 20–30 giây có âm thanh rõ; nói theo từng lượt rồi tóm tắt diễn biến bằng 45 giây.",
+    "min": 300,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser"
+  },
+  {
+    "id": "movie-extra-long-7",
+    "category": "movie",
+    "query": "The Devil Wears Prada extended preview best scenes 10 minutes",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: The Devil Wears Prada",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Theo dõi đối thoại dài hơn và luyện cách nối lượt lời trong The Devil Wears Prada.",
+    "practicePrompt": "Chọn một đoạn hội thoại 20–30 giây có âm thanh rõ; nói theo từng lượt rồi tóm tắt diễn biến bằng 45 giây.",
+    "min": 300,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser"
+  },
+  {
+    "id": "movie-extra-long-8",
+    "category": "movie",
+    "query": "The Truman Show extended preview best scenes 10 minutes",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: The Truman Show",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Theo dõi đối thoại dài hơn và luyện cách nối lượt lời trong The Truman Show.",
+    "practicePrompt": "Chọn một đoạn hội thoại 20–30 giây có âm thanh rõ; nói theo từng lượt rồi tóm tắt diễn biến bằng 45 giây.",
+    "min": 300,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser"
+  },
+  {
+    "id": "movie-extra-long-9",
+    "category": "movie",
+    "query": "School of Rock extended preview best scenes 10 minutes",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: School of Rock",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Theo dõi đối thoại dài hơn và luyện cách nối lượt lời trong School of Rock.",
+    "practicePrompt": "Chọn một đoạn hội thoại 20–30 giây có âm thanh rõ; nói theo từng lượt rồi tóm tắt diễn biến bằng 45 giây.",
+    "min": 300,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser"
+  },
+  {
+    "id": "movie-extra-long-10",
+    "category": "movie",
+    "query": "The Sound of Music extended preview best scenes 10 minutes",
+    "sources": [
+      "Movieclips",
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Pixar",
+      "Disney UK",
+      "Sony Pictures Entertainment",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Disney",
+      "Walt Disney Studios",
+      "Rotten Tomatoes Family",
+      "Rotten Tomatoes Movieclips"
+    ],
+    "collection": "Phim nổi tiếng: The Sound of Music",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Theo dõi đối thoại dài hơn và luyện cách nối lượt lời trong The Sound of Music.",
+    "practicePrompt": "Chọn một đoạn hội thoại 20–30 giây có âm thanh rõ; nói theo từng lượt rồi tóm tắt diễn biến bằng 45 giây.",
+    "min": 300,
+    "reject": "trailer|song|singing|fight|battle|chase|kiss|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser"
+  },
+  {
+    "id": "vlog-more-rick-0",
+    "category": "vlog",
+    "query": "Rick Steves Europe Switzerland",
+    "sources": [
+      "Rick Steves' Europe"
+    ],
+    "collection": "Du lịch: lời kể từ địa điểm thật",
+    "accent": "us",
+    "level": "B1",
+    "goal": "Luyện lời thuyết minh và mô tả địa điểm bằng chi tiết quan sát được.",
+    "practicePrompt": "Tóm tắt hai chi tiết thú vị trong video rồi giới thiệu một địa điểm tương tự của em trong 45 giây.",
+    "min": 180,
+    "reject": "full episode|full special|travel talk|live|music|concert|trailer"
+  },
+  {
+    "id": "vlog-more-rick-1",
+    "category": "vlog",
+    "query": "Rick Steves Europe Portugal",
+    "sources": [
+      "Rick Steves' Europe"
+    ],
+    "collection": "Du lịch: lời kể từ địa điểm thật",
+    "accent": "us",
+    "level": "B1",
+    "goal": "Luyện lời thuyết minh và mô tả địa điểm bằng chi tiết quan sát được.",
+    "practicePrompt": "Tóm tắt hai chi tiết thú vị trong video rồi giới thiệu một địa điểm tương tự của em trong 45 giây.",
+    "min": 180,
+    "reject": "full episode|full special|travel talk|live|music|concert|trailer"
+  },
+  {
+    "id": "vlog-more-rick-2",
+    "category": "vlog",
+    "query": "Rick Steves Europe Greece",
+    "sources": [
+      "Rick Steves' Europe"
+    ],
+    "collection": "Du lịch: lời kể từ địa điểm thật",
+    "accent": "us",
+    "level": "B1",
+    "goal": "Luyện lời thuyết minh và mô tả địa điểm bằng chi tiết quan sát được.",
+    "practicePrompt": "Tóm tắt hai chi tiết thú vị trong video rồi giới thiệu một địa điểm tương tự của em trong 45 giây.",
+    "min": 180,
+    "reject": "full episode|full special|travel talk|live|music|concert|trailer"
+  },
+  {
+    "id": "vlog-more-rick-3",
+    "category": "vlog",
+    "query": "Rick Steves Europe Venice",
+    "sources": [
+      "Rick Steves' Europe"
+    ],
+    "collection": "Du lịch: lời kể từ địa điểm thật",
+    "accent": "us",
+    "level": "B1",
+    "goal": "Luyện lời thuyết minh và mô tả địa điểm bằng chi tiết quan sát được.",
+    "practicePrompt": "Tóm tắt hai chi tiết thú vị trong video rồi giới thiệu một địa điểm tương tự của em trong 45 giây.",
+    "min": 180,
+    "reject": "full episode|full special|travel talk|live|music|concert|trailer"
+  },
+  {
+    "id": "vlog-more-rick-4",
+    "category": "vlog",
+    "query": "Rick Steves Europe Florence",
+    "sources": [
+      "Rick Steves' Europe"
+    ],
+    "collection": "Du lịch: lời kể từ địa điểm thật",
+    "accent": "us",
+    "level": "B1",
+    "goal": "Luyện lời thuyết minh và mô tả địa điểm bằng chi tiết quan sát được.",
+    "practicePrompt": "Tóm tắt hai chi tiết thú vị trong video rồi giới thiệu một địa điểm tương tự của em trong 45 giây.",
+    "min": 180,
+    "reject": "full episode|full special|travel talk|live|music|concert|trailer"
+  },
+  {
+    "id": "vlog-more-rick-5",
+    "category": "vlog",
+    "query": "Rick Steves Europe Prague",
+    "sources": [
+      "Rick Steves' Europe"
+    ],
+    "collection": "Du lịch: lời kể từ địa điểm thật",
+    "accent": "us",
+    "level": "B1",
+    "goal": "Luyện lời thuyết minh và mô tả địa điểm bằng chi tiết quan sát được.",
+    "practicePrompt": "Tóm tắt hai chi tiết thú vị trong video rồi giới thiệu một địa điểm tương tự của em trong 45 giây.",
+    "min": 180,
+    "reject": "full episode|full special|travel talk|live|music|concert|trailer"
+  },
+  {
+    "id": "vlog-more-rick-6",
+    "category": "vlog",
+    "query": "Rick Steves Europe Austria",
+    "sources": [
+      "Rick Steves' Europe"
+    ],
+    "collection": "Du lịch: lời kể từ địa điểm thật",
+    "accent": "us",
+    "level": "B1",
+    "goal": "Luyện lời thuyết minh và mô tả địa điểm bằng chi tiết quan sát được.",
+    "practicePrompt": "Tóm tắt hai chi tiết thú vị trong video rồi giới thiệu một địa điểm tương tự của em trong 45 giây.",
+    "min": 180,
+    "reject": "full episode|full special|travel talk|live|music|concert|trailer"
+  },
+  {
+    "id": "vlog-more-rick-7",
+    "category": "vlog",
+    "query": "Rick Steves Europe Vienna",
+    "sources": [
+      "Rick Steves' Europe"
+    ],
+    "collection": "Du lịch: lời kể từ địa điểm thật",
+    "accent": "us",
+    "level": "B1",
+    "goal": "Luyện lời thuyết minh và mô tả địa điểm bằng chi tiết quan sát được.",
+    "practicePrompt": "Tóm tắt hai chi tiết thú vị trong video rồi giới thiệu một địa điểm tương tự của em trong 45 giây.",
+    "min": 180,
+    "reject": "full episode|full special|travel talk|live|music|concert|trailer"
+  },
+  {
+    "id": "vlog-more-rick-8",
+    "category": "vlog",
+    "query": "Rick Steves Europe London travel tips",
+    "sources": [
+      "Rick Steves' Europe"
+    ],
+    "collection": "Du lịch: lời kể từ địa điểm thật",
+    "accent": "us",
+    "level": "B1",
+    "goal": "Luyện lời thuyết minh và mô tả địa điểm bằng chi tiết quan sát được.",
+    "practicePrompt": "Tóm tắt hai chi tiết thú vị trong video rồi giới thiệu một địa điểm tương tự của em trong 45 giây.",
+    "min": 180,
+    "reject": "full episode|full special|travel talk|live|music|concert|trailer"
+  },
+  {
+    "id": "vlog-more-rick-9",
+    "category": "vlog",
+    "query": "Rick Steves Europe Paris travel tips",
+    "sources": [
+      "Rick Steves' Europe"
+    ],
+    "collection": "Du lịch: lời kể từ địa điểm thật",
+    "accent": "us",
+    "level": "B1",
+    "goal": "Luyện lời thuyết minh và mô tả địa điểm bằng chi tiết quan sát được.",
+    "practicePrompt": "Tóm tắt hai chi tiết thú vị trong video rồi giới thiệu một địa điểm tương tự của em trong 45 giây.",
+    "min": 180,
+    "reject": "full episode|full special|travel talk|live|music|concert|trailer"
+  },
+  {
+    "id": "vlog-more-japan-0",
+    "category": "vlog",
+    "query": "Abroad in Japan things to do",
+    "sources": [
+      "Abroad in Japan"
+    ],
+    "collection": "Vlog: du lịch & cuộc sống ở Nhật",
+    "accent": "uk",
+    "level": "B2",
+    "goal": "Theo dõi lời kể trải nghiệm và cách đưa ví dụ khi nhận xét.",
+    "practicePrompt": "Kể lại một vấn đề hoặc trải nghiệm được nói tới, rồi giải thích em sẽ phản ứng thế nào.",
+    "min": 300,
+    "reject": "music|trailer|teaser|shorts"
+  },
+  {
+    "id": "vlog-more-japan-1",
+    "category": "vlog",
+    "query": "Abroad in Japan Kyoto",
+    "sources": [
+      "Abroad in Japan"
+    ],
+    "collection": "Vlog: du lịch & cuộc sống ở Nhật",
+    "accent": "uk",
+    "level": "B2",
+    "goal": "Theo dõi lời kể trải nghiệm và cách đưa ví dụ khi nhận xét.",
+    "practicePrompt": "Kể lại một vấn đề hoặc trải nghiệm được nói tới, rồi giải thích em sẽ phản ứng thế nào.",
+    "min": 300,
+    "reject": "music|trailer|teaser|shorts"
+  },
+  {
+    "id": "vlog-more-japan-2",
+    "category": "vlog",
+    "query": "Abroad in Japan convenience stores",
+    "sources": [
+      "Abroad in Japan"
+    ],
+    "collection": "Vlog: du lịch & cuộc sống ở Nhật",
+    "accent": "uk",
+    "level": "B2",
+    "goal": "Theo dõi lời kể trải nghiệm và cách đưa ví dụ khi nhận xét.",
+    "practicePrompt": "Kể lại một vấn đề hoặc trải nghiệm được nói tới, rồi giải thích em sẽ phản ứng thế nào.",
+    "min": 300,
+    "reject": "music|trailer|teaser|shorts"
+  },
+  {
+    "id": "vlog-more-japan-3",
+    "category": "vlog",
+    "query": "Abroad in Japan culture shock",
+    "sources": [
+      "Abroad in Japan"
+    ],
+    "collection": "Vlog: du lịch & cuộc sống ở Nhật",
+    "accent": "uk",
+    "level": "B2",
+    "goal": "Theo dõi lời kể trải nghiệm và cách đưa ví dụ khi nhận xét.",
+    "practicePrompt": "Kể lại một vấn đề hoặc trải nghiệm được nói tới, rồi giải thích em sẽ phản ứng thế nào.",
+    "min": 300,
+    "reject": "music|trailer|teaser|shorts"
+  },
+  {
+    "id": "vlog-more-japan-4",
+    "category": "vlog",
+    "query": "Abroad in Japan language",
+    "sources": [
+      "Abroad in Japan"
+    ],
+    "collection": "Vlog: du lịch & cuộc sống ở Nhật",
+    "accent": "uk",
+    "level": "B2",
+    "goal": "Theo dõi lời kể trải nghiệm và cách đưa ví dụ khi nhận xét.",
+    "practicePrompt": "Kể lại một vấn đề hoặc trải nghiệm được nói tới, rồi giải thích em sẽ phản ứng thế nào.",
+    "min": 300,
+    "reject": "music|trailer|teaser|shorts"
+  },
+  {
+    "id": "vlog-more-japan-5",
+    "category": "vlog",
+    "query": "Abroad in Japan mistakes",
+    "sources": [
+      "Abroad in Japan"
+    ],
+    "collection": "Vlog: du lịch & cuộc sống ở Nhật",
+    "accent": "uk",
+    "level": "B2",
+    "goal": "Theo dõi lời kể trải nghiệm và cách đưa ví dụ khi nhận xét.",
+    "practicePrompt": "Kể lại một vấn đề hoặc trải nghiệm được nói tới, rồi giải thích em sẽ phản ứng thế nào.",
+    "min": 300,
+    "reject": "music|trailer|teaser|shorts"
+  },
+  {
+    "id": "movie-quality-0",
+    "category": "movie",
+    "query": "The King's Speech official movie dialogue clip",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: The King's Speech",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp, ngắt cụm và ngữ điệu từ các lượt thoại trong The King's Speech.",
+    "practicePrompt": "Chọn một đoạn có lời nói nghe rõ, luyện một lượt lời ở tốc độ chậm rồi nói lại tự nhiên; giải thích ý của nhân vật bằng câu của riêng em.",
+    "min": 45,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch|fight"
+  },
+  {
+    "id": "movie-quality-1",
+    "category": "movie",
+    "query": "The Holiday official movie dialogue clip",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: The Holiday",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp, ngắt cụm và ngữ điệu từ các lượt thoại trong The Holiday.",
+    "practicePrompt": "Chọn một đoạn có lời nói nghe rõ, luyện một lượt lời ở tốc độ chậm rồi nói lại tự nhiên; giải thích ý của nhân vật bằng câu của riêng em.",
+    "min": 45,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch|fight"
+  },
+  {
+    "id": "movie-quality-2",
+    "category": "movie",
+    "query": "Love Actually official movie dialogue clip",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: Love Actually",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp, ngắt cụm và ngữ điệu từ các lượt thoại trong Love Actually.",
+    "practicePrompt": "Chọn một đoạn có lời nói nghe rõ, luyện một lượt lời ở tốc độ chậm rồi nói lại tự nhiên; giải thích ý của nhân vật bằng câu của riêng em.",
+    "min": 45,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch|fight"
+  },
+  {
+    "id": "movie-quality-3",
+    "category": "movie",
+    "query": "The Intern official movie dialogue clip",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: The Intern",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp, ngắt cụm và ngữ điệu từ các lượt thoại trong The Intern.",
+    "practicePrompt": "Chọn một đoạn có lời nói nghe rõ, luyện một lượt lời ở tốc độ chậm rồi nói lại tự nhiên; giải thích ý của nhân vật bằng câu của riêng em.",
+    "min": 45,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch|fight"
+  },
+  {
+    "id": "movie-quality-4",
+    "category": "movie",
+    "query": "Paddington 2 official movie dialogue clip",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: Paddington 2",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Luyện nhịp, ngắt cụm và ngữ điệu từ các lượt thoại trong Paddington 2.",
+    "practicePrompt": "Chọn một đoạn có lời nói nghe rõ, luyện một lượt lời ở tốc độ chậm rồi nói lại tự nhiên; giải thích ý của nhân vật bằng câu của riêng em.",
+    "min": 45,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch|fight"
+  },
+  {
+    "id": "movie-quality-5",
+    "category": "movie",
+    "query": "The Princess Diaries official movie dialogue clip",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: The Princess Diaries",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp, ngắt cụm và ngữ điệu từ các lượt thoại trong The Princess Diaries.",
+    "practicePrompt": "Chọn một đoạn có lời nói nghe rõ, luyện một lượt lời ở tốc độ chậm rồi nói lại tự nhiên; giải thích ý của nhân vật bằng câu của riêng em.",
+    "min": 45,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch|fight"
+  },
+  {
+    "id": "movie-quality-6",
+    "category": "movie",
+    "query": "Dead Poets Society official movie dialogue clip",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: Dead Poets Society",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp, ngắt cụm và ngữ điệu từ các lượt thoại trong Dead Poets Society.",
+    "practicePrompt": "Chọn một đoạn có lời nói nghe rõ, luyện một lượt lời ở tốc độ chậm rồi nói lại tự nhiên; giải thích ý của nhân vật bằng câu của riêng em.",
+    "min": 45,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch|fight"
+  },
+  {
+    "id": "movie-quality-7",
+    "category": "movie",
+    "query": "Toy Story official movie dialogue clip",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: Toy Story",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Luyện nhịp, ngắt cụm và ngữ điệu từ các lượt thoại trong Toy Story.",
+    "practicePrompt": "Chọn một đoạn có lời nói nghe rõ, luyện một lượt lời ở tốc độ chậm rồi nói lại tự nhiên; giải thích ý của nhân vật bằng câu của riêng em.",
+    "min": 45,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch|fight"
+  },
+  {
+    "id": "movie-quality-8",
+    "category": "movie",
+    "query": "Ratatouille official movie dialogue clip",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: Ratatouille",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp, ngắt cụm và ngữ điệu từ các lượt thoại trong Ratatouille.",
+    "practicePrompt": "Chọn một đoạn có lời nói nghe rõ, luyện một lượt lời ở tốc độ chậm rồi nói lại tự nhiên; giải thích ý của nhân vật bằng câu của riêng em.",
+    "min": 45,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch|fight"
+  },
+  {
+    "id": "movie-quality-9",
+    "category": "movie",
+    "query": "Monsters Inc official movie dialogue clip",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: Monsters Inc",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp, ngắt cụm và ngữ điệu từ các lượt thoại trong Monsters Inc.",
+    "practicePrompt": "Chọn một đoạn có lời nói nghe rõ, luyện một lượt lời ở tốc độ chậm rồi nói lại tự nhiên; giải thích ý của nhân vật bằng câu của riêng em.",
+    "min": 45,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch|fight"
+  },
+  {
+    "id": "movie-quality-10",
+    "category": "movie",
+    "query": "The Incredibles official movie dialogue clip",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: The Incredibles",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp, ngắt cụm và ngữ điệu từ các lượt thoại trong The Incredibles.",
+    "practicePrompt": "Chọn một đoạn có lời nói nghe rõ, luyện một lượt lời ở tốc độ chậm rồi nói lại tự nhiên; giải thích ý của nhân vật bằng câu của riêng em.",
+    "min": 45,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch|fight"
+  },
+  {
+    "id": "movie-quality-11",
+    "category": "movie",
+    "query": "Finding Nemo official movie dialogue clip",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: Finding Nemo",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Luyện nhịp, ngắt cụm và ngữ điệu từ các lượt thoại trong Finding Nemo.",
+    "practicePrompt": "Chọn một đoạn có lời nói nghe rõ, luyện một lượt lời ở tốc độ chậm rồi nói lại tự nhiên; giải thích ý của nhân vật bằng câu của riêng em.",
+    "min": 45,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch|fight"
+  },
+  {
+    "id": "movie-quality-12",
+    "category": "movie",
+    "query": "Finding Dory official movie dialogue clip",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: Finding Dory",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Luyện nhịp, ngắt cụm và ngữ điệu từ các lượt thoại trong Finding Dory.",
+    "practicePrompt": "Chọn một đoạn có lời nói nghe rõ, luyện một lượt lời ở tốc độ chậm rồi nói lại tự nhiên; giải thích ý của nhân vật bằng câu của riêng em.",
+    "min": 45,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch|fight"
+  },
+  {
+    "id": "movie-quality-13",
+    "category": "movie",
+    "query": "Zootopia official movie dialogue clip",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: Zootopia",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp, ngắt cụm và ngữ điệu từ các lượt thoại trong Zootopia.",
+    "practicePrompt": "Chọn một đoạn có lời nói nghe rõ, luyện một lượt lời ở tốc độ chậm rồi nói lại tự nhiên; giải thích ý của nhân vật bằng câu của riêng em.",
+    "min": 45,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch|fight"
+  },
+  {
+    "id": "movie-quality-14",
+    "category": "movie",
+    "query": "Harry Potter official movie dialogue clip",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: Harry Potter",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp, ngắt cụm và ngữ điệu từ các lượt thoại trong Harry Potter.",
+    "practicePrompt": "Chọn một đoạn có lời nói nghe rõ, luyện một lượt lời ở tốc độ chậm rồi nói lại tự nhiên; giải thích ý của nhân vật bằng câu của riêng em.",
+    "min": 45,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch|fight"
+  },
+  {
+    "id": "movie-quality-15",
+    "category": "movie",
+    "query": "Fantastic Beasts official movie dialogue clip",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: Fantastic Beasts",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp, ngắt cụm và ngữ điệu từ các lượt thoại trong Fantastic Beasts.",
+    "practicePrompt": "Chọn một đoạn có lời nói nghe rõ, luyện một lượt lời ở tốc độ chậm rồi nói lại tự nhiên; giải thích ý của nhân vật bằng câu của riêng em.",
+    "min": 45,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch|fight"
+  },
+  {
+    "id": "movie-quality-16",
+    "category": "movie",
+    "query": "The Parent Trap official movie dialogue clip",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: The Parent Trap",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp, ngắt cụm và ngữ điệu từ các lượt thoại trong The Parent Trap.",
+    "practicePrompt": "Chọn một đoạn có lời nói nghe rõ, luyện một lượt lời ở tốc độ chậm rồi nói lại tự nhiên; giải thích ý của nhân vật bằng câu của riêng em.",
+    "min": 45,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch|fight"
+  },
+  {
+    "id": "movie-quality-17",
+    "category": "movie",
+    "query": "The Sound of Music official movie dialogue clip",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: The Sound of Music",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp, ngắt cụm và ngữ điệu từ các lượt thoại trong The Sound of Music.",
+    "practicePrompt": "Chọn một đoạn có lời nói nghe rõ, luyện một lượt lời ở tốc độ chậm rồi nói lại tự nhiên; giải thích ý của nhân vật bằng câu của riêng em.",
+    "min": 45,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch|fight"
+  },
+  {
+    "id": "movie-quality-18",
+    "category": "movie",
+    "query": "Matilda official movie dialogue clip",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: Matilda",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện nhịp, ngắt cụm và ngữ điệu từ các lượt thoại trong Matilda.",
+    "practicePrompt": "Chọn một đoạn có lời nói nghe rõ, luyện một lượt lời ở tốc độ chậm rồi nói lại tự nhiên; giải thích ý của nhân vật bằng câu của riêng em.",
+    "min": 45,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|punch|fight"
+  },
+  {
+    "id": "movie-long-dialog-0",
+    "category": "movie",
+    "query": "The Holiday Universal Warner official scenes",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: The Holiday",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện theo dõi đoạn hội thoại dài và mục đích của các lượt nói trong The Holiday.",
+    "practicePrompt": "Chọn 30 giây hội thoại rõ tiếng, luyện ngắt cụm và từ nhấn; sau đó nói lại ý của đoạn bằng lời riêng.",
+    "min": 300,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|fight"
+  },
+  {
+    "id": "movie-long-dialog-1",
+    "category": "movie",
+    "query": "Love Actually Universal Warner official scenes",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: Love Actually",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện theo dõi đoạn hội thoại dài và mục đích của các lượt nói trong Love Actually.",
+    "practicePrompt": "Chọn 30 giây hội thoại rõ tiếng, luyện ngắt cụm và từ nhấn; sau đó nói lại ý của đoạn bằng lời riêng.",
+    "min": 300,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|fight"
+  },
+  {
+    "id": "movie-long-dialog-2",
+    "category": "movie",
+    "query": "Notting Hill Universal Warner official scenes",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: Notting Hill",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện theo dõi đoạn hội thoại dài và mục đích của các lượt nói trong Notting Hill.",
+    "practicePrompt": "Chọn 30 giây hội thoại rõ tiếng, luyện ngắt cụm và từ nhấn; sau đó nói lại ý của đoạn bằng lời riêng.",
+    "min": 300,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|fight"
+  },
+  {
+    "id": "movie-long-dialog-3",
+    "category": "movie",
+    "query": "The King's Speech Universal Warner official scenes",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: The King's Speech",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện theo dõi đoạn hội thoại dài và mục đích của các lượt nói trong The King's Speech.",
+    "practicePrompt": "Chọn 30 giây hội thoại rõ tiếng, luyện ngắt cụm và từ nhấn; sau đó nói lại ý của đoạn bằng lời riêng.",
+    "min": 300,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|fight"
+  },
+  {
+    "id": "movie-long-dialog-4",
+    "category": "movie",
+    "query": "The Intern Universal Warner official scenes",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: The Intern",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện theo dõi đoạn hội thoại dài và mục đích của các lượt nói trong The Intern.",
+    "practicePrompt": "Chọn 30 giây hội thoại rõ tiếng, luyện ngắt cụm và từ nhấn; sau đó nói lại ý của đoạn bằng lời riêng.",
+    "min": 300,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|fight"
+  },
+  {
+    "id": "movie-long-dialog-5",
+    "category": "movie",
+    "query": "The Devil Wears Prada Universal Warner official scenes",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: The Devil Wears Prada",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện theo dõi đoạn hội thoại dài và mục đích của các lượt nói trong The Devil Wears Prada.",
+    "practicePrompt": "Chọn 30 giây hội thoại rõ tiếng, luyện ngắt cụm và từ nhấn; sau đó nói lại ý của đoạn bằng lời riêng.",
+    "min": 300,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|fight"
+  },
+  {
+    "id": "movie-long-dialog-6",
+    "category": "movie",
+    "query": "Harry Potter Universal Warner official scenes",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: Harry Potter",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện theo dõi đoạn hội thoại dài và mục đích của các lượt nói trong Harry Potter.",
+    "practicePrompt": "Chọn 30 giây hội thoại rõ tiếng, luyện ngắt cụm và từ nhấn; sau đó nói lại ý của đoạn bằng lời riêng.",
+    "min": 300,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|fight"
+  },
+  {
+    "id": "movie-long-dialog-7",
+    "category": "movie",
+    "query": "Paddington Universal Warner official scenes",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: Paddington",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện theo dõi đoạn hội thoại dài và mục đích của các lượt nói trong Paddington.",
+    "practicePrompt": "Chọn 30 giây hội thoại rõ tiếng, luyện ngắt cụm và từ nhấn; sau đó nói lại ý của đoạn bằng lời riêng.",
+    "min": 300,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|fight"
+  },
+  {
+    "id": "movie-long-dialog-8",
+    "category": "movie",
+    "query": "The Parent Trap Universal Warner official scenes",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: The Parent Trap",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện theo dõi đoạn hội thoại dài và mục đích của các lượt nói trong The Parent Trap.",
+    "practicePrompt": "Chọn 30 giây hội thoại rõ tiếng, luyện ngắt cụm và từ nhấn; sau đó nói lại ý của đoạn bằng lời riêng.",
+    "min": 300,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|fight"
+  },
+  {
+    "id": "movie-long-dialog-9",
+    "category": "movie",
+    "query": "The Truman Show Universal Warner official scenes",
+    "sources": [
+      "Movieclips",
+      "Miramax",
+      "Warner Bros. Entertainment",
+      "Warner Bros. Pictures",
+      "Warner Bros. UK & Ireland",
+      "Warner Bros. Pictures UK",
+      "Universal Pictures",
+      "Universal Pictures UK",
+      "Pixar",
+      "Disney UK",
+      "Disney",
+      "Walt Disney Studios",
+      "Disney Plus",
+      "Disney+",
+      "Sony Pictures Entertainment",
+      "Sony Pictures Releasing UK",
+      "20th Century Studios",
+      "Paramount Pictures",
+      "Rotten Tomatoes Family"
+    ],
+    "collection": "Phim nổi tiếng: The Truman Show",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện theo dõi đoạn hội thoại dài và mục đích của các lượt nói trong The Truman Show.",
+    "practicePrompt": "Chọn 30 giây hội thoại rõ tiếng, luyện ngắt cụm và từ nhấn; sau đó nói lại ý của đoạn bằng lời riêng.",
+    "min": 300,
+    "reject": "trailer|song|singing|battle|chase|dance|sex|kill|murder|shoot|gun|explosion|soundtrack|teaser|fight"
+  },
+  {
+    "id": "toeic-picture-extra-11",
+    "category": "toeic",
+    "query": "Anh Quang TOEIC Speaking DESCRIBE A PICTURE Practice 11",
+    "sources": [
+      "Anh Quang"
+    ],
+    "collection": "TOEIC Speaking: mô tả tranh",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Mô tả cảnh bằng những chi tiết thấy được và dùng cấu trúc vị trí rõ ràng.",
+    "practicePrompt": "Nói 30 giây về cảnh trước khi nghe bài nguồn, rồi kiểm tra ba chi tiết quan sát được và âm cuối.",
+    "min": 40,
+    "require": "DESCRIBE A PICTURE"
+  },
+  {
+    "id": "toeic-picture-extra-13",
+    "category": "toeic",
+    "query": "Anh Quang TOEIC Speaking DESCRIBE A PICTURE Practice 13",
+    "sources": [
+      "Anh Quang"
+    ],
+    "collection": "TOEIC Speaking: mô tả tranh",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Mô tả cảnh bằng những chi tiết thấy được và dùng cấu trúc vị trí rõ ràng.",
+    "practicePrompt": "Nói 30 giây về cảnh trước khi nghe bài nguồn, rồi kiểm tra ba chi tiết quan sát được và âm cuối.",
+    "min": 40,
+    "require": "DESCRIBE A PICTURE"
+  },
+  {
+    "id": "toeic-picture-extra-15",
+    "category": "toeic",
+    "query": "Anh Quang TOEIC Speaking DESCRIBE A PICTURE Practice 15",
+    "sources": [
+      "Anh Quang"
+    ],
+    "collection": "TOEIC Speaking: mô tả tranh",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Mô tả cảnh bằng những chi tiết thấy được và dùng cấu trúc vị trí rõ ràng.",
+    "practicePrompt": "Nói 30 giây về cảnh trước khi nghe bài nguồn, rồi kiểm tra ba chi tiết quan sát được và âm cuối.",
+    "min": 40,
+    "require": "DESCRIBE A PICTURE"
+  },
+  {
+    "id": "toeic-picture-extra-17",
+    "category": "toeic",
+    "query": "Anh Quang TOEIC Speaking DESCRIBE A PICTURE Practice 17",
+    "sources": [
+      "Anh Quang"
+    ],
+    "collection": "TOEIC Speaking: mô tả tranh",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Mô tả cảnh bằng những chi tiết thấy được và dùng cấu trúc vị trí rõ ràng.",
+    "practicePrompt": "Nói 30 giây về cảnh trước khi nghe bài nguồn, rồi kiểm tra ba chi tiết quan sát được và âm cuối.",
+    "min": 40,
+    "require": "DESCRIBE A PICTURE"
+  },
+  {
+    "id": "toeic-picture-extra-19",
+    "category": "toeic",
+    "query": "Anh Quang TOEIC Speaking DESCRIBE A PICTURE Practice 19",
+    "sources": [
+      "Anh Quang"
+    ],
+    "collection": "TOEIC Speaking: mô tả tranh",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Mô tả cảnh bằng những chi tiết thấy được và dùng cấu trúc vị trí rõ ràng.",
+    "practicePrompt": "Nói 30 giây về cảnh trước khi nghe bài nguồn, rồi kiểm tra ba chi tiết quan sát được và âm cuối.",
+    "min": 40,
+    "require": "DESCRIBE A PICTURE"
+  },
+  {
+    "id": "toeic-picture-extra-21",
+    "category": "toeic",
+    "query": "Anh Quang TOEIC Speaking DESCRIBE A PICTURE Practice 21",
+    "sources": [
+      "Anh Quang"
+    ],
+    "collection": "TOEIC Speaking: mô tả tranh",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Mô tả cảnh bằng những chi tiết thấy được và dùng cấu trúc vị trí rõ ràng.",
+    "practicePrompt": "Nói 30 giây về cảnh trước khi nghe bài nguồn, rồi kiểm tra ba chi tiết quan sát được và âm cuối.",
+    "min": 40,
+    "require": "DESCRIBE A PICTURE"
+  },
+  {
+    "id": "toeic-picture-extra-23",
+    "category": "toeic",
+    "query": "Anh Quang TOEIC Speaking DESCRIBE A PICTURE Practice 23",
+    "sources": [
+      "Anh Quang"
+    ],
+    "collection": "TOEIC Speaking: mô tả tranh",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Mô tả cảnh bằng những chi tiết thấy được và dùng cấu trúc vị trí rõ ràng.",
+    "practicePrompt": "Nói 30 giây về cảnh trước khi nghe bài nguồn, rồi kiểm tra ba chi tiết quan sát được và âm cuối.",
+    "min": 40,
+    "require": "DESCRIBE A PICTURE"
+  },
+  {
+    "id": "toeic-picture-extra-25",
+    "category": "toeic",
+    "query": "Anh Quang TOEIC Speaking DESCRIBE A PICTURE Practice 25",
+    "sources": [
+      "Anh Quang"
+    ],
+    "collection": "TOEIC Speaking: mô tả tranh",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Mô tả cảnh bằng những chi tiết thấy được và dùng cấu trúc vị trí rõ ràng.",
+    "practicePrompt": "Nói 30 giây về cảnh trước khi nghe bài nguồn, rồi kiểm tra ba chi tiết quan sát được và âm cuối.",
+    "min": 40,
+    "require": "DESCRIBE A PICTURE"
+  },
+  {
+    "id": "toeic-picture-extra-27",
+    "category": "toeic",
+    "query": "Anh Quang TOEIC Speaking DESCRIBE A PICTURE Practice 27",
+    "sources": [
+      "Anh Quang"
+    ],
+    "collection": "TOEIC Speaking: mô tả tranh",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Mô tả cảnh bằng những chi tiết thấy được và dùng cấu trúc vị trí rõ ràng.",
+    "practicePrompt": "Nói 30 giây về cảnh trước khi nghe bài nguồn, rồi kiểm tra ba chi tiết quan sát được và âm cuối.",
+    "min": 40,
+    "require": "DESCRIBE A PICTURE"
+  },
+  {
+    "id": "toeic-picture-extra-29",
+    "category": "toeic",
+    "query": "Anh Quang TOEIC Speaking DESCRIBE A PICTURE Practice 29",
+    "sources": [
+      "Anh Quang"
+    ],
+    "collection": "TOEIC Speaking: mô tả tranh",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Mô tả cảnh bằng những chi tiết thấy được và dùng cấu trúc vị trí rõ ràng.",
+    "practicePrompt": "Nói 30 giây về cảnh trước khi nghe bài nguồn, rồi kiểm tra ba chi tiết quan sát được và âm cuối.",
+    "min": 40,
+    "require": "DESCRIBE A PICTURE"
+  },
+  {
+    "id": "toeic-long-extra-0",
+    "category": "toeic",
+    "query": "TOEIC Speaking Part 5 Expressing Opinion Q11",
+    "sources": [
+      "E2 TOEIC",
+      "TOEIC Speaking & Writing Academy: EngPro 101",
+      "TOEICjapan",
+      "YBM TOEIC",
+      "YBM 어학원",
+      "English Speaking Success",
+      "TOEIC Speaking",
+      "TOEIC SPEAKING & WRITING",
+      "ETSTOEIC"
+    ],
+    "collection": "TOEIC Speaking: hướng dẫn & nhiều lượt luyện",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Phát triển câu trả lời có tổ chức, đúng trọng tâm và phát âm rõ.",
+    "practicePrompt": "Chọn một nhiệm vụ, tự trả lời trước bài mẫu; đối chiếu cấu trúc câu trả lời rồi ghi một điểm cần luyện lại.",
+    "min": 300,
+    "require": "Speaking|SPEAKING",
+    "reject": "Listening|Reading|Writing"
+  },
+  {
+    "id": "toeic-long-extra-1",
+    "category": "toeic",
+    "query": "TOEIC Speaking question 11 opinion practice",
+    "sources": [
+      "E2 TOEIC",
+      "TOEIC Speaking & Writing Academy: EngPro 101",
+      "TOEICjapan",
+      "YBM TOEIC",
+      "YBM 어학원",
+      "English Speaking Success",
+      "TOEIC Speaking",
+      "TOEIC SPEAKING & WRITING",
+      "ETSTOEIC"
+    ],
+    "collection": "TOEIC Speaking: hướng dẫn & nhiều lượt luyện",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Phát triển câu trả lời có tổ chức, đúng trọng tâm và phát âm rõ.",
+    "practicePrompt": "Chọn một nhiệm vụ, tự trả lời trước bài mẫu; đối chiếu cấu trúc câu trả lời rồi ghi một điểm cần luyện lại.",
+    "min": 300,
+    "require": "Speaking|SPEAKING",
+    "reject": "Listening|Reading|Writing"
+  },
+  {
+    "id": "toeic-long-extra-2",
+    "category": "toeic",
+    "query": "TOEIC Speaking Part 4 Respond Information Schedule",
+    "sources": [
+      "E2 TOEIC",
+      "TOEIC Speaking & Writing Academy: EngPro 101",
+      "TOEICjapan",
+      "YBM TOEIC",
+      "YBM 어학원",
+      "English Speaking Success",
+      "TOEIC Speaking",
+      "TOEIC SPEAKING & WRITING",
+      "ETSTOEIC"
+    ],
+    "collection": "TOEIC Speaking: hướng dẫn & nhiều lượt luyện",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Phát triển câu trả lời có tổ chức, đúng trọng tâm và phát âm rõ.",
+    "practicePrompt": "Chọn một nhiệm vụ, tự trả lời trước bài mẫu; đối chiếu cấu trúc câu trả lời rồi ghi một điểm cần luyện lại.",
+    "min": 300,
+    "require": "Speaking|SPEAKING",
+    "reject": "Listening|Reading|Writing"
+  },
+  {
+    "id": "toeic-long-extra-3",
+    "category": "toeic",
+    "query": "TOEIC Speaking Respond questions practice",
+    "sources": [
+      "E2 TOEIC",
+      "TOEIC Speaking & Writing Academy: EngPro 101",
+      "TOEICjapan",
+      "YBM TOEIC",
+      "YBM 어학원",
+      "English Speaking Success",
+      "TOEIC Speaking",
+      "TOEIC SPEAKING & WRITING",
+      "ETSTOEIC"
+    ],
+    "collection": "TOEIC Speaking: hướng dẫn & nhiều lượt luyện",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Phát triển câu trả lời có tổ chức, đúng trọng tâm và phát âm rõ.",
+    "practicePrompt": "Chọn một nhiệm vụ, tự trả lời trước bài mẫu; đối chiếu cấu trúc câu trả lời rồi ghi một điểm cần luyện lại.",
+    "min": 300,
+    "require": "Speaking|SPEAKING",
+    "reject": "Listening|Reading|Writing"
+  },
+  {
+    "id": "toeic-long-extra-4",
+    "category": "toeic",
+    "query": "TOEIC Speaking TOEIC Speaking Test Read Aloud",
+    "sources": [
+      "E2 TOEIC",
+      "TOEIC Speaking & Writing Academy: EngPro 101",
+      "TOEICjapan",
+      "YBM TOEIC",
+      "YBM 어학원",
+      "English Speaking Success",
+      "TOEIC Speaking",
+      "TOEIC SPEAKING & WRITING",
+      "ETSTOEIC"
+    ],
+    "collection": "TOEIC Speaking: hướng dẫn & nhiều lượt luyện",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Phát triển câu trả lời có tổ chức, đúng trọng tâm và phát âm rõ.",
+    "practicePrompt": "Chọn một nhiệm vụ, tự trả lời trước bài mẫu; đối chiếu cấu trúc câu trả lời rồi ghi một điểm cần luyện lại.",
+    "min": 300,
+    "require": "Speaking|SPEAKING",
+    "reject": "Listening|Reading|Writing"
+  },
+  {
+    "id": "toeic-nancy-number-1",
+    "category": "toeic",
+    "query": "Nancy TOEIC Speaking Practice Part 1 001",
+    "sources": [
+      "Nancy's TOEIC"
+    ],
+    "collection": "TOEIC Speaking: luyện trả lời",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Nói đúng trọng tâm, ngắt cụm rõ và kiểm tra chi tiết trong câu trả lời.",
+    "practicePrompt": "Luyện một câu hỏi trong video, thu âm câu trả lời của em rồi tự đối chiếu cách tổ chức ý.",
+    "require": "Speaking",
+    "reject": "Listening|Reading|Writing",
+    "min": 30
+  },
+  {
+    "id": "toeic-nancy-number-2",
+    "category": "toeic",
+    "query": "Nancy TOEIC Speaking Practice Part 1 002",
+    "sources": [
+      "Nancy's TOEIC"
+    ],
+    "collection": "TOEIC Speaking: luyện trả lời",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Nói đúng trọng tâm, ngắt cụm rõ và kiểm tra chi tiết trong câu trả lời.",
+    "practicePrompt": "Luyện một câu hỏi trong video, thu âm câu trả lời của em rồi tự đối chiếu cách tổ chức ý.",
+    "require": "Speaking",
+    "reject": "Listening|Reading|Writing",
+    "min": 30
+  },
+  {
+    "id": "toeic-nancy-number-3",
+    "category": "toeic",
+    "query": "Nancy TOEIC Speaking Practice Part 1 003",
+    "sources": [
+      "Nancy's TOEIC"
+    ],
+    "collection": "TOEIC Speaking: luyện trả lời",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Nói đúng trọng tâm, ngắt cụm rõ và kiểm tra chi tiết trong câu trả lời.",
+    "practicePrompt": "Luyện một câu hỏi trong video, thu âm câu trả lời của em rồi tự đối chiếu cách tổ chức ý.",
+    "require": "Speaking",
+    "reject": "Listening|Reading|Writing",
+    "min": 30
+  },
+  {
+    "id": "toeic-nancy-number-4",
+    "category": "toeic",
+    "query": "Nancy TOEIC Speaking Practice Part 1 004",
+    "sources": [
+      "Nancy's TOEIC"
+    ],
+    "collection": "TOEIC Speaking: luyện trả lời",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Nói đúng trọng tâm, ngắt cụm rõ và kiểm tra chi tiết trong câu trả lời.",
+    "practicePrompt": "Luyện một câu hỏi trong video, thu âm câu trả lời của em rồi tự đối chiếu cách tổ chức ý.",
+    "require": "Speaking",
+    "reject": "Listening|Reading|Writing",
+    "min": 30
+  },
+  {
+    "id": "toeic-nancy-number-5",
+    "category": "toeic",
+    "query": "Nancy TOEIC Speaking Practice Part 1 005",
+    "sources": [
+      "Nancy's TOEIC"
+    ],
+    "collection": "TOEIC Speaking: luyện trả lời",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Nói đúng trọng tâm, ngắt cụm rõ và kiểm tra chi tiết trong câu trả lời.",
+    "practicePrompt": "Luyện một câu hỏi trong video, thu âm câu trả lời của em rồi tự đối chiếu cách tổ chức ý.",
+    "require": "Speaking",
+    "reject": "Listening|Reading|Writing",
+    "min": 30
+  },
+  {
+    "id": "toeic-nancy-number-6",
+    "category": "toeic",
+    "query": "Nancy TOEIC Speaking Practice Part 1 006",
+    "sources": [
+      "Nancy's TOEIC"
+    ],
+    "collection": "TOEIC Speaking: luyện trả lời",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Nói đúng trọng tâm, ngắt cụm rõ và kiểm tra chi tiết trong câu trả lời.",
+    "practicePrompt": "Luyện một câu hỏi trong video, thu âm câu trả lời của em rồi tự đối chiếu cách tổ chức ý.",
+    "require": "Speaking",
+    "reject": "Listening|Reading|Writing",
+    "min": 30
+  },
+  {
+    "id": "toeic-nancy-number-7",
+    "category": "toeic",
+    "query": "Nancy TOEIC Speaking Practice Part 1 007",
+    "sources": [
+      "Nancy's TOEIC"
+    ],
+    "collection": "TOEIC Speaking: luyện trả lời",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Nói đúng trọng tâm, ngắt cụm rõ và kiểm tra chi tiết trong câu trả lời.",
+    "practicePrompt": "Luyện một câu hỏi trong video, thu âm câu trả lời của em rồi tự đối chiếu cách tổ chức ý.",
+    "require": "Speaking",
+    "reject": "Listening|Reading|Writing",
+    "min": 30
+  },
+  {
+    "id": "toeic-nancy-number-8",
+    "category": "toeic",
+    "query": "Nancy TOEIC Speaking Practice Part 1 008",
+    "sources": [
+      "Nancy's TOEIC"
+    ],
+    "collection": "TOEIC Speaking: luyện trả lời",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Nói đúng trọng tâm, ngắt cụm rõ và kiểm tra chi tiết trong câu trả lời.",
+    "practicePrompt": "Luyện một câu hỏi trong video, thu âm câu trả lời của em rồi tự đối chiếu cách tổ chức ý.",
+    "require": "Speaking",
+    "reject": "Listening|Reading|Writing",
+    "min": 30
+  },
+  {
+    "id": "toeic-nancy-number-9",
+    "category": "toeic",
+    "query": "Nancy TOEIC Speaking Practice Part 1 009",
+    "sources": [
+      "Nancy's TOEIC"
+    ],
+    "collection": "TOEIC Speaking: luyện trả lời",
+    "accent": "mixed",
+    "level": "B1",
+    "goal": "Nói đúng trọng tâm, ngắt cụm rõ và kiểm tra chi tiết trong câu trả lời.",
+    "practicePrompt": "Luyện một câu hỏi trong video, thu âm câu trả lời của em rồi tự đối chiếu cách tổ chức ý.",
+    "require": "Speaking",
+    "reject": "Listening|Reading|Writing",
+    "min": 30
+  },
+  {
+    "id": "toeic-more-number-13",
+    "category": "toeic",
+    "query": "TOEIC Speaking EngPro 101 #13",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 30,
+    "reject": "Listening|Reading|Writing|BAD Answer",
+    "require": "TOEIC.*Speaking|Speaking.*TOEIC"
+  },
+  {
+    "id": "toeic-more-number-14",
+    "category": "toeic",
+    "query": "TOEIC Speaking EngPro 101 #14",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 30,
+    "reject": "Listening|Reading|Writing|BAD Answer",
+    "require": "TOEIC.*Speaking|Speaking.*TOEIC"
+  },
+  {
+    "id": "toeic-more-number-16",
+    "category": "toeic",
+    "query": "TOEIC Speaking EngPro 101 #16",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 30,
+    "reject": "Listening|Reading|Writing|BAD Answer",
+    "require": "TOEIC.*Speaking|Speaking.*TOEIC"
+  },
+  {
+    "id": "toeic-more-number-17",
+    "category": "toeic",
+    "query": "TOEIC Speaking EngPro 101 #17",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 30,
+    "reject": "Listening|Reading|Writing|BAD Answer",
+    "require": "TOEIC.*Speaking|Speaking.*TOEIC"
+  },
+  {
+    "id": "toeic-more-number-18",
+    "category": "toeic",
+    "query": "TOEIC Speaking EngPro 101 #18",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 30,
+    "reject": "Listening|Reading|Writing|BAD Answer",
+    "require": "TOEIC.*Speaking|Speaking.*TOEIC"
+  },
+  {
+    "id": "toeic-more-number-19",
+    "category": "toeic",
+    "query": "TOEIC Speaking EngPro 101 #19",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 30,
+    "reject": "Listening|Reading|Writing|BAD Answer",
+    "require": "TOEIC.*Speaking|Speaking.*TOEIC"
+  },
+  {
+    "id": "toeic-more-number-21",
+    "category": "toeic",
+    "query": "TOEIC Speaking EngPro 101 #21",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 30,
+    "reject": "Listening|Reading|Writing|BAD Answer",
+    "require": "TOEIC.*Speaking|Speaking.*TOEIC"
+  },
+  {
+    "id": "toeic-more-number-22",
+    "category": "toeic",
+    "query": "TOEIC Speaking EngPro 101 #22",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 30,
+    "reject": "Listening|Reading|Writing|BAD Answer",
+    "require": "TOEIC.*Speaking|Speaking.*TOEIC"
+  },
+  {
+    "id": "toeic-more-number-23",
+    "category": "toeic",
+    "query": "TOEIC Speaking EngPro 101 #23",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 30,
+    "reject": "Listening|Reading|Writing|BAD Answer",
+    "require": "TOEIC.*Speaking|Speaking.*TOEIC"
+  },
+  {
+    "id": "toeic-more-number-24",
+    "category": "toeic",
+    "query": "TOEIC Speaking EngPro 101 #24",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 30,
+    "reject": "Listening|Reading|Writing|BAD Answer",
+    "require": "TOEIC.*Speaking|Speaking.*TOEIC"
+  },
+  {
+    "id": "toeic-more-number-26",
+    "category": "toeic",
+    "query": "TOEIC Speaking EngPro 101 #26",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 30,
+    "reject": "Listening|Reading|Writing|BAD Answer",
+    "require": "TOEIC.*Speaking|Speaking.*TOEIC"
+  },
+  {
+    "id": "toeic-more-number-27",
+    "category": "toeic",
+    "query": "TOEIC Speaking EngPro 101 #27",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 30,
+    "reject": "Listening|Reading|Writing|BAD Answer",
+    "require": "TOEIC.*Speaking|Speaking.*TOEIC"
+  },
+  {
+    "id": "toeic-more-number-28",
+    "category": "toeic",
+    "query": "TOEIC Speaking EngPro 101 #28",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 30,
+    "reject": "Listening|Reading|Writing|BAD Answer",
+    "require": "TOEIC.*Speaking|Speaking.*TOEIC"
+  },
+  {
+    "id": "toeic-more-number-29",
+    "category": "toeic",
+    "query": "TOEIC Speaking EngPro 101 #29",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 30,
+    "reject": "Listening|Reading|Writing|BAD Answer",
+    "require": "TOEIC.*Speaking|Speaking.*TOEIC"
+  },
+  {
+    "id": "toeic-more-number-31",
+    "category": "toeic",
+    "query": "TOEIC Speaking EngPro 101 #31",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 30,
+    "reject": "Listening|Reading|Writing|BAD Answer",
+    "require": "TOEIC.*Speaking|Speaking.*TOEIC"
+  },
+  {
+    "id": "toeic-more-number-32",
+    "category": "toeic",
+    "query": "TOEIC Speaking EngPro 101 #32",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 30,
+    "reject": "Listening|Reading|Writing|BAD Answer",
+    "require": "TOEIC.*Speaking|Speaking.*TOEIC"
+  },
+  {
+    "id": "toeic-more-number-33",
+    "category": "toeic",
+    "query": "TOEIC Speaking EngPro 101 #33",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 30,
+    "reject": "Listening|Reading|Writing|BAD Answer",
+    "require": "TOEIC.*Speaking|Speaking.*TOEIC"
+  },
+  {
+    "id": "toeic-more-number-34",
+    "category": "toeic",
+    "query": "TOEIC Speaking EngPro 101 #34",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 30,
+    "reject": "Listening|Reading|Writing|BAD Answer",
+    "require": "TOEIC.*Speaking|Speaking.*TOEIC"
+  },
+  {
+    "id": "toeic-more-number-35",
+    "category": "toeic",
+    "query": "TOEIC Speaking EngPro 101 #35",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 30,
+    "reject": "Listening|Reading|Writing|BAD Answer",
+    "require": "TOEIC.*Speaking|Speaking.*TOEIC"
+  },
+  {
+    "id": "toeic-more-number-36",
+    "category": "toeic",
+    "query": "TOEIC Speaking EngPro 101 #36",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 30,
+    "reject": "Listening|Reading|Writing|BAD Answer",
+    "require": "TOEIC.*Speaking|Speaking.*TOEIC"
+  },
+  {
+    "id": "toeic-more-number-37",
+    "category": "toeic",
+    "query": "TOEIC Speaking EngPro 101 #37",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 30,
+    "reject": "Listening|Reading|Writing|BAD Answer",
+    "require": "TOEIC.*Speaking|Speaking.*TOEIC"
+  },
+  {
+    "id": "toeic-more-number-38",
+    "category": "toeic",
+    "query": "TOEIC Speaking EngPro 101 #38",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 30,
+    "reject": "Listening|Reading|Writing|BAD Answer",
+    "require": "TOEIC.*Speaking|Speaking.*TOEIC"
+  },
+  {
+    "id": "toeic-more-number-39",
+    "category": "toeic",
+    "query": "TOEIC Speaking EngPro 101 #39",
+    "sources": [
+      "TOEIC Speaking & Writing Academy: EngPro 101"
+    ],
+    "collection": "TOEIC Speaking: nêu ý kiến có hướng dẫn",
+    "accent": "mixed",
+    "level": "B2",
+    "goal": "Luyện quan điểm nhất quán, lý do và ví dụ cho câu hỏi nêu ý kiến.",
+    "practicePrompt": "Nói một bài 60 giây trước khi nghe phần phân tích; ghi lại một cách phát triển lý do rồi thử nói lại.",
+    "min": 30,
+    "reject": "Listening|Reading|Writing|BAD Answer",
+    "require": "TOEIC.*Speaking|Speaking.*TOEIC"
+  }
+]

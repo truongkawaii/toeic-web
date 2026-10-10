@@ -25,6 +25,16 @@ npm run build:yts  # xuất bộ YTS 2026 từ nguồn biên soạn trong script
 
 ## Màn hình
 
+### Speaking: video YouTube dưới 15 phút
+
+`/speaking` dùng 298 video nguồn thật thuộc 6 nhóm: Pronunciation (20), TOEIC (56), Conversation (56), Movie (54), Vlog (54), Business English (58). Giữ 40 video ban đầu, bổ sung 50 video cho mỗi nhóm ngoài phát âm; phát âm thêm 8 bài về các âm còn thiếu. Metadata thời lượng 42–893 giây, tên kênh và khả năng nhúng đã được kiểm tra từ trang xem hoặc trang nhúng YouTube. Xem [danh sách nguồn và mục tiêu luyện](../docs/speaking/README.md).
+
+Mở video để chọn Shadowing, Nghe chép hoặc Chỉ xem. Có phát đoạn với mốc đầu/cuối chỉnh được, tốc độ, nghe lặp, thu âm tại thiết bị và tải bản thu. Danh sách bên phải là các đoạn thời gian, chưa phải transcript theo câu. Dùng CC của YouTube nếu nguồn có phụ đề để tự đối chiếu. Bản thu chỉ ở trong phiên luyện; bài nghe chép, ghi chú, bookmark và dấu tự luyện lưu bằng key `toeic-speaking-v1`.
+
+Nguồn biên tập: `docs/speaking/catalog-source.json`. Chạy `python3 scripts/verify-speaking.py` từ thư mục `web` để tái kiểm tra tất cả video và tạo lại catalog/báo cáo. Script chỉ xuất dữ liệu khi tất cả video vượt kiểm tra; không tải video/audio. Kiểm tra giao diện qua build và logic qua `src/lib/__tests__/speaking.test.ts`.
+
+Bộ lọc Speaking theo ảnh `docs/speaking/filter.png`: chủ đề, trình độ (Mọi trình độ/A2/B1/B2), ô thời lượng và tìm kiếm. Thời lượng dùng `duration=5|10|15`, mặc định dưới 15 phút và áp dụng cho nhóm đang chọn; dưới 10 phút bao gồm các video dưới 5 phút. Các tham số cũ `accent`, `list`, `status` không còn giới hạn kết quả ở giao diện thư viện. Movie ưu tiên hội thoại từ phim nổi tiếng; bỏ các cảnh ca hát, mẫu nói không thành thạo và nhiều cảnh hành động. Phân loại trình độ là gợi ý biên tập, không phải chứng nhận CEFR của nguồn.
+
 ### TOEIC Writing
 
 `/writing` đã có 3 phần: 200 bài viết theo cảnh (15 nhóm từ), 50 email với bài mẫu cho từng đề, 100 đề essay (5 dạng, 12 chủ đề) với dàn ý cho từng đề và 5 bài mẫu đầy đủ. Part 1 tạm dùng mô tả cảnh, chưa cần ảnh mới. Các mã bài cũ được giữ để tiếp tục bản nháp.
@@ -75,7 +85,7 @@ Nguồn nội dung mới: [`docs/writing/materials`](../docs/writing/materials/R
 
 - Mascot: `public/demo/mascot.jpg` (nền trắng, hiển thị với `mix-blend-multiply`).
 - Writing Part 1 hiện dùng mô tả cảnh trong `src/lib/writing-content.json`; không sử dụng các ảnh demo cũ.
-- Thumbnail Speaking đang vẽ bằng CSS; có thể thêm trường ảnh trong `MEDIA_LESSONS`.
+- Speaking dùng catalog YouTube đã kiểm tra tại `src/lib/speaking-content.json`; ảnh thẻ và ảnh trước khi phát dùng thumbnail của từng video từ YouTube, video phát trực tiếp từ YouTube.
 
 ## Cấu trúc
 
